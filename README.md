@@ -38,7 +38,7 @@ I remember when I first found the True Native Mode code, I was like ooh what's t
 
 MIT License<br>
 
-Copyright (c) 2023 darnrain<br>
+Copyright (c) 2023 darnrain1<br>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
