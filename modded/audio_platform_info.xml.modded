@@ -76,12 +76,12 @@
 	<!-- Lemon Drop Hi-Res start of mods -->
 
 	<!-- added -->
-        <device name="SND_DEVICE_LGE_OUT_BLUETOOTH_16BIT" backend="bluetooth-16bit" interface="SLIMBUS_7_RX" />
-        <device name="SND_DEVICE_LGE_OUT_BLUETOOTH_24BIT" backend="bluetooth-24bit" interface="SLIMBUS_8_RX" />
-        <device name="SND_DEVICE_LGE_OUT_HEADPHONE_16BIT" backend="headphone-16bit" interface="SLIMBUS_9_RX" />
+        <device name="SND_DEVICE_LGE_OUT_BLUETOOTH_16BIT" backend="headphone" interface="SLIMBUS_7_RX" />
+        <device name="SND_DEVICE_LGE_OUT_BLUETOOTH_24BIT" backend="headphone" interface="SLIMBUS_8_RX" />
+        <device name="SND_DEVICE_LGE_OUT_HEADPHONE_16BIT" backend="headphone" interface="SLIMBUS_9_RX" />
         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_16BIT_ADVANCED" backend="headphone-16bit" interface="SLIMBUS_9_RX" />
         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_16BIT_AUX" backend="headphone-16bit" interface="SLIMBUS_9_RX" />
-        <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT" backend="headphone-24bit" interface="SLIMBUS_10_RX" />
+        <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT" backend="headphone" interface="SLIMBUS_10_RX" />
         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_ADVANCED" backend="headphone-24bit" interface="SLIMBUS_10_RX" />
         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_AUX" backend="headphone-24bit" interface="SLIMBUS_10_RX" />
 

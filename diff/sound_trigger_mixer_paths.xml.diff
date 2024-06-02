@@ -1,0 +1,12 @@
+54c54
+<     <ctl name="CPE AFE MAD Enable" value="0" />
+---
+>     <ctl name="CPE AFE MAD Enable" value="0"/>
+107c107
+<         <ctl name="CPE AFE MAD Enable" value="1" />
+---
+>         <ctl name="CPE AFE MAD Enable" value="1"/>
+122c122
+<         <ctl name="CPE AFE MAD Enable" value="1" />
+---
+>         <ctl name="CPE AFE MAD Enable" value="1"/>

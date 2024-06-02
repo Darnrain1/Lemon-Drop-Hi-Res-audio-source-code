@@ -1,0 +1,369 @@
+24c24
+<     <globalConfiguration speaker_drc_enabled="true" />
+---
+>     <globalConfiguration speaker_drc_enabled="true"/>
+64c64
+<                              samplingRates="44100" channelMasks="AUDIO_CHANNEL_OUT_STEREO" />
+---
+>                              samplingRates="48000" channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
+65a66
+> 
+68,69c69,70
+<                     <profile name="" format="AUDIO_FORMAT_PCM_24_BIT_PACKED"
+<                              samplingRates="44100" channelMasks="AUDIO_CHANNEL_OUT_STEREO" />
+---
+>                     <profile name="" format="AUDIO_FORMAT_PCM_16_BIT"
+>                              samplingRates="48000" channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
+74,75c75,79
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,88200,176400"
+<                              channelMasks="AUDIO_CHANNEL_OUT_STEREO,AUDIO_CHANNEL_OUT_2POINT1,AUDIO_CHANNEL_OUT_QUAD,AUDIO_CHANNEL_OUT_PENTA,AUDIO_CHANNEL_OUT_5POINT1,AUDIO_CHANNEL_OUT_6POINT1,AUDIO_CHANNEL_OUT_7POINT1" />
+---
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200,96000,128000,176400,192000"
+>                              channelMasks="AUDIO_CHANNEL_OUT_STEREO,AUDIO_CHANNEL_OUT_2POINT1,AUDIO_CHANNEL_OUT_QUAD,AUDIO_CHANNEL_OUT_PENTA,AUDIO_CHANNEL_OUT_5POINT1,AUDIO_CHANNEL_OUT_6POINT1,AUDIO_CHANNEL_OUT_7POINT1"/>
+>                     <profile name="" format="AUDIO_FORMAT_PCM_8_24_BIT"
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200,96000,128000,176400,192000"
+>                              channelMasks="AUDIO_CHANNEL_OUT_MONO,AUDIO_CHANNEL_OUT_STEREO,AUDIO_CHANNEL_OUT_2POINT1,AUDIO_CHANNEL_OUT_QUAD,AUDIO_CHANNEL_OUT_PENTA,AUDIO_CHANNEL_OUT_5POINT1,AUDIO_CHANNEL_OUT_6POINT1,AUDIO_CHANNEL_OUT_7POINT1"/>
+77,78c81,82
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,88200,176400"
+<                              channelMasks="AUDIO_CHANNEL_OUT_STEREO,AUDIO_CHANNEL_OUT_2POINT1,AUDIO_CHANNEL_OUT_QUAD,AUDIO_CHANNEL_OUT_PENTA,AUDIO_CHANNEL_OUT_5POINT1,AUDIO_CHANNEL_OUT_6POINT1,AUDIO_CHANNEL_OUT_7POINT1" />
+---
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200,96000,128000,176400,192000"
+>                              channelMasks="AUDIO_CHANNEL_OUT_MONO,AUDIO_CHANNEL_OUT_STEREO,AUDIO_CHANNEL_OUT_2POINT1,AUDIO_CHANNEL_OUT_QUAD,AUDIO_CHANNEL_OUT_PENTA,AUDIO_CHANNEL_OUT_5POINT1,AUDIO_CHANNEL_OUT_6POINT1,AUDIO_CHANNEL_OUT_7POINT1"/>
+82,90d85
+<                     <profile name="" format="AUDIO_FORMAT_PCM_16_BIT"
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,88200,176400"
+<                              channelMasks="AUDIO_CHANNEL_OUT_STEREO" />
+<                     <profile name="" format="AUDIO_FORMAT_PCM_24_BIT_PACKED"
+<                              samplingRates="44100,88200,176400"
+<                              channelMasks="AUDIO_CHANNEL_OUT_STEREO" />
+<                     <profile name="" format="AUDIO_FORMAT_PCM_32_BIT"
+<                              samplingRates="176400,352800"
+<                              channelMasks="AUDIO_CHANNEL_OUT_STEREO" />
+92,93c87,88
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100"
+<                              channelMasks="AUDIO_CHANNEL_OUT_STEREO" />
+---
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000"
+>                              channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
+95,96c90,91
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200,96000,128000,176400"
+<                              channelMasks="AUDIO_CHANNEL_OUT_STEREO" />
+---
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200,96000,128000,176400,192000"
+>                              channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
+98,99c93,94
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200,96000,128000,176400"
+<                              channelMasks="AUDIO_CHANNEL_OUT_STEREO,AUDIO_CHANNEL_OUT_2POINT1,AUDIO_CHANNEL_OUT_QUAD,AUDIO_CHANNEL_OUT_PENTA,AUDIO_CHANNEL_OUT_5POINT1,AUDIO_CHANNEL_OUT_6POINT1,AUDIO_CHANNEL_OUT_7POINT1" />
+---
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200,96000,128000,176400,192000"
+>                              channelMasks="AUDIO_CHANNEL_OUT_STEREO,AUDIO_CHANNEL_OUT_2POINT1,AUDIO_CHANNEL_OUT_QUAD,AUDIO_CHANNEL_OUT_PENTA,AUDIO_CHANNEL_OUT_5POINT1,AUDIO_CHANNEL_OUT_6POINT1,AUDIO_CHANNEL_OUT_7POINT1"/>
+101,102c96,97
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200,96000,128000,176400"
+<                              channelMasks="AUDIO_CHANNEL_OUT_STEREO" />
+---
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200,96000,128000,176400,192000"
+>                              channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
+104,105c99,100
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200"
+<                              channelMasks="AUDIO_CHANNEL_OUT_STEREO" />
+---
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200,96000"
+>                              channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
+107,108c102,103
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200"
+<                              channelMasks="AUDIO_CHANNEL_OUT_STEREO" />
+---
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200,96000"
+>                              channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
+110,111c105,106
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200"
+<                              channelMasks="AUDIO_CHANNEL_OUT_STEREO" />
+---
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200,96000"
+>                              channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
+114c109
+<                              channelMasks="AUDIO_CHANNEL_OUT_STEREO,AUDIO_CHANNEL_OUT_2POINT1,AUDIO_CHANNEL_OUT_QUAD,AUDIO_CHANNEL_OUT_PENTA,AUDIO_CHANNEL_OUT_5POINT1,AUDIO_CHANNEL_OUT_6POINT1,AUDIO_CHANNEL_OUT_7POINT1" />
+---
+>                              channelMasks="AUDIO_CHANNEL_OUT_STEREO,AUDIO_CHANNEL_OUT_2POINT1,AUDIO_CHANNEL_OUT_QUAD,AUDIO_CHANNEL_OUT_PENTA,AUDIO_CHANNEL_OUT_5POINT1,AUDIO_CHANNEL_OUT_6POINT1,AUDIO_CHANNEL_OUT_7POINT1"/>
+116,117c111,112
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200"
+<                              channelMasks="AUDIO_CHANNEL_OUT_STEREO,AUDIO_CHANNEL_OUT_2POINT1,AUDIO_CHANNEL_OUT_QUAD,AUDIO_CHANNEL_OUT_PENTA,AUDIO_CHANNEL_OUT_5POINT1,AUDIO_CHANNEL_OUT_6POINT1,AUDIO_CHANNEL_OUT_7POINT1" />
+---
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200,96000"
+>                              channelMasks="AUDIO_CHANNEL_OUT_STEREO,AUDIO_CHANNEL_OUT_2POINT1,AUDIO_CHANNEL_OUT_QUAD,AUDIO_CHANNEL_OUT_PENTA,AUDIO_CHANNEL_OUT_5POINT1,AUDIO_CHANNEL_OUT_6POINT1,AUDIO_CHANNEL_OUT_7POINT1"/>
+119,120c114,115
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200"
+<                              channelMasks="AUDIO_CHANNEL_OUT_STEREO" />
+---
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200,96000"
+>                              channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
+122,123c117,118
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200"
+<                              channelMasks="AUDIO_CHANNEL_OUT_STEREO" />
+---
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200,96000"
+>                              channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
+125,126c120,121
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200"
+<                              channelMasks="AUDIO_CHANNEL_OUT_STEREO" />
+---
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200,96000"
+>                              channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
+128,129c123,124
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200,96000,128000,176400"
+<                              channelMasks="AUDIO_CHANNEL_OUT_STEREO" />
+---
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,64000,88200,96000,128000,176400,192000"
+>                              channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
+134c129
+<                              samplingRates="8000,16000,44100" channelMasks="AUDIO_CHANNEL_OUT_STEREO,AUDIO_CHANNEL_OUT_MONO" />
+---
+>                              samplingRates="8000,16000,44100,48000" channelMasks="AUDIO_CHANNEL_OUT_MONO,AUDIO_CHANNEL_OUT_STEREO"/>
+138c133
+<                              samplingRates="8000,16000,44100" channelMasks="AUDIO_CHANNEL_OUT_STEREO,AUDIO_CHANNEL_OUT_MONO" />
+---
+>                              samplingRates="8000,16000,48000" channelMasks="AUDIO_CHANNEL_OUT_MONO,AUDIO_CHANNEL_OUT_STEREO"/>
+143c138
+<                              samplingRates="8000,16000,32000" channelMasks="AUDIO_CHANNEL_OUT_MONO" />
+---
+>                              samplingRates="8000,16000,32000" channelMasks="AUDIO_CHANNEL_OUT_MONO"/>
+145c140
+<                              samplingRates="8000,16000,32000" channelMasks="AUDIO_CHANNEL_OUT_MONO" />
+---
+>                              samplingRates="8000,16000,32000" channelMasks="AUDIO_CHANNEL_OUT_MONO"/>
+147c142
+<                              samplingRates="8000,16000,32000" channelMasks="AUDIO_CHANNEL_OUT_MONO" />
+---
+>                              samplingRates="8000,16000,32000" channelMasks="AUDIO_CHANNEL_OUT_MONO"/>
+149c144
+<                              samplingRates="8000,16000,32000" channelMasks="AUDIO_CHANNEL_OUT_MONO" />
+---
+>                              samplingRates="8000,16000,32000" channelMasks="AUDIO_CHANNEL_OUT_MONO"/>
+151c146
+<                              samplingRates="8000,16000,32000" channelMasks="AUDIO_CHANNEL_OUT_MONO" />
+---
+>                              samplingRates="8000,16000,32000" channelMasks="AUDIO_CHANNEL_OUT_MONO"/>
+153c148
+<                              samplingRates="8000,16000,32000" channelMasks="AUDIO_CHANNEL_OUT_MONO" />
+---
+>                              samplingRates="8000,16000,32000" channelMasks="AUDIO_CHANNEL_OUT_MONO"/>
+155c150
+<                              samplingRates="8000,16000,32000" channelMasks="AUDIO_CHANNEL_OUT_MONO" />
+---
+>                              samplingRates="8000,16000,32000" channelMasks="AUDIO_CHANNEL_OUT_MONO"/>
+157c152
+<                              samplingRates="8000,16000,32000" channelMasks="AUDIO_CHANNEL_OUT_MONO" />
+---
+>                              samplingRates="8000,16000,32000" channelMasks="AUDIO_CHANNEL_OUT_MONO"/>
+162c157
+<                              samplingRates="8000,11025,16000,22050,24000,32000,44100" channelMasks="AUDIO_CHANNEL_OUT_STEREO,AUDIO_CHANNEL_OUT_MONO,AUDIO_CHANNEL_OUT_2POINT1,AUDIO_CHANNEL_OUT_5POINT1,AUDIO_CHANNEL_OUT_7POINT1" />
+---
+>                              samplingRates="8000,11025,16000,22050,24000,32000,44100,48000" channelMasks="AUDIO_CHANNEL_OUT_MONO,AUDIO_CHANNEL_OUT_STEREO,AUDIO_CHANNEL_OUT_2POINT1,AUDIO_CHANNEL_OUT_5POINT1,AUDIO_CHANNEL_OUT_7POINT1"/>
+167,192c162,187
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,88200,176400"
+<                              channelMasks="AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_FRONT_BACK,AUDIO_CHANNEL_IN_QUAD" />
+< 		    <profile name="" format="AUDIO_FORMAT_PCM_24_BIT_PACKED"
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,88200,176400"
+<                              channelMasks="AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_FRONT_BACK,AUDIO_CHANNEL_IN_QUAD" />
+< 		    <profile name="" format="AUDIO_FORMAT_AMR_NB"
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,88200,176400"
+<                              channelMasks="AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_FRONT_BACK" />
+< 		   <profile name="" format="AUDIO_FORMAT_AMR_WB"
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,88200,176400"
+<                              channelMasks="AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_FRONT_BACK" />
+< 		   <profile name="" format="AUDIO_FORMAT_QCELP"
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,88200,176400"
+<                              channelMasks="AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_FRONT_BACK" />
+< 		   <profile name="" format="AUDIO_FORMAT_EVRC"
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,88200,176400"
+<                              channelMasks="AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_FRONT_BACK" />
+< 		   <profile name="" format="AUDIO_FORMAT_EVRCB"
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,88200,176400"
+<                              channelMasks="AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_FRONT_BACK" />
+< 		   <profile name="" format="AUDIO_FORMAT_EVRCWB"
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,88200,176400"
+<                              channelMasks="AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_FRONT_BACK" />
+< 		   <profile name="" format="AUDIO_FORMAT_EVRCNW"
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,88200,176400"
+<                              channelMasks="AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_FRONT_BACK" />
+---
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,48000,96000,192000"
+>                              channelMasks="AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_FRONT_BACK,AUDIO_CHANNEL_IN_QUAD"/>
+> 					<profile name="" format="AUDIO_FORMAT_PCM_32_BIT"
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,48000,96000,192000"
+>                              channelMasks="AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_FRONT_BACK,AUDIO_CHANNEL_IN_QUAD"/>
+> 					<profile name="" format="AUDIO_FORMAT_AMR_NB"
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,88200,96000,176400,192000"
+>                              channelMasks="AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_FRONT_BACK"/>
+> 					<profile name="" format="AUDIO_FORMAT_AMR_WB"
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,88200,96000,176400,192000"
+>                              channelMasks="AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_FRONT_BACK"/>
+> 					<profile name="" format="AUDIO_FORMAT_QCELP"
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,88200,96000,176400,192000"
+>                              channelMasks="AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_FRONT_BACK"/>
+> 					<profile name="" format="AUDIO_FORMAT_EVRC"
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,88200,96000,176400,192000"
+>                              channelMasks="AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_FRONT_BACK"/>
+> 					<profile name="" format="AUDIO_FORMAT_EVRCB"
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,88200,96000,176400,192000"
+>                              channelMasks="AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_FRONT_BACK"/>
+> 					<profile name="" format="AUDIO_FORMAT_EVRCWB"
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,88200,96000,176400,192000"
+>                              channelMasks="AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_FRONT_BACK"/>
+> 					<profile name="" format="AUDIO_FORMAT_EVRCNW"
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000,88200,96000,176400,192000"
+>                              channelMasks="AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_FRONT_BACK"/>
+196c191
+<                              samplingRates="8000,16000,44100" channelMasks="AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_MONO" />
+---
+>                              samplingRates="8000,16000,48000" channelMasks="AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_STEREO"/>
+204c199
+<                             samplingRates="44100" channelMasks="AUDIO_CHANNEL_OUT_MONO" />
+---
+>                             samplingRates="48000" channelMasks="AUDIO_CHANNEL_OUT_MONO"/>
+208c203
+<                              samplingRates="44100" channelMasks="AUDIO_CHANNEL_OUT_STEREO" />
+---
+>                              samplingRates="48000" channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
+212c207
+<                              samplingRates="44100" channelMasks="AUDIO_CHANNEL_OUT_STEREO" />
+---
+>                              samplingRates="48000" channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
+216c211
+<                              samplingRates="44100" channelMasks="AUDIO_CHANNEL_OUT_STEREO" />
+---
+>                              samplingRates="48000" channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
+220c215
+<                              samplingRates="44100" channelMasks="AUDIO_CHANNEL_OUT_STEREO" />
+---
+>                              samplingRates="48000" channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
+224c219
+<                              samplingRates="8000,16000" channelMasks="AUDIO_CHANNEL_OUT_MONO" />
+---
+>                              samplingRates="8000,16000" channelMasks="AUDIO_CHANNEL_OUT_MONO"/>
+228c223
+<                              samplingRates="8000,16000" channelMasks="AUDIO_CHANNEL_OUT_MONO" />
+---
+>                              samplingRates="8000,16000" channelMasks="AUDIO_CHANNEL_OUT_MONO"/>
+232c227
+<                              samplingRates="8000,16000" channelMasks="AUDIO_CHANNEL_OUT_MONO" />
+---
+>                              samplingRates="8000,16000" channelMasks="AUDIO_CHANNEL_OUT_MONO"/>
+236c231
+<                              samplingRates="8000,16000" channelMasks="AUDIO_CHANNEL_OUT_MONO" />
+---
+>                              samplingRates="8000,16000" channelMasks="AUDIO_CHANNEL_OUT_MONO"/>
+240c235
+<                              samplingRates="8000,16000" channelMasks="AUDIO_CHANNEL_OUT_MONO,AUDIO_CHANNEL_OUT_STEREO" />
+---
+>                              samplingRates="8000,16000" channelMasks="AUDIO_CHANNEL_OUT_MONO,AUDIO_CHANNEL_OUT_STEREO"/>
+244c239
+<                              samplingRates="8000,11025,16000,22050,32000,44100,48000,64000,88200,96000,128000,176400" channelMasks="dynamic" />
+---
+>                              samplingRates="8000,11025,16000,22050,32000,44100,48000,64000,88200,96000,128000,176400,192000" channelMasks="dynamic"/>
+248c243
+<                              samplingRates="8000,11025,16000,22050,32000,44100,48000,64000,88200,96000,128000,176400" channelMasks="dynamic" />
+---
+>                              samplingRates="8000,11025,16000,22050,32000,44100,48000,64000,88200,96000,128000,176400,192000" channelMasks="dynamic"/>
+252c247
+<                              samplingRates="44100" channelMasks="AUDIO_CHANNEL_OUT_STEREO,AUDIO_CHANNEL_OUT_MONO" />
+---
+>                              samplingRates="48000" channelMasks="AUDIO_CHANNEL_OUT_MONO,AUDIO_CHANNEL_OUT_STEREO"/>
+257,258c252,253
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100"
+<                              channelMasks="AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_FRONT_BACK" />
+---
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000"
+>                              channelMasks="AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_FRONT_BACK"/>
+262,263c257,258
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100"
+<                              channelMasks="AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_FRONT_BACK" />
+---
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000"
+>                              channelMasks="AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_FRONT_BACK"/>
+267,268c262,263
+<                              samplingRates="44100"
+<                              channelMasks="AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_MONO" />
+---
+>                              samplingRates="48000"
+>                              channelMasks="AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_STEREO"/>
+272,273c267,268
+<                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100"
+<                              channelMasks="AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_FRONT_BACK" />
+---
+>                              samplingRates="8000,11025,12000,16000,22050,24000,32000,44100,48000"
+>                              channelMasks="AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_FRONT_BACK"/>
+277c272
+<                              samplingRates="8000,16000" channelMasks="AUDIO_CHANNEL_IN_MONO" />
+---
+>                              samplingRates="8000,16000" channelMasks="AUDIO_CHANNEL_IN_MONO"/>
+281c276
+<                              samplingRates="8000,16000,44100" channelMasks="AUDIO_CHANNEL_IN_MONO" />
+---
+>                              samplingRates="8000,16000,48000" channelMasks="AUDIO_CHANNEL_IN_MONO"/>
+287c282
+<                        sources="primary output,deep_buffer,direct_pcm,compressed_offload,incall_music,voip_rx,BT SCO Headset Mic" />
+---
+>                        sources="primary output,deep_buffer,direct_pcm,compressed_offload,incall_music,voip_rx,BT SCO Headset Mic"/>
+289c284
+<                        sources="primary output,deep_buffer,direct_pcm,compressed_offload,incall_music,voip_rx,BT SCO Headset Mic,Telephony Rx" />
+---
+>                        sources="primary output,deep_buffer,direct_pcm,compressed_offload,incall_music,voip_rx,BT SCO Headset Mic,Telephony Rx"/>
+291c286
+<                        sources="primary output,deep_buffer,direct_pcm,compressed_offload,incall_music,voip_rx,BT SCO Headset Mic,Telephony Rx" />
+---
+>                        sources="primary output,deep_buffer,direct_pcm,compressed_offload,incall_music,voip_rx,BT SCO Headset Mic,Telephony Rx"/>
+293c288
+<                        sources="primary output,deep_buffer,direct_pcm,compressed_offload,incall_music,voip_rx,BT SCO Headset Mic,Telephony Rx" />
+---
+>                        sources="primary output,deep_buffer,direct_pcm,compressed_offload,incall_music,voip_rx,BT SCO Headset Mic,Telephony Rx"/>
+295c290
+<                        sources="primary output,deep_buffer,direct_pcm,compressed_offload,incall_music,voip_rx" />
+---
+>                        sources="primary output,deep_buffer,direct_pcm,compressed_offload,incall_music,voip_rx"/>
+297c292
+<                        sources="primary output,deep_buffer,direct_pcm,compressed_offload,dual_audio" />
+---
+>                        sources="primary output,deep_buffer,direct_pcm,compressed_offload,dual_audio"/>
+299c294
+<                        sources="primary output,deep_buffer,direct_pcm,compressed_offload,dual_audio" />
+---
+>                        sources="primary output,deep_buffer,direct_pcm,compressed_offload,dual_audio"/>
+301c296
+<                        sources="primary output" />
+---
+>                        sources="primary output"/>
+303c298
+<                        sources="primary output,deep_buffer,direct_pcm,compressed_offload,voip_rx,incall_music" />
+---
+>                        sources="primary output,deep_buffer,direct_pcm,compressed_offload,voip_rx,incall_music"/>
+305c300
+<                        sources="voice_tx" />
+---
+>                        sources="voice_tx"/>
+307c302
+<                        sources="Built-In Mic,Built-In Back Mic,Wired Headset Mic,BT SCO Headset Mic,FM Tuner,Telephony Rx" />
+---
+>                        sources="Built-In Mic,Built-In Back Mic,Wired Headset Mic,BT SCO Headset Mic,FM Tuner,Telephony Rx"/>
+309c304
+<                        sources="Telephony Rx" />
+---
+>                        sources="Telephony Rx"/>
+315c310
+<         <xi:include href="/vendor/etc/a2dp_audio_policy_configuration.xml" />
+---
+>         <xi:include href="/vendor/etc/a2dp_audio_policy_configuration.xml"/>
+318c313
+<         <xi:include href="/vendor/etc/usb_audio_policy_configuration.xml" />
+---
+>         <xi:include href="/vendor/etc/usb_audio_policy_configuration.xml"/>
+321c316
+<         <xi:include href="/vendor/etc/r_submix_audio_policy_configuration.xml" />
+---
+>         <xi:include href="/vendor/etc/r_submix_audio_policy_configuration.xml"/>
+328,329c323,324
+<     <xi:include href="/vendor/etc/audio_policy_volumes.xml" />
+<     <xi:include href="/vendor/etc/default_volume_tables.xml" />
+---
+>     <xi:include href="/vendor/etc/audio_policy_volumes.xml"/>
+>     <xi:include href="/vendor/etc/default_volume_tables.xml"/>

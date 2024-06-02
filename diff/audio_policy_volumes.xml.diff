@@ -1,0 +1,188 @@
+27c27
+<                                              ref="DEFAULT_VOIP_VOLUME_CURVE" />
+---
+>                                              ref="DEFAULT_VOIP_VOLUME_CURVE"/>
+29c29
+<                                              ref="DEFAULT_VOIP_VOLUME_CURVE" />
+---
+>                                              ref="DEFAULT_VOIP_VOLUME_CURVE"/>
+31c31
+<                                              ref="DEFAULT_VOIP_VOLUME_CURVE" />
+---
+>                                              ref="DEFAULT_VOIP_VOLUME_CURVE"/>
+33c33
+<                                              ref="DEFAULT_MEDIA_VOLUME_CURVE" />
+---
+>                                              ref="DEFAULT_MEDIA_VOLUME_CURVE"/>
+41c41
+<                                          ref="DRC_SPK_ATTN_SYSTEM_CURVE" />
+---
+>                                          ref="DRC_SPK_ATTN_SYSTEM_CURVE"/>
+43c43
+<                                          ref="DEFAULT_SYSTEM_VOLUME_CURVE" />
+---
+>                                          ref="DEFAULT_SYSTEM_VOLUME_CURVE"/>
+45c45
+<                                          ref="DEFAULT_DEVICE_CATEGORY_EXT_MEDIA_VOLUME_CURVE" />
+---
+>                                          ref="DEFAULT_DEVICE_CATEGORY_EXT_MEDIA_VOLUME_CURVE"/>
+47c47
+<                                        ref="DEFAULT_DEVICE_CATEGORY_HEADSET_VOLUME_CURVE" />
+---
+>                                        ref="DEFAULT_DEVICE_CATEGORY_HEADSET_VOLUME_CURVE"/>
+49c49
+<                                        ref="DRC_SPK_ATTN_COMBO_CURVE" />
+---
+>                                        ref="DRC_SPK_ATTN_COMBO_CURVE"/>
+51c51
+<                                        ref="DEFAULT_DEVICE_CATEGORY_EARPIECE_VOLUME_CURVE" />
+---
+>                                        ref="DEFAULT_DEVICE_CATEGORY_EARPIECE_VOLUME_CURVE"/>
+53c53
+<                                        ref="DEFAULT_DEVICE_CATEGORY_EXT_MEDIA_VOLUME_CURVE" />
+---
+>                                        ref="DEFAULT_DEVICE_CATEGORY_EXT_MEDIA_VOLUME_CURVE"/>
+55c55
+<                                         ref="DEFAULT_MEDIA_VOLUME_CURVE" />
+---
+>                                         ref="DEFAULT_MEDIA_VOLUME_CURVE"/>
+57c57
+<                                         ref="DRC_SPK_ATTN_MEDIA_CURVE" />
+---
+>                                         ref="DRC_SPK_ATTN_MEDIA_CURVE"/>
+59c59
+<                                         ref="DEFAULT_MEDIA_VOLUME_CURVE" />
+---
+>                                         ref="DEFAULT_MEDIA_VOLUME_CURVE"/>
+61c61
+<                                         ref="DEFAULT_MEDIA_VOLUME_CURVE" />
+---
+>                                         ref="DEFAULT_MEDIA_VOLUME_CURVE"/>
+63c63
+<                                         ref="DEFAULT_DEVICE_CATEGORY_HEADSET_VOLUME_CURVE" />
+---
+>                                         ref="DEFAULT_DEVICE_CATEGORY_HEADSET_VOLUME_CURVE"/>
+65c65
+<                                         ref="DRC_SPK_ATTN_COMBO_CURVE" />
+---
+>                                         ref="DRC_SPK_ATTN_COMBO_CURVE"/>
+67c67
+<                                         ref="DEFAULT_DEVICE_CATEGORY_EARPIECE_VOLUME_CURVE" />
+---
+>                                         ref="DEFAULT_DEVICE_CATEGORY_EARPIECE_VOLUME_CURVE"/>
+69c69
+<                                         ref="DEFAULT_DEVICE_CATEGORY_EXT_MEDIA_VOLUME_CURVE" />
+---
+>                                         ref="DEFAULT_DEVICE_CATEGORY_EXT_MEDIA_VOLUME_CURVE"/>
+71c71
+<                                                ref="DEFAULT_DEVICE_CATEGORY_HEADSET_VOLUME_CURVE" />
+---
+>                                                ref="DEFAULT_DEVICE_CATEGORY_HEADSET_VOLUME_CURVE"/>
+73c73
+<                                                    ref="DRC_SPK_ATTN_COMBO_CURVE" />
+---
+>                                                    ref="DRC_SPK_ATTN_COMBO_CURVE"/>
+75c75
+<                                                ref="DEFAULT_DEVICE_CATEGORY_EARPIECE_VOLUME_CURVE" />
+---
+>                                                ref="DEFAULT_DEVICE_CATEGORY_EARPIECE_VOLUME_CURVE"/>
+77c77
+<                                                ref="DEFAULT_DEVICE_CATEGORY_EXT_MEDIA_VOLUME_CURVE" />
+---
+>                                                ref="DEFAULT_DEVICE_CATEGORY_EXT_MEDIA_VOLUME_CURVE"/>
+97c97
+<                                                 ref="DEFAULT_MEDIA_VOLUME_CURVE" />
+---
+>                                                 ref="DEFAULT_MEDIA_VOLUME_CURVE"/>
+99c99
+<                                                 ref="DEFAULT_CAMERA_VOLUME_CURVE" />
+---
+>                                                 ref="DEFAULT_CAMERA_VOLUME_CURVE"/>
+101c101
+<                                                 ref="DEFAULT_CAMERA_VOLUME_CURVE" />
+---
+>                                                 ref="DEFAULT_CAMERA_VOLUME_CURVE"/>
+103c103
+<                                                 ref="DEFAULT_CAMERA_VOLUME_CURVE" />
+---
+>                                                 ref="DEFAULT_CAMERA_VOLUME_CURVE"/>
+105c105
+<                                                 ref="DEFAULT_CAMERA_VOLUME_CURVE" />
+---
+>                                                 ref="DEFAULT_CAMERA_VOLUME_CURVE"/>
+113c113
+<                                        ref="DEFAULT_SYSTEM_VOLUME_CURVE" />
+---
+>                                        ref="DEFAULT_SYSTEM_VOLUME_CURVE"/>
+115c115
+<                                        ref="DEFAULT_SYSTEM_VOLUME_CURVE" />
+---
+>                                        ref="DEFAULT_SYSTEM_VOLUME_CURVE"/>
+117c117
+<                                        ref="DEFAULT_DEVICE_CATEGORY_EXT_MEDIA_VOLUME_CURVE" />
+---
+>                                        ref="DEFAULT_DEVICE_CATEGORY_EXT_MEDIA_VOLUME_CURVE"/>
+119c119
+<                                       ref="SILENT_VOLUME_CURVE" />
+---
+>                                       ref="SILENT_VOLUME_CURVE"/>
+121c121
+<                                       ref="FULL_SCALE_VOLUME_CURVE" />
+---
+>                                       ref="FULL_SCALE_VOLUME_CURVE"/>
+123c123
+<                                       ref="SILENT_VOLUME_CURVE" />
+---
+>                                       ref="SILENT_VOLUME_CURVE"/>
+125c125
+<                                       ref="SILENT_VOLUME_CURVE" />
+---
+>                                       ref="SILENT_VOLUME_CURVE"/>
+127c127
+<                                                 ref="ACCESSIBILITY_VOLUME_CURVE" />
+---
+>                                                 ref="ACCESSIBILITY_VOLUME_CURVE"/>
+129c129
+<                                                 ref="DRC_SPK_ATTN_MEDIA_CURVE" />
+---
+>                                                 ref="DRC_SPK_ATTN_MEDIA_CURVE"/>
+131c131
+<                                                 ref="DEFAULT_MEDIA_VOLUME_CURVE" />
+---
+>                                                 ref="DEFAULT_MEDIA_VOLUME_CURVE"/>
+133c133
+<                                                 ref="DEFAULT_MEDIA_VOLUME_CURVE" />
+---
+>                                                 ref="DEFAULT_MEDIA_VOLUME_CURVE"/>
+135c135
+<                                             ref="FULL_SCALE_VOLUME_CURVE" />
+---
+>                                             ref="FULL_SCALE_VOLUME_CURVE"/>
+137c137
+<                                             ref="FULL_SCALE_VOLUME_CURVE" />
+---
+>                                             ref="FULL_SCALE_VOLUME_CURVE"/>
+139c139
+<                                             ref="FULL_SCALE_VOLUME_CURVE" />
+---
+>                                             ref="FULL_SCALE_VOLUME_CURVE"/>
+141c141
+<                                             ref="FULL_SCALE_VOLUME_CURVE" />
+---
+>                                             ref="FULL_SCALE_VOLUME_CURVE"/>
+143c143
+<                                         ref="FULL_SCALE_VOLUME_CURVE" />
+---
+>                                         ref="FULL_SCALE_VOLUME_CURVE"/>
+145c145
+<                                         ref="FULL_SCALE_VOLUME_CURVE" />
+---
+>                                         ref="FULL_SCALE_VOLUME_CURVE"/>
+147c147
+<                                         ref="FULL_SCALE_VOLUME_CURVE" />
+---
+>                                         ref="FULL_SCALE_VOLUME_CURVE"/>
+149c149
+<                                         ref="FULL_SCALE_VOLUME_CURVE" />
+---
+>                                         ref="FULL_SCALE_VOLUME_CURVE"/>

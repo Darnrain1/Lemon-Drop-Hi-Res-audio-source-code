@@ -1,0 +1,44 @@
+5c5
+<         <mixPort name="a2dp output" role="source" />
+---
+>         <mixPort name="a2dp output" role="source"/>
+8,9c8,9
+<                      samplingRates="44100"
+<                      channelMasks="AUDIO_CHANNEL_IN_STEREO,AUDIO_CHANNEL_IN_MONO" />
+---
+>                      samplingRates="44100,48000"
+>                      channelMasks="AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_STEREO"/>
+16c16
+<                      channelMasks="AUDIO_CHANNEL_OUT_STEREO" />
+---
+>                      channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
+21c21
+<                      channelMasks="AUDIO_CHANNEL_OUT_STEREO" />
+---
+>                      channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
+26c26
+<                      channelMasks="AUDIO_CHANNEL_OUT_STEREO" />
+---
+>                      channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
+30,31c30,31
+<                      samplingRates="44100"
+<                      channelMasks="AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_STEREO" />
+---
+>                      samplingRates="44100,48000"
+>                      channelMasks="AUDIO_CHANNEL_IN_MONO,AUDIO_CHANNEL_IN_STEREO"/>
+36c36
+<                sources="a2dp output" />
+---
+>                sources="a2dp output"/>
+38c38
+<                sources="a2dp output" />
+---
+>                sources="a2dp output"/>
+40c40
+<                sources="a2dp output" />
+---
+>                sources="a2dp output"/>
+42c42
+<                sources="BT A2DP In" />
+---
+>                sources="BT A2DP In"/>
