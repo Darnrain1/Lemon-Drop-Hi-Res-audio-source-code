@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res bass+ v231.1 -->
+	<!-- Lemon Drop Hi-Res treble v231.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 	<!-- Designed and created by darnrain @GitHub -->
 	<!-- Proudly Made In America -->
@@ -19052,13 +19052,13 @@
 	<ctl name="TX SPKRR RDAC" value="2" />
 	<ctl name="RX SPKRR RDAC" value="2" />
 	<ctl name="SpkrLeft COMP Switch" value="2" />
-	<ctl name="SpkrLeft BOOST Switch" value="2" />
-	<ctl name="SpkrLeft VISENSE Switch" value="2" />
+	<ctl name="SpkrLeft BOOST Switch" value="0" />
+	<ctl name="SpkrLeft VISENSE Switch" value="0" />
 	<ctl name="SpkrLeft WSA PA Mute" value="0" />
 	<ctl name="SpkrLeft SWR DAC_Port Switch" value="2" />
 	<ctl name="SpkrRight COMP Switch" value="2" />
-	<ctl name="SpkrRight BOOST Switch" value="2" />
-	<ctl name="SpkrRight VISENSE Switch" value="2" />
+	<ctl name="SpkrRight BOOST Switch" value="0" />
+	<ctl name="SpkrRight VISENSE Switch" value="0" />
 	<ctl name="SpkrRight WSA PA Mute" value="0" />
 	<ctl name="SpkrRight SWR DAC_Port Switch" value="2" />
 	<path name="speaker-16bit" />
