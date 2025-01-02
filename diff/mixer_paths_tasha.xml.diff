@@ -3,9 +3,9 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v232.1 -->
+> 	<!-- Lemon Drop Hi-Res treble v233.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
-> 	<!-- Designed and created by darnrain @GitHub -->
+> 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
 > 	
 > 	<!-- Welcome to the official guide on how to transform your phone into a -->
@@ -8677,7 +8677,7 @@
 2369a6361,6362
 > 	<ctl name="TX COMP1" value="0" />
 > 	<ctl name="RX COMP1" value="0" />
-2371,2429c6364,20917
+2371,2429c6364,20923
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -22047,6 +22047,7 @@
 > 	<ctl name="SPKRR RDAC Switch" value="0" />
 > 	<ctl name="TX SPKRR RDAC" value="0" />
 > 	<ctl name="RX SPKRR RDAC" value="0" />
+> 	<path name="speaker-mono" />
 > 	</path>
 > 	
 > 	<!-- Added -->
@@ -22241,6 +22242,7 @@
 > 	<ctl name="SPKRR Volume Switch" value="0" />
 > 	<ctl name="TX SPKRR Volume" value="0" />
 > 	<ctl name="RX SPKRR Volume" value="0" />
+> 	<path name="speaker-mono" />
 > 	</path>
 > 	
 > 	<!-- Added -->
@@ -22252,6 +22254,7 @@
 > 	<ctl name="SPKRR RDAC Switch" value="2" />
 > 	<ctl name="TX SPKRR RDAC" value="2" />
 > 	<ctl name="RX SPKRR RDAC" value="2" />
+> 	<path name="speaker" />
 > 	</path>
 > 	
 > 	<!-- Added -->
@@ -22443,6 +22446,7 @@
 > 	<ctl name="SPKRR Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR Volume" value="16" />
 > 	<ctl name="RX SPKRR Volume" value="16" />
+> 	<path name="speaker" />
 > 	</path>
 > 	
 > 	<!-- Added -->
@@ -22634,6 +22638,7 @@
 > 	<ctl name="SPKRR Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR Volume" value="16" />
 > 	<ctl name="RX SPKRR Volume" value="16" />
+> 	<path name="speaker" />
 > 	</path>
 > 	
 > 	<!-- Added -->
@@ -22825,6 +22830,7 @@
 > 	<ctl name="SPKRR Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR Volume" value="16" />
 > 	<ctl name="RX SPKRR Volume" value="16" />
+> 	<path name="speaker" />
 > 	</path>
 > 	
 > 	<!-- End of dac control center -->
@@ -23292,7 +23298,7 @@
 > 	
 > 	<path name="voice-headphones">
 > 	<path name="headphones" />
-2432,2464c20920,21006
+2432,2464c20926,21012
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -23414,7 +23420,7 @@
 > 	</path>
 > 	
 > 	<path name="anc-headphones">
-2467,3898c21009,26976
+2467,3898c21015,26997
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="1" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -26220,6 +26226,7 @@
 > 	<ctl name="SPKRR Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR Volume" value="0" />
 > 	<ctl name="RX SPKRR Volume" value="0" />
+> 	<path name="speaker" />
 > 	</path>
 > 	
 > 	<!-- Added -->
@@ -26392,6 +26399,7 @@
 > 	<ctl name="SPKRR Volume Switch" value="0" />
 > 	<ctl name="TX SPKRR Volume" value="0" />
 > 	<ctl name="RX SPKRR Volume" value="0" />
+> 	<path name="speaker-mono" />
 > 	</path>
 > 
 > 	<path name="vbat_fake_speaker">
@@ -26564,6 +26572,7 @@
 > 	<ctl name="SPKRR Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR Volume" value="0" />
 > 	<ctl name="RX SPKRR Volume" value="0" />
+> 	<path name="speaker" />
 > 	</path>
 > 
 > 	<path name="vbat_fake_speaker-mono">
@@ -26735,6 +26744,7 @@
 > 	<ctl name="SPKRR Volume Switch" value="0" />
 > 	<ctl name="TX SPKRR Volume" value="0" />
 > 	<ctl name="RX SPKRR Volume" value="0" />
+> 	<path name="speaker-mono" />
 > 	</path>
 > 	
 > 	<!-- Lemon Drop Hi-Res end of mods -->
@@ -28346,6 +28356,7 @@
 > 	<ctl name="HPHR RDAC Switch" value="2" />
 > 	<ctl name="TX HPHR RDAC" value="2" />
 > 	<ctl name="RX HPHR RDAC" value="2" />
+> 	<path name="headphone" />
 > 	</path>
 > 	
 > 	<path name="vbat_bluetooth-16bit">
@@ -28536,6 +28547,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
+> 	<path name="headphone" />
 > 	</path>
 > 	
 > 	<path name="vbat_bluetooth-24bit">
@@ -28726,6 +28738,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
+> 	<path name="headphone" />
 > 	</path>
 > 	
 > 	<path name="vbat_headphone-16bit">
@@ -28916,6 +28929,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
+> 	<path name="headphone" />
 > 	</path>
 > 	
 > 	<path name="vbat_headphone-16bit-advanced">
@@ -29088,6 +29102,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
+> 	<path name="headphone-16bit" />
 > 	</path>
 > 	
 > 	<path name="vbat_headphone-16bit-aux">
@@ -29260,6 +29275,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
+> 	<path name="headphone-16bit" />
 > 	</path>
 > 	
 > 	<path name="vbat_headphone-24bit">
@@ -29450,6 +29466,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
+> 	<path name="headphone" />
 > 	</path>
 > 	
 > 	<path name="vbat_headphone-24bit-advanced">
@@ -29622,6 +29639,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
+> 	<path name="headphone-24bit" />
 > 	</path>
 > 	
 > 	<path name="vbat_headphone-24bit-aux">
@@ -29794,6 +29812,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
+> 	<path name="headphone-24bit" />
 > 	</path>
 > 	
 > 	<path name="fake_headphone">
@@ -29966,6 +29985,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
+> 	<path name="headphone" />
 > 	</path>
 > 
 > 	<path name="vbat_fake_headphone">
@@ -30138,6 +30158,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
+> 	<path name="headphone" />
 > 	</path>
 > 	
 > 	<!-- End of headphone control center -->
@@ -30816,7 +30837,7 @@
 > 	<path name="speaker-protected" />
 > 	</path>
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
-3899a26978,26980
+3899a26999,27001
 > 	
 > 	
 > 	<!-- Bottom of page -->
