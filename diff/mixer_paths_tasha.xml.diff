@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v234.1 -->
+> 	<!-- Lemon Drop Hi-Res treble v235.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -8677,7 +8677,7 @@
 2369a6361,6362
 > 	<ctl name="TX COMP1" value="0" />
 > 	<ctl name="RX COMP1" value="0" />
-2371,2429c6364,20924
+2371,2429c6364,20928
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -21417,6 +21417,9 @@
 > 	<ctl name="SpkrRight WSA PA Mute" value="1" />
 > 	<ctl name="SpkrRight SWR DAC_Port Switch" value="1" />
 > 	<path name="speaker_fluid" />
+> 	<path name="speaker-protected" />
+> 	<path name="speaker-protected-voice" />
+> 	<path name="fake_speaker-mono" />
 > 	</path>
 > 	
 > 	<!-- Saber ESS DAC stereo side -->
@@ -21442,6 +21445,7 @@
 > 	<path name="speaker-16bit" />
 > 	<path name="speaker-24bit" />
 > 	<path name="speaker_liquid" />
+> 	<path name="fake_speaker" />
 > 	</path>
 > 	
 > 	<!-- 16bit Saber ESS DAC side -->
@@ -23299,7 +23303,7 @@
 > 	
 > 	<path name="voice-headphones">
 > 	<path name="headphones" />
-2432,2464c20927,21013
+2432,2464c20931,21017
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -23421,7 +23425,7 @@
 > 	</path>
 > 	
 > 	<path name="anc-headphones">
-2467,3898c21016,26998
+2467,3898c21020,27003
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="1" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -26891,6 +26895,7 @@
 > 	<path name="bluetooth-24bit" />
 > 	<path name="headphone-16bit" />
 > 	<path name="headphone-24bit" />
+> 	<path name="fake_headphone" />
 > 	</path>
 > 	
 > 	<path name="bluetooth-16bit">
@@ -30838,7 +30843,7 @@
 > 	<path name="speaker-protected" />
 > 	</path>
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
-3899a27000,27002
+3899a27005,27007
 > 	
 > 	
 > 	<!-- Bottom of page -->
