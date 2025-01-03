@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v233.1 -->
+> 	<!-- Lemon Drop Hi-Res treble v234.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -8677,7 +8677,7 @@
 2369a6361,6362
 > 	<ctl name="TX COMP1" value="0" />
 > 	<ctl name="RX COMP1" value="0" />
-2371,2429c6364,20923
+2371,2429c6364,20924
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -21416,6 +21416,7 @@
 > 	<ctl name="SpkrRight VISENSE Switch" value="1" />
 > 	<ctl name="SpkrRight WSA PA Mute" value="1" />
 > 	<ctl name="SpkrRight SWR DAC_Port Switch" value="1" />
+> 	<path name="speaker_fluid" />
 > 	</path>
 > 	
 > 	<!-- Saber ESS DAC stereo side -->
@@ -23298,7 +23299,7 @@
 > 	
 > 	<path name="voice-headphones">
 > 	<path name="headphones" />
-2432,2464c20926,21012
+2432,2464c20927,21013
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -23420,7 +23421,7 @@
 > 	</path>
 > 	
 > 	<path name="anc-headphones">
-2467,3898c21015,26997
+2467,3898c21016,26998
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="1" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -30837,7 +30838,7 @@
 > 	<path name="speaker-protected" />
 > 	</path>
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
-3899a26999,27001
+3899a27000,27002
 > 	
 > 	
 > 	<!-- Bottom of page -->

@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble v233.1 -->
+	<!-- Lemon Drop Hi-Res treble v234.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -19039,6 +19039,7 @@
 	<ctl name="SpkrRight VISENSE Switch" value="1" />
 	<ctl name="SpkrRight WSA PA Mute" value="1" />
 	<ctl name="SpkrRight SWR DAC_Port Switch" value="1" />
+	<path name="speaker_fluid" />
 	</path>
 	
 	<!-- Saber ESS DAC stereo side -->
