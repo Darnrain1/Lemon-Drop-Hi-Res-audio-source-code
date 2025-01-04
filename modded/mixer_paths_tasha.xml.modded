@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble v236.1 -->
+	<!-- Lemon Drop Hi-Res treble v237.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -99,14 +99,14 @@
 	
 	<!-- The DAC initialization code -->
 	<!-- <ctl name="SpkrLeft COMP Switch" value="2" /> -->
-	<!-- <ctl name="SpkrLeft BOOST Switch" value="0" /> -->
-	<!-- <ctl name="SpkrLeft VISENSE Switch" value="0" /> -->
-	<!-- <ctl name="SpkrLeft WSA PA Mute" value="0" /> -->
-	<!-- <ctl name="SpkrLeft SWR DAC_Port Switch" value="2" /> -->
 	<!-- <ctl name="SpkrRight COMP Switch" value="2" /> -->
+	<!-- <ctl name="SpkrLeft BOOST Switch" value="0" /> -->
 	<!-- <ctl name="SpkrRight BOOST Switch" value="0" /> -->
+	<!-- <ctl name="SpkrLeft VISENSE Switch" value="0" /> -->
 	<!-- <ctl name="SpkrRight VISENSE Switch" value="0" /> -->
+	<!-- <ctl name="SpkrLeft WSA PA Mute" value="0" /> -->
 	<!-- <ctl name="SpkrRight WSA PA Mute" value="0" /> -->
+	<!-- <ctl name="SpkrLeft SWR DAC_Port Switch" value="2" /> -->
 	<!-- <ctl name="SpkrRight SWR DAC_Port Switch" value="2" /> -->
 	
 	<!-- Search for: Lemon Drop -->
@@ -6965,14 +6965,14 @@
 	<!-- Start DAC initialization code -->
 	
 	<ctl name="SpkrLeft COMP Switch" value="0" />
-	<ctl name="SpkrLeft BOOST Switch" value="0" />
-	<ctl name="SpkrLeft VISENSE Switch" value="0" />
-	<ctl name="SpkrLeft WSA PA Mute" value="0" />
-	<ctl name="SpkrLeft SWR DAC_Port Switch" value="0" />
 	<ctl name="SpkrRight COMP Switch" value="0" />
+	<ctl name="SpkrLeft BOOST Switch" value="0" />
 	<ctl name="SpkrRight BOOST Switch" value="0" />
+	<ctl name="SpkrLeft VISENSE Switch" value="0" />
 	<ctl name="SpkrRight VISENSE Switch" value="0" />
+	<ctl name="SpkrLeft WSA PA Mute" value="0" />
 	<ctl name="SpkrRight WSA PA Mute" value="0" />
+	<ctl name="SpkrLeft SWR DAC_Port Switch" value="0" />
 	<ctl name="SpkrRight SWR DAC_Port Switch" value="0" />
 	
 	<!-- End DAC initialization code -->
@@ -19030,15 +19030,15 @@
 	<ctl name="TX SPKRR RDAC" value="0" />
 	<ctl name="RX SPKRR RDAC" value="0" />
 	<ctl name="SpkrLeft COMP Switch" value="1" />
+	<ctl name="SpkrRight COMP Switch" value="0" />
 	<ctl name="SpkrLeft BOOST Switch" value="1" />
+	<ctl name="SpkrRight BOOST Switch" value="0" />
 	<ctl name="SpkrLeft VISENSE Switch" value="1" />
+	<ctl name="SpkrRight VISENSE Switch" value="0" />
 	<ctl name="SpkrLeft WSA PA Mute" value="1" />
+	<ctl name="SpkrRight WSA PA Mute" value="0" />
 	<ctl name="SpkrLeft SWR DAC_Port Switch" value="1" />
-	<ctl name="SpkrRight COMP Switch" value="1" />
-	<ctl name="SpkrRight BOOST Switch" value="1" />
-	<ctl name="SpkrRight VISENSE Switch" value="1" />
-	<ctl name="SpkrRight WSA PA Mute" value="1" />
-	<ctl name="SpkrRight SWR DAC_Port Switch" value="1" />
+	<ctl name="SpkrRight SWR DAC_Port Switch" value="0" />
 	<path name="speaker_fluid" />
 	<path name="speaker-protected" />
 	<path name="speaker-protected-voice" />
@@ -19056,14 +19056,14 @@
 	<ctl name="TX SPKRR RDAC" value="2" />
 	<ctl name="RX SPKRR RDAC" value="2" />
 	<ctl name="SpkrLeft COMP Switch" value="2" />
-	<ctl name="SpkrLeft BOOST Switch" value="0" />
-	<ctl name="SpkrLeft VISENSE Switch" value="0" />
-	<ctl name="SpkrLeft WSA PA Mute" value="0" />
-	<ctl name="SpkrLeft SWR DAC_Port Switch" value="2" />
 	<ctl name="SpkrRight COMP Switch" value="2" />
+	<ctl name="SpkrLeft BOOST Switch" value="0" />
 	<ctl name="SpkrRight BOOST Switch" value="0" />
+	<ctl name="SpkrLeft VISENSE Switch" value="0" />
 	<ctl name="SpkrRight VISENSE Switch" value="0" />
+	<ctl name="SpkrLeft WSA PA Mute" value="0" />
 	<ctl name="SpkrRight WSA PA Mute" value="0" />
+	<ctl name="SpkrLeft SWR DAC_Port Switch" value="2" />
 	<ctl name="SpkrRight SWR DAC_Port Switch" value="2" />
 	<path name="speaker-16bit" />
 	<path name="speaker-24bit" />
