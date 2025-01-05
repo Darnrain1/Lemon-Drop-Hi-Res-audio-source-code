@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble v238.1 -->
+	<!-- Lemon Drop Hi-Res treble v239.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -15742,10 +15742,10 @@
 	<path name="speaker_fluid">
 	<ctl name="SLIM_2_TX Channels" value="Four" />
 	<ctl name="SLIM_2_RX Channels" value="Four" />
-	<ctl name="SLIM_2_TX SampleRate" value="KHZ_176P4" />
-	<ctl name="SLIM_2_RX SampleRate" value="KHZ_176P4" />
-	<ctl name="SLIM_2_TX Format" value="PACKED_64B" />
-	<ctl name="SLIM_2_RX Format" value="PACKED_64B" />
+	<ctl name="SLIM_2_TX SampleRate" value="KHZ_44.1" />
+	<ctl name="SLIM_2_RX SampleRate" value="KHZ_44.1" />
+	<ctl name="SLIM_2_TX Format" value="PACKED_16B" />
+	<ctl name="SLIM_2_RX Format" value="PACKED_16B" />
 	<ctl name="SPKRL LDAC Switch" value="1" />
 	<ctl name="TX SPKRL LDAC" value="1" />
 	<ctl name="RX SPKRL LDAC" value="1" />
@@ -16607,10 +16607,10 @@
 	<ctl name="RX INT8 VBAT SPKRR VBAT Enable" value="0" />
 	<ctl name="SLIM_2_TX Channels" value="Four" />
 	<ctl name="SLIM_2_RX Channels" value="Four" />
-	<ctl name="SLIM_2_TX SampleRate" value="KHZ_176P4" />
-	<ctl name="SLIM_2_RX SampleRate" value="KHZ_176P4" />
-	<ctl name="SLIM_2_TX Format" value="PACKED_64B" />
-	<ctl name="SLIM_2_RX Format" value="PACKED_64B" />
+	<ctl name="SLIM_2_TX SampleRate" value="KHZ_44.1" />
+	<ctl name="SLIM_2_RX SampleRate" value="KHZ_44.1" />
+	<ctl name="SLIM_2_TX Format" value="PACKED_16B" />
+	<ctl name="SLIM_2_RX Format" value="PACKED_16B" />
 	<ctl name="SPKRL LDAC Switch" value="1" />
 	<ctl name="TX SPKRL LDAC" value="1" />
 	<ctl name="RX SPKRL LDAC" value="1" />
@@ -18892,37 +18892,37 @@
 	<!-- speaker_fluid is set to channels: 4 -->
 	<!-- 4 divided by 4 = 1 -->
 	
-	<!-- speaker_fluid is set to kilohertz: 176.4 -->
-	<!-- 176.4 divided by 4 = 44.1 -->
+	<!-- speaker_fluid is set to kilohertz: 44.1 -->
+	<!-- 44.1 divided by 4 = 11.025 -->
 	
-	<!-- speaker_fluid is set to bit rate: 64 -->
-	<!-- 64 divided by 4 = 16 -->
+	<!-- speaker_fluid is set to bit rate: 16 -->
+	<!-- 16 divided by 4 = 4 -->
 	
 	<path name="dop_playback-speaker_fluid tert-mi2s-headphones">
 	<ctl name="SEC_TDM_TX_0 Audio Mixer MultiMedia1" value="1" />
 	<ctl name="SEC_TDM_RX_0 Audio Mixer MultiMedia1" value="1" />
 	<ctl name="SEC_TDM_TX_0 Channels" value="One" />
 	<ctl name="SEC_TDM_RX_0 Channels" value="One" />
-	<ctl name="SEC_TDM_TX_0 SampleRate" value="KHZ_44P1" />
-	<ctl name="SEC_TDM_RX_0 SampleRate" value="KHZ_44P1" />
-	<ctl name="SEC_TDM_TX_0 Format" value="S16_LE" />
-	<ctl name="SEC_TDM_RX_0 Format" value="S16_LE" />
+	<ctl name="SEC_TDM_TX_0 SampleRate" value="KHZ_11P025" />
+	<ctl name="SEC_TDM_RX_0 SampleRate" value="KHZ_11P025" />
+	<ctl name="SEC_TDM_TX_0 Format" value="S4_LE" />
+	<ctl name="SEC_TDM_RX_0 Format" value="S4_LE" />
 	<ctl name="SEC_TDM_TX_1 Audio Mixer MultiMedia3" value="1" />
 	<ctl name="SEC_TDM_RX_1 Audio Mixer MultiMedia3" value="1" />
 	<ctl name="SEC_TDM_TX_1 Channels" value="One" />
 	<ctl name="SEC_TDM_RX_1 Channels" value="One" />
-	<ctl name="SEC_TDM_TX_1 SampleRate" value="KHZ_44P1" />
-	<ctl name="SEC_TDM_RX_1 SampleRate" value="KHZ_44P1" />
-	<ctl name="SEC_TDM_TX_1 Format" value="S16_LE" />
-	<ctl name="SEC_TDM_RX_1 Format" value="S16_LE" />
+	<ctl name="SEC_TDM_TX_1 SampleRate" value="KHZ_11P025" />
+	<ctl name="SEC_TDM_RX_1 SampleRate" value="KHZ_11P025" />
+	<ctl name="SEC_TDM_TX_1 Format" value="S4_LE" />
+	<ctl name="SEC_TDM_RX_1 Format" value="S4_LE" />
 	<ctl name="SEC_TDM_TX_2 Audio Mixer MultiMedia5" value="1" />
 	<ctl name="SEC_TDM_RX_2 Audio Mixer MultiMedia5" value="1" />
 	<ctl name="SEC_TDM_TX_2 Channels" value="One" />
 	<ctl name="SEC_TDM_RX_2 Channels" value="One" />
-	<ctl name="SEC_TDM_TX_2 SampleRate" value="KHZ_44P1" />
-	<ctl name="SEC_TDM_RX_2 SampleRate" value="KHZ_44P1" />
-	<ctl name="SEC_TDM_TX_2 Format" value="S16_LE" />
-	<ctl name="SEC_TDM_RX_2 Format" value="S16_LE" />
+	<ctl name="SEC_TDM_TX_2 SampleRate" value="KHZ_11P025" />
+	<ctl name="SEC_TDM_RX_2 SampleRate" value="KHZ_11P025" />
+	<ctl name="SEC_TDM_TX_2 Format" value="S4_LE" />
+	<ctl name="SEC_TDM_RX_2 Format" value="S4_LE" />
 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia4" value="1" />
 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia4" value="1" />
 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia7" value="1" />
@@ -18943,10 +18943,10 @@
 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia16" value="1" />
 	<ctl name="SEC_TDM_TX_3 Channels" value="One" />
 	<ctl name="SEC_TDM_RX_3 Channels" value="One" />
-	<ctl name="SEC_TDM_TX_3 SampleRate" value="KHZ_44P1" />
-	<ctl name="SEC_TDM_RX_3 SampleRate" value="KHZ_44P1" />
-	<ctl name="SEC_TDM_TX_3 Format" value="S16_LE" />
-	<ctl name="SEC_TDM_RX_3 Format" value="S16_LE" />
+	<ctl name="SEC_TDM_TX_3 SampleRate" value="KHZ_11P025" />
+	<ctl name="SEC_TDM_RX_3 SampleRate" value="KHZ_11P025" />
+	<ctl name="SEC_TDM_TX_3 Format" value="S4_LE" />
+	<ctl name="SEC_TDM_RX_3 Format" value="S4_LE" />
 	</path>
 	
 	<!-- Welcome to the QuadDAC direct output speaker_liquid -->
