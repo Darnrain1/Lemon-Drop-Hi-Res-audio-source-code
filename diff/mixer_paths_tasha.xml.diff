@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v239.1 -->
+> 	<!-- Lemon Drop Hi-Res treble v240.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -8677,7 +8677,7 @@
 2369a6361,6362
 > 	<ctl name="TX COMP1" value="0" />
 > 	<ctl name="RX COMP1" value="0" />
-2371,2429c6364,17849
+2371,2429c6364,17913
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -14749,6 +14749,7 @@
 > 	
 > 	<path name="deep-buffer-playback">
 > 	<path name="true-native-mode-SPKR" />
+> 	<path name="true-native-mode-SPKR-vbat" />
 > 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia1" value="2" />
 > 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia1" value="2" />
 > 	<ctl name="SPKRL LDAC Switch" value="2" />
@@ -14779,6 +14780,7 @@
 > 	
 > 	<path name="deep-buffer-playback bluetooth-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia1" value="2" />
 > 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia1" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -14809,6 +14811,7 @@
 > 	
 > 	<path name="deep-buffer-playback bluetooth-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia1" value="2" />
 > 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia1" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -14839,6 +14842,7 @@
 > 	
 > 	<path name="deep-buffer-playback headphone-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia1" value="2" />
 > 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia1" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -14869,6 +14873,7 @@
 > 	
 > 	<path name="deep-buffer-playback headphone-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia1" value="2" />
 > 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia1" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -14956,6 +14961,7 @@
 > 	
 > 	<path name="low-latency-playback">
 > 	<path name="true-native-mode-SPKR" />
+> 	<path name="true-native-mode-SPKR-vbat" />
 > 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia5" value="2" />
 > 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia5" value="2" />
 > 	<ctl name="SPKRL LDAC Switch" value="2" />
@@ -14986,6 +14992,7 @@
 > 	
 > 	<path name="low-latency-playback bluetooth-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia5" value="2" />
 > 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia5" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -15016,6 +15023,7 @@
 > 	
 > 	<path name="low-latency-playback bluetooth-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia5" value="2" />
 > 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia5" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -15046,6 +15054,7 @@
 > 	
 > 	<path name="low-latency-playback headphone-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia5" value="2" />
 > 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia5" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -15076,6 +15085,7 @@
 > 	
 > 	<path name="low-latency-playback headphone-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia5" value="2" />
 > 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia5" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -15163,6 +15173,7 @@
 > 	
 > 	<path name="audio-ull-playback">
 > 	<path name="true-native-mode-SPKR" />
+> 	<path name="true-native-mode-SPKR-vbat" />
 > 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia3" value="2" />
 > 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia3" value="2" />
 > 	<ctl name="SPKRL LDAC Switch" value="2" />
@@ -15193,6 +15204,7 @@
 > 	
 > 	<path name="audio-ull-playback bluetooth-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia3" value="2" />
 > 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia3" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -15223,6 +15235,7 @@
 > 	
 > 	<path name="audio-ull-playback bluetooth-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia3" value="2" />
 > 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia3" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -15253,6 +15266,7 @@
 > 	
 > 	<path name="audio-ull-playback headphone-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia3" value="2" />
 > 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia3" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -15283,6 +15297,7 @@
 > 	
 > 	<path name="audio-ull-playback headphone-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia3" value="2" />
 > 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia3" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -15366,6 +15381,7 @@
 > 	
 > 	<path name="compress-offload-playback">
 > 	<path name="true-native-mode-SPKR" />
+> 	<path name="true-native-mode-SPKR-vbat" />
 > 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia4" value="2" />
 > 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia4" value="2" />
 > 	<ctl name="SPKRL LDAC Switch" value="2" />
@@ -15396,6 +15412,7 @@
 > 	
 > 	<path name="compress-offload-playback bluetooth-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia4" value="2" />
 > 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia4" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -15426,6 +15443,7 @@
 > 	
 > 	<path name="compress-offload-playback bluetooth-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia4" value="2" />
 > 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia4" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -15456,6 +15474,7 @@
 > 	
 > 	<path name="compress-offload-playback headphone-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia4" value="2" />
 > 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia4" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -15486,6 +15505,7 @@
 > 	
 > 	<path name="compress-offload-playback headphone-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia4" value="2" />
 > 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia4" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -15580,6 +15600,7 @@
 > 	
 > 	<path name="compress-offload-playback2">
 > 	<path name="true-native-mode-SPKR" />
+> 	<path name="true-native-mode-SPKR-vbat" />
 > 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia7" value="2" />
 > 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia7" value="2" />
 > 	<ctl name="SPKRL LDAC Switch" value="2" />
@@ -15610,6 +15631,7 @@
 > 	
 > 	<path name="compress-offload-playback2 bluetooth-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia7" value="2" />
 > 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia7" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -15640,6 +15662,7 @@
 > 	
 > 	<path name="compress-offload-playback2 bluetooth-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia7" value="2" />
 > 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia7" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -15670,6 +15693,7 @@
 > 	
 > 	<path name="compress-offload-playback2 headphone-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia7" value="2" />
 > 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia7" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -15700,6 +15724,7 @@
 > 	
 > 	<path name="compress-offload-playback2 headphone-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia7" value="2" />
 > 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia7" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -15790,6 +15815,7 @@
 > 	
 > 	<path name="compress-offload-playback3">
 > 	<path name="true-native-mode-SPKR" />
+> 	<path name="true-native-mode-SPKR-vbat" />
 > 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia10" value="2" />
 > 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia10" value="2" />
 > 	<ctl name="SPKRL LDAC Switch" value="2" />
@@ -15820,6 +15846,7 @@
 > 	
 > 	<path name="compress-offload-playback3 bluetooth-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia10" value="2" />
 > 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia10" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -15850,6 +15877,7 @@
 > 	
 > 	<path name="compress-offload-playback3 bluetooth-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia10" value="2" />
 > 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia10" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -15880,6 +15908,7 @@
 > 	
 > 	<path name="compress-offload-playback3 headphone-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia10" value="2" />
 > 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia10" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -15910,6 +15939,7 @@
 > 	
 > 	<path name="compress-offload-playback3 headphone-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia10" value="2" />
 > 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia10" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -16000,6 +16030,7 @@
 > 	
 > 	<path name="compress-offload-playback4">
 > 	<path name="true-native-mode-SPKR" />
+> 	<path name="true-native-mode-SPKR-vbat" />
 > 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia11" value="2" />
 > 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia11" value="2" />
 > 	<ctl name="SPKRL LDAC Switch" value="2" />
@@ -16030,6 +16061,7 @@
 > 	
 > 	<path name="compress-offload-playback4 bluetooth-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia11" value="2" />
 > 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia11" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -16060,6 +16092,7 @@
 > 	
 > 	<path name="compress-offload-playback4 bluetooth-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia11" value="2" />
 > 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia11" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -16090,6 +16123,7 @@
 > 	
 > 	<path name="compress-offload-playback4 headphone-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia11" value="2" />
 > 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia11" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -16120,6 +16154,7 @@
 > 	
 > 	<path name="compress-offload-playback4 headphone-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia11" value="2" />
 > 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia11" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -16210,6 +16245,7 @@
 > 	
 > 	<path name="compress-offload-playback5">
 > 	<path name="true-native-mode-SPKR" />
+> 	<path name="true-native-mode-SPKR-vbat" />
 > 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia12" value="2" />
 > 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia12" value="2" />
 > 	<ctl name="SPKRL LDAC Switch" value="2" />
@@ -16240,6 +16276,7 @@
 > 	
 > 	<path name="compress-offload-playback5 bluetooth-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia12" value="2" />
 > 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia12" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -16270,6 +16307,7 @@
 > 	
 > 	<path name="compress-offload-playback5 bluetooth-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia12" value="2" />
 > 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia12" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -16300,6 +16338,7 @@
 > 	
 > 	<path name="compress-offload-playback5 headphone-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia12" value="2" />
 > 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia12" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -16330,6 +16369,7 @@
 > 	
 > 	<path name="compress-offload-playback5 headphone-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia12" value="2" />
 > 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia12" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -16420,6 +16460,7 @@
 > 	
 > 	<path name="compress-offload-playback6">
 > 	<path name="true-native-mode-SPKR" />
+> 	<path name="true-native-mode-SPKR-vbat" />
 > 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia13" value="2" />
 > 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia13" value="2" />
 > 	<ctl name="SPKRL LDAC Switch" value="2" />
@@ -16450,6 +16491,7 @@
 > 	
 > 	<path name="compress-offload-playback6 bluetooth-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia13" value="2" />
 > 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia13" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -16480,6 +16522,7 @@
 > 	
 > 	<path name="compress-offload-playback6 bluetooth-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia13" value="2" />
 > 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia13" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -16510,6 +16553,7 @@
 > 	
 > 	<path name="compress-offload-playback6 headphone-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia13" value="2" />
 > 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia13" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -16540,6 +16584,7 @@
 > 	
 > 	<path name="compress-offload-playback6 headphone-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia13" value="2" />
 > 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia13" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -16630,6 +16675,7 @@
 > 	
 > 	<path name="compress-offload-playback7">
 > 	<path name="true-native-mode-SPKR" />
+> 	<path name="true-native-mode-SPKR-vbat" />
 > 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia14" value="2" />
 > 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia14" value="2" />
 > 	<ctl name="SPKRL LDAC Switch" value="2" />
@@ -16660,6 +16706,7 @@
 > 	
 > 	<path name="compress-offload-playback7 bluetooth-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia14" value="2" />
 > 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia14" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -16690,6 +16737,7 @@
 > 	
 > 	<path name="compress-offload-playback7 bluetooth-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia14" value="2" />
 > 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia14" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -16720,6 +16768,7 @@
 > 	
 > 	<path name="compress-offload-playback7 headphone-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia14" value="2" />
 > 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia14" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -16750,6 +16799,7 @@
 > 	
 > 	<path name="compress-offload-playback7 headphone-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia14" value="2" />
 > 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia14" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -16840,6 +16890,7 @@
 > 	
 > 	<path name="compress-offload-playback8">
 > 	<path name="true-native-mode-SPKR" />
+> 	<path name="true-native-mode-SPKR-vbat" />
 > 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia15" value="2" />
 > 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia15" value="2" />
 > 	<ctl name="SPKRL LDAC Switch" value="2" />
@@ -16870,6 +16921,7 @@
 > 	
 > 	<path name="compress-offload-playback8 bluetooth-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia15" value="2" />
 > 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia15" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -16900,6 +16952,7 @@
 > 	
 > 	<path name="compress-offload-playback8 bluetooth-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia15" value="2" />
 > 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia15" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -16930,6 +16983,7 @@
 > 	
 > 	<path name="compress-offload-playback8 headphone-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia15" value="2" />
 > 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia15" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -16960,6 +17014,7 @@
 > 	
 > 	<path name="compress-offload-playback8 headphone-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia15" value="2" />
 > 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia15" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -17050,6 +17105,7 @@
 > 	
 > 	<path name="compress-offload-playback9">
 > 	<path name="true-native-mode-SPKR" />
+> 	<path name="true-native-mode-SPKR-vbat" />
 > 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia16" value="2" />
 > 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia16" value="2" />
 > 	<ctl name="SPKRL LDAC Switch" value="2" />
@@ -17080,6 +17136,7 @@
 > 	
 > 	<path name="compress-offload-playback9 bluetooth-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia16" value="2" />
 > 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia16" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -17110,6 +17167,7 @@
 > 	
 > 	<path name="compress-offload-playback9 bluetooth-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia16" value="2" />
 > 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia16" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -17140,6 +17198,7 @@
 > 	
 > 	<path name="compress-offload-playback9 headphone-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia16" value="2" />
 > 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia16" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -17170,6 +17229,7 @@
 > 	
 > 	<path name="compress-offload-playback9 headphone-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia16" value="2" />
 > 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia16" value="2" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
@@ -18343,6 +18403,7 @@
 > 	
 > 	<path name="speaker">
 > 	<path name="true-native-mode-SPKR" />
+> 	<path name="true-native-mode-SPKR-vbat" />
 > 	<ctl name="SPKRL LDAC Switch" value="2" />
 > 	<ctl name="TX SPKRL LDAC" value="2" />
 > 	<ctl name="RX SPKRL LDAC" value="2" />
@@ -18373,6 +18434,7 @@
 > 	
 > 	<path name="speaker-16bit">
 > 	<path name="true-native-mode-SPKR" />
+> 	<path name="true-native-mode-SPKR-vbat" />
 > 	<ctl name="SLIM_3_TX Channels" value="Fortyninethousandonehundredfiftytwo" />
 > 	<ctl name="SLIM_3_RX Channels" value="Fortyninethousandonehundredfiftytwo" />
 > 	<ctl name="SLIM_3_TX SampleRate" value="KHZ_705P6" />
@@ -18566,6 +18628,7 @@
 > 	
 > 	<path name="speaker-24bit">
 > 	<path name="true-native-mode-SPKR" />
+> 	<path name="true-native-mode-SPKR-vbat" />
 > 	<ctl name="SLIM_0_TX Channels" value="Fortyninethousandonehundredfiftytwo" />
 > 	<ctl name="SLIM_0_RX Channels" value="Fortyninethousandonehundredfiftytwo" />
 > 	<ctl name="SLIM_0_TX SampleRate" value="KHZ_705P6" />
@@ -18759,6 +18822,7 @@
 > 	
 > 	<path name="speaker_liquid">
 > 	<path name="true-native-mode-SPKR" />
+> 	<path name="true-native-mode-SPKR-vbat" />
 > 	<ctl name="SLIM_0_TX Channels" value="Fortyninethousandonehundredfiftytwo" />
 > 	<ctl name="SLIM_0_RX Channels" value="Fortyninethousandonehundredfiftytwo" />
 > 	<ctl name="SLIM_0_TX SampleRate" value="KHZ_176P4" />
@@ -20224,7 +20288,7 @@
 > 	
 > 	<path name="voice-headphones">
 > 	<path name="headphones" />
-2432,2464c17852,17938
+2432,2464c17916,18002
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -20346,7 +20410,7 @@
 > 	</path>
 > 	
 > 	<path name="anc-headphones">
-2467,3898c17941,23929
+2467,3898c18005,24004
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="1" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -22984,6 +23048,7 @@
 > 	<!-- Added -->
 > 	<path name="fake_speaker">
 > 	<path name="true-native-mode-SPKR" />
+> 	<path name="true-native-mode-SPKR-vbat" />
 > 	<ctl name="SPKRL LDAC Switch" value="2" />
 > 	<ctl name="TX SPKRL LDAC" value="2" />
 > 	<ctl name="RX SPKRL LDAC" value="2" />
@@ -23806,6 +23871,7 @@
 > 	
 > 	<path name="headphone">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
 > 	<ctl name="TX HPHL LDAC" value="2" />
 > 	<ctl name="RX HPHL LDAC" value="2" />
@@ -23826,6 +23892,7 @@
 > 	
 > 	<path name="bluetooth-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIM_7_TX Channels" value="Sixthousandonehundredfortyfour" />
 > 	<ctl name="SLIM_7_RX Channels" value="Sixthousandonehundredfortyfour" />
 > 	<ctl name="SLIM_7_TX SampleRate" value="KHZ_176P4" />
@@ -24017,6 +24084,7 @@
 > 	
 > 	<path name="bluetooth-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIM_8_TX Channels" value="Sixthousandonehundredfortyfour" />
 > 	<ctl name="SLIM_8_RX Channels" value="Sixthousandonehundredfortyfour" />
 > 	<ctl name="SLIM_8_TX SampleRate" value="KHZ_176P4" />
@@ -24208,6 +24276,7 @@
 > 	
 > 	<path name="headphone-16bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIM_9_TX Channels" value="Sixthousandonehundredfortyfour" />
 > 	<ctl name="SLIM_9_RX Channels" value="Sixthousandonehundredfortyfour" />
 > 	<ctl name="SLIM_9_TX SampleRate" value="KHZ_176P4" />
@@ -24399,6 +24468,7 @@
 > 	
 > 	<path name="headphone-16bit-advanced">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
 > 	<ctl name="TX HPHL LDAC" value="2" />
 > 	<ctl name="RX HPHL LDAC" value="2" />
@@ -24572,6 +24642,7 @@
 > 	
 > 	<path name="headphone-16bit-aux">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
 > 	<ctl name="TX HPHL LDAC" value="2" />
 > 	<ctl name="RX HPHL LDAC" value="2" />
@@ -24745,6 +24816,7 @@
 > 	
 > 	<path name="headphone-24bit">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIM_10_TX Channels" value="Sixthousandonehundredfortyfour" />
 > 	<ctl name="SLIM_10_RX Channels" value="Sixthousandonehundredfortyfour" />
 > 	<ctl name="SLIM_10_TX SampleRate" value="KHZ_176P4" />
@@ -24936,6 +25008,7 @@
 > 	
 > 	<path name="headphone-24bit-advanced">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
 > 	<ctl name="TX HPHL LDAC" value="2" />
 > 	<ctl name="RX HPHL LDAC" value="2" />
@@ -25109,6 +25182,7 @@
 > 	
 > 	<path name="headphone-24bit-aux">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
 > 	<ctl name="TX HPHL LDAC" value="2" />
 > 	<ctl name="RX HPHL LDAC" value="2" />
@@ -26749,6 +26823,7 @@
 > 	
 > 	<path name="fake_headphone">
 > 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
 > 	<ctl name="TX HPHL LDAC" value="2" />
 > 	<ctl name="RX HPHL LDAC" value="2" />
@@ -27769,7 +27844,7 @@
 > 	<path name="speaker-protected" />
 > 	</path>
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
-3899a23931,23933
+3899a24006,24008
 > 	
 > 	
 > 	<!-- Bottom of page -->
