@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v241.1 -->
+> 	<!-- Lemon Drop Hi-Res treble v242.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -7204,9 +7204,9 @@
 > 	<ctl name="0 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX0 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX0 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="0 True Position Switch" value="0" />
-> 	<ctl name="TX0 True Position" value="ZERO" />
-> 	<ctl name="RX0 True Position" value="ZERO" />
+> 	<ctl name="0 True Orientation Switch" value="0" />
+> 	<ctl name="TX0 True Orientation" value="ZERO" />
+> 	<ctl name="RX0 True Orientation" value="ZERO" />
 > 	<ctl name="0 True Level Switch" value="0" />
 > 	<ctl name="TX0 True Level" value="ZERO" />
 > 	<ctl name="RX0 True Level" value="ZERO" />
@@ -7246,9 +7246,9 @@
 > 	<ctl name="1 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX1 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="1 True Position Switch" value="0" />
-> 	<ctl name="TX1 True Position" value="ZERO" />
-> 	<ctl name="RX1 True Position" value="ZERO" />
+> 	<ctl name="1 True Orientation Switch" value="0" />
+> 	<ctl name="TX1 True Orientation" value="ZERO" />
+> 	<ctl name="RX1 True Orientation" value="ZERO" />
 > 	<ctl name="1 True Level Switch" value="0" />
 > 	<ctl name="TX1 True Level" value="ZERO" />
 > 	<ctl name="RX1 True Level" value="ZERO" />
@@ -7288,9 +7288,9 @@
 > 	<ctl name="2 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX2 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="2 True Position Switch" value="0" />
-> 	<ctl name="TX2 True Position" value="ZERO" />
-> 	<ctl name="RX2 True Position" value="ZERO" />
+> 	<ctl name="2 True Orientation Switch" value="0" />
+> 	<ctl name="TX2 True Orientation" value="ZERO" />
+> 	<ctl name="RX2 True Orientation" value="ZERO" />
 > 	<ctl name="2 True Level Switch" value="0" />
 > 	<ctl name="TX2 True Level" value="ZERO" />
 > 	<ctl name="RX2 True Level" value="ZERO" />
@@ -7330,9 +7330,9 @@
 > 	<ctl name="3 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX3 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX3 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="3 True Position Switch" value="0" />
-> 	<ctl name="TX3 True Position" value="ZERO" />
-> 	<ctl name="RX3 True Position" value="ZERO" />
+> 	<ctl name="3 True Orientation Switch" value="0" />
+> 	<ctl name="TX3 True Orientation" value="ZERO" />
+> 	<ctl name="RX3 True Orientation" value="ZERO" />
 > 	<ctl name="3 True Level Switch" value="0" />
 > 	<ctl name="TX3 True Level" value="ZERO" />
 > 	<ctl name="RX3 True Level" value="ZERO" />
@@ -7372,9 +7372,9 @@
 > 	<ctl name="4 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX4 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX4 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="4 True Position Switch" value="0" />
-> 	<ctl name="TX4 True Position" value="ZERO" />
-> 	<ctl name="RX4 True Position" value="ZERO" />
+> 	<ctl name="4 True Orientation Switch" value="0" />
+> 	<ctl name="TX4 True Orientation" value="ZERO" />
+> 	<ctl name="RX4 True Orientation" value="ZERO" />
 > 	<ctl name="4 True Level Switch" value="0" />
 > 	<ctl name="TX4 True Level" value="ZERO" />
 > 	<ctl name="RX4 True Level" value="ZERO" />
@@ -7414,9 +7414,9 @@
 > 	<ctl name="5 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX5 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX5 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="5 True Position Switch" value="0" />
-> 	<ctl name="TX5 True Position" value="ZERO" />
-> 	<ctl name="RX5 True Position" value="ZERO" />
+> 	<ctl name="5 True Orientation Switch" value="0" />
+> 	<ctl name="TX5 True Orientation" value="ZERO" />
+> 	<ctl name="RX5 True Orientation" value="ZERO" />
 > 	<ctl name="5 True Level Switch" value="0" />
 > 	<ctl name="TX5 True Level" value="ZERO" />
 > 	<ctl name="RX5 True Level" value="ZERO" />
@@ -7456,9 +7456,9 @@
 > 	<ctl name="6 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX6 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX6 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="6 True Position Switch" value="0" />
-> 	<ctl name="TX6 True Position" value="ZERO" />
-> 	<ctl name="RX6 True Position" value="ZERO" />
+> 	<ctl name="6 True Orientation Switch" value="0" />
+> 	<ctl name="TX6 True Orientation" value="ZERO" />
+> 	<ctl name="RX6 True Orientation" value="ZERO" />
 > 	<ctl name="6 True Level Switch" value="0" />
 > 	<ctl name="TX6 True Level" value="ZERO" />
 > 	<ctl name="RX6 True Level" value="ZERO" />
@@ -7498,9 +7498,9 @@
 > 	<ctl name="7 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX7 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="7 True Position Switch" value="0" />
-> 	<ctl name="TX7 True Position" value="ZERO" />
-> 	<ctl name="RX7 True Position" value="ZERO" />
+> 	<ctl name="7 True Orientation Switch" value="0" />
+> 	<ctl name="TX7 True Orientation" value="ZERO" />
+> 	<ctl name="RX7 True Orientation" value="ZERO" />
 > 	<ctl name="7 True Level Switch" value="0" />
 > 	<ctl name="TX7 True Level" value="ZERO" />
 > 	<ctl name="RX7 True Level" value="ZERO" />
@@ -7540,9 +7540,9 @@
 > 	<ctl name="8 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX8 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="8 True Position Switch" value="0" />
-> 	<ctl name="TX8 True Position" value="ZERO" />
-> 	<ctl name="RX8 True Position" value="ZERO" />
+> 	<ctl name="8 True Orientation Switch" value="0" />
+> 	<ctl name="TX8 True Orientation" value="ZERO" />
+> 	<ctl name="RX8 True Orientation" value="ZERO" />
 > 	<ctl name="8 True Level Switch" value="0" />
 > 	<ctl name="TX8 True Level" value="ZERO" />
 > 	<ctl name="RX8 True Level" value="ZERO" />
@@ -7582,9 +7582,9 @@
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="ZERO" />
-> 	<ctl name="HPHL True Position Switch" value="0" />
-> 	<ctl name="TX HPHL True Position" value="ZERO" />
-> 	<ctl name="RX HPHL True Position" value="ZERO" />
+> 	<ctl name="HPHL True Orientation Switch" value="0" />
+> 	<ctl name="TX HPHL True Orientation" value="ZERO" />
+> 	<ctl name="RX HPHL True Orientation" value="ZERO" />
 > 	<ctl name="HPHL True Level Switch" value="0" />
 > 	<ctl name="TX HPHL True Level" value="ZERO" />
 > 	<ctl name="RX HPHL True Level" value="ZERO" />
@@ -7621,9 +7621,9 @@
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="ZERO" />
-> 	<ctl name="HPHR True Position Switch" value="0" />
-> 	<ctl name="TX HPHR True Position" value="ZERO" />
-> 	<ctl name="RX HPHR True Position" value="ZERO" />
+> 	<ctl name="HPHR True Orientation Switch" value="0" />
+> 	<ctl name="TX HPHR True Orientation" value="ZERO" />
+> 	<ctl name="RX HPHR True Orientation" value="ZERO" />
 > 	<ctl name="HPHR True Level Switch" value="0" />
 > 	<ctl name="TX HPHR True Level" value="ZERO" />
 > 	<ctl name="RX HPHR True Level" value="ZERO" />
@@ -7660,9 +7660,9 @@
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="ZERO" />
-> 	<ctl name="SPKRL True Position Switch" value="0" />
-> 	<ctl name="TX SPKRL True Position" value="ZERO" />
-> 	<ctl name="RX SPKRL True Position" value="ZERO" />
+> 	<ctl name="SPKRL True Orientation Switch" value="0" />
+> 	<ctl name="TX SPKRL True Orientation" value="ZERO" />
+> 	<ctl name="RX SPKRL True Orientation" value="ZERO" />
 > 	<ctl name="SPKRL True Level Switch" value="0" />
 > 	<ctl name="TX SPKRL True Level" value="ZERO" />
 > 	<ctl name="RX SPKRL True Level" value="ZERO" />
@@ -7699,9 +7699,9 @@
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="ZERO" />
-> 	<ctl name="SPKRR True Position Switch" value="0" />
-> 	<ctl name="TX SPKRR True Position" value="ZERO" />
-> 	<ctl name="RX SPKRR True Position" value="ZERO" />
+> 	<ctl name="SPKRR True Orientation Switch" value="0" />
+> 	<ctl name="TX SPKRR True Orientation" value="ZERO" />
+> 	<ctl name="RX SPKRR True Orientation" value="ZERO" />
 > 	<ctl name="SPKRR True Level Switch" value="0" />
 > 	<ctl name="TX SPKRR True Level" value="ZERO" />
 > 	<ctl name="RX SPKRR True Level" value="ZERO" />
@@ -18228,9 +18228,9 @@
 > 	<ctl name="7 True Nominalize Volume Switch" value="1" />
 > 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Position Switch" value="1" />
-> 	<ctl name="TX7 True Position" value="AUTO" />
-> 	<ctl name="RX7 True Position" value="AUTO" />
+> 	<ctl name="7 True Orientation Switch" value="1" />
+> 	<ctl name="TX7 True Orientation" value="AUTO" />
+> 	<ctl name="RX7 True Orientation" value="AUTO" />
 > 	<ctl name="7 True Level Switch" value="1" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
@@ -18270,9 +18270,9 @@
 > 	<ctl name="8 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX8 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="8 True Position Switch" value="0" />
-> 	<ctl name="TX8 True Position" value="ZERO" />
-> 	<ctl name="RX8 True Position" value="ZERO" />
+> 	<ctl name="8 True Orientation Switch" value="0" />
+> 	<ctl name="TX8 True Orientation" value="ZERO" />
+> 	<ctl name="RX8 True Orientation" value="ZERO" />
 > 	<ctl name="8 True Level Switch" value="0" />
 > 	<ctl name="TX8 True Level" value="ZERO" />
 > 	<ctl name="RX8 True Level" value="ZERO" />
@@ -18312,9 +18312,9 @@
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="1" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Position Switch" value="1" />
-> 	<ctl name="TX SPKRL True Position" value="AUTO" />
-> 	<ctl name="RX SPKRL True Position" value="AUTO" />
+> 	<ctl name="SPKRL True Orientation Switch" value="1" />
+> 	<ctl name="TX SPKRL True Orientation" value="AUTO" />
+> 	<ctl name="RX SPKRL True Orientation" value="AUTO" />
 > 	<ctl name="SPKRL True Level Switch" value="1" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
@@ -18351,9 +18351,9 @@
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="ZERO" />
-> 	<ctl name="SPKRR True Position Switch" value="0" />
-> 	<ctl name="TX SPKRR True Position" value="ZERO" />
-> 	<ctl name="RX SPKRR True Position" value="ZERO" />
+> 	<ctl name="SPKRR True Orientation Switch" value="0" />
+> 	<ctl name="TX SPKRR True Orientation" value="ZERO" />
+> 	<ctl name="RX SPKRR True Orientation" value="ZERO" />
 > 	<ctl name="SPKRR True Level Switch" value="0" />
 > 	<ctl name="TX SPKRR True Level" value="ZERO" />
 > 	<ctl name="RX SPKRR True Level" value="ZERO" />
@@ -18486,9 +18486,9 @@
 > 	<ctl name="7 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Position Switch" value="2" />
-> 	<ctl name="TX7 True Position" value="AUTO" />
-> 	<ctl name="RX7 True Position" value="AUTO" />
+> 	<ctl name="7 True Orientation Switch" value="2" />
+> 	<ctl name="TX7 True Orientation" value="AUTO" />
+> 	<ctl name="RX7 True Orientation" value="AUTO" />
 > 	<ctl name="7 True Level Switch" value="2" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
@@ -18528,9 +18528,9 @@
 > 	<ctl name="8 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX8 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="8 True Position Switch" value="2" />
-> 	<ctl name="TX8 True Position" value="AUTO" />
-> 	<ctl name="RX8 True Position" value="AUTO" />
+> 	<ctl name="8 True Orientation Switch" value="2" />
+> 	<ctl name="TX8 True Orientation" value="AUTO" />
+> 	<ctl name="RX8 True Orientation" value="AUTO" />
 > 	<ctl name="8 True Level Switch" value="2" />
 > 	<ctl name="TX8 True Level" value="AUTO" />
 > 	<ctl name="RX8 True Level" value="AUTO" />
@@ -18570,9 +18570,9 @@
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Position Switch" value="2" />
-> 	<ctl name="TX SPKRL True Position" value="AUTO" />
-> 	<ctl name="RX SPKRL True Position" value="AUTO" />
+> 	<ctl name="SPKRL True Orientation Switch" value="2" />
+> 	<ctl name="TX SPKRL True Orientation" value="AUTO" />
+> 	<ctl name="RX SPKRL True Orientation" value="AUTO" />
 > 	<ctl name="SPKRL True Level Switch" value="2" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
@@ -18609,9 +18609,9 @@
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRR True Position Switch" value="2" />
-> 	<ctl name="TX SPKRR True Position" value="AUTO" />
-> 	<ctl name="RX SPKRR True Position" value="AUTO" />
+> 	<ctl name="SPKRR True Orientation Switch" value="2" />
+> 	<ctl name="TX SPKRR True Orientation" value="AUTO" />
+> 	<ctl name="RX SPKRR True Orientation" value="AUTO" />
 > 	<ctl name="SPKRR True Level Switch" value="2" />
 > 	<ctl name="TX SPKRR True Level" value="AUTO" />
 > 	<ctl name="RX SPKRR True Level" value="AUTO" />
@@ -18680,9 +18680,9 @@
 > 	<ctl name="7 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Position Switch" value="2" />
-> 	<ctl name="TX7 True Position" value="AUTO" />
-> 	<ctl name="RX7 True Position" value="AUTO" />
+> 	<ctl name="7 True Orientation Switch" value="2" />
+> 	<ctl name="TX7 True Orientation" value="AUTO" />
+> 	<ctl name="RX7 True Orientation" value="AUTO" />
 > 	<ctl name="7 True Level Switch" value="2" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
@@ -18722,9 +18722,9 @@
 > 	<ctl name="8 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX8 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="8 True Position Switch" value="2" />
-> 	<ctl name="TX8 True Position" value="AUTO" />
-> 	<ctl name="RX8 True Position" value="AUTO" />
+> 	<ctl name="8 True Orientation Switch" value="2" />
+> 	<ctl name="TX8 True Orientation" value="AUTO" />
+> 	<ctl name="RX8 True Orientation" value="AUTO" />
 > 	<ctl name="8 True Level Switch" value="2" />
 > 	<ctl name="TX8 True Level" value="AUTO" />
 > 	<ctl name="RX8 True Level" value="AUTO" />
@@ -18764,9 +18764,9 @@
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Position Switch" value="2" />
-> 	<ctl name="TX SPKRL True Position" value="AUTO" />
-> 	<ctl name="RX SPKRL True Position" value="AUTO" />
+> 	<ctl name="SPKRL True Orientation Switch" value="2" />
+> 	<ctl name="TX SPKRL True Orientation" value="AUTO" />
+> 	<ctl name="RX SPKRL True Orientation" value="AUTO" />
 > 	<ctl name="SPKRL True Level Switch" value="2" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
@@ -18803,9 +18803,9 @@
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRR True Position Switch" value="2" />
-> 	<ctl name="TX SPKRR True Position" value="AUTO" />
-> 	<ctl name="RX SPKRR True Position" value="AUTO" />
+> 	<ctl name="SPKRR True Orientation Switch" value="2" />
+> 	<ctl name="TX SPKRR True Orientation" value="AUTO" />
+> 	<ctl name="RX SPKRR True Orientation" value="AUTO" />
 > 	<ctl name="SPKRR True Level Switch" value="2" />
 > 	<ctl name="TX SPKRR True Level" value="AUTO" />
 > 	<ctl name="RX SPKRR True Level" value="AUTO" />
@@ -18874,9 +18874,9 @@
 > 	<ctl name="7 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Position Switch" value="2" />
-> 	<ctl name="TX7 True Position" value="AUTO" />
-> 	<ctl name="RX7 True Position" value="AUTO" />
+> 	<ctl name="7 True Orientation Switch" value="2" />
+> 	<ctl name="TX7 True Orientation" value="AUTO" />
+> 	<ctl name="RX7 True Orientation" value="AUTO" />
 > 	<ctl name="7 True Level Switch" value="2" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
@@ -18916,9 +18916,9 @@
 > 	<ctl name="8 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX8 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="8 True Position Switch" value="2" />
-> 	<ctl name="TX8 True Position" value="AUTO" />
-> 	<ctl name="RX8 True Position" value="AUTO" />
+> 	<ctl name="8 True Orientation Switch" value="2" />
+> 	<ctl name="TX8 True Orientation" value="AUTO" />
+> 	<ctl name="RX8 True Orientation" value="AUTO" />
 > 	<ctl name="8 True Level Switch" value="2" />
 > 	<ctl name="TX8 True Level" value="AUTO" />
 > 	<ctl name="RX8 True Level" value="AUTO" />
@@ -18958,9 +18958,9 @@
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Position Switch" value="2" />
-> 	<ctl name="TX SPKRL True Position" value="AUTO" />
-> 	<ctl name="RX SPKRL True Position" value="AUTO" />
+> 	<ctl name="SPKRL True Orientation Switch" value="2" />
+> 	<ctl name="TX SPKRL True Orientation" value="AUTO" />
+> 	<ctl name="RX SPKRL True Orientation" value="AUTO" />
 > 	<ctl name="SPKRL True Level Switch" value="2" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
@@ -18997,9 +18997,9 @@
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRR True Position Switch" value="2" />
-> 	<ctl name="TX SPKRR True Position" value="AUTO" />
-> 	<ctl name="RX SPKRR True Position" value="AUTO" />
+> 	<ctl name="SPKRR True Orientation Switch" value="2" />
+> 	<ctl name="TX SPKRR True Orientation" value="AUTO" />
+> 	<ctl name="RX SPKRR True Orientation" value="AUTO" />
 > 	<ctl name="SPKRR True Level Switch" value="2" />
 > 	<ctl name="TX SPKRR True Level" value="AUTO" />
 > 	<ctl name="RX SPKRR True Level" value="AUTO" />
@@ -19097,9 +19097,9 @@
 > 	<ctl name="7 True Nominalize Volume Switch" value="1" />
 > 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Position Switch" value="1" />
-> 	<ctl name="TX7 True Position" value="AUTO" />
-> 	<ctl name="RX7 True Position" value="AUTO" />
+> 	<ctl name="7 True Orientation Switch" value="1" />
+> 	<ctl name="TX7 True Orientation" value="AUTO" />
+> 	<ctl name="RX7 True Orientation" value="AUTO" />
 > 	<ctl name="7 True Level Switch" value="1" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
@@ -19139,9 +19139,9 @@
 > 	<ctl name="8 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX8 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="8 True Position Switch" value="0" />
-> 	<ctl name="TX8 True Position" value="ZERO" />
-> 	<ctl name="RX8 True Position" value="ZERO" />
+> 	<ctl name="8 True Orientation Switch" value="0" />
+> 	<ctl name="TX8 True Orientation" value="ZERO" />
+> 	<ctl name="RX8 True Orientation" value="ZERO" />
 > 	<ctl name="8 True Level Switch" value="0" />
 > 	<ctl name="TX8 True Level" value="ZERO" />
 > 	<ctl name="RX8 True Level" value="ZERO" />
@@ -19181,9 +19181,9 @@
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="1" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Position Switch" value="1" />
-> 	<ctl name="TX SPKRL True Position" value="AUTO" />
-> 	<ctl name="RX SPKRL True Position" value="AUTO" />
+> 	<ctl name="SPKRL True Orientation Switch" value="1" />
+> 	<ctl name="TX SPKRL True Orientation" value="AUTO" />
+> 	<ctl name="RX SPKRL True Orientation" value="AUTO" />
 > 	<ctl name="SPKRL True Level Switch" value="1" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
@@ -19220,9 +19220,9 @@
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="ZERO" />
-> 	<ctl name="SPKRR True Position Switch" value="0" />
-> 	<ctl name="TX SPKRR True Position" value="ZERO" />
-> 	<ctl name="RX SPKRR True Position" value="ZERO" />
+> 	<ctl name="SPKRR True Orientation Switch" value="0" />
+> 	<ctl name="TX SPKRR True Orientation" value="ZERO" />
+> 	<ctl name="RX SPKRR True Orientation" value="ZERO" />
 > 	<ctl name="SPKRR True Level Switch" value="0" />
 > 	<ctl name="TX SPKRR True Level" value="ZERO" />
 > 	<ctl name="RX SPKRR True Level" value="ZERO" />
@@ -19301,9 +19301,9 @@
 > 	<ctl name="7 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Position Switch" value="2" />
-> 	<ctl name="TX7 True Position" value="AUTO" />
-> 	<ctl name="RX7 True Position" value="AUTO" />
+> 	<ctl name="7 True Orientation Switch" value="2" />
+> 	<ctl name="TX7 True Orientation" value="AUTO" />
+> 	<ctl name="RX7 True Orientation" value="AUTO" />
 > 	<ctl name="7 True Level Switch" value="2" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
@@ -19343,9 +19343,9 @@
 > 	<ctl name="8 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX8 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="8 True Position Switch" value="2" />
-> 	<ctl name="TX8 True Position" value="AUTO" />
-> 	<ctl name="RX8 True Position" value="AUTO" />
+> 	<ctl name="8 True Orientation Switch" value="2" />
+> 	<ctl name="TX8 True Orientation" value="AUTO" />
+> 	<ctl name="RX8 True Orientation" value="AUTO" />
 > 	<ctl name="8 True Level Switch" value="2" />
 > 	<ctl name="TX8 True Level" value="AUTO" />
 > 	<ctl name="RX8 True Level" value="AUTO" />
@@ -19385,9 +19385,9 @@
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Position Switch" value="2" />
-> 	<ctl name="TX SPKRL True Position" value="AUTO" />
-> 	<ctl name="RX SPKRL True Position" value="AUTO" />
+> 	<ctl name="SPKRL True Orientation Switch" value="2" />
+> 	<ctl name="TX SPKRL True Orientation" value="AUTO" />
+> 	<ctl name="RX SPKRL True Orientation" value="AUTO" />
 > 	<ctl name="SPKRL True Level Switch" value="2" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
@@ -19424,9 +19424,9 @@
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRR True Position Switch" value="2" />
-> 	<ctl name="TX SPKRR True Position" value="AUTO" />
-> 	<ctl name="RX SPKRR True Position" value="AUTO" />
+> 	<ctl name="SPKRR True Orientation Switch" value="2" />
+> 	<ctl name="TX SPKRR True Orientation" value="AUTO" />
+> 	<ctl name="RX SPKRR True Orientation" value="AUTO" />
 > 	<ctl name="SPKRR True Level Switch" value="2" />
 > 	<ctl name="TX SPKRR True Level" value="AUTO" />
 > 	<ctl name="RX SPKRR True Level" value="AUTO" />
@@ -19493,9 +19493,9 @@
 > 	<ctl name="7 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Position Switch" value="2" />
-> 	<ctl name="TX7 True Position" value="AUTO" />
-> 	<ctl name="RX7 True Position" value="AUTO" />
+> 	<ctl name="7 True Orientation Switch" value="2" />
+> 	<ctl name="TX7 True Orientation" value="AUTO" />
+> 	<ctl name="RX7 True Orientation" value="AUTO" />
 > 	<ctl name="7 True Level Switch" value="2" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
@@ -19535,9 +19535,9 @@
 > 	<ctl name="8 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX8 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="8 True Position Switch" value="2" />
-> 	<ctl name="TX8 True Position" value="AUTO" />
-> 	<ctl name="RX8 True Position" value="AUTO" />
+> 	<ctl name="8 True Orientation Switch" value="2" />
+> 	<ctl name="TX8 True Orientation" value="AUTO" />
+> 	<ctl name="RX8 True Orientation" value="AUTO" />
 > 	<ctl name="8 True Level Switch" value="2" />
 > 	<ctl name="TX8 True Level" value="AUTO" />
 > 	<ctl name="RX8 True Level" value="AUTO" />
@@ -19577,9 +19577,9 @@
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Position Switch" value="2" />
-> 	<ctl name="TX SPKRL True Position" value="AUTO" />
-> 	<ctl name="RX SPKRL True Position" value="AUTO" />
+> 	<ctl name="SPKRL True Orientation Switch" value="2" />
+> 	<ctl name="TX SPKRL True Orientation" value="AUTO" />
+> 	<ctl name="RX SPKRL True Orientation" value="AUTO" />
 > 	<ctl name="SPKRL True Level Switch" value="2" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
@@ -19616,9 +19616,9 @@
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRR True Position Switch" value="2" />
-> 	<ctl name="TX SPKRR True Position" value="AUTO" />
-> 	<ctl name="RX SPKRR True Position" value="AUTO" />
+> 	<ctl name="SPKRR True Orientation Switch" value="2" />
+> 	<ctl name="TX SPKRR True Orientation" value="AUTO" />
+> 	<ctl name="RX SPKRR True Orientation" value="AUTO" />
 > 	<ctl name="SPKRR True Level Switch" value="2" />
 > 	<ctl name="TX SPKRR True Level" value="AUTO" />
 > 	<ctl name="RX SPKRR True Level" value="AUTO" />
@@ -19685,9 +19685,9 @@
 > 	<ctl name="7 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Position Switch" value="2" />
-> 	<ctl name="TX7 True Position" value="AUTO" />
-> 	<ctl name="RX7 True Position" value="AUTO" />
+> 	<ctl name="7 True Orientation Switch" value="2" />
+> 	<ctl name="TX7 True Orientation" value="AUTO" />
+> 	<ctl name="RX7 True Orientation" value="AUTO" />
 > 	<ctl name="7 True Level Switch" value="2" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
@@ -19727,9 +19727,9 @@
 > 	<ctl name="8 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX8 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="8 True Position Switch" value="2" />
-> 	<ctl name="TX8 True Position" value="AUTO" />
-> 	<ctl name="RX8 True Position" value="AUTO" />
+> 	<ctl name="8 True Orientation Switch" value="2" />
+> 	<ctl name="TX8 True Orientation" value="AUTO" />
+> 	<ctl name="RX8 True Orientation" value="AUTO" />
 > 	<ctl name="8 True Level Switch" value="2" />
 > 	<ctl name="TX8 True Level" value="AUTO" />
 > 	<ctl name="RX8 True Level" value="AUTO" />
@@ -19769,9 +19769,9 @@
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Position Switch" value="2" />
-> 	<ctl name="TX SPKRL True Position" value="AUTO" />
-> 	<ctl name="RX SPKRL True Position" value="AUTO" />
+> 	<ctl name="SPKRL True Orientation Switch" value="2" />
+> 	<ctl name="TX SPKRL True Orientation" value="AUTO" />
+> 	<ctl name="RX SPKRL True Orientation" value="AUTO" />
 > 	<ctl name="SPKRL True Level Switch" value="2" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
@@ -19808,9 +19808,9 @@
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRR True Position Switch" value="2" />
-> 	<ctl name="TX SPKRR True Position" value="AUTO" />
-> 	<ctl name="RX SPKRR True Position" value="AUTO" />
+> 	<ctl name="SPKRR True Orientation Switch" value="2" />
+> 	<ctl name="TX SPKRR True Orientation" value="AUTO" />
+> 	<ctl name="RX SPKRR True Orientation" value="AUTO" />
 > 	<ctl name="SPKRR True Level Switch" value="2" />
 > 	<ctl name="TX SPKRR True Level" value="AUTO" />
 > 	<ctl name="RX SPKRR True Level" value="AUTO" />
@@ -23082,9 +23082,9 @@
 > 	<ctl name="7 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Position Switch" value="2" />
-> 	<ctl name="TX7 True Position" value="AUTO" />
-> 	<ctl name="RX7 True Position" value="AUTO" />
+> 	<ctl name="7 True Orientation Switch" value="2" />
+> 	<ctl name="TX7 True Orientation" value="AUTO" />
+> 	<ctl name="RX7 True Orientation" value="AUTO" />
 > 	<ctl name="7 True Level Switch" value="2" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
@@ -23124,9 +23124,9 @@
 > 	<ctl name="8 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX8 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="8 True Position Switch" value="2" />
-> 	<ctl name="TX8 True Position" value="AUTO" />
-> 	<ctl name="RX8 True Position" value="AUTO" />
+> 	<ctl name="8 True Orientation Switch" value="2" />
+> 	<ctl name="TX8 True Orientation" value="AUTO" />
+> 	<ctl name="RX8 True Orientation" value="AUTO" />
 > 	<ctl name="8 True Level Switch" value="2" />
 > 	<ctl name="TX8 True Level" value="AUTO" />
 > 	<ctl name="RX8 True Level" value="AUTO" />
@@ -23166,9 +23166,9 @@
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Position Switch" value="2" />
-> 	<ctl name="TX SPKRL True Position" value="AUTO" />
-> 	<ctl name="RX SPKRL True Position" value="AUTO" />
+> 	<ctl name="SPKRL True Orientation Switch" value="2" />
+> 	<ctl name="TX SPKRL True Orientation" value="AUTO" />
+> 	<ctl name="RX SPKRL True Orientation" value="AUTO" />
 > 	<ctl name="SPKRL True Level Switch" value="2" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
@@ -23205,9 +23205,9 @@
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRR True Position Switch" value="2" />
-> 	<ctl name="TX SPKRR True Position" value="AUTO" />
-> 	<ctl name="RX SPKRR True Position" value="AUTO" />
+> 	<ctl name="SPKRR True Orientation Switch" value="2" />
+> 	<ctl name="TX SPKRR True Orientation" value="AUTO" />
+> 	<ctl name="RX SPKRR True Orientation" value="AUTO" />
 > 	<ctl name="SPKRR True Level Switch" value="2" />
 > 	<ctl name="TX SPKRR True Level" value="AUTO" />
 > 	<ctl name="RX SPKRR True Level" value="AUTO" />
@@ -23255,9 +23255,9 @@
 > 	<ctl name="7 True Nominalize Volume Switch" value="1" />
 > 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Position Switch" value="1" />
-> 	<ctl name="TX7 True Position" value="AUTO" />
-> 	<ctl name="RX7 True Position" value="AUTO" />
+> 	<ctl name="7 True Orientation Switch" value="1" />
+> 	<ctl name="TX7 True Orientation" value="AUTO" />
+> 	<ctl name="RX7 True Orientation" value="AUTO" />
 > 	<ctl name="7 True Level Switch" value="1" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
@@ -23297,9 +23297,9 @@
 > 	<ctl name="8 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX8 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="8 True Position Switch" value="0" />
-> 	<ctl name="TX8 True Position" value="ZERO" />
-> 	<ctl name="RX8 True Position" value="ZERO" />
+> 	<ctl name="8 True Orientation Switch" value="0" />
+> 	<ctl name="TX8 True Orientation" value="ZERO" />
+> 	<ctl name="RX8 True Orientation" value="ZERO" />
 > 	<ctl name="8 True Level Switch" value="0" />
 > 	<ctl name="TX8 True Level" value="ZERO" />
 > 	<ctl name="RX8 True Level" value="ZERO" />
@@ -23339,9 +23339,9 @@
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="1" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Position Switch" value="1" />
-> 	<ctl name="TX SPKRL True Position" value="AUTO" />
-> 	<ctl name="RX SPKRL True Position" value="AUTO" />
+> 	<ctl name="SPKRL True Orientation Switch" value="1" />
+> 	<ctl name="TX SPKRL True Orientation" value="AUTO" />
+> 	<ctl name="RX SPKRL True Orientation" value="AUTO" />
 > 	<ctl name="SPKRL True Level Switch" value="1" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
@@ -23378,9 +23378,9 @@
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="ZERO" />
-> 	<ctl name="SPKRR True Position Switch" value="0" />
-> 	<ctl name="TX SPKRR True Position" value="ZERO" />
-> 	<ctl name="RX SPKRR True Position" value="ZERO" />
+> 	<ctl name="SPKRR True Orientation Switch" value="0" />
+> 	<ctl name="TX SPKRR True Orientation" value="ZERO" />
+> 	<ctl name="RX SPKRR True Orientation" value="ZERO" />
 > 	<ctl name="SPKRR True Level Switch" value="0" />
 > 	<ctl name="TX SPKRR True Level" value="ZERO" />
 > 	<ctl name="RX SPKRR True Level" value="ZERO" />
@@ -23428,9 +23428,9 @@
 > 	<ctl name="7 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Position Switch" value="2" />
-> 	<ctl name="TX7 True Position" value="AUTO" />
-> 	<ctl name="RX7 True Position" value="AUTO" />
+> 	<ctl name="7 True Orientation Switch" value="2" />
+> 	<ctl name="TX7 True Orientation" value="AUTO" />
+> 	<ctl name="RX7 True Orientation" value="AUTO" />
 > 	<ctl name="7 True Level Switch" value="2" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
@@ -23470,9 +23470,9 @@
 > 	<ctl name="8 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX8 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="8 True Position Switch" value="2" />
-> 	<ctl name="TX8 True Position" value="AUTO" />
-> 	<ctl name="RX8 True Position" value="AUTO" />
+> 	<ctl name="8 True Orientation Switch" value="2" />
+> 	<ctl name="TX8 True Orientation" value="AUTO" />
+> 	<ctl name="RX8 True Orientation" value="AUTO" />
 > 	<ctl name="8 True Level Switch" value="2" />
 > 	<ctl name="TX8 True Level" value="AUTO" />
 > 	<ctl name="RX8 True Level" value="AUTO" />
@@ -23512,9 +23512,9 @@
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Position Switch" value="2" />
-> 	<ctl name="TX SPKRL True Position" value="AUTO" />
-> 	<ctl name="RX SPKRL True Position" value="AUTO" />
+> 	<ctl name="SPKRL True Orientation Switch" value="2" />
+> 	<ctl name="TX SPKRL True Orientation" value="AUTO" />
+> 	<ctl name="RX SPKRL True Orientation" value="AUTO" />
 > 	<ctl name="SPKRL True Level Switch" value="2" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
@@ -23551,9 +23551,9 @@
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRR True Position Switch" value="2" />
-> 	<ctl name="TX SPKRR True Position" value="AUTO" />
-> 	<ctl name="RX SPKRR True Position" value="AUTO" />
+> 	<ctl name="SPKRR True Orientation Switch" value="2" />
+> 	<ctl name="TX SPKRR True Orientation" value="AUTO" />
+> 	<ctl name="RX SPKRR True Orientation" value="AUTO" />
 > 	<ctl name="SPKRR True Level Switch" value="2" />
 > 	<ctl name="TX SPKRR True Level" value="AUTO" />
 > 	<ctl name="RX SPKRR True Level" value="AUTO" />
@@ -23600,9 +23600,9 @@
 > 	<ctl name="7 True Nominalize Volume Switch" value="1" />
 > 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Position Switch" value="1" />
-> 	<ctl name="TX7 True Position" value="AUTO" />
-> 	<ctl name="RX7 True Position" value="AUTO" />
+> 	<ctl name="7 True Orientation Switch" value="1" />
+> 	<ctl name="TX7 True Orientation" value="AUTO" />
+> 	<ctl name="RX7 True Orientation" value="AUTO" />
 > 	<ctl name="7 True Level Switch" value="1" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
@@ -23642,9 +23642,9 @@
 > 	<ctl name="8 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX8 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="8 True Position Switch" value="0" />
-> 	<ctl name="TX8 True Position" value="ZERO" />
-> 	<ctl name="RX8 True Position" value="ZERO" />
+> 	<ctl name="8 True Orientation Switch" value="0" />
+> 	<ctl name="TX8 True Orientation" value="ZERO" />
+> 	<ctl name="RX8 True Orientation" value="ZERO" />
 > 	<ctl name="8 True Level Switch" value="0" />
 > 	<ctl name="TX8 True Level" value="ZERO" />
 > 	<ctl name="RX8 True Level" value="ZERO" />
@@ -23684,9 +23684,9 @@
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="1" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Position Switch" value="1" />
-> 	<ctl name="TX SPKRL True Position" value="AUTO" />
-> 	<ctl name="RX SPKRL True Position" value="AUTO" />
+> 	<ctl name="SPKRL True Orientation Switch" value="1" />
+> 	<ctl name="TX SPKRL True Orientation" value="AUTO" />
+> 	<ctl name="RX SPKRL True Orientation" value="AUTO" />
 > 	<ctl name="SPKRL True Level Switch" value="1" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
@@ -23723,9 +23723,9 @@
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="ZERO" />
-> 	<ctl name="SPKRR True Position Switch" value="0" />
-> 	<ctl name="TX SPKRR True Position" value="ZERO" />
-> 	<ctl name="RX SPKRR True Position" value="ZERO" />
+> 	<ctl name="SPKRR True Orientation Switch" value="0" />
+> 	<ctl name="TX SPKRR True Orientation" value="ZERO" />
+> 	<ctl name="RX SPKRR True Orientation" value="ZERO" />
 > 	<ctl name="SPKRR True Level Switch" value="0" />
 > 	<ctl name="TX SPKRR True Level" value="ZERO" />
 > 	<ctl name="RX SPKRR True Level" value="ZERO" />
@@ -23944,9 +23944,9 @@
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Position Switch" value="2" />
-> 	<ctl name="TX1 True Position" value="AUTO" />
-> 	<ctl name="RX1 True Position" value="AUTO" />
+> 	<ctl name="1 True Orientation Switch" value="2" />
+> 	<ctl name="TX1 True Orientation" value="AUTO" />
+> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
@@ -23986,9 +23986,9 @@
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Position Switch" value="2" />
-> 	<ctl name="TX2 True Position" value="AUTO" />
-> 	<ctl name="RX2 True Position" value="AUTO" />
+> 	<ctl name="2 True Orientation Switch" value="2" />
+> 	<ctl name="TX2 True Orientation" value="AUTO" />
+> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
@@ -24028,9 +24028,9 @@
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Position Switch" value="2" />
-> 	<ctl name="TX HPHL True Position" value="AUTO" />
-> 	<ctl name="RX HPHL True Position" value="AUTO" />
+> 	<ctl name="HPHL True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -24067,9 +24067,9 @@
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Position Switch" value="2" />
-> 	<ctl name="TX HPHR True Position" value="AUTO" />
-> 	<ctl name="RX HPHR True Position" value="AUTO" />
+> 	<ctl name="HPHR True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -24136,9 +24136,9 @@
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Position Switch" value="2" />
-> 	<ctl name="TX1 True Position" value="AUTO" />
-> 	<ctl name="RX1 True Position" value="AUTO" />
+> 	<ctl name="1 True Orientation Switch" value="2" />
+> 	<ctl name="TX1 True Orientation" value="AUTO" />
+> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
@@ -24178,9 +24178,9 @@
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Position Switch" value="2" />
-> 	<ctl name="TX2 True Position" value="AUTO" />
-> 	<ctl name="RX2 True Position" value="AUTO" />
+> 	<ctl name="2 True Orientation Switch" value="2" />
+> 	<ctl name="TX2 True Orientation" value="AUTO" />
+> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
@@ -24220,9 +24220,9 @@
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Position Switch" value="2" />
-> 	<ctl name="TX HPHL True Position" value="AUTO" />
-> 	<ctl name="RX HPHL True Position" value="AUTO" />
+> 	<ctl name="HPHL True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -24259,9 +24259,9 @@
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Position Switch" value="2" />
-> 	<ctl name="TX HPHR True Position" value="AUTO" />
-> 	<ctl name="RX HPHR True Position" value="AUTO" />
+> 	<ctl name="HPHR True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -24328,9 +24328,9 @@
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Position Switch" value="2" />
-> 	<ctl name="TX1 True Position" value="AUTO" />
-> 	<ctl name="RX1 True Position" value="AUTO" />
+> 	<ctl name="1 True Orientation Switch" value="2" />
+> 	<ctl name="TX1 True Orientation" value="AUTO" />
+> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
@@ -24370,9 +24370,9 @@
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Position Switch" value="2" />
-> 	<ctl name="TX2 True Position" value="AUTO" />
-> 	<ctl name="RX2 True Position" value="AUTO" />
+> 	<ctl name="2 True Orientation Switch" value="2" />
+> 	<ctl name="TX2 True Orientation" value="AUTO" />
+> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
@@ -24412,9 +24412,9 @@
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Position Switch" value="2" />
-> 	<ctl name="TX HPHL True Position" value="AUTO" />
-> 	<ctl name="RX HPHL True Position" value="AUTO" />
+> 	<ctl name="HPHL True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -24451,9 +24451,9 @@
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Position Switch" value="2" />
-> 	<ctl name="TX HPHR True Position" value="AUTO" />
-> 	<ctl name="RX HPHR True Position" value="AUTO" />
+> 	<ctl name="HPHR True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -24502,9 +24502,9 @@
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Position Switch" value="2" />
-> 	<ctl name="TX1 True Position" value="AUTO" />
-> 	<ctl name="RX1 True Position" value="AUTO" />
+> 	<ctl name="1 True Orientation Switch" value="2" />
+> 	<ctl name="TX1 True Orientation" value="AUTO" />
+> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
@@ -24544,9 +24544,9 @@
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Position Switch" value="2" />
-> 	<ctl name="TX2 True Position" value="AUTO" />
-> 	<ctl name="RX2 True Position" value="AUTO" />
+> 	<ctl name="2 True Orientation Switch" value="2" />
+> 	<ctl name="TX2 True Orientation" value="AUTO" />
+> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
@@ -24586,9 +24586,9 @@
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Position Switch" value="2" />
-> 	<ctl name="TX HPHL True Position" value="AUTO" />
-> 	<ctl name="RX HPHL True Position" value="AUTO" />
+> 	<ctl name="HPHL True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -24625,9 +24625,9 @@
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Position Switch" value="2" />
-> 	<ctl name="TX HPHR True Position" value="AUTO" />
-> 	<ctl name="RX HPHR True Position" value="AUTO" />
+> 	<ctl name="HPHR True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -24676,9 +24676,9 @@
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Position Switch" value="2" />
-> 	<ctl name="TX1 True Position" value="AUTO" />
-> 	<ctl name="RX1 True Position" value="AUTO" />
+> 	<ctl name="1 True Orientation Switch" value="2" />
+> 	<ctl name="TX1 True Orientation" value="AUTO" />
+> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
@@ -24718,9 +24718,9 @@
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Position Switch" value="2" />
-> 	<ctl name="TX2 True Position" value="AUTO" />
-> 	<ctl name="RX2 True Position" value="AUTO" />
+> 	<ctl name="2 True Orientation Switch" value="2" />
+> 	<ctl name="TX2 True Orientation" value="AUTO" />
+> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
@@ -24760,9 +24760,9 @@
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Position Switch" value="2" />
-> 	<ctl name="TX HPHL True Position" value="AUTO" />
-> 	<ctl name="RX HPHL True Position" value="AUTO" />
+> 	<ctl name="HPHL True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -24799,9 +24799,9 @@
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Position Switch" value="2" />
-> 	<ctl name="TX HPHR True Position" value="AUTO" />
-> 	<ctl name="RX HPHR True Position" value="AUTO" />
+> 	<ctl name="HPHR True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -24868,9 +24868,9 @@
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Position Switch" value="2" />
-> 	<ctl name="TX1 True Position" value="AUTO" />
-> 	<ctl name="RX1 True Position" value="AUTO" />
+> 	<ctl name="1 True Orientation Switch" value="2" />
+> 	<ctl name="TX1 True Orientation" value="AUTO" />
+> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
@@ -24910,9 +24910,9 @@
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Position Switch" value="2" />
-> 	<ctl name="TX2 True Position" value="AUTO" />
-> 	<ctl name="RX2 True Position" value="AUTO" />
+> 	<ctl name="2 True Orientation Switch" value="2" />
+> 	<ctl name="TX2 True Orientation" value="AUTO" />
+> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
@@ -24952,9 +24952,9 @@
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Position Switch" value="2" />
-> 	<ctl name="TX HPHL True Position" value="AUTO" />
-> 	<ctl name="RX HPHL True Position" value="AUTO" />
+> 	<ctl name="HPHL True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -24991,9 +24991,9 @@
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Position Switch" value="2" />
-> 	<ctl name="TX HPHR True Position" value="AUTO" />
-> 	<ctl name="RX HPHR True Position" value="AUTO" />
+> 	<ctl name="HPHR True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -25042,9 +25042,9 @@
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Position Switch" value="2" />
-> 	<ctl name="TX1 True Position" value="AUTO" />
-> 	<ctl name="RX1 True Position" value="AUTO" />
+> 	<ctl name="1 True Orientation Switch" value="2" />
+> 	<ctl name="TX1 True Orientation" value="AUTO" />
+> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
@@ -25084,9 +25084,9 @@
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Position Switch" value="2" />
-> 	<ctl name="TX2 True Position" value="AUTO" />
-> 	<ctl name="RX2 True Position" value="AUTO" />
+> 	<ctl name="2 True Orientation Switch" value="2" />
+> 	<ctl name="TX2 True Orientation" value="AUTO" />
+> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
@@ -25126,9 +25126,9 @@
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Position Switch" value="2" />
-> 	<ctl name="TX HPHL True Position" value="AUTO" />
-> 	<ctl name="RX HPHL True Position" value="AUTO" />
+> 	<ctl name="HPHL True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -25165,9 +25165,9 @@
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Position Switch" value="2" />
-> 	<ctl name="TX HPHR True Position" value="AUTO" />
-> 	<ctl name="RX HPHR True Position" value="AUTO" />
+> 	<ctl name="HPHR True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -25216,9 +25216,9 @@
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Position Switch" value="2" />
-> 	<ctl name="TX1 True Position" value="AUTO" />
-> 	<ctl name="RX1 True Position" value="AUTO" />
+> 	<ctl name="1 True Orientation Switch" value="2" />
+> 	<ctl name="TX1 True Orientation" value="AUTO" />
+> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
@@ -25258,9 +25258,9 @@
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Position Switch" value="2" />
-> 	<ctl name="TX2 True Position" value="AUTO" />
-> 	<ctl name="RX2 True Position" value="AUTO" />
+> 	<ctl name="2 True Orientation Switch" value="2" />
+> 	<ctl name="TX2 True Orientation" value="AUTO" />
+> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
@@ -25300,9 +25300,9 @@
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Position Switch" value="2" />
-> 	<ctl name="TX HPHL True Position" value="AUTO" />
-> 	<ctl name="RX HPHL True Position" value="AUTO" />
+> 	<ctl name="HPHL True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -25339,9 +25339,9 @@
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Position Switch" value="2" />
-> 	<ctl name="TX HPHR True Position" value="AUTO" />
-> 	<ctl name="RX HPHR True Position" value="AUTO" />
+> 	<ctl name="HPHR True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -25418,9 +25418,9 @@
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Position Switch" value="2" />
-> 	<ctl name="TX1 True Position" value="AUTO" />
-> 	<ctl name="RX1 True Position" value="AUTO" />
+> 	<ctl name="1 True Orientation Switch" value="2" />
+> 	<ctl name="TX1 True Orientation" value="AUTO" />
+> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
@@ -25460,9 +25460,9 @@
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Position Switch" value="2" />
-> 	<ctl name="TX2 True Position" value="AUTO" />
-> 	<ctl name="RX2 True Position" value="AUTO" />
+> 	<ctl name="2 True Orientation Switch" value="2" />
+> 	<ctl name="TX2 True Orientation" value="AUTO" />
+> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
@@ -25502,9 +25502,9 @@
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Position Switch" value="2" />
-> 	<ctl name="TX HPHL True Position" value="AUTO" />
-> 	<ctl name="RX HPHL True Position" value="AUTO" />
+> 	<ctl name="HPHL True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -25541,9 +25541,9 @@
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Position Switch" value="2" />
-> 	<ctl name="TX HPHR True Position" value="AUTO" />
-> 	<ctl name="RX HPHR True Position" value="AUTO" />
+> 	<ctl name="HPHR True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -25609,9 +25609,9 @@
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Position Switch" value="2" />
-> 	<ctl name="TX1 True Position" value="AUTO" />
-> 	<ctl name="RX1 True Position" value="AUTO" />
+> 	<ctl name="1 True Orientation Switch" value="2" />
+> 	<ctl name="TX1 True Orientation" value="AUTO" />
+> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
@@ -25651,9 +25651,9 @@
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Position Switch" value="2" />
-> 	<ctl name="TX2 True Position" value="AUTO" />
-> 	<ctl name="RX2 True Position" value="AUTO" />
+> 	<ctl name="2 True Orientation Switch" value="2" />
+> 	<ctl name="TX2 True Orientation" value="AUTO" />
+> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
@@ -25693,9 +25693,9 @@
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Position Switch" value="2" />
-> 	<ctl name="TX HPHL True Position" value="AUTO" />
-> 	<ctl name="RX HPHL True Position" value="AUTO" />
+> 	<ctl name="HPHL True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -25732,9 +25732,9 @@
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Position Switch" value="2" />
-> 	<ctl name="TX HPHR True Position" value="AUTO" />
-> 	<ctl name="RX HPHR True Position" value="AUTO" />
+> 	<ctl name="HPHR True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -25800,9 +25800,9 @@
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Position Switch" value="2" />
-> 	<ctl name="TX1 True Position" value="AUTO" />
-> 	<ctl name="RX1 True Position" value="AUTO" />
+> 	<ctl name="1 True Orientation Switch" value="2" />
+> 	<ctl name="TX1 True Orientation" value="AUTO" />
+> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
@@ -25842,9 +25842,9 @@
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Position Switch" value="2" />
-> 	<ctl name="TX2 True Position" value="AUTO" />
-> 	<ctl name="RX2 True Position" value="AUTO" />
+> 	<ctl name="2 True Orientation Switch" value="2" />
+> 	<ctl name="TX2 True Orientation" value="AUTO" />
+> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
@@ -25884,9 +25884,9 @@
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Position Switch" value="2" />
-> 	<ctl name="TX HPHL True Position" value="AUTO" />
-> 	<ctl name="RX HPHL True Position" value="AUTO" />
+> 	<ctl name="HPHL True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -25923,9 +25923,9 @@
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Position Switch" value="2" />
-> 	<ctl name="TX HPHR True Position" value="AUTO" />
-> 	<ctl name="RX HPHR True Position" value="AUTO" />
+> 	<ctl name="HPHR True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -25973,9 +25973,9 @@
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Position Switch" value="2" />
-> 	<ctl name="TX1 True Position" value="AUTO" />
-> 	<ctl name="RX1 True Position" value="AUTO" />
+> 	<ctl name="1 True Orientation Switch" value="2" />
+> 	<ctl name="TX1 True Orientation" value="AUTO" />
+> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
@@ -26015,9 +26015,9 @@
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Position Switch" value="2" />
-> 	<ctl name="TX2 True Position" value="AUTO" />
-> 	<ctl name="RX2 True Position" value="AUTO" />
+> 	<ctl name="2 True Orientation Switch" value="2" />
+> 	<ctl name="TX2 True Orientation" value="AUTO" />
+> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
@@ -26057,9 +26057,9 @@
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Position Switch" value="2" />
-> 	<ctl name="TX HPHL True Position" value="AUTO" />
-> 	<ctl name="RX HPHL True Position" value="AUTO" />
+> 	<ctl name="HPHL True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -26096,9 +26096,9 @@
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Position Switch" value="2" />
-> 	<ctl name="TX HPHR True Position" value="AUTO" />
-> 	<ctl name="RX HPHR True Position" value="AUTO" />
+> 	<ctl name="HPHR True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -26146,9 +26146,9 @@
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Position Switch" value="2" />
-> 	<ctl name="TX1 True Position" value="AUTO" />
-> 	<ctl name="RX1 True Position" value="AUTO" />
+> 	<ctl name="1 True Orientation Switch" value="2" />
+> 	<ctl name="TX1 True Orientation" value="AUTO" />
+> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
@@ -26188,9 +26188,9 @@
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Position Switch" value="2" />
-> 	<ctl name="TX2 True Position" value="AUTO" />
-> 	<ctl name="RX2 True Position" value="AUTO" />
+> 	<ctl name="2 True Orientation Switch" value="2" />
+> 	<ctl name="TX2 True Orientation" value="AUTO" />
+> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
@@ -26230,9 +26230,9 @@
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Position Switch" value="2" />
-> 	<ctl name="TX HPHL True Position" value="AUTO" />
-> 	<ctl name="RX HPHL True Position" value="AUTO" />
+> 	<ctl name="HPHL True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -26269,9 +26269,9 @@
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Position Switch" value="2" />
-> 	<ctl name="TX HPHR True Position" value="AUTO" />
-> 	<ctl name="RX HPHR True Position" value="AUTO" />
+> 	<ctl name="HPHR True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -26337,9 +26337,9 @@
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Position Switch" value="2" />
-> 	<ctl name="TX1 True Position" value="AUTO" />
-> 	<ctl name="RX1 True Position" value="AUTO" />
+> 	<ctl name="1 True Orientation Switch" value="2" />
+> 	<ctl name="TX1 True Orientation" value="AUTO" />
+> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
@@ -26379,9 +26379,9 @@
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Position Switch" value="2" />
-> 	<ctl name="TX2 True Position" value="AUTO" />
-> 	<ctl name="RX2 True Position" value="AUTO" />
+> 	<ctl name="2 True Orientation Switch" value="2" />
+> 	<ctl name="TX2 True Orientation" value="AUTO" />
+> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
@@ -26421,9 +26421,9 @@
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Position Switch" value="2" />
-> 	<ctl name="TX HPHL True Position" value="AUTO" />
-> 	<ctl name="RX HPHL True Position" value="AUTO" />
+> 	<ctl name="HPHL True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -26460,9 +26460,9 @@
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Position Switch" value="2" />
-> 	<ctl name="TX HPHR True Position" value="AUTO" />
-> 	<ctl name="RX HPHR True Position" value="AUTO" />
+> 	<ctl name="HPHR True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -26510,9 +26510,9 @@
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Position Switch" value="2" />
-> 	<ctl name="TX1 True Position" value="AUTO" />
-> 	<ctl name="RX1 True Position" value="AUTO" />
+> 	<ctl name="1 True Orientation Switch" value="2" />
+> 	<ctl name="TX1 True Orientation" value="AUTO" />
+> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
@@ -26552,9 +26552,9 @@
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Position Switch" value="2" />
-> 	<ctl name="TX2 True Position" value="AUTO" />
-> 	<ctl name="RX2 True Position" value="AUTO" />
+> 	<ctl name="2 True Orientation Switch" value="2" />
+> 	<ctl name="TX2 True Orientation" value="AUTO" />
+> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
@@ -26594,9 +26594,9 @@
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Position Switch" value="2" />
-> 	<ctl name="TX HPHL True Position" value="AUTO" />
-> 	<ctl name="RX HPHL True Position" value="AUTO" />
+> 	<ctl name="HPHL True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -26633,9 +26633,9 @@
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Position Switch" value="2" />
-> 	<ctl name="TX HPHR True Position" value="AUTO" />
-> 	<ctl name="RX HPHR True Position" value="AUTO" />
+> 	<ctl name="HPHR True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -26683,9 +26683,9 @@
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Position Switch" value="2" />
-> 	<ctl name="TX1 True Position" value="AUTO" />
-> 	<ctl name="RX1 True Position" value="AUTO" />
+> 	<ctl name="1 True Orientation Switch" value="2" />
+> 	<ctl name="TX1 True Orientation" value="AUTO" />
+> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
@@ -26725,9 +26725,9 @@
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Position Switch" value="2" />
-> 	<ctl name="TX2 True Position" value="AUTO" />
-> 	<ctl name="RX2 True Position" value="AUTO" />
+> 	<ctl name="2 True Orientation Switch" value="2" />
+> 	<ctl name="TX2 True Orientation" value="AUTO" />
+> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
@@ -26767,9 +26767,9 @@
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Position Switch" value="2" />
-> 	<ctl name="TX HPHL True Position" value="AUTO" />
-> 	<ctl name="RX HPHL True Position" value="AUTO" />
+> 	<ctl name="HPHL True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -26806,9 +26806,9 @@
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Position Switch" value="2" />
-> 	<ctl name="TX HPHR True Position" value="AUTO" />
-> 	<ctl name="RX HPHR True Position" value="AUTO" />
+> 	<ctl name="HPHR True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -26857,9 +26857,9 @@
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Position Switch" value="2" />
-> 	<ctl name="TX1 True Position" value="AUTO" />
-> 	<ctl name="RX1 True Position" value="AUTO" />
+> 	<ctl name="1 True Orientation Switch" value="2" />
+> 	<ctl name="TX1 True Orientation" value="AUTO" />
+> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
@@ -26899,9 +26899,9 @@
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Position Switch" value="2" />
-> 	<ctl name="TX2 True Position" value="AUTO" />
-> 	<ctl name="RX2 True Position" value="AUTO" />
+> 	<ctl name="2 True Orientation Switch" value="2" />
+> 	<ctl name="TX2 True Orientation" value="AUTO" />
+> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
@@ -26941,9 +26941,9 @@
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Position Switch" value="2" />
-> 	<ctl name="TX HPHL True Position" value="AUTO" />
-> 	<ctl name="RX HPHL True Position" value="AUTO" />
+> 	<ctl name="HPHL True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -26980,9 +26980,9 @@
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Position Switch" value="2" />
-> 	<ctl name="TX HPHR True Position" value="AUTO" />
-> 	<ctl name="RX HPHR True Position" value="AUTO" />
+> 	<ctl name="HPHR True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -27030,9 +27030,9 @@
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Position Switch" value="2" />
-> 	<ctl name="TX1 True Position" value="AUTO" />
-> 	<ctl name="RX1 True Position" value="AUTO" />
+> 	<ctl name="1 True Orientation Switch" value="2" />
+> 	<ctl name="TX1 True Orientation" value="AUTO" />
+> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
@@ -27072,9 +27072,9 @@
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Position Switch" value="2" />
-> 	<ctl name="TX2 True Position" value="AUTO" />
-> 	<ctl name="RX2 True Position" value="AUTO" />
+> 	<ctl name="2 True Orientation Switch" value="2" />
+> 	<ctl name="TX2 True Orientation" value="AUTO" />
+> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
@@ -27114,9 +27114,9 @@
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Position Switch" value="2" />
-> 	<ctl name="TX HPHL True Position" value="AUTO" />
-> 	<ctl name="RX HPHL True Position" value="AUTO" />
+> 	<ctl name="HPHL True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -27153,9 +27153,9 @@
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Position Switch" value="2" />
-> 	<ctl name="TX HPHR True Position" value="AUTO" />
-> 	<ctl name="RX HPHR True Position" value="AUTO" />
+> 	<ctl name="HPHR True Orientation Switch" value="2" />
+> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
+> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
