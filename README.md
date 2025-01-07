@@ -1,11 +1,14 @@
 ![Untitled](https://github.com/Darnrain1/Lemon-Drop-Hi-Res-audio-source-code/assets/170971862/270e5b01-fdbb-455f-84a4-b0ff12d4be0d)
 ## Lemon Drop Hi-Res audio source code
-
 Welcome to the future of music...<br>
 The Lgv20 was first with the Android Nougat operating system.<br>
 Now it's the first running in True Native Mode.<br>
 With audio perfictly centered, ballanced, and normalized audio.<br>
 With all 4 DACs enabled.<br>
+DAC 0 = low-range<br>
+DAC 1 = mid-range<br>
+DAC 2 = high-range<br>
+DAC 3 = offload<br>
 
 16BIT<br>
 Channels = 12,288<br>
