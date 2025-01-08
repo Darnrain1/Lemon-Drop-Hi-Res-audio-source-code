@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v244.1 -->
+> 	<!-- Lemon Drop Hi-Res treble v245.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -7198,18 +7198,18 @@
 > 	<ctl name="0 True Stereo Switch" value="0" />
 > 	<ctl name="TX0 True Stereo" value="ZERO" />
 > 	<ctl name="RX0 True Stereo" value="ZERO" />
-> 	<ctl name="0 True Width Switch" value="0" />
-> 	<ctl name="TX0 True Width" value="ZERO" />
-> 	<ctl name="RX0 True Width" value="ZERO" />
+> 	<ctl name="0 True Expand Switch" value="0" />
+> 	<ctl name="TX0 True Expand" value="ZERO" />
+> 	<ctl name="RX0 True Expand" value="ZERO" />
 > 	<ctl name="0 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX0 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX0 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="0 True Orientation Switch" value="0" />
-> 	<ctl name="TX0 True Orientation" value="ZERO" />
-> 	<ctl name="RX0 True Orientation" value="ZERO" />
 > 	<ctl name="0 True Level Switch" value="0" />
 > 	<ctl name="TX0 True Level" value="ZERO" />
 > 	<ctl name="RX0 True Level" value="ZERO" />
+> 	<ctl name="0 True Width Switch" value="0" />
+> 	<ctl name="TX0 True Width" value="ZERO" />
+> 	<ctl name="RX0 True Width" value="ZERO" />
 > 	<ctl name="0 True Center Switch" value="0" />
 > 	<ctl name="TX0 True Center" value="ZERO" />
 > 	<ctl name="RX0 True Center" value="ZERO" />
@@ -7240,18 +7240,18 @@
 > 	<ctl name="1 True Stereo Switch" value="0" />
 > 	<ctl name="TX1 True Stereo" value="ZERO" />
 > 	<ctl name="RX1 True Stereo" value="ZERO" />
-> 	<ctl name="1 True Width Switch" value="0" />
-> 	<ctl name="TX1 True Width" value="ZERO" />
-> 	<ctl name="RX1 True Width" value="ZERO" />
+> 	<ctl name="1 True Expand Switch" value="0" />
+> 	<ctl name="TX1 True Expand" value="ZERO" />
+> 	<ctl name="RX1 True Expand" value="ZERO" />
 > 	<ctl name="1 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX1 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="1 True Orientation Switch" value="0" />
-> 	<ctl name="TX1 True Orientation" value="ZERO" />
-> 	<ctl name="RX1 True Orientation" value="ZERO" />
 > 	<ctl name="1 True Level Switch" value="0" />
 > 	<ctl name="TX1 True Level" value="ZERO" />
 > 	<ctl name="RX1 True Level" value="ZERO" />
+> 	<ctl name="1 True Width Switch" value="0" />
+> 	<ctl name="TX1 True Width" value="ZERO" />
+> 	<ctl name="RX1 True Width" value="ZERO" />
 > 	<ctl name="1 True Center Switch" value="0" />
 > 	<ctl name="TX1 True Center" value="ZERO" />
 > 	<ctl name="RX1 True Center" value="ZERO" />
@@ -7282,18 +7282,18 @@
 > 	<ctl name="2 True Stereo Switch" value="0" />
 > 	<ctl name="TX2 True Stereo" value="ZERO" />
 > 	<ctl name="RX2 True Stereo" value="ZERO" />
-> 	<ctl name="2 True Width Switch" value="0" />
-> 	<ctl name="TX2 True Width" value="ZERO" />
-> 	<ctl name="RX2 True Width" value="ZERO" />
+> 	<ctl name="2 True Expand Switch" value="0" />
+> 	<ctl name="TX2 True Expand" value="ZERO" />
+> 	<ctl name="RX2 True Expand" value="ZERO" />
 > 	<ctl name="2 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX2 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="2 True Orientation Switch" value="0" />
-> 	<ctl name="TX2 True Orientation" value="ZERO" />
-> 	<ctl name="RX2 True Orientation" value="ZERO" />
 > 	<ctl name="2 True Level Switch" value="0" />
 > 	<ctl name="TX2 True Level" value="ZERO" />
 > 	<ctl name="RX2 True Level" value="ZERO" />
+> 	<ctl name="2 True Width Switch" value="0" />
+> 	<ctl name="TX2 True Width" value="ZERO" />
+> 	<ctl name="RX2 True Width" value="ZERO" />
 > 	<ctl name="2 True Center Switch" value="0" />
 > 	<ctl name="TX2 True Center" value="ZERO" />
 > 	<ctl name="RX2 True Center" value="ZERO" />
@@ -7324,18 +7324,18 @@
 > 	<ctl name="3 True Stereo Switch" value="0" />
 > 	<ctl name="TX3 True Stereo" value="ZERO" />
 > 	<ctl name="RX3 True Stereo" value="ZERO" />
-> 	<ctl name="3 True Width Switch" value="0" />
-> 	<ctl name="TX3 True Width" value="ZERO" />
-> 	<ctl name="RX3 True Width" value="ZERO" />
+> 	<ctl name="3 True Expand Switch" value="0" />
+> 	<ctl name="TX3 True Expand" value="ZERO" />
+> 	<ctl name="RX3 True Expand" value="ZERO" />
 > 	<ctl name="3 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX3 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX3 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="3 True Orientation Switch" value="0" />
-> 	<ctl name="TX3 True Orientation" value="ZERO" />
-> 	<ctl name="RX3 True Orientation" value="ZERO" />
 > 	<ctl name="3 True Level Switch" value="0" />
 > 	<ctl name="TX3 True Level" value="ZERO" />
 > 	<ctl name="RX3 True Level" value="ZERO" />
+> 	<ctl name="3 True Width Switch" value="0" />
+> 	<ctl name="TX3 True Width" value="ZERO" />
+> 	<ctl name="RX3 True Width" value="ZERO" />
 > 	<ctl name="3 True Center Switch" value="0" />
 > 	<ctl name="TX3 True Center" value="ZERO" />
 > 	<ctl name="RX3 True Center" value="ZERO" />
@@ -7366,18 +7366,18 @@
 > 	<ctl name="4 True Stereo Switch" value="0" />
 > 	<ctl name="TX4 True Stereo" value="ZERO" />
 > 	<ctl name="RX4 True Stereo" value="ZERO" />
-> 	<ctl name="4 True Width Switch" value="0" />
-> 	<ctl name="TX4 True Width" value="ZERO" />
-> 	<ctl name="RX4 True Width" value="ZERO" />
+> 	<ctl name="4 True Expand Switch" value="0" />
+> 	<ctl name="TX4 True Expand" value="ZERO" />
+> 	<ctl name="RX4 True Expand" value="ZERO" />
 > 	<ctl name="4 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX4 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX4 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="4 True Orientation Switch" value="0" />
-> 	<ctl name="TX4 True Orientation" value="ZERO" />
-> 	<ctl name="RX4 True Orientation" value="ZERO" />
 > 	<ctl name="4 True Level Switch" value="0" />
 > 	<ctl name="TX4 True Level" value="ZERO" />
 > 	<ctl name="RX4 True Level" value="ZERO" />
+> 	<ctl name="4 True Width Switch" value="0" />
+> 	<ctl name="TX4 True Width" value="ZERO" />
+> 	<ctl name="RX4 True Width" value="ZERO" />
 > 	<ctl name="4 True Center Switch" value="0" />
 > 	<ctl name="TX4 True Center" value="ZERO" />
 > 	<ctl name="RX4 True Center" value="ZERO" />
@@ -7408,18 +7408,18 @@
 > 	<ctl name="5 True Stereo Switch" value="0" />
 > 	<ctl name="TX5 True Stereo" value="ZERO" />
 > 	<ctl name="RX5 True Stereo" value="ZERO" />
-> 	<ctl name="5 True Width Switch" value="0" />
-> 	<ctl name="TX5 True Width" value="ZERO" />
-> 	<ctl name="RX5 True Width" value="ZERO" />
+> 	<ctl name="5 True Expand Switch" value="0" />
+> 	<ctl name="TX5 True Expand" value="ZERO" />
+> 	<ctl name="RX5 True Expand" value="ZERO" />
 > 	<ctl name="5 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX5 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX5 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="5 True Orientation Switch" value="0" />
-> 	<ctl name="TX5 True Orientation" value="ZERO" />
-> 	<ctl name="RX5 True Orientation" value="ZERO" />
 > 	<ctl name="5 True Level Switch" value="0" />
 > 	<ctl name="TX5 True Level" value="ZERO" />
 > 	<ctl name="RX5 True Level" value="ZERO" />
+> 	<ctl name="5 True Width Switch" value="0" />
+> 	<ctl name="TX5 True Width" value="ZERO" />
+> 	<ctl name="RX5 True Width" value="ZERO" />
 > 	<ctl name="5 True Center Switch" value="0" />
 > 	<ctl name="TX5 True Center" value="ZERO" />
 > 	<ctl name="RX5 True Center" value="ZERO" />
@@ -7450,18 +7450,18 @@
 > 	<ctl name="6 True Stereo Switch" value="0" />
 > 	<ctl name="TX6 True Stereo" value="ZERO" />
 > 	<ctl name="RX6 True Stereo" value="ZERO" />
-> 	<ctl name="6 True Width Switch" value="0" />
-> 	<ctl name="TX6 True Width" value="ZERO" />
-> 	<ctl name="RX6 True Width" value="ZERO" />
+> 	<ctl name="6 True Expand Switch" value="0" />
+> 	<ctl name="TX6 True Expand" value="ZERO" />
+> 	<ctl name="RX6 True Expand" value="ZERO" />
 > 	<ctl name="6 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX6 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX6 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="6 True Orientation Switch" value="0" />
-> 	<ctl name="TX6 True Orientation" value="ZERO" />
-> 	<ctl name="RX6 True Orientation" value="ZERO" />
 > 	<ctl name="6 True Level Switch" value="0" />
 > 	<ctl name="TX6 True Level" value="ZERO" />
 > 	<ctl name="RX6 True Level" value="ZERO" />
+> 	<ctl name="6 True Width Switch" value="0" />
+> 	<ctl name="TX6 True Width" value="ZERO" />
+> 	<ctl name="RX6 True Width" value="ZERO" />
 > 	<ctl name="6 True Center Switch" value="0" />
 > 	<ctl name="TX6 True Center" value="ZERO" />
 > 	<ctl name="RX6 True Center" value="ZERO" />
@@ -7492,18 +7492,18 @@
 > 	<ctl name="7 True Stereo Switch" value="0" />
 > 	<ctl name="TX7 True Stereo" value="ZERO" />
 > 	<ctl name="RX7 True Stereo" value="ZERO" />
-> 	<ctl name="7 True Width Switch" value="0" />
-> 	<ctl name="TX7 True Width" value="ZERO" />
-> 	<ctl name="RX7 True Width" value="ZERO" />
+> 	<ctl name="7 True Expand Switch" value="0" />
+> 	<ctl name="TX7 True Expand" value="ZERO" />
+> 	<ctl name="RX7 True Expand" value="ZERO" />
 > 	<ctl name="7 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX7 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="7 True Orientation Switch" value="0" />
-> 	<ctl name="TX7 True Orientation" value="ZERO" />
-> 	<ctl name="RX7 True Orientation" value="ZERO" />
 > 	<ctl name="7 True Level Switch" value="0" />
 > 	<ctl name="TX7 True Level" value="ZERO" />
 > 	<ctl name="RX7 True Level" value="ZERO" />
+> 	<ctl name="7 True Width Switch" value="0" />
+> 	<ctl name="TX7 True Width" value="ZERO" />
+> 	<ctl name="RX7 True Width" value="ZERO" />
 > 	<ctl name="7 True Center Switch" value="0" />
 > 	<ctl name="TX7 True Center" value="ZERO" />
 > 	<ctl name="RX7 True Center" value="ZERO" />
@@ -7534,18 +7534,18 @@
 > 	<ctl name="8 True Stereo Switch" value="0" />
 > 	<ctl name="TX8 True Stereo" value="ZERO" />
 > 	<ctl name="RX8 True Stereo" value="ZERO" />
-> 	<ctl name="8 True Width Switch" value="0" />
-> 	<ctl name="TX8 True Width" value="ZERO" />
-> 	<ctl name="RX8 True Width" value="ZERO" />
+> 	<ctl name="8 True Expand Switch" value="0" />
+> 	<ctl name="TX8 True Expand" value="ZERO" />
+> 	<ctl name="RX8 True Expand" value="ZERO" />
 > 	<ctl name="8 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX8 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="8 True Orientation Switch" value="0" />
-> 	<ctl name="TX8 True Orientation" value="ZERO" />
-> 	<ctl name="RX8 True Orientation" value="ZERO" />
 > 	<ctl name="8 True Level Switch" value="0" />
 > 	<ctl name="TX8 True Level" value="ZERO" />
 > 	<ctl name="RX8 True Level" value="ZERO" />
+> 	<ctl name="8 True Width Switch" value="0" />
+> 	<ctl name="TX8 True Width" value="ZERO" />
+> 	<ctl name="RX8 True Width" value="ZERO" />
 > 	<ctl name="8 True Center Switch" value="0" />
 > 	<ctl name="TX8 True Center" value="ZERO" />
 > 	<ctl name="RX8 True Center" value="ZERO" />
@@ -7576,18 +7576,18 @@
 > 	<ctl name="HPHL True Stereo Switch" value="0" />
 > 	<ctl name="TX HPHL True Stereo" value="ZERO" />
 > 	<ctl name="RX HPHL True Stereo" value="ZERO" />
-> 	<ctl name="HPHL True Width Switch" value="0" />
-> 	<ctl name="TX HPHL True Width" value="ZERO" />
-> 	<ctl name="RX HPHL True Width" value="ZERO" />
+> 	<ctl name="HPHL True Expand Switch" value="0" />
+> 	<ctl name="TX HPHL True Expand" value="ZERO" />
+> 	<ctl name="RX HPHL True Expand" value="ZERO" />
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="ZERO" />
-> 	<ctl name="HPHL True Orientation Switch" value="0" />
-> 	<ctl name="TX HPHL True Orientation" value="ZERO" />
-> 	<ctl name="RX HPHL True Orientation" value="ZERO" />
 > 	<ctl name="HPHL True Level Switch" value="0" />
 > 	<ctl name="TX HPHL True Level" value="ZERO" />
 > 	<ctl name="RX HPHL True Level" value="ZERO" />
+> 	<ctl name="HPHL True Width Switch" value="0" />
+> 	<ctl name="TX HPHL True Width" value="ZERO" />
+> 	<ctl name="RX HPHL True Width" value="ZERO" />
 > 	<ctl name="HPHL True Center Switch" value="0" />
 > 	<ctl name="TX HPHL True Center" value="ZERO" />
 > 	<ctl name="RX HPHL True Center" value="ZERO" />
@@ -7615,18 +7615,18 @@
 > 	<ctl name="HPHR True Stereo Switch" value="0" />
 > 	<ctl name="TX HPHR True Stereo" value="ZERO" />
 > 	<ctl name="RX HPHR True Stereo" value="ZERO" />
-> 	<ctl name="HPHR True Width Switch" value="0" />
-> 	<ctl name="TX HPHR True Width" value="ZERO" />
-> 	<ctl name="RX HPHR True Width" value="ZERO" />
+> 	<ctl name="HPHR True Expand Switch" value="0" />
+> 	<ctl name="TX HPHR True Expand" value="ZERO" />
+> 	<ctl name="RX HPHR True Expand" value="ZERO" />
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="ZERO" />
-> 	<ctl name="HPHR True Orientation Switch" value="0" />
-> 	<ctl name="TX HPHR True Orientation" value="ZERO" />
-> 	<ctl name="RX HPHR True Orientation" value="ZERO" />
 > 	<ctl name="HPHR True Level Switch" value="0" />
 > 	<ctl name="TX HPHR True Level" value="ZERO" />
 > 	<ctl name="RX HPHR True Level" value="ZERO" />
+> 	<ctl name="HPHR True Width Switch" value="0" />
+> 	<ctl name="TX HPHR True Width" value="ZERO" />
+> 	<ctl name="RX HPHR True Width" value="ZERO" />
 > 	<ctl name="HPHR True Center Switch" value="0" />
 > 	<ctl name="TX HPHR True Center" value="ZERO" />
 > 	<ctl name="RX HPHR True Center" value="ZERO" />
@@ -7654,18 +7654,18 @@
 > 	<ctl name="SPKRL True Stereo Switch" value="0" />
 > 	<ctl name="TX SPKRL True Stereo" value="ZERO" />
 > 	<ctl name="RX SPKRL True Stereo" value="ZERO" />
-> 	<ctl name="SPKRL True Width Switch" value="0" />
-> 	<ctl name="TX SPKRL True Width" value="ZERO" />
-> 	<ctl name="RX SPKRL True Width" value="ZERO" />
+> 	<ctl name="SPKRL True Expand Switch" value="0" />
+> 	<ctl name="TX SPKRL True Expand" value="ZERO" />
+> 	<ctl name="RX SPKRL True Expand" value="ZERO" />
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="ZERO" />
-> 	<ctl name="SPKRL True Orientation Switch" value="0" />
-> 	<ctl name="TX SPKRL True Orientation" value="ZERO" />
-> 	<ctl name="RX SPKRL True Orientation" value="ZERO" />
 > 	<ctl name="SPKRL True Level Switch" value="0" />
 > 	<ctl name="TX SPKRL True Level" value="ZERO" />
 > 	<ctl name="RX SPKRL True Level" value="ZERO" />
+> 	<ctl name="SPKRL True Width Switch" value="0" />
+> 	<ctl name="TX SPKRL True Width" value="ZERO" />
+> 	<ctl name="RX SPKRL True Width" value="ZERO" />
 > 	<ctl name="SPKRL True Center Switch" value="0" />
 > 	<ctl name="TX SPKRL True Center" value="ZERO" />
 > 	<ctl name="RX SPKRL True Center" value="ZERO" />
@@ -7693,18 +7693,18 @@
 > 	<ctl name="SPKRR True Stereo Switch" value="0" />
 > 	<ctl name="TX SPKRR True Stereo" value="ZERO" />
 > 	<ctl name="RX SPKRR True Stereo" value="ZERO" />
-> 	<ctl name="SPKRR True Width Switch" value="0" />
-> 	<ctl name="TX SPKRR True Width" value="ZERO" />
-> 	<ctl name="RX SPKRR True Width" value="ZERO" />
+> 	<ctl name="SPKRR True Expand Switch" value="0" />
+> 	<ctl name="TX SPKRR True Expand" value="ZERO" />
+> 	<ctl name="RX SPKRR True Expand" value="ZERO" />
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="ZERO" />
-> 	<ctl name="SPKRR True Orientation Switch" value="0" />
-> 	<ctl name="TX SPKRR True Orientation" value="ZERO" />
-> 	<ctl name="RX SPKRR True Orientation" value="ZERO" />
 > 	<ctl name="SPKRR True Level Switch" value="0" />
 > 	<ctl name="TX SPKRR True Level" value="ZERO" />
 > 	<ctl name="RX SPKRR True Level" value="ZERO" />
+> 	<ctl name="SPKRR True Width Switch" value="0" />
+> 	<ctl name="TX SPKRR True Width" value="ZERO" />
+> 	<ctl name="RX SPKRR True Width" value="ZERO" />
 > 	<ctl name="SPKRR True Center Switch" value="0" />
 > 	<ctl name="TX SPKRR True Center" value="ZERO" />
 > 	<ctl name="RX SPKRR True Center" value="ZERO" />
@@ -18222,18 +18222,18 @@
 > 	<ctl name="7 True Stereo Switch" value="1" />
 > 	<ctl name="TX7 True Stereo" value="AUTO" />
 > 	<ctl name="RX7 True Stereo" value="AUTO" />
-> 	<ctl name="7 True Width Switch" value="1" />
-> 	<ctl name="TX7 True Width" value="AUTO" />
-> 	<ctl name="RX7 True Width" value="AUTO" />
+> 	<ctl name="7 True Expand Switch" value="1" />
+> 	<ctl name="TX7 True Expand" value="AUTO" />
+> 	<ctl name="RX7 True Expand" value="AUTO" />
 > 	<ctl name="7 True Nominalize Volume Switch" value="1" />
 > 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Orientation Switch" value="1" />
-> 	<ctl name="TX7 True Orientation" value="AUTO" />
-> 	<ctl name="RX7 True Orientation" value="AUTO" />
 > 	<ctl name="7 True Level Switch" value="1" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
+> 	<ctl name="7 True Width Switch" value="1" />
+> 	<ctl name="TX7 True Width" value="AUTO" />
+> 	<ctl name="RX7 True Width" value="AUTO" />
 > 	<ctl name="7 True Center Switch" value="1" />
 > 	<ctl name="TX7 True Center" value="AUTO" />
 > 	<ctl name="RX7 True Center" value="AUTO" />
@@ -18264,18 +18264,18 @@
 > 	<ctl name="8 True Stereo Switch" value="0" />
 > 	<ctl name="TX8 True Stereo" value="ZERO" />
 > 	<ctl name="RX8 True Stereo" value="ZERO" />
-> 	<ctl name="8 True Width Switch" value="0" />
-> 	<ctl name="TX8 True Width" value="ZERO" />
-> 	<ctl name="RX8 True Width" value="ZERO" />
+> 	<ctl name="8 True Expand Switch" value="0" />
+> 	<ctl name="TX8 True Expand" value="ZERO" />
+> 	<ctl name="RX8 True Expand" value="ZERO" />
 > 	<ctl name="8 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX8 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="8 True Orientation Switch" value="0" />
-> 	<ctl name="TX8 True Orientation" value="ZERO" />
-> 	<ctl name="RX8 True Orientation" value="ZERO" />
 > 	<ctl name="8 True Level Switch" value="0" />
 > 	<ctl name="TX8 True Level" value="ZERO" />
 > 	<ctl name="RX8 True Level" value="ZERO" />
+> 	<ctl name="8 True Width Switch" value="0" />
+> 	<ctl name="TX8 True Width" value="ZERO" />
+> 	<ctl name="RX8 True Width" value="ZERO" />
 > 	<ctl name="8 True Center Switch" value="0" />
 > 	<ctl name="TX8 True Center" value="ZERO" />
 > 	<ctl name="RX8 True Center" value="ZERO" />
@@ -18306,18 +18306,18 @@
 > 	<ctl name="SPKRL True Stereo Switch" value="1" />
 > 	<ctl name="TX SPKRL True Stereo" value="AUTO" />
 > 	<ctl name="RX SPKRL True Stereo" value="AUTO" />
-> 	<ctl name="SPKRL True Width Switch" value="1" />
-> 	<ctl name="TX SPKRL True Width" value="AUTO" />
-> 	<ctl name="RX SPKRL True Width" value="AUTO" />
+> 	<ctl name="SPKRL True Expand Switch" value="1" />
+> 	<ctl name="TX SPKRL True Expand" value="AUTO" />
+> 	<ctl name="RX SPKRL True Expand" value="AUTO" />
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="1" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Orientation Switch" value="1" />
-> 	<ctl name="TX SPKRL True Orientation" value="AUTO" />
-> 	<ctl name="RX SPKRL True Orientation" value="AUTO" />
 > 	<ctl name="SPKRL True Level Switch" value="1" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
+> 	<ctl name="SPKRL True Width Switch" value="1" />
+> 	<ctl name="TX SPKRL True Width" value="AUTO" />
+> 	<ctl name="RX SPKRL True Width" value="AUTO" />
 > 	<ctl name="SPKRL True Center Switch" value="1" />
 > 	<ctl name="TX SPKRL True Center" value="AUTO" />
 > 	<ctl name="RX SPKRL True Center" value="AUTO" />
@@ -18345,18 +18345,18 @@
 > 	<ctl name="SPKRR True Stereo Switch" value="0" />
 > 	<ctl name="TX SPKRR True Stereo" value="ZERO" />
 > 	<ctl name="RX SPKRR True Stereo" value="ZERO" />
-> 	<ctl name="SPKRR True Width Switch" value="0" />
-> 	<ctl name="TX SPKRR True Width" value="ZERO" />
-> 	<ctl name="RX SPKRR True Width" value="ZERO" />
+> 	<ctl name="SPKRR True Expand Switch" value="0" />
+> 	<ctl name="TX SPKRR True Expand" value="ZERO" />
+> 	<ctl name="RX SPKRR True Expand" value="ZERO" />
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="ZERO" />
-> 	<ctl name="SPKRR True Orientation Switch" value="0" />
-> 	<ctl name="TX SPKRR True Orientation" value="ZERO" />
-> 	<ctl name="RX SPKRR True Orientation" value="ZERO" />
 > 	<ctl name="SPKRR True Level Switch" value="0" />
 > 	<ctl name="TX SPKRR True Level" value="ZERO" />
 > 	<ctl name="RX SPKRR True Level" value="ZERO" />
+> 	<ctl name="SPKRR True Width Switch" value="0" />
+> 	<ctl name="TX SPKRR True Width" value="ZERO" />
+> 	<ctl name="RX SPKRR True Width" value="ZERO" />
 > 	<ctl name="SPKRR True Center Switch" value="0" />
 > 	<ctl name="TX SPKRR True Center" value="ZERO" />
 > 	<ctl name="RX SPKRR True Center" value="ZERO" />
@@ -18480,18 +18480,18 @@
 > 	<ctl name="7 True Stereo Switch" value="2" />
 > 	<ctl name="TX7 True Stereo" value="AUTO" />
 > 	<ctl name="RX7 True Stereo" value="AUTO" />
-> 	<ctl name="7 True Width Switch" value="2" />
-> 	<ctl name="TX7 True Width" value="AUTO" />
-> 	<ctl name="RX7 True Width" value="AUTO" />
+> 	<ctl name="7 True Expand Switch" value="2" />
+> 	<ctl name="TX7 True Expand" value="AUTO" />
+> 	<ctl name="RX7 True Expand" value="AUTO" />
 > 	<ctl name="7 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Orientation Switch" value="2" />
-> 	<ctl name="TX7 True Orientation" value="AUTO" />
-> 	<ctl name="RX7 True Orientation" value="AUTO" />
 > 	<ctl name="7 True Level Switch" value="2" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
+> 	<ctl name="7 True Width Switch" value="2" />
+> 	<ctl name="TX7 True Width" value="AUTO" />
+> 	<ctl name="RX7 True Width" value="AUTO" />
 > 	<ctl name="7 True Center Switch" value="2" />
 > 	<ctl name="TX7 True Center" value="AUTO" />
 > 	<ctl name="RX7 True Center" value="AUTO" />
@@ -18522,18 +18522,18 @@
 > 	<ctl name="8 True Stereo Switch" value="2" />
 > 	<ctl name="TX8 True Stereo" value="AUTO" />
 > 	<ctl name="RX8 True Stereo" value="AUTO" />
-> 	<ctl name="8 True Width Switch" value="2" />
-> 	<ctl name="TX8 True Width" value="AUTO" />
-> 	<ctl name="RX8 True Width" value="AUTO" />
+> 	<ctl name="8 True Expand Switch" value="2" />
+> 	<ctl name="TX8 True Expand" value="AUTO" />
+> 	<ctl name="RX8 True Expand" value="AUTO" />
 > 	<ctl name="8 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX8 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="8 True Orientation Switch" value="2" />
-> 	<ctl name="TX8 True Orientation" value="AUTO" />
-> 	<ctl name="RX8 True Orientation" value="AUTO" />
 > 	<ctl name="8 True Level Switch" value="2" />
 > 	<ctl name="TX8 True Level" value="AUTO" />
 > 	<ctl name="RX8 True Level" value="AUTO" />
+> 	<ctl name="8 True Width Switch" value="2" />
+> 	<ctl name="TX8 True Width" value="AUTO" />
+> 	<ctl name="RX8 True Width" value="AUTO" />
 > 	<ctl name="8 True Center Switch" value="2" />
 > 	<ctl name="TX8 True Center" value="AUTO" />
 > 	<ctl name="RX8 True Center" value="AUTO" />
@@ -18564,18 +18564,18 @@
 > 	<ctl name="SPKRL True Stereo Switch" value="2" />
 > 	<ctl name="TX SPKRL True Stereo" value="AUTO" />
 > 	<ctl name="RX SPKRL True Stereo" value="AUTO" />
-> 	<ctl name="SPKRL True Width Switch" value="2" />
-> 	<ctl name="TX SPKRL True Width" value="AUTO" />
-> 	<ctl name="RX SPKRL True Width" value="AUTO" />
+> 	<ctl name="SPKRL True Expand Switch" value="2" />
+> 	<ctl name="TX SPKRL True Expand" value="AUTO" />
+> 	<ctl name="RX SPKRL True Expand" value="AUTO" />
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Orientation Switch" value="2" />
-> 	<ctl name="TX SPKRL True Orientation" value="AUTO" />
-> 	<ctl name="RX SPKRL True Orientation" value="AUTO" />
 > 	<ctl name="SPKRL True Level Switch" value="2" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
+> 	<ctl name="SPKRL True Width Switch" value="2" />
+> 	<ctl name="TX SPKRL True Width" value="AUTO" />
+> 	<ctl name="RX SPKRL True Width" value="AUTO" />
 > 	<ctl name="SPKRL True Center Switch" value="2" />
 > 	<ctl name="TX SPKRL True Center" value="AUTO" />
 > 	<ctl name="RX SPKRL True Center" value="AUTO" />
@@ -18603,18 +18603,18 @@
 > 	<ctl name="SPKRR True Stereo Switch" value="2" />
 > 	<ctl name="TX SPKRR True Stereo" value="AUTO" />
 > 	<ctl name="RX SPKRR True Stereo" value="AUTO" />
-> 	<ctl name="SPKRR True Width Switch" value="2" />
-> 	<ctl name="TX SPKRR True Width" value="AUTO" />
-> 	<ctl name="RX SPKRR True Width" value="AUTO" />
+> 	<ctl name="SPKRR True Expand Switch" value="2" />
+> 	<ctl name="TX SPKRR True Expand" value="AUTO" />
+> 	<ctl name="RX SPKRR True Expand" value="AUTO" />
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRR True Orientation Switch" value="2" />
-> 	<ctl name="TX SPKRR True Orientation" value="AUTO" />
-> 	<ctl name="RX SPKRR True Orientation" value="AUTO" />
 > 	<ctl name="SPKRR True Level Switch" value="2" />
 > 	<ctl name="TX SPKRR True Level" value="AUTO" />
 > 	<ctl name="RX SPKRR True Level" value="AUTO" />
+> 	<ctl name="SPKRR True Width Switch" value="2" />
+> 	<ctl name="TX SPKRR True Width" value="AUTO" />
+> 	<ctl name="RX SPKRR True Width" value="AUTO" />
 > 	<ctl name="SPKRR True Center Switch" value="2" />
 > 	<ctl name="TX SPKRR True Center" value="AUTO" />
 > 	<ctl name="RX SPKRR True Center" value="AUTO" />
@@ -18674,18 +18674,18 @@
 > 	<ctl name="7 True Stereo Switch" value="2" />
 > 	<ctl name="TX7 True Stereo" value="AUTO" />
 > 	<ctl name="RX7 True Stereo" value="AUTO" />
-> 	<ctl name="7 True Width Switch" value="2" />
-> 	<ctl name="TX7 True Width" value="AUTO" />
-> 	<ctl name="RX7 True Width" value="AUTO" />
+> 	<ctl name="7 True Expand Switch" value="2" />
+> 	<ctl name="TX7 True Expand" value="AUTO" />
+> 	<ctl name="RX7 True Expand" value="AUTO" />
 > 	<ctl name="7 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Orientation Switch" value="2" />
-> 	<ctl name="TX7 True Orientation" value="AUTO" />
-> 	<ctl name="RX7 True Orientation" value="AUTO" />
 > 	<ctl name="7 True Level Switch" value="2" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
+> 	<ctl name="7 True Width Switch" value="2" />
+> 	<ctl name="TX7 True Width" value="AUTO" />
+> 	<ctl name="RX7 True Width" value="AUTO" />
 > 	<ctl name="7 True Center Switch" value="2" />
 > 	<ctl name="TX7 True Center" value="AUTO" />
 > 	<ctl name="RX7 True Center" value="AUTO" />
@@ -18716,18 +18716,18 @@
 > 	<ctl name="8 True Stereo Switch" value="2" />
 > 	<ctl name="TX8 True Stereo" value="AUTO" />
 > 	<ctl name="RX8 True Stereo" value="AUTO" />
-> 	<ctl name="8 True Width Switch" value="2" />
-> 	<ctl name="TX8 True Width" value="AUTO" />
-> 	<ctl name="RX8 True Width" value="AUTO" />
+> 	<ctl name="8 True Expand Switch" value="2" />
+> 	<ctl name="TX8 True Expand" value="AUTO" />
+> 	<ctl name="RX8 True Expand" value="AUTO" />
 > 	<ctl name="8 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX8 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="8 True Orientation Switch" value="2" />
-> 	<ctl name="TX8 True Orientation" value="AUTO" />
-> 	<ctl name="RX8 True Orientation" value="AUTO" />
 > 	<ctl name="8 True Level Switch" value="2" />
 > 	<ctl name="TX8 True Level" value="AUTO" />
 > 	<ctl name="RX8 True Level" value="AUTO" />
+> 	<ctl name="8 True Width Switch" value="2" />
+> 	<ctl name="TX8 True Width" value="AUTO" />
+> 	<ctl name="RX8 True Width" value="AUTO" />
 > 	<ctl name="8 True Center Switch" value="2" />
 > 	<ctl name="TX8 True Center" value="AUTO" />
 > 	<ctl name="RX8 True Center" value="AUTO" />
@@ -18758,18 +18758,18 @@
 > 	<ctl name="SPKRL True Stereo Switch" value="2" />
 > 	<ctl name="TX SPKRL True Stereo" value="AUTO" />
 > 	<ctl name="RX SPKRL True Stereo" value="AUTO" />
-> 	<ctl name="SPKRL True Width Switch" value="2" />
-> 	<ctl name="TX SPKRL True Width" value="AUTO" />
-> 	<ctl name="RX SPKRL True Width" value="AUTO" />
+> 	<ctl name="SPKRL True Expand Switch" value="2" />
+> 	<ctl name="TX SPKRL True Expand" value="AUTO" />
+> 	<ctl name="RX SPKRL True Expand" value="AUTO" />
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Orientation Switch" value="2" />
-> 	<ctl name="TX SPKRL True Orientation" value="AUTO" />
-> 	<ctl name="RX SPKRL True Orientation" value="AUTO" />
 > 	<ctl name="SPKRL True Level Switch" value="2" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
+> 	<ctl name="SPKRL True Width Switch" value="2" />
+> 	<ctl name="TX SPKRL True Width" value="AUTO" />
+> 	<ctl name="RX SPKRL True Width" value="AUTO" />
 > 	<ctl name="SPKRL True Center Switch" value="2" />
 > 	<ctl name="TX SPKRL True Center" value="AUTO" />
 > 	<ctl name="RX SPKRL True Center" value="AUTO" />
@@ -18797,18 +18797,18 @@
 > 	<ctl name="SPKRR True Stereo Switch" value="2" />
 > 	<ctl name="TX SPKRR True Stereo" value="AUTO" />
 > 	<ctl name="RX SPKRR True Stereo" value="AUTO" />
-> 	<ctl name="SPKRR True Width Switch" value="2" />
-> 	<ctl name="TX SPKRR True Width" value="AUTO" />
-> 	<ctl name="RX SPKRR True Width" value="AUTO" />
+> 	<ctl name="SPKRR True Expand Switch" value="2" />
+> 	<ctl name="TX SPKRR True Expand" value="AUTO" />
+> 	<ctl name="RX SPKRR True Expand" value="AUTO" />
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRR True Orientation Switch" value="2" />
-> 	<ctl name="TX SPKRR True Orientation" value="AUTO" />
-> 	<ctl name="RX SPKRR True Orientation" value="AUTO" />
 > 	<ctl name="SPKRR True Level Switch" value="2" />
 > 	<ctl name="TX SPKRR True Level" value="AUTO" />
 > 	<ctl name="RX SPKRR True Level" value="AUTO" />
+> 	<ctl name="SPKRR True Width Switch" value="2" />
+> 	<ctl name="TX SPKRR True Width" value="AUTO" />
+> 	<ctl name="RX SPKRR True Width" value="AUTO" />
 > 	<ctl name="SPKRR True Center Switch" value="2" />
 > 	<ctl name="TX SPKRR True Center" value="AUTO" />
 > 	<ctl name="RX SPKRR True Center" value="AUTO" />
@@ -18868,18 +18868,18 @@
 > 	<ctl name="7 True Stereo Switch" value="2" />
 > 	<ctl name="TX7 True Stereo" value="AUTO" />
 > 	<ctl name="RX7 True Stereo" value="AUTO" />
-> 	<ctl name="7 True Width Switch" value="2" />
-> 	<ctl name="TX7 True Width" value="AUTO" />
-> 	<ctl name="RX7 True Width" value="AUTO" />
+> 	<ctl name="7 True Expand Switch" value="2" />
+> 	<ctl name="TX7 True Expand" value="AUTO" />
+> 	<ctl name="RX7 True Expand" value="AUTO" />
 > 	<ctl name="7 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Orientation Switch" value="2" />
-> 	<ctl name="TX7 True Orientation" value="AUTO" />
-> 	<ctl name="RX7 True Orientation" value="AUTO" />
 > 	<ctl name="7 True Level Switch" value="2" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
+> 	<ctl name="7 True Width Switch" value="2" />
+> 	<ctl name="TX7 True Width" value="AUTO" />
+> 	<ctl name="RX7 True Width" value="AUTO" />
 > 	<ctl name="7 True Center Switch" value="2" />
 > 	<ctl name="TX7 True Center" value="AUTO" />
 > 	<ctl name="RX7 True Center" value="AUTO" />
@@ -18910,18 +18910,18 @@
 > 	<ctl name="8 True Stereo Switch" value="2" />
 > 	<ctl name="TX8 True Stereo" value="AUTO" />
 > 	<ctl name="RX8 True Stereo" value="AUTO" />
-> 	<ctl name="8 True Width Switch" value="2" />
-> 	<ctl name="TX8 True Width" value="AUTO" />
-> 	<ctl name="RX8 True Width" value="AUTO" />
+> 	<ctl name="8 True Expand Switch" value="2" />
+> 	<ctl name="TX8 True Expand" value="AUTO" />
+> 	<ctl name="RX8 True Expand" value="AUTO" />
 > 	<ctl name="8 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX8 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="8 True Orientation Switch" value="2" />
-> 	<ctl name="TX8 True Orientation" value="AUTO" />
-> 	<ctl name="RX8 True Orientation" value="AUTO" />
 > 	<ctl name="8 True Level Switch" value="2" />
 > 	<ctl name="TX8 True Level" value="AUTO" />
 > 	<ctl name="RX8 True Level" value="AUTO" />
+> 	<ctl name="8 True Width Switch" value="2" />
+> 	<ctl name="TX8 True Width" value="AUTO" />
+> 	<ctl name="RX8 True Width" value="AUTO" />
 > 	<ctl name="8 True Center Switch" value="2" />
 > 	<ctl name="TX8 True Center" value="AUTO" />
 > 	<ctl name="RX8 True Center" value="AUTO" />
@@ -18952,18 +18952,18 @@
 > 	<ctl name="SPKRL True Stereo Switch" value="2" />
 > 	<ctl name="TX SPKRL True Stereo" value="AUTO" />
 > 	<ctl name="RX SPKRL True Stereo" value="AUTO" />
-> 	<ctl name="SPKRL True Width Switch" value="2" />
-> 	<ctl name="TX SPKRL True Width" value="AUTO" />
-> 	<ctl name="RX SPKRL True Width" value="AUTO" />
+> 	<ctl name="SPKRL True Expand Switch" value="2" />
+> 	<ctl name="TX SPKRL True Expand" value="AUTO" />
+> 	<ctl name="RX SPKRL True Expand" value="AUTO" />
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Orientation Switch" value="2" />
-> 	<ctl name="TX SPKRL True Orientation" value="AUTO" />
-> 	<ctl name="RX SPKRL True Orientation" value="AUTO" />
 > 	<ctl name="SPKRL True Level Switch" value="2" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
+> 	<ctl name="SPKRL True Width Switch" value="2" />
+> 	<ctl name="TX SPKRL True Width" value="AUTO" />
+> 	<ctl name="RX SPKRL True Width" value="AUTO" />
 > 	<ctl name="SPKRL True Center Switch" value="2" />
 > 	<ctl name="TX SPKRL True Center" value="AUTO" />
 > 	<ctl name="RX SPKRL True Center" value="AUTO" />
@@ -18991,18 +18991,18 @@
 > 	<ctl name="SPKRR True Stereo Switch" value="2" />
 > 	<ctl name="TX SPKRR True Stereo" value="AUTO" />
 > 	<ctl name="RX SPKRR True Stereo" value="AUTO" />
-> 	<ctl name="SPKRR True Width Switch" value="2" />
-> 	<ctl name="TX SPKRR True Width" value="AUTO" />
-> 	<ctl name="RX SPKRR True Width" value="AUTO" />
+> 	<ctl name="SPKRR True Expand Switch" value="2" />
+> 	<ctl name="TX SPKRR True Expand" value="AUTO" />
+> 	<ctl name="RX SPKRR True Expand" value="AUTO" />
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRR True Orientation Switch" value="2" />
-> 	<ctl name="TX SPKRR True Orientation" value="AUTO" />
-> 	<ctl name="RX SPKRR True Orientation" value="AUTO" />
 > 	<ctl name="SPKRR True Level Switch" value="2" />
 > 	<ctl name="TX SPKRR True Level" value="AUTO" />
 > 	<ctl name="RX SPKRR True Level" value="AUTO" />
+> 	<ctl name="SPKRR True Width Switch" value="2" />
+> 	<ctl name="TX SPKRR True Width" value="AUTO" />
+> 	<ctl name="RX SPKRR True Width" value="AUTO" />
 > 	<ctl name="SPKRR True Center Switch" value="2" />
 > 	<ctl name="TX SPKRR True Center" value="AUTO" />
 > 	<ctl name="RX SPKRR True Center" value="AUTO" />
@@ -19091,18 +19091,18 @@
 > 	<ctl name="7 True Stereo Switch" value="1" />
 > 	<ctl name="TX7 True Stereo" value="AUTO" />
 > 	<ctl name="RX7 True Stereo" value="AUTO" />
-> 	<ctl name="7 True Width Switch" value="1" />
-> 	<ctl name="TX7 True Width" value="AUTO" />
-> 	<ctl name="RX7 True Width" value="AUTO" />
+> 	<ctl name="7 True Expand Switch" value="1" />
+> 	<ctl name="TX7 True Expand" value="AUTO" />
+> 	<ctl name="RX7 True Expand" value="AUTO" />
 > 	<ctl name="7 True Nominalize Volume Switch" value="1" />
 > 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Orientation Switch" value="1" />
-> 	<ctl name="TX7 True Orientation" value="AUTO" />
-> 	<ctl name="RX7 True Orientation" value="AUTO" />
 > 	<ctl name="7 True Level Switch" value="1" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
+> 	<ctl name="7 True Width Switch" value="1" />
+> 	<ctl name="TX7 True Width" value="AUTO" />
+> 	<ctl name="RX7 True Width" value="AUTO" />
 > 	<ctl name="7 True Center Switch" value="1" />
 > 	<ctl name="TX7 True Center" value="AUTO" />
 > 	<ctl name="RX7 True Center" value="AUTO" />
@@ -19133,18 +19133,18 @@
 > 	<ctl name="8 True Stereo Switch" value="0" />
 > 	<ctl name="TX8 True Stereo" value="ZERO" />
 > 	<ctl name="RX8 True Stereo" value="ZERO" />
-> 	<ctl name="8 True Width Switch" value="0" />
-> 	<ctl name="TX8 True Width" value="ZERO" />
-> 	<ctl name="RX8 True Width" value="ZERO" />
+> 	<ctl name="8 True Expand Switch" value="0" />
+> 	<ctl name="TX8 True Expand" value="ZERO" />
+> 	<ctl name="RX8 True Expand" value="ZERO" />
 > 	<ctl name="8 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX8 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="8 True Orientation Switch" value="0" />
-> 	<ctl name="TX8 True Orientation" value="ZERO" />
-> 	<ctl name="RX8 True Orientation" value="ZERO" />
 > 	<ctl name="8 True Level Switch" value="0" />
 > 	<ctl name="TX8 True Level" value="ZERO" />
 > 	<ctl name="RX8 True Level" value="ZERO" />
+> 	<ctl name="8 True Width Switch" value="0" />
+> 	<ctl name="TX8 True Width" value="ZERO" />
+> 	<ctl name="RX8 True Width" value="ZERO" />
 > 	<ctl name="8 True Center Switch" value="0" />
 > 	<ctl name="TX8 True Center" value="ZERO" />
 > 	<ctl name="RX8 True Center" value="ZERO" />
@@ -19175,18 +19175,18 @@
 > 	<ctl name="SPKRL True Stereo Switch" value="1" />
 > 	<ctl name="TX SPKRL True Stereo" value="AUTO" />
 > 	<ctl name="RX SPKRL True Stereo" value="AUTO" />
-> 	<ctl name="SPKRL True Width Switch" value="1" />
-> 	<ctl name="TX SPKRL True Width" value="AUTO" />
-> 	<ctl name="RX SPKRL True Width" value="AUTO" />
+> 	<ctl name="SPKRL True Expand Switch" value="1" />
+> 	<ctl name="TX SPKRL True Expand" value="AUTO" />
+> 	<ctl name="RX SPKRL True Expand" value="AUTO" />
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="1" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Orientation Switch" value="1" />
-> 	<ctl name="TX SPKRL True Orientation" value="AUTO" />
-> 	<ctl name="RX SPKRL True Orientation" value="AUTO" />
 > 	<ctl name="SPKRL True Level Switch" value="1" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
+> 	<ctl name="SPKRL True Width Switch" value="1" />
+> 	<ctl name="TX SPKRL True Width" value="AUTO" />
+> 	<ctl name="RX SPKRL True Width" value="AUTO" />
 > 	<ctl name="SPKRL True Center Switch" value="1" />
 > 	<ctl name="TX SPKRL True Center" value="AUTO" />
 > 	<ctl name="RX SPKRL True Center" value="AUTO" />
@@ -19214,18 +19214,18 @@
 > 	<ctl name="SPKRR True Stereo Switch" value="0" />
 > 	<ctl name="TX SPKRR True Stereo" value="ZERO" />
 > 	<ctl name="RX SPKRR True Stereo" value="ZERO" />
-> 	<ctl name="SPKRR True Width Switch" value="0" />
-> 	<ctl name="TX SPKRR True Width" value="ZERO" />
-> 	<ctl name="RX SPKRR True Width" value="ZERO" />
+> 	<ctl name="SPKRR True Expand Switch" value="0" />
+> 	<ctl name="TX SPKRR True Expand" value="ZERO" />
+> 	<ctl name="RX SPKRR True Expand" value="ZERO" />
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="ZERO" />
-> 	<ctl name="SPKRR True Orientation Switch" value="0" />
-> 	<ctl name="TX SPKRR True Orientation" value="ZERO" />
-> 	<ctl name="RX SPKRR True Orientation" value="ZERO" />
 > 	<ctl name="SPKRR True Level Switch" value="0" />
 > 	<ctl name="TX SPKRR True Level" value="ZERO" />
 > 	<ctl name="RX SPKRR True Level" value="ZERO" />
+> 	<ctl name="SPKRR True Width Switch" value="0" />
+> 	<ctl name="TX SPKRR True Width" value="ZERO" />
+> 	<ctl name="RX SPKRR True Width" value="ZERO" />
 > 	<ctl name="SPKRR True Center Switch" value="0" />
 > 	<ctl name="TX SPKRR True Center" value="ZERO" />
 > 	<ctl name="RX SPKRR True Center" value="ZERO" />
@@ -19295,18 +19295,18 @@
 > 	<ctl name="7 True Stereo Switch" value="2" />
 > 	<ctl name="TX7 True Stereo" value="AUTO" />
 > 	<ctl name="RX7 True Stereo" value="AUTO" />
-> 	<ctl name="7 True Width Switch" value="2" />
-> 	<ctl name="TX7 True Width" value="AUTO" />
-> 	<ctl name="RX7 True Width" value="AUTO" />
+> 	<ctl name="7 True Expand Switch" value="2" />
+> 	<ctl name="TX7 True Expand" value="AUTO" />
+> 	<ctl name="RX7 True Expand" value="AUTO" />
 > 	<ctl name="7 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Orientation Switch" value="2" />
-> 	<ctl name="TX7 True Orientation" value="AUTO" />
-> 	<ctl name="RX7 True Orientation" value="AUTO" />
 > 	<ctl name="7 True Level Switch" value="2" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
+> 	<ctl name="7 True Width Switch" value="2" />
+> 	<ctl name="TX7 True Width" value="AUTO" />
+> 	<ctl name="RX7 True Width" value="AUTO" />
 > 	<ctl name="7 True Center Switch" value="2" />
 > 	<ctl name="TX7 True Center" value="AUTO" />
 > 	<ctl name="RX7 True Center" value="AUTO" />
@@ -19337,18 +19337,18 @@
 > 	<ctl name="8 True Stereo Switch" value="2" />
 > 	<ctl name="TX8 True Stereo" value="AUTO" />
 > 	<ctl name="RX8 True Stereo" value="AUTO" />
-> 	<ctl name="8 True Width Switch" value="2" />
-> 	<ctl name="TX8 True Width" value="AUTO" />
-> 	<ctl name="RX8 True Width" value="AUTO" />
+> 	<ctl name="8 True Expand Switch" value="2" />
+> 	<ctl name="TX8 True Expand" value="AUTO" />
+> 	<ctl name="RX8 True Expand" value="AUTO" />
 > 	<ctl name="8 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX8 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="8 True Orientation Switch" value="2" />
-> 	<ctl name="TX8 True Orientation" value="AUTO" />
-> 	<ctl name="RX8 True Orientation" value="AUTO" />
 > 	<ctl name="8 True Level Switch" value="2" />
 > 	<ctl name="TX8 True Level" value="AUTO" />
 > 	<ctl name="RX8 True Level" value="AUTO" />
+> 	<ctl name="8 True Width Switch" value="2" />
+> 	<ctl name="TX8 True Width" value="AUTO" />
+> 	<ctl name="RX8 True Width" value="AUTO" />
 > 	<ctl name="8 True Center Switch" value="2" />
 > 	<ctl name="TX8 True Center" value="AUTO" />
 > 	<ctl name="RX8 True Center" value="AUTO" />
@@ -19379,18 +19379,18 @@
 > 	<ctl name="SPKRL True Stereo Switch" value="2" />
 > 	<ctl name="TX SPKRL True Stereo" value="AUTO" />
 > 	<ctl name="RX SPKRL True Stereo" value="AUTO" />
-> 	<ctl name="SPKRL True Width Switch" value="2" />
-> 	<ctl name="TX SPKRL True Width" value="AUTO" />
-> 	<ctl name="RX SPKRL True Width" value="AUTO" />
+> 	<ctl name="SPKRL True Expand Switch" value="2" />
+> 	<ctl name="TX SPKRL True Expand" value="AUTO" />
+> 	<ctl name="RX SPKRL True Expand" value="AUTO" />
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Orientation Switch" value="2" />
-> 	<ctl name="TX SPKRL True Orientation" value="AUTO" />
-> 	<ctl name="RX SPKRL True Orientation" value="AUTO" />
 > 	<ctl name="SPKRL True Level Switch" value="2" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
+> 	<ctl name="SPKRL True Width Switch" value="2" />
+> 	<ctl name="TX SPKRL True Width" value="AUTO" />
+> 	<ctl name="RX SPKRL True Width" value="AUTO" />
 > 	<ctl name="SPKRL True Center Switch" value="2" />
 > 	<ctl name="TX SPKRL True Center" value="AUTO" />
 > 	<ctl name="RX SPKRL True Center" value="AUTO" />
@@ -19418,18 +19418,18 @@
 > 	<ctl name="SPKRR True Stereo Switch" value="2" />
 > 	<ctl name="TX SPKRR True Stereo" value="AUTO" />
 > 	<ctl name="RX SPKRR True Stereo" value="AUTO" />
-> 	<ctl name="SPKRR True Width Switch" value="2" />
-> 	<ctl name="TX SPKRR True Width" value="AUTO" />
-> 	<ctl name="RX SPKRR True Width" value="AUTO" />
+> 	<ctl name="SPKRR True Expand Switch" value="2" />
+> 	<ctl name="TX SPKRR True Expand" value="AUTO" />
+> 	<ctl name="RX SPKRR True Expand" value="AUTO" />
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRR True Orientation Switch" value="2" />
-> 	<ctl name="TX SPKRR True Orientation" value="AUTO" />
-> 	<ctl name="RX SPKRR True Orientation" value="AUTO" />
 > 	<ctl name="SPKRR True Level Switch" value="2" />
 > 	<ctl name="TX SPKRR True Level" value="AUTO" />
 > 	<ctl name="RX SPKRR True Level" value="AUTO" />
+> 	<ctl name="SPKRR True Width Switch" value="2" />
+> 	<ctl name="TX SPKRR True Width" value="AUTO" />
+> 	<ctl name="RX SPKRR True Width" value="AUTO" />
 > 	<ctl name="SPKRR True Center Switch" value="2" />
 > 	<ctl name="TX SPKRR True Center" value="AUTO" />
 > 	<ctl name="RX SPKRR True Center" value="AUTO" />
@@ -19487,18 +19487,18 @@
 > 	<ctl name="7 True Stereo Switch" value="2" />
 > 	<ctl name="TX7 True Stereo" value="AUTO" />
 > 	<ctl name="RX7 True Stereo" value="AUTO" />
-> 	<ctl name="7 True Width Switch" value="2" />
-> 	<ctl name="TX7 True Width" value="AUTO" />
-> 	<ctl name="RX7 True Width" value="AUTO" />
+> 	<ctl name="7 True Expand Switch" value="2" />
+> 	<ctl name="TX7 True Expand" value="AUTO" />
+> 	<ctl name="RX7 True Expand" value="AUTO" />
 > 	<ctl name="7 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Orientation Switch" value="2" />
-> 	<ctl name="TX7 True Orientation" value="AUTO" />
-> 	<ctl name="RX7 True Orientation" value="AUTO" />
 > 	<ctl name="7 True Level Switch" value="2" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
+> 	<ctl name="7 True Width Switch" value="2" />
+> 	<ctl name="TX7 True Width" value="AUTO" />
+> 	<ctl name="RX7 True Width" value="AUTO" />
 > 	<ctl name="7 True Center Switch" value="2" />
 > 	<ctl name="TX7 True Center" value="AUTO" />
 > 	<ctl name="RX7 True Center" value="AUTO" />
@@ -19529,18 +19529,18 @@
 > 	<ctl name="8 True Stereo Switch" value="2" />
 > 	<ctl name="TX8 True Stereo" value="AUTO" />
 > 	<ctl name="RX8 True Stereo" value="AUTO" />
-> 	<ctl name="8 True Width Switch" value="2" />
-> 	<ctl name="TX8 True Width" value="AUTO" />
-> 	<ctl name="RX8 True Width" value="AUTO" />
+> 	<ctl name="8 True Expand Switch" value="2" />
+> 	<ctl name="TX8 True Expand" value="AUTO" />
+> 	<ctl name="RX8 True Expand" value="AUTO" />
 > 	<ctl name="8 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX8 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="8 True Orientation Switch" value="2" />
-> 	<ctl name="TX8 True Orientation" value="AUTO" />
-> 	<ctl name="RX8 True Orientation" value="AUTO" />
 > 	<ctl name="8 True Level Switch" value="2" />
 > 	<ctl name="TX8 True Level" value="AUTO" />
 > 	<ctl name="RX8 True Level" value="AUTO" />
+> 	<ctl name="8 True Width Switch" value="2" />
+> 	<ctl name="TX8 True Width" value="AUTO" />
+> 	<ctl name="RX8 True Width" value="AUTO" />
 > 	<ctl name="8 True Center Switch" value="2" />
 > 	<ctl name="TX8 True Center" value="AUTO" />
 > 	<ctl name="RX8 True Center" value="AUTO" />
@@ -19571,18 +19571,18 @@
 > 	<ctl name="SPKRL True Stereo Switch" value="2" />
 > 	<ctl name="TX SPKRL True Stereo" value="AUTO" />
 > 	<ctl name="RX SPKRL True Stereo" value="AUTO" />
-> 	<ctl name="SPKRL True Width Switch" value="2" />
-> 	<ctl name="TX SPKRL True Width" value="AUTO" />
-> 	<ctl name="RX SPKRL True Width" value="AUTO" />
+> 	<ctl name="SPKRL True Expand Switch" value="2" />
+> 	<ctl name="TX SPKRL True Expand" value="AUTO" />
+> 	<ctl name="RX SPKRL True Expand" value="AUTO" />
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Orientation Switch" value="2" />
-> 	<ctl name="TX SPKRL True Orientation" value="AUTO" />
-> 	<ctl name="RX SPKRL True Orientation" value="AUTO" />
 > 	<ctl name="SPKRL True Level Switch" value="2" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
+> 	<ctl name="SPKRL True Width Switch" value="2" />
+> 	<ctl name="TX SPKRL True Width" value="AUTO" />
+> 	<ctl name="RX SPKRL True Width" value="AUTO" />
 > 	<ctl name="SPKRL True Center Switch" value="2" />
 > 	<ctl name="TX SPKRL True Center" value="AUTO" />
 > 	<ctl name="RX SPKRL True Center" value="AUTO" />
@@ -19610,18 +19610,18 @@
 > 	<ctl name="SPKRR True Stereo Switch" value="2" />
 > 	<ctl name="TX SPKRR True Stereo" value="AUTO" />
 > 	<ctl name="RX SPKRR True Stereo" value="AUTO" />
-> 	<ctl name="SPKRR True Width Switch" value="2" />
-> 	<ctl name="TX SPKRR True Width" value="AUTO" />
-> 	<ctl name="RX SPKRR True Width" value="AUTO" />
+> 	<ctl name="SPKRR True Expand Switch" value="2" />
+> 	<ctl name="TX SPKRR True Expand" value="AUTO" />
+> 	<ctl name="RX SPKRR True Expand" value="AUTO" />
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRR True Orientation Switch" value="2" />
-> 	<ctl name="TX SPKRR True Orientation" value="AUTO" />
-> 	<ctl name="RX SPKRR True Orientation" value="AUTO" />
 > 	<ctl name="SPKRR True Level Switch" value="2" />
 > 	<ctl name="TX SPKRR True Level" value="AUTO" />
 > 	<ctl name="RX SPKRR True Level" value="AUTO" />
+> 	<ctl name="SPKRR True Width Switch" value="2" />
+> 	<ctl name="TX SPKRR True Width" value="AUTO" />
+> 	<ctl name="RX SPKRR True Width" value="AUTO" />
 > 	<ctl name="SPKRR True Center Switch" value="2" />
 > 	<ctl name="TX SPKRR True Center" value="AUTO" />
 > 	<ctl name="RX SPKRR True Center" value="AUTO" />
@@ -19679,18 +19679,18 @@
 > 	<ctl name="7 True Stereo Switch" value="2" />
 > 	<ctl name="TX7 True Stereo" value="AUTO" />
 > 	<ctl name="RX7 True Stereo" value="AUTO" />
-> 	<ctl name="7 True Width Switch" value="2" />
-> 	<ctl name="TX7 True Width" value="AUTO" />
-> 	<ctl name="RX7 True Width" value="AUTO" />
+> 	<ctl name="7 True Expand Switch" value="2" />
+> 	<ctl name="TX7 True Expand" value="AUTO" />
+> 	<ctl name="RX7 True Expand" value="AUTO" />
 > 	<ctl name="7 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Orientation Switch" value="2" />
-> 	<ctl name="TX7 True Orientation" value="AUTO" />
-> 	<ctl name="RX7 True Orientation" value="AUTO" />
 > 	<ctl name="7 True Level Switch" value="2" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
+> 	<ctl name="7 True Width Switch" value="2" />
+> 	<ctl name="TX7 True Width" value="AUTO" />
+> 	<ctl name="RX7 True Width" value="AUTO" />
 > 	<ctl name="7 True Center Switch" value="2" />
 > 	<ctl name="TX7 True Center" value="AUTO" />
 > 	<ctl name="RX7 True Center" value="AUTO" />
@@ -19721,18 +19721,18 @@
 > 	<ctl name="8 True Stereo Switch" value="2" />
 > 	<ctl name="TX8 True Stereo" value="AUTO" />
 > 	<ctl name="RX8 True Stereo" value="AUTO" />
-> 	<ctl name="8 True Width Switch" value="2" />
-> 	<ctl name="TX8 True Width" value="AUTO" />
-> 	<ctl name="RX8 True Width" value="AUTO" />
+> 	<ctl name="8 True Expand Switch" value="2" />
+> 	<ctl name="TX8 True Expand" value="AUTO" />
+> 	<ctl name="RX8 True Expand" value="AUTO" />
 > 	<ctl name="8 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX8 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="8 True Orientation Switch" value="2" />
-> 	<ctl name="TX8 True Orientation" value="AUTO" />
-> 	<ctl name="RX8 True Orientation" value="AUTO" />
 > 	<ctl name="8 True Level Switch" value="2" />
 > 	<ctl name="TX8 True Level" value="AUTO" />
 > 	<ctl name="RX8 True Level" value="AUTO" />
+> 	<ctl name="8 True Width Switch" value="2" />
+> 	<ctl name="TX8 True Width" value="AUTO" />
+> 	<ctl name="RX8 True Width" value="AUTO" />
 > 	<ctl name="8 True Center Switch" value="2" />
 > 	<ctl name="TX8 True Center" value="AUTO" />
 > 	<ctl name="RX8 True Center" value="AUTO" />
@@ -19763,18 +19763,18 @@
 > 	<ctl name="SPKRL True Stereo Switch" value="2" />
 > 	<ctl name="TX SPKRL True Stereo" value="AUTO" />
 > 	<ctl name="RX SPKRL True Stereo" value="AUTO" />
-> 	<ctl name="SPKRL True Width Switch" value="2" />
-> 	<ctl name="TX SPKRL True Width" value="AUTO" />
-> 	<ctl name="RX SPKRL True Width" value="AUTO" />
+> 	<ctl name="SPKRL True Expand Switch" value="2" />
+> 	<ctl name="TX SPKRL True Expand" value="AUTO" />
+> 	<ctl name="RX SPKRL True Expand" value="AUTO" />
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Orientation Switch" value="2" />
-> 	<ctl name="TX SPKRL True Orientation" value="AUTO" />
-> 	<ctl name="RX SPKRL True Orientation" value="AUTO" />
 > 	<ctl name="SPKRL True Level Switch" value="2" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
+> 	<ctl name="SPKRL True Width Switch" value="2" />
+> 	<ctl name="TX SPKRL True Width" value="AUTO" />
+> 	<ctl name="RX SPKRL True Width" value="AUTO" />
 > 	<ctl name="SPKRL True Center Switch" value="2" />
 > 	<ctl name="TX SPKRL True Center" value="AUTO" />
 > 	<ctl name="RX SPKRL True Center" value="AUTO" />
@@ -19802,18 +19802,18 @@
 > 	<ctl name="SPKRR True Stereo Switch" value="2" />
 > 	<ctl name="TX SPKRR True Stereo" value="AUTO" />
 > 	<ctl name="RX SPKRR True Stereo" value="AUTO" />
-> 	<ctl name="SPKRR True Width Switch" value="2" />
-> 	<ctl name="TX SPKRR True Width" value="AUTO" />
-> 	<ctl name="RX SPKRR True Width" value="AUTO" />
+> 	<ctl name="SPKRR True Expand Switch" value="2" />
+> 	<ctl name="TX SPKRR True Expand" value="AUTO" />
+> 	<ctl name="RX SPKRR True Expand" value="AUTO" />
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRR True Orientation Switch" value="2" />
-> 	<ctl name="TX SPKRR True Orientation" value="AUTO" />
-> 	<ctl name="RX SPKRR True Orientation" value="AUTO" />
 > 	<ctl name="SPKRR True Level Switch" value="2" />
 > 	<ctl name="TX SPKRR True Level" value="AUTO" />
 > 	<ctl name="RX SPKRR True Level" value="AUTO" />
+> 	<ctl name="SPKRR True Width Switch" value="2" />
+> 	<ctl name="TX SPKRR True Width" value="AUTO" />
+> 	<ctl name="RX SPKRR True Width" value="AUTO" />
 > 	<ctl name="SPKRR True Center Switch" value="2" />
 > 	<ctl name="TX SPKRR True Center" value="AUTO" />
 > 	<ctl name="RX SPKRR True Center" value="AUTO" />
@@ -23076,18 +23076,18 @@
 > 	<ctl name="7 True Stereo Switch" value="2" />
 > 	<ctl name="TX7 True Stereo" value="AUTO" />
 > 	<ctl name="RX7 True Stereo" value="AUTO" />
-> 	<ctl name="7 True Width Switch" value="2" />
-> 	<ctl name="TX7 True Width" value="AUTO" />
-> 	<ctl name="RX7 True Width" value="AUTO" />
+> 	<ctl name="7 True Expand Switch" value="2" />
+> 	<ctl name="TX7 True Expand" value="AUTO" />
+> 	<ctl name="RX7 True Expand" value="AUTO" />
 > 	<ctl name="7 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Orientation Switch" value="2" />
-> 	<ctl name="TX7 True Orientation" value="AUTO" />
-> 	<ctl name="RX7 True Orientation" value="AUTO" />
 > 	<ctl name="7 True Level Switch" value="2" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
+> 	<ctl name="7 True Width Switch" value="2" />
+> 	<ctl name="TX7 True Width" value="AUTO" />
+> 	<ctl name="RX7 True Width" value="AUTO" />
 > 	<ctl name="7 True Center Switch" value="2" />
 > 	<ctl name="TX7 True Center" value="AUTO" />
 > 	<ctl name="RX7 True Center" value="AUTO" />
@@ -23118,18 +23118,18 @@
 > 	<ctl name="8 True Stereo Switch" value="2" />
 > 	<ctl name="TX8 True Stereo" value="AUTO" />
 > 	<ctl name="RX8 True Stereo" value="AUTO" />
-> 	<ctl name="8 True Width Switch" value="2" />
-> 	<ctl name="TX8 True Width" value="AUTO" />
-> 	<ctl name="RX8 True Width" value="AUTO" />
+> 	<ctl name="8 True Expand Switch" value="2" />
+> 	<ctl name="TX8 True Expand" value="AUTO" />
+> 	<ctl name="RX8 True Expand" value="AUTO" />
 > 	<ctl name="8 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX8 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="8 True Orientation Switch" value="2" />
-> 	<ctl name="TX8 True Orientation" value="AUTO" />
-> 	<ctl name="RX8 True Orientation" value="AUTO" />
 > 	<ctl name="8 True Level Switch" value="2" />
 > 	<ctl name="TX8 True Level" value="AUTO" />
 > 	<ctl name="RX8 True Level" value="AUTO" />
+> 	<ctl name="8 True Width Switch" value="2" />
+> 	<ctl name="TX8 True Width" value="AUTO" />
+> 	<ctl name="RX8 True Width" value="AUTO" />
 > 	<ctl name="8 True Center Switch" value="2" />
 > 	<ctl name="TX8 True Center" value="AUTO" />
 > 	<ctl name="RX8 True Center" value="AUTO" />
@@ -23160,18 +23160,18 @@
 > 	<ctl name="SPKRL True Stereo Switch" value="2" />
 > 	<ctl name="TX SPKRL True Stereo" value="AUTO" />
 > 	<ctl name="RX SPKRL True Stereo" value="AUTO" />
-> 	<ctl name="SPKRL True Width Switch" value="2" />
-> 	<ctl name="TX SPKRL True Width" value="AUTO" />
-> 	<ctl name="RX SPKRL True Width" value="AUTO" />
+> 	<ctl name="SPKRL True Expand Switch" value="2" />
+> 	<ctl name="TX SPKRL True Expand" value="AUTO" />
+> 	<ctl name="RX SPKRL True Expand" value="AUTO" />
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Orientation Switch" value="2" />
-> 	<ctl name="TX SPKRL True Orientation" value="AUTO" />
-> 	<ctl name="RX SPKRL True Orientation" value="AUTO" />
 > 	<ctl name="SPKRL True Level Switch" value="2" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
+> 	<ctl name="SPKRL True Width Switch" value="2" />
+> 	<ctl name="TX SPKRL True Width" value="AUTO" />
+> 	<ctl name="RX SPKRL True Width" value="AUTO" />
 > 	<ctl name="SPKRL True Center Switch" value="2" />
 > 	<ctl name="TX SPKRL True Center" value="AUTO" />
 > 	<ctl name="RX SPKRL True Center" value="AUTO" />
@@ -23199,18 +23199,18 @@
 > 	<ctl name="SPKRR True Stereo Switch" value="2" />
 > 	<ctl name="TX SPKRR True Stereo" value="AUTO" />
 > 	<ctl name="RX SPKRR True Stereo" value="AUTO" />
-> 	<ctl name="SPKRR True Width Switch" value="2" />
-> 	<ctl name="TX SPKRR True Width" value="AUTO" />
-> 	<ctl name="RX SPKRR True Width" value="AUTO" />
+> 	<ctl name="SPKRR True Expand Switch" value="2" />
+> 	<ctl name="TX SPKRR True Expand" value="AUTO" />
+> 	<ctl name="RX SPKRR True Expand" value="AUTO" />
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRR True Orientation Switch" value="2" />
-> 	<ctl name="TX SPKRR True Orientation" value="AUTO" />
-> 	<ctl name="RX SPKRR True Orientation" value="AUTO" />
 > 	<ctl name="SPKRR True Level Switch" value="2" />
 > 	<ctl name="TX SPKRR True Level" value="AUTO" />
 > 	<ctl name="RX SPKRR True Level" value="AUTO" />
+> 	<ctl name="SPKRR True Width Switch" value="2" />
+> 	<ctl name="TX SPKRR True Width" value="AUTO" />
+> 	<ctl name="RX SPKRR True Width" value="AUTO" />
 > 	<ctl name="SPKRR True Center Switch" value="2" />
 > 	<ctl name="TX SPKRR True Center" value="AUTO" />
 > 	<ctl name="RX SPKRR True Center" value="AUTO" />
@@ -23249,18 +23249,18 @@
 > 	<ctl name="7 True Stereo Switch" value="1" />
 > 	<ctl name="TX7 True Stereo" value="AUTO" />
 > 	<ctl name="RX7 True Stereo" value="AUTO" />
-> 	<ctl name="7 True Width Switch" value="1" />
-> 	<ctl name="TX7 True Width" value="AUTO" />
-> 	<ctl name="RX7 True Width" value="AUTO" />
+> 	<ctl name="7 True Expand Switch" value="1" />
+> 	<ctl name="TX7 True Expand" value="AUTO" />
+> 	<ctl name="RX7 True Expand" value="AUTO" />
 > 	<ctl name="7 True Nominalize Volume Switch" value="1" />
 > 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Orientation Switch" value="1" />
-> 	<ctl name="TX7 True Orientation" value="AUTO" />
-> 	<ctl name="RX7 True Orientation" value="AUTO" />
 > 	<ctl name="7 True Level Switch" value="1" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
+> 	<ctl name="7 True Width Switch" value="1" />
+> 	<ctl name="TX7 True Width" value="AUTO" />
+> 	<ctl name="RX7 True Width" value="AUTO" />
 > 	<ctl name="7 True Center Switch" value="1" />
 > 	<ctl name="TX7 True Center" value="AUTO" />
 > 	<ctl name="RX7 True Center" value="AUTO" />
@@ -23291,18 +23291,18 @@
 > 	<ctl name="8 True Stereo Switch" value="0" />
 > 	<ctl name="TX8 True Stereo" value="ZERO" />
 > 	<ctl name="RX8 True Stereo" value="ZERO" />
-> 	<ctl name="8 True Width Switch" value="0" />
-> 	<ctl name="TX8 True Width" value="ZERO" />
-> 	<ctl name="RX8 True Width" value="ZERO" />
+> 	<ctl name="8 True Expand Switch" value="0" />
+> 	<ctl name="TX8 True Expand" value="ZERO" />
+> 	<ctl name="RX8 True Expand" value="ZERO" />
 > 	<ctl name="8 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX8 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="8 True Orientation Switch" value="0" />
-> 	<ctl name="TX8 True Orientation" value="ZERO" />
-> 	<ctl name="RX8 True Orientation" value="ZERO" />
 > 	<ctl name="8 True Level Switch" value="0" />
 > 	<ctl name="TX8 True Level" value="ZERO" />
 > 	<ctl name="RX8 True Level" value="ZERO" />
+> 	<ctl name="8 True Width Switch" value="0" />
+> 	<ctl name="TX8 True Width" value="ZERO" />
+> 	<ctl name="RX8 True Width" value="ZERO" />
 > 	<ctl name="8 True Center Switch" value="0" />
 > 	<ctl name="TX8 True Center" value="ZERO" />
 > 	<ctl name="RX8 True Center" value="ZERO" />
@@ -23333,18 +23333,18 @@
 > 	<ctl name="HPHL True Stereo Switch" value="1" />
 > 	<ctl name="TX HPHL True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHL True Stereo" value="AUTO" />
-> 	<ctl name="SPKRL True Width Switch" value="1" />
-> 	<ctl name="TX SPKRL True Width" value="AUTO" />
-> 	<ctl name="RX SPKRL True Width" value="AUTO" />
+> 	<ctl name="SPKRL True Expand Switch" value="1" />
+> 	<ctl name="TX SPKRL True Expand" value="AUTO" />
+> 	<ctl name="RX SPKRL True Expand" value="AUTO" />
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="1" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Orientation Switch" value="1" />
-> 	<ctl name="TX SPKRL True Orientation" value="AUTO" />
-> 	<ctl name="RX SPKRL True Orientation" value="AUTO" />
 > 	<ctl name="SPKRL True Level Switch" value="1" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
+> 	<ctl name="SPKRL True Width Switch" value="1" />
+> 	<ctl name="TX SPKRL True Width" value="AUTO" />
+> 	<ctl name="RX SPKRL True Width" value="AUTO" />
 > 	<ctl name="SPKRL True Center Switch" value="1" />
 > 	<ctl name="TX SPKRL True Center" value="AUTO" />
 > 	<ctl name="RX SPKRL True Center" value="AUTO" />
@@ -23372,18 +23372,18 @@
 > 	<ctl name="SPKRR True Stereo Switch" value="0" />
 > 	<ctl name="TX SPKRR True Stereo" value="ZERO" />
 > 	<ctl name="RX SPKRR True Stereo" value="ZERO" />
-> 	<ctl name="SPKRR True Width Switch" value="0" />
-> 	<ctl name="TX SPKRR True Width" value="ZERO" />
-> 	<ctl name="RX SPKRR True Width" value="ZERO" />
+> 	<ctl name="SPKRR True Expand Switch" value="0" />
+> 	<ctl name="TX SPKRR True Expand" value="ZERO" />
+> 	<ctl name="RX SPKRR True Expand" value="ZERO" />
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="ZERO" />
-> 	<ctl name="SPKRR True Orientation Switch" value="0" />
-> 	<ctl name="TX SPKRR True Orientation" value="ZERO" />
-> 	<ctl name="RX SPKRR True Orientation" value="ZERO" />
 > 	<ctl name="SPKRR True Level Switch" value="0" />
 > 	<ctl name="TX SPKRR True Level" value="ZERO" />
 > 	<ctl name="RX SPKRR True Level" value="ZERO" />
+> 	<ctl name="SPKRR True Width Switch" value="0" />
+> 	<ctl name="TX SPKRR True Width" value="ZERO" />
+> 	<ctl name="RX SPKRR True Width" value="ZERO" />
 > 	<ctl name="SPKRR True Center Switch" value="0" />
 > 	<ctl name="TX SPKRR True Center" value="ZERO" />
 > 	<ctl name="RX SPKRR True Center" value="ZERO" />
@@ -23422,18 +23422,18 @@
 > 	<ctl name="7 True Stereo Switch" value="2" />
 > 	<ctl name="TX7 True Stereo" value="AUTO" />
 > 	<ctl name="RX7 True Stereo" value="AUTO" />
-> 	<ctl name="7 True Width Switch" value="2" />
-> 	<ctl name="TX7 True Width" value="AUTO" />
-> 	<ctl name="RX7 True Width" value="AUTO" />
+> 	<ctl name="7 True Expand Switch" value="2" />
+> 	<ctl name="TX7 True Expand" value="AUTO" />
+> 	<ctl name="RX7 True Expand" value="AUTO" />
 > 	<ctl name="7 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Orientation Switch" value="2" />
-> 	<ctl name="TX7 True Orientation" value="AUTO" />
-> 	<ctl name="RX7 True Orientation" value="AUTO" />
 > 	<ctl name="7 True Level Switch" value="2" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
+> 	<ctl name="7 True Width Switch" value="2" />
+> 	<ctl name="TX7 True Width" value="AUTO" />
+> 	<ctl name="RX7 True Width" value="AUTO" />
 > 	<ctl name="7 True Center Switch" value="2" />
 > 	<ctl name="TX7 True Center" value="AUTO" />
 > 	<ctl name="RX7 True Center" value="AUTO" />
@@ -23464,18 +23464,18 @@
 > 	<ctl name="8 True Stereo Switch" value="2" />
 > 	<ctl name="TX8 True Stereo" value="AUTO" />
 > 	<ctl name="RX8 True Stereo" value="AUTO" />
-> 	<ctl name="8 True Width Switch" value="2" />
-> 	<ctl name="TX8 True Width" value="AUTO" />
-> 	<ctl name="RX8 True Width" value="AUTO" />
+> 	<ctl name="8 True Expand Switch" value="2" />
+> 	<ctl name="TX8 True Expand" value="AUTO" />
+> 	<ctl name="RX8 True Expand" value="AUTO" />
 > 	<ctl name="8 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX8 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="8 True Orientation Switch" value="2" />
-> 	<ctl name="TX8 True Orientation" value="AUTO" />
-> 	<ctl name="RX8 True Orientation" value="AUTO" />
 > 	<ctl name="8 True Level Switch" value="2" />
 > 	<ctl name="TX8 True Level" value="AUTO" />
 > 	<ctl name="RX8 True Level" value="AUTO" />
+> 	<ctl name="8 True Width Switch" value="2" />
+> 	<ctl name="TX8 True Width" value="AUTO" />
+> 	<ctl name="RX8 True Width" value="AUTO" />
 > 	<ctl name="8 True Center Switch" value="2" />
 > 	<ctl name="TX8 True Center" value="AUTO" />
 > 	<ctl name="RX8 True Center" value="AUTO" />
@@ -23506,18 +23506,18 @@
 > 	<ctl name="SPKRL True Stereo Switch" value="2" />
 > 	<ctl name="TX SPKRL True Stereo" value="AUTO" />
 > 	<ctl name="RX SPKRL True Stereo" value="AUTO" />
-> 	<ctl name="SPKRL True Width Switch" value="2" />
-> 	<ctl name="TX SPKRL True Width" value="AUTO" />
-> 	<ctl name="RX SPKRL True Width" value="AUTO" />
+> 	<ctl name="SPKRL True Expand Switch" value="2" />
+> 	<ctl name="TX SPKRL True Expand" value="AUTO" />
+> 	<ctl name="RX SPKRL True Expand" value="AUTO" />
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Orientation Switch" value="2" />
-> 	<ctl name="TX SPKRL True Orientation" value="AUTO" />
-> 	<ctl name="RX SPKRL True Orientation" value="AUTO" />
 > 	<ctl name="SPKRL True Level Switch" value="2" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
+> 	<ctl name="SPKRL True Width Switch" value="2" />
+> 	<ctl name="TX SPKRL True Width" value="AUTO" />
+> 	<ctl name="RX SPKRL True Width" value="AUTO" />
 > 	<ctl name="SPKRL True Center Switch" value="2" />
 > 	<ctl name="TX SPKRL True Center" value="AUTO" />
 > 	<ctl name="RX SPKRL True Center" value="AUTO" />
@@ -23545,18 +23545,18 @@
 > 	<ctl name="SPKRR True Stereo Switch" value="2" />
 > 	<ctl name="TX SPKRR True Stereo" value="AUTO" />
 > 	<ctl name="RX SPKRR True Stereo" value="AUTO" />
-> 	<ctl name="SPKRR True Width Switch" value="2" />
-> 	<ctl name="TX SPKRR True Width" value="AUTO" />
-> 	<ctl name="RX SPKRR True Width" value="AUTO" />
+> 	<ctl name="SPKRR True Expand Switch" value="2" />
+> 	<ctl name="TX SPKRR True Expand" value="AUTO" />
+> 	<ctl name="RX SPKRR True Expand" value="AUTO" />
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRR True Orientation Switch" value="2" />
-> 	<ctl name="TX SPKRR True Orientation" value="AUTO" />
-> 	<ctl name="RX SPKRR True Orientation" value="AUTO" />
 > 	<ctl name="SPKRR True Level Switch" value="2" />
 > 	<ctl name="TX SPKRR True Level" value="AUTO" />
 > 	<ctl name="RX SPKRR True Level" value="AUTO" />
+> 	<ctl name="SPKRR True Width Switch" value="2" />
+> 	<ctl name="TX SPKRR True Width" value="AUTO" />
+> 	<ctl name="RX SPKRR True Width" value="AUTO" />
 > 	<ctl name="SPKRR True Center Switch" value="2" />
 > 	<ctl name="TX SPKRR True Center" value="AUTO" />
 > 	<ctl name="RX SPKRR True Center" value="AUTO" />
@@ -23594,18 +23594,18 @@
 > 	<ctl name="7 True Stereo Switch" value="1" />
 > 	<ctl name="TX7 True Stereo" value="AUTO" />
 > 	<ctl name="RX7 True Stereo" value="AUTO" />
-> 	<ctl name="7 True Width Switch" value="1" />
-> 	<ctl name="TX7 True Width" value="AUTO" />
-> 	<ctl name="RX7 True Width" value="AUTO" />
+> 	<ctl name="7 True Expand Switch" value="1" />
+> 	<ctl name="TX7 True Expand" value="AUTO" />
+> 	<ctl name="RX7 True Expand" value="AUTO" />
 > 	<ctl name="7 True Nominalize Volume Switch" value="1" />
 > 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Orientation Switch" value="1" />
-> 	<ctl name="TX7 True Orientation" value="AUTO" />
-> 	<ctl name="RX7 True Orientation" value="AUTO" />
 > 	<ctl name="7 True Level Switch" value="1" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
+> 	<ctl name="7 True Width Switch" value="1" />
+> 	<ctl name="TX7 True Width" value="AUTO" />
+> 	<ctl name="RX7 True Width" value="AUTO" />
 > 	<ctl name="7 True Center Switch" value="1" />
 > 	<ctl name="TX7 True Center" value="AUTO" />
 > 	<ctl name="RX7 True Center" value="AUTO" />
@@ -23636,18 +23636,18 @@
 > 	<ctl name="8 True Stereo Switch" value="0" />
 > 	<ctl name="TX8 True Stereo" value="ZERO" />
 > 	<ctl name="RX8 True Stereo" value="ZERO" />
-> 	<ctl name="8 True Width Switch" value="0" />
-> 	<ctl name="TX8 True Width" value="ZERO" />
-> 	<ctl name="RX8 True Width" value="ZERO" />
+> 	<ctl name="8 True Expand Switch" value="0" />
+> 	<ctl name="TX8 True Expand" value="ZERO" />
+> 	<ctl name="RX8 True Expand" value="ZERO" />
 > 	<ctl name="8 True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX8 True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX8 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="8 True Orientation Switch" value="0" />
-> 	<ctl name="TX8 True Orientation" value="ZERO" />
-> 	<ctl name="RX8 True Orientation" value="ZERO" />
 > 	<ctl name="8 True Level Switch" value="0" />
 > 	<ctl name="TX8 True Level" value="ZERO" />
 > 	<ctl name="RX8 True Level" value="ZERO" />
+> 	<ctl name="8 True Width Switch" value="0" />
+> 	<ctl name="TX8 True Width" value="ZERO" />
+> 	<ctl name="RX8 True Width" value="ZERO" />
 > 	<ctl name="8 True Center Switch" value="0" />
 > 	<ctl name="TX8 True Center" value="ZERO" />
 > 	<ctl name="RX8 True Center" value="ZERO" />
@@ -23678,18 +23678,18 @@
 > 	<ctl name="HPHL True Stereo Switch" value="1" />
 > 	<ctl name="TX HPHL True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHL True Stereo" value="AUTO" />
-> 	<ctl name="SPKRL True Width Switch" value="1" />
-> 	<ctl name="TX SPKRL True Width" value="AUTO" />
-> 	<ctl name="RX SPKRL True Width" value="AUTO" />
+> 	<ctl name="SPKRL True Expand Switch" value="1" />
+> 	<ctl name="TX SPKRL True Expand" value="AUTO" />
+> 	<ctl name="RX SPKRL True Expand" value="AUTO" />
 > 	<ctl name="SPKRL True Nominalize Volume Switch" value="1" />
 > 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Orientation Switch" value="1" />
-> 	<ctl name="TX SPKRL True Orientation" value="AUTO" />
-> 	<ctl name="RX SPKRL True Orientation" value="AUTO" />
 > 	<ctl name="SPKRL True Level Switch" value="1" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
+> 	<ctl name="SPKRL True Width Switch" value="1" />
+> 	<ctl name="TX SPKRL True Width" value="AUTO" />
+> 	<ctl name="RX SPKRL True Width" value="AUTO" />
 > 	<ctl name="SPKRL True Center Switch" value="1" />
 > 	<ctl name="TX SPKRL True Center" value="AUTO" />
 > 	<ctl name="RX SPKRL True Center" value="AUTO" />
@@ -23717,18 +23717,18 @@
 > 	<ctl name="SPKRR True Stereo Switch" value="0" />
 > 	<ctl name="TX SPKRR True Stereo" value="ZERO" />
 > 	<ctl name="RX SPKRR True Stereo" value="ZERO" />
-> 	<ctl name="SPKRR True Width Switch" value="0" />
-> 	<ctl name="TX SPKRR True Width" value="ZERO" />
-> 	<ctl name="RX SPKRR True Width" value="ZERO" />
+> 	<ctl name="SPKRR True Expand Switch" value="0" />
+> 	<ctl name="TX SPKRR True Expand" value="ZERO" />
+> 	<ctl name="RX SPKRR True Expand" value="ZERO" />
 > 	<ctl name="SPKRR True Nominalize Volume Switch" value="0" />
 > 	<ctl name="TX SPKRR True Nominalize Volume" value="ZERO" />
 > 	<ctl name="RX SPKRR True Nominalize Volume" value="ZERO" />
-> 	<ctl name="SPKRR True Orientation Switch" value="0" />
-> 	<ctl name="TX SPKRR True Orientation" value="ZERO" />
-> 	<ctl name="RX SPKRR True Orientation" value="ZERO" />
 > 	<ctl name="SPKRR True Level Switch" value="0" />
 > 	<ctl name="TX SPKRR True Level" value="ZERO" />
 > 	<ctl name="RX SPKRR True Level" value="ZERO" />
+> 	<ctl name="SPKRR True Width Switch" value="0" />
+> 	<ctl name="TX SPKRR True Width" value="ZERO" />
+> 	<ctl name="RX SPKRR True Width" value="ZERO" />
 > 	<ctl name="SPKRR True Center Switch" value="0" />
 > 	<ctl name="TX SPKRR True Center" value="ZERO" />
 > 	<ctl name="RX SPKRR True Center" value="ZERO" />
@@ -23938,18 +23938,18 @@
 > 	<ctl name="1 True Stereo Switch" value="2" />
 > 	<ctl name="TX1 True Stereo" value="AUTO" />
 > 	<ctl name="RX1 True Stereo" value="AUTO" />
-> 	<ctl name="1 True Width Switch" value="2" />
-> 	<ctl name="TX1 True Width" value="AUTO" />
-> 	<ctl name="RX1 True Width" value="AUTO" />
+> 	<ctl name="1 True Expand Switch" value="2" />
+> 	<ctl name="TX1 True Expand" value="AUTO" />
+> 	<ctl name="RX1 True Expand" value="AUTO" />
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Orientation Switch" value="2" />
-> 	<ctl name="TX1 True Orientation" value="AUTO" />
-> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
+> 	<ctl name="1 True Width Switch" value="2" />
+> 	<ctl name="TX1 True Width" value="AUTO" />
+> 	<ctl name="RX1 True Width" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
@@ -23980,18 +23980,18 @@
 > 	<ctl name="2 True Stereo Switch" value="2" />
 > 	<ctl name="TX2 True Stereo" value="AUTO" />
 > 	<ctl name="RX2 True Stereo" value="AUTO" />
-> 	<ctl name="2 True Width Switch" value="2" />
-> 	<ctl name="TX2 True Width" value="AUTO" />
-> 	<ctl name="RX2 True Width" value="AUTO" />
+> 	<ctl name="2 True Expand Switch" value="2" />
+> 	<ctl name="TX2 True Expand" value="AUTO" />
+> 	<ctl name="RX2 True Expand" value="AUTO" />
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Orientation Switch" value="2" />
-> 	<ctl name="TX2 True Orientation" value="AUTO" />
-> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
+> 	<ctl name="2 True Width Switch" value="2" />
+> 	<ctl name="TX2 True Width" value="AUTO" />
+> 	<ctl name="RX2 True Width" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
@@ -24022,18 +24022,18 @@
 > 	<ctl name="HPHL True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHL True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHL True Stereo" value="AUTO" />
-> 	<ctl name="HPHL True Width Switch" value="2" />
-> 	<ctl name="TX HPHL True Width" value="AUTO" />
-> 	<ctl name="RX HPHL True Width" value="AUTO" />
+> 	<ctl name="HPHL True Expand Switch" value="2" />
+> 	<ctl name="TX HPHL True Expand" value="AUTO" />
+> 	<ctl name="RX HPHL True Expand" value="AUTO" />
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
+> 	<ctl name="HPHL True Width Switch" value="2" />
+> 	<ctl name="TX HPHL True Width" value="AUTO" />
+> 	<ctl name="RX HPHL True Width" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
@@ -24061,18 +24061,18 @@
 > 	<ctl name="HPHR True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHR True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHR True Stereo" value="AUTO" />
-> 	<ctl name="HPHR True Width Switch" value="2" />
-> 	<ctl name="TX HPHR True Width" value="AUTO" />
-> 	<ctl name="RX HPHR True Width" value="AUTO" />
+> 	<ctl name="HPHR True Expand Switch" value="2" />
+> 	<ctl name="TX HPHR True Expand" value="AUTO" />
+> 	<ctl name="RX HPHR True Expand" value="AUTO" />
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
+> 	<ctl name="HPHR True Width Switch" value="2" />
+> 	<ctl name="TX HPHR True Width" value="AUTO" />
+> 	<ctl name="RX HPHR True Width" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
@@ -24130,18 +24130,18 @@
 > 	<ctl name="1 True Stereo Switch" value="2" />
 > 	<ctl name="TX1 True Stereo" value="AUTO" />
 > 	<ctl name="RX1 True Stereo" value="AUTO" />
-> 	<ctl name="1 True Width Switch" value="2" />
-> 	<ctl name="TX1 True Width" value="AUTO" />
-> 	<ctl name="RX1 True Width" value="AUTO" />
+> 	<ctl name="1 True Expand Switch" value="2" />
+> 	<ctl name="TX1 True Expand" value="AUTO" />
+> 	<ctl name="RX1 True Expand" value="AUTO" />
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Orientation Switch" value="2" />
-> 	<ctl name="TX1 True Orientation" value="AUTO" />
-> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
+> 	<ctl name="1 True Width Switch" value="2" />
+> 	<ctl name="TX1 True Width" value="AUTO" />
+> 	<ctl name="RX1 True Width" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
@@ -24172,18 +24172,18 @@
 > 	<ctl name="2 True Stereo Switch" value="2" />
 > 	<ctl name="TX2 True Stereo" value="AUTO" />
 > 	<ctl name="RX2 True Stereo" value="AUTO" />
-> 	<ctl name="2 True Width Switch" value="2" />
-> 	<ctl name="TX2 True Width" value="AUTO" />
-> 	<ctl name="RX2 True Width" value="AUTO" />
+> 	<ctl name="2 True Expand Switch" value="2" />
+> 	<ctl name="TX2 True Expand" value="AUTO" />
+> 	<ctl name="RX2 True Expand" value="AUTO" />
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Orientation Switch" value="2" />
-> 	<ctl name="TX2 True Orientation" value="AUTO" />
-> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
+> 	<ctl name="2 True Width Switch" value="2" />
+> 	<ctl name="TX2 True Width" value="AUTO" />
+> 	<ctl name="RX2 True Width" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
@@ -24214,18 +24214,18 @@
 > 	<ctl name="HPHL True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHL True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHL True Stereo" value="AUTO" />
-> 	<ctl name="HPHL True Width Switch" value="2" />
-> 	<ctl name="TX HPHL True Width" value="AUTO" />
-> 	<ctl name="RX HPHL True Width" value="AUTO" />
+> 	<ctl name="HPHL True Expand Switch" value="2" />
+> 	<ctl name="TX HPHL True Expand" value="AUTO" />
+> 	<ctl name="RX HPHL True Expand" value="AUTO" />
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
+> 	<ctl name="HPHL True Width Switch" value="2" />
+> 	<ctl name="TX HPHL True Width" value="AUTO" />
+> 	<ctl name="RX HPHL True Width" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
@@ -24253,18 +24253,18 @@
 > 	<ctl name="HPHR True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHR True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHR True Stereo" value="AUTO" />
-> 	<ctl name="HPHR True Width Switch" value="2" />
-> 	<ctl name="TX HPHR True Width" value="AUTO" />
-> 	<ctl name="RX HPHR True Width" value="AUTO" />
+> 	<ctl name="HPHR True Expand Switch" value="2" />
+> 	<ctl name="TX HPHR True Expand" value="AUTO" />
+> 	<ctl name="RX HPHR True Expand" value="AUTO" />
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
+> 	<ctl name="HPHR True Width Switch" value="2" />
+> 	<ctl name="TX HPHR True Width" value="AUTO" />
+> 	<ctl name="RX HPHR True Width" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
@@ -24322,18 +24322,18 @@
 > 	<ctl name="1 True Stereo Switch" value="2" />
 > 	<ctl name="TX1 True Stereo" value="AUTO" />
 > 	<ctl name="RX1 True Stereo" value="AUTO" />
-> 	<ctl name="1 True Width Switch" value="2" />
-> 	<ctl name="TX1 True Width" value="AUTO" />
-> 	<ctl name="RX1 True Width" value="AUTO" />
+> 	<ctl name="1 True Expand Switch" value="2" />
+> 	<ctl name="TX1 True Expand" value="AUTO" />
+> 	<ctl name="RX1 True Expand" value="AUTO" />
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Orientation Switch" value="2" />
-> 	<ctl name="TX1 True Orientation" value="AUTO" />
-> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
+> 	<ctl name="1 True Width Switch" value="2" />
+> 	<ctl name="TX1 True Width" value="AUTO" />
+> 	<ctl name="RX1 True Width" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
@@ -24364,18 +24364,18 @@
 > 	<ctl name="2 True Stereo Switch" value="2" />
 > 	<ctl name="TX2 True Stereo" value="AUTO" />
 > 	<ctl name="RX2 True Stereo" value="AUTO" />
-> 	<ctl name="2 True Width Switch" value="2" />
-> 	<ctl name="TX2 True Width" value="AUTO" />
-> 	<ctl name="RX2 True Width" value="AUTO" />
+> 	<ctl name="2 True Expand Switch" value="2" />
+> 	<ctl name="TX2 True Expand" value="AUTO" />
+> 	<ctl name="RX2 True Expand" value="AUTO" />
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Orientation Switch" value="2" />
-> 	<ctl name="TX2 True Orientation" value="AUTO" />
-> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
+> 	<ctl name="2 True Width Switch" value="2" />
+> 	<ctl name="TX2 True Width" value="AUTO" />
+> 	<ctl name="RX2 True Width" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
@@ -24406,18 +24406,18 @@
 > 	<ctl name="HPHL True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHL True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHL True Stereo" value="AUTO" />
-> 	<ctl name="HPHL True Width Switch" value="2" />
-> 	<ctl name="TX HPHL True Width" value="AUTO" />
-> 	<ctl name="RX HPHL True Width" value="AUTO" />
+> 	<ctl name="HPHL True Expand Switch" value="2" />
+> 	<ctl name="TX HPHL True Expand" value="AUTO" />
+> 	<ctl name="RX HPHL True Expand" value="AUTO" />
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
+> 	<ctl name="HPHL True Width Switch" value="2" />
+> 	<ctl name="TX HPHL True Width" value="AUTO" />
+> 	<ctl name="RX HPHL True Width" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
@@ -24445,18 +24445,18 @@
 > 	<ctl name="HPHR True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHR True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHR True Stereo" value="AUTO" />
-> 	<ctl name="HPHR True Width Switch" value="2" />
-> 	<ctl name="TX HPHR True Width" value="AUTO" />
-> 	<ctl name="RX HPHR True Width" value="AUTO" />
+> 	<ctl name="HPHR True Expand Switch" value="2" />
+> 	<ctl name="TX HPHR True Expand" value="AUTO" />
+> 	<ctl name="RX HPHR True Expand" value="AUTO" />
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
+> 	<ctl name="HPHR True Width Switch" value="2" />
+> 	<ctl name="TX HPHR True Width" value="AUTO" />
+> 	<ctl name="RX HPHR True Width" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
@@ -24496,18 +24496,18 @@
 > 	<ctl name="1 True Stereo Switch" value="2" />
 > 	<ctl name="TX1 True Stereo" value="AUTO" />
 > 	<ctl name="RX1 True Stereo" value="AUTO" />
-> 	<ctl name="1 True Width Switch" value="2" />
-> 	<ctl name="TX1 True Width" value="AUTO" />
-> 	<ctl name="RX1 True Width" value="AUTO" />
+> 	<ctl name="1 True Expand Switch" value="2" />
+> 	<ctl name="TX1 True Expand" value="AUTO" />
+> 	<ctl name="RX1 True Expand" value="AUTO" />
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Orientation Switch" value="2" />
-> 	<ctl name="TX1 True Orientation" value="AUTO" />
-> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
+> 	<ctl name="1 True Width Switch" value="2" />
+> 	<ctl name="TX1 True Width" value="AUTO" />
+> 	<ctl name="RX1 True Width" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
@@ -24538,18 +24538,18 @@
 > 	<ctl name="2 True Stereo Switch" value="2" />
 > 	<ctl name="TX2 True Stereo" value="AUTO" />
 > 	<ctl name="RX2 True Stereo" value="AUTO" />
-> 	<ctl name="2 True Width Switch" value="2" />
-> 	<ctl name="TX2 True Width" value="AUTO" />
-> 	<ctl name="RX2 True Width" value="AUTO" />
+> 	<ctl name="2 True Expand Switch" value="2" />
+> 	<ctl name="TX2 True Expand" value="AUTO" />
+> 	<ctl name="RX2 True Expand" value="AUTO" />
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Orientation Switch" value="2" />
-> 	<ctl name="TX2 True Orientation" value="AUTO" />
-> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
+> 	<ctl name="2 True Width Switch" value="2" />
+> 	<ctl name="TX2 True Width" value="AUTO" />
+> 	<ctl name="RX2 True Width" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
@@ -24580,18 +24580,18 @@
 > 	<ctl name="HPHL True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHL True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHL True Stereo" value="AUTO" />
-> 	<ctl name="HPHL True Width Switch" value="2" />
-> 	<ctl name="TX HPHL True Width" value="AUTO" />
-> 	<ctl name="RX HPHL True Width" value="AUTO" />
+> 	<ctl name="HPHL True Expand Switch" value="2" />
+> 	<ctl name="TX HPHL True Expand" value="AUTO" />
+> 	<ctl name="RX HPHL True Expand" value="AUTO" />
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
+> 	<ctl name="HPHL True Width Switch" value="2" />
+> 	<ctl name="TX HPHL True Width" value="AUTO" />
+> 	<ctl name="RX HPHL True Width" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
@@ -24619,18 +24619,18 @@
 > 	<ctl name="HPHR True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHR True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHR True Stereo" value="AUTO" />
-> 	<ctl name="HPHR True Width Switch" value="2" />
-> 	<ctl name="TX HPHR True Width" value="AUTO" />
-> 	<ctl name="RX HPHR True Width" value="AUTO" />
+> 	<ctl name="HPHR True Expand Switch" value="2" />
+> 	<ctl name="TX HPHR True Expand" value="AUTO" />
+> 	<ctl name="RX HPHR True Expand" value="AUTO" />
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
+> 	<ctl name="HPHR True Width Switch" value="2" />
+> 	<ctl name="TX HPHR True Width" value="AUTO" />
+> 	<ctl name="RX HPHR True Width" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
@@ -24670,18 +24670,18 @@
 > 	<ctl name="1 True Stereo Switch" value="2" />
 > 	<ctl name="TX1 True Stereo" value="AUTO" />
 > 	<ctl name="RX1 True Stereo" value="AUTO" />
-> 	<ctl name="1 True Width Switch" value="2" />
-> 	<ctl name="TX1 True Width" value="AUTO" />
-> 	<ctl name="RX1 True Width" value="AUTO" />
+> 	<ctl name="1 True Expand Switch" value="2" />
+> 	<ctl name="TX1 True Expand" value="AUTO" />
+> 	<ctl name="RX1 True Expand" value="AUTO" />
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Orientation Switch" value="2" />
-> 	<ctl name="TX1 True Orientation" value="AUTO" />
-> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
+> 	<ctl name="1 True Width Switch" value="2" />
+> 	<ctl name="TX1 True Width" value="AUTO" />
+> 	<ctl name="RX1 True Width" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
@@ -24712,18 +24712,18 @@
 > 	<ctl name="2 True Stereo Switch" value="2" />
 > 	<ctl name="TX2 True Stereo" value="AUTO" />
 > 	<ctl name="RX2 True Stereo" value="AUTO" />
-> 	<ctl name="2 True Width Switch" value="2" />
-> 	<ctl name="TX2 True Width" value="AUTO" />
-> 	<ctl name="RX2 True Width" value="AUTO" />
+> 	<ctl name="2 True Expand Switch" value="2" />
+> 	<ctl name="TX2 True Expand" value="AUTO" />
+> 	<ctl name="RX2 True Expand" value="AUTO" />
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Orientation Switch" value="2" />
-> 	<ctl name="TX2 True Orientation" value="AUTO" />
-> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
+> 	<ctl name="2 True Width Switch" value="2" />
+> 	<ctl name="TX2 True Width" value="AUTO" />
+> 	<ctl name="RX2 True Width" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
@@ -24754,18 +24754,18 @@
 > 	<ctl name="HPHL True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHL True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHL True Stereo" value="AUTO" />
-> 	<ctl name="HPHL True Width Switch" value="2" />
-> 	<ctl name="TX HPHL True Width" value="AUTO" />
-> 	<ctl name="RX HPHL True Width" value="AUTO" />
+> 	<ctl name="HPHL True Expand Switch" value="2" />
+> 	<ctl name="TX HPHL True Expand" value="AUTO" />
+> 	<ctl name="RX HPHL True Expand" value="AUTO" />
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
+> 	<ctl name="HPHL True Width Switch" value="2" />
+> 	<ctl name="TX HPHL True Width" value="AUTO" />
+> 	<ctl name="RX HPHL True Width" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
@@ -24793,18 +24793,18 @@
 > 	<ctl name="HPHR True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHR True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHR True Stereo" value="AUTO" />
-> 	<ctl name="HPHR True Width Switch" value="2" />
-> 	<ctl name="TX HPHR True Width" value="AUTO" />
-> 	<ctl name="RX HPHR True Width" value="AUTO" />
+> 	<ctl name="HPHR True Expand Switch" value="2" />
+> 	<ctl name="TX HPHR True Expand" value="AUTO" />
+> 	<ctl name="RX HPHR True Expand" value="AUTO" />
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
+> 	<ctl name="HPHR True Width Switch" value="2" />
+> 	<ctl name="TX HPHR True Width" value="AUTO" />
+> 	<ctl name="RX HPHR True Width" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
@@ -24862,18 +24862,18 @@
 > 	<ctl name="1 True Stereo Switch" value="2" />
 > 	<ctl name="TX1 True Stereo" value="AUTO" />
 > 	<ctl name="RX1 True Stereo" value="AUTO" />
-> 	<ctl name="1 True Width Switch" value="2" />
-> 	<ctl name="TX1 True Width" value="AUTO" />
-> 	<ctl name="RX1 True Width" value="AUTO" />
+> 	<ctl name="1 True Expand Switch" value="2" />
+> 	<ctl name="TX1 True Expand" value="AUTO" />
+> 	<ctl name="RX1 True Expand" value="AUTO" />
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Orientation Switch" value="2" />
-> 	<ctl name="TX1 True Orientation" value="AUTO" />
-> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
+> 	<ctl name="1 True Width Switch" value="2" />
+> 	<ctl name="TX1 True Width" value="AUTO" />
+> 	<ctl name="RX1 True Width" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
@@ -24904,18 +24904,18 @@
 > 	<ctl name="2 True Stereo Switch" value="2" />
 > 	<ctl name="TX2 True Stereo" value="AUTO" />
 > 	<ctl name="RX2 True Stereo" value="AUTO" />
-> 	<ctl name="2 True Width Switch" value="2" />
-> 	<ctl name="TX2 True Width" value="AUTO" />
-> 	<ctl name="RX2 True Width" value="AUTO" />
+> 	<ctl name="2 True Expand Switch" value="2" />
+> 	<ctl name="TX2 True Expand" value="AUTO" />
+> 	<ctl name="RX2 True Expand" value="AUTO" />
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Orientation Switch" value="2" />
-> 	<ctl name="TX2 True Orientation" value="AUTO" />
-> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
+> 	<ctl name="2 True Width Switch" value="2" />
+> 	<ctl name="TX2 True Width" value="AUTO" />
+> 	<ctl name="RX2 True Width" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
@@ -24946,18 +24946,18 @@
 > 	<ctl name="HPHL True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHL True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHL True Stereo" value="AUTO" />
-> 	<ctl name="HPHL True Width Switch" value="2" />
-> 	<ctl name="TX HPHL True Width" value="AUTO" />
-> 	<ctl name="RX HPHL True Width" value="AUTO" />
+> 	<ctl name="HPHL True Expand Switch" value="2" />
+> 	<ctl name="TX HPHL True Expand" value="AUTO" />
+> 	<ctl name="RX HPHL True Expand" value="AUTO" />
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
+> 	<ctl name="HPHL True Width Switch" value="2" />
+> 	<ctl name="TX HPHL True Width" value="AUTO" />
+> 	<ctl name="RX HPHL True Width" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
@@ -24985,18 +24985,18 @@
 > 	<ctl name="HPHR True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHR True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHR True Stereo" value="AUTO" />
-> 	<ctl name="HPHR True Width Switch" value="2" />
-> 	<ctl name="TX HPHR True Width" value="AUTO" />
-> 	<ctl name="RX HPHR True Width" value="AUTO" />
+> 	<ctl name="HPHR True Expand Switch" value="2" />
+> 	<ctl name="TX HPHR True Expand" value="AUTO" />
+> 	<ctl name="RX HPHR True Expand" value="AUTO" />
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
+> 	<ctl name="HPHR True Width Switch" value="2" />
+> 	<ctl name="TX HPHR True Width" value="AUTO" />
+> 	<ctl name="RX HPHR True Width" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
@@ -25036,18 +25036,18 @@
 > 	<ctl name="1 True Stereo Switch" value="2" />
 > 	<ctl name="TX1 True Stereo" value="AUTO" />
 > 	<ctl name="RX1 True Stereo" value="AUTO" />
-> 	<ctl name="1 True Width Switch" value="2" />
-> 	<ctl name="TX1 True Width" value="AUTO" />
-> 	<ctl name="RX1 True Width" value="AUTO" />
+> 	<ctl name="1 True Expand Switch" value="2" />
+> 	<ctl name="TX1 True Expand" value="AUTO" />
+> 	<ctl name="RX1 True Expand" value="AUTO" />
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Orientation Switch" value="2" />
-> 	<ctl name="TX1 True Orientation" value="AUTO" />
-> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
+> 	<ctl name="1 True Width Switch" value="2" />
+> 	<ctl name="TX1 True Width" value="AUTO" />
+> 	<ctl name="RX1 True Width" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
@@ -25078,18 +25078,18 @@
 > 	<ctl name="2 True Stereo Switch" value="2" />
 > 	<ctl name="TX2 True Stereo" value="AUTO" />
 > 	<ctl name="RX2 True Stereo" value="AUTO" />
-> 	<ctl name="2 True Width Switch" value="2" />
-> 	<ctl name="TX2 True Width" value="AUTO" />
-> 	<ctl name="RX2 True Width" value="AUTO" />
+> 	<ctl name="2 True Expand Switch" value="2" />
+> 	<ctl name="TX2 True Expand" value="AUTO" />
+> 	<ctl name="RX2 True Expand" value="AUTO" />
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Orientation Switch" value="2" />
-> 	<ctl name="TX2 True Orientation" value="AUTO" />
-> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
+> 	<ctl name="2 True Width Switch" value="2" />
+> 	<ctl name="TX2 True Width" value="AUTO" />
+> 	<ctl name="RX2 True Width" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
@@ -25120,18 +25120,18 @@
 > 	<ctl name="HPHL True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHL True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHL True Stereo" value="AUTO" />
-> 	<ctl name="HPHL True Width Switch" value="2" />
-> 	<ctl name="TX HPHL True Width" value="AUTO" />
-> 	<ctl name="RX HPHL True Width" value="AUTO" />
+> 	<ctl name="HPHL True Expand Switch" value="2" />
+> 	<ctl name="TX HPHL True Expand" value="AUTO" />
+> 	<ctl name="RX HPHL True Expand" value="AUTO" />
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
+> 	<ctl name="HPHL True Width Switch" value="2" />
+> 	<ctl name="TX HPHL True Width" value="AUTO" />
+> 	<ctl name="RX HPHL True Width" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
@@ -25159,18 +25159,18 @@
 > 	<ctl name="HPHR True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHR True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHR True Stereo" value="AUTO" />
-> 	<ctl name="HPHR True Width Switch" value="2" />
-> 	<ctl name="TX HPHR True Width" value="AUTO" />
-> 	<ctl name="RX HPHR True Width" value="AUTO" />
+> 	<ctl name="HPHR True Expand Switch" value="2" />
+> 	<ctl name="TX HPHR True Expand" value="AUTO" />
+> 	<ctl name="RX HPHR True Expand" value="AUTO" />
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
+> 	<ctl name="HPHR True Width Switch" value="2" />
+> 	<ctl name="TX HPHR True Width" value="AUTO" />
+> 	<ctl name="RX HPHR True Width" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
@@ -25210,18 +25210,18 @@
 > 	<ctl name="1 True Stereo Switch" value="2" />
 > 	<ctl name="TX1 True Stereo" value="AUTO" />
 > 	<ctl name="RX1 True Stereo" value="AUTO" />
-> 	<ctl name="1 True Width Switch" value="2" />
-> 	<ctl name="TX1 True Width" value="AUTO" />
-> 	<ctl name="RX1 True Width" value="AUTO" />
+> 	<ctl name="1 True Expand Switch" value="2" />
+> 	<ctl name="TX1 True Expand" value="AUTO" />
+> 	<ctl name="RX1 True Expand" value="AUTO" />
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Orientation Switch" value="2" />
-> 	<ctl name="TX1 True Orientation" value="AUTO" />
-> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
+> 	<ctl name="1 True Width Switch" value="2" />
+> 	<ctl name="TX1 True Width" value="AUTO" />
+> 	<ctl name="RX1 True Width" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
@@ -25252,18 +25252,18 @@
 > 	<ctl name="2 True Stereo Switch" value="2" />
 > 	<ctl name="TX2 True Stereo" value="AUTO" />
 > 	<ctl name="RX2 True Stereo" value="AUTO" />
-> 	<ctl name="2 True Width Switch" value="2" />
-> 	<ctl name="TX2 True Width" value="AUTO" />
-> 	<ctl name="RX2 True Width" value="AUTO" />
+> 	<ctl name="2 True Expand Switch" value="2" />
+> 	<ctl name="TX2 True Expand" value="AUTO" />
+> 	<ctl name="RX2 True Expand" value="AUTO" />
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Orientation Switch" value="2" />
-> 	<ctl name="TX2 True Orientation" value="AUTO" />
-> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
+> 	<ctl name="2 True Width Switch" value="2" />
+> 	<ctl name="TX2 True Width" value="AUTO" />
+> 	<ctl name="RX2 True Width" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
@@ -25294,18 +25294,18 @@
 > 	<ctl name="HPHL True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHL True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHL True Stereo" value="AUTO" />
-> 	<ctl name="HPHL True Width Switch" value="2" />
-> 	<ctl name="TX HPHL True Width" value="AUTO" />
-> 	<ctl name="RX HPHL True Width" value="AUTO" />
+> 	<ctl name="HPHL True Expand Switch" value="2" />
+> 	<ctl name="TX HPHL True Expand" value="AUTO" />
+> 	<ctl name="RX HPHL True Expand" value="AUTO" />
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
+> 	<ctl name="HPHL True Width Switch" value="2" />
+> 	<ctl name="TX HPHL True Width" value="AUTO" />
+> 	<ctl name="RX HPHL True Width" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
@@ -25333,18 +25333,18 @@
 > 	<ctl name="HPHR True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHR True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHR True Stereo" value="AUTO" />
-> 	<ctl name="HPHR True Width Switch" value="2" />
-> 	<ctl name="TX HPHR True Width" value="AUTO" />
-> 	<ctl name="RX HPHR True Width" value="AUTO" />
+> 	<ctl name="HPHR True Expand Switch" value="2" />
+> 	<ctl name="TX HPHR True Expand" value="AUTO" />
+> 	<ctl name="RX HPHR True Expand" value="AUTO" />
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
+> 	<ctl name="HPHR True Width Switch" value="2" />
+> 	<ctl name="TX HPHR True Width" value="AUTO" />
+> 	<ctl name="RX HPHR True Width" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
@@ -25412,18 +25412,18 @@
 > 	<ctl name="1 True Stereo Switch" value="2" />
 > 	<ctl name="TX1 True Stereo" value="AUTO" />
 > 	<ctl name="RX1 True Stereo" value="AUTO" />
-> 	<ctl name="1 True Width Switch" value="2" />
-> 	<ctl name="TX1 True Width" value="AUTO" />
-> 	<ctl name="RX1 True Width" value="AUTO" />
+> 	<ctl name="1 True Expand Switch" value="2" />
+> 	<ctl name="TX1 True Expand" value="AUTO" />
+> 	<ctl name="RX1 True Expand" value="AUTO" />
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Orientation Switch" value="2" />
-> 	<ctl name="TX1 True Orientation" value="AUTO" />
-> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
+> 	<ctl name="1 True Width Switch" value="2" />
+> 	<ctl name="TX1 True Width" value="AUTO" />
+> 	<ctl name="RX1 True Width" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
@@ -25454,18 +25454,18 @@
 > 	<ctl name="2 True Stereo Switch" value="2" />
 > 	<ctl name="TX2 True Stereo" value="AUTO" />
 > 	<ctl name="RX2 True Stereo" value="AUTO" />
-> 	<ctl name="2 True Width Switch" value="2" />
-> 	<ctl name="TX2 True Width" value="AUTO" />
-> 	<ctl name="RX2 True Width" value="AUTO" />
+> 	<ctl name="2 True Expand Switch" value="2" />
+> 	<ctl name="TX2 True Expand" value="AUTO" />
+> 	<ctl name="RX2 True Expand" value="AUTO" />
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Orientation Switch" value="2" />
-> 	<ctl name="TX2 True Orientation" value="AUTO" />
-> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
+> 	<ctl name="2 True Width Switch" value="2" />
+> 	<ctl name="TX2 True Width" value="AUTO" />
+> 	<ctl name="RX2 True Width" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
@@ -25496,18 +25496,18 @@
 > 	<ctl name="HPHL True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHL True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHL True Stereo" value="AUTO" />
-> 	<ctl name="HPHL True Width Switch" value="2" />
-> 	<ctl name="TX HPHL True Width" value="AUTO" />
-> 	<ctl name="RX HPHL True Width" value="AUTO" />
+> 	<ctl name="HPHL True Expand Switch" value="2" />
+> 	<ctl name="TX HPHL True Expand" value="AUTO" />
+> 	<ctl name="RX HPHL True Expand" value="AUTO" />
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
+> 	<ctl name="HPHL True Width Switch" value="2" />
+> 	<ctl name="TX HPHL True Width" value="AUTO" />
+> 	<ctl name="RX HPHL True Width" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
@@ -25535,18 +25535,18 @@
 > 	<ctl name="HPHR True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHR True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHR True Stereo" value="AUTO" />
-> 	<ctl name="HPHR True Width Switch" value="2" />
-> 	<ctl name="TX HPHR True Width" value="AUTO" />
-> 	<ctl name="RX HPHR True Width" value="AUTO" />
+> 	<ctl name="HPHR True Expand Switch" value="2" />
+> 	<ctl name="TX HPHR True Expand" value="AUTO" />
+> 	<ctl name="RX HPHR True Expand" value="AUTO" />
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
+> 	<ctl name="HPHR True Width Switch" value="2" />
+> 	<ctl name="TX HPHR True Width" value="AUTO" />
+> 	<ctl name="RX HPHR True Width" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
@@ -25603,18 +25603,18 @@
 > 	<ctl name="1 True Stereo Switch" value="2" />
 > 	<ctl name="TX1 True Stereo" value="AUTO" />
 > 	<ctl name="RX1 True Stereo" value="AUTO" />
-> 	<ctl name="1 True Width Switch" value="2" />
-> 	<ctl name="TX1 True Width" value="AUTO" />
-> 	<ctl name="RX1 True Width" value="AUTO" />
+> 	<ctl name="1 True Expand Switch" value="2" />
+> 	<ctl name="TX1 True Expand" value="AUTO" />
+> 	<ctl name="RX1 True Expand" value="AUTO" />
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Orientation Switch" value="2" />
-> 	<ctl name="TX1 True Orientation" value="AUTO" />
-> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
+> 	<ctl name="1 True Width Switch" value="2" />
+> 	<ctl name="TX1 True Width" value="AUTO" />
+> 	<ctl name="RX1 True Width" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
@@ -25645,18 +25645,18 @@
 > 	<ctl name="2 True Stereo Switch" value="2" />
 > 	<ctl name="TX2 True Stereo" value="AUTO" />
 > 	<ctl name="RX2 True Stereo" value="AUTO" />
-> 	<ctl name="2 True Width Switch" value="2" />
-> 	<ctl name="TX2 True Width" value="AUTO" />
-> 	<ctl name="RX2 True Width" value="AUTO" />
+> 	<ctl name="2 True Expand Switch" value="2" />
+> 	<ctl name="TX2 True Expand" value="AUTO" />
+> 	<ctl name="RX2 True Expand" value="AUTO" />
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Orientation Switch" value="2" />
-> 	<ctl name="TX2 True Orientation" value="AUTO" />
-> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
+> 	<ctl name="2 True Width Switch" value="2" />
+> 	<ctl name="TX2 True Width" value="AUTO" />
+> 	<ctl name="RX2 True Width" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
@@ -25687,18 +25687,18 @@
 > 	<ctl name="HPHL True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHL True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHL True Stereo" value="AUTO" />
-> 	<ctl name="HPHL True Width Switch" value="2" />
-> 	<ctl name="TX HPHL True Width" value="AUTO" />
-> 	<ctl name="RX HPHL True Width" value="AUTO" />
+> 	<ctl name="HPHL True Expand Switch" value="2" />
+> 	<ctl name="TX HPHL True Expand" value="AUTO" />
+> 	<ctl name="RX HPHL True Expand" value="AUTO" />
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
+> 	<ctl name="HPHL True Width Switch" value="2" />
+> 	<ctl name="TX HPHL True Width" value="AUTO" />
+> 	<ctl name="RX HPHL True Width" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
@@ -25726,18 +25726,18 @@
 > 	<ctl name="HPHR True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHR True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHR True Stereo" value="AUTO" />
-> 	<ctl name="HPHR True Width Switch" value="2" />
-> 	<ctl name="TX HPHR True Width" value="AUTO" />
-> 	<ctl name="RX HPHR True Width" value="AUTO" />
+> 	<ctl name="HPHR True Expand Switch" value="2" />
+> 	<ctl name="TX HPHR True Expand" value="AUTO" />
+> 	<ctl name="RX HPHR True Expand" value="AUTO" />
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
+> 	<ctl name="HPHR True Width Switch" value="2" />
+> 	<ctl name="TX HPHR True Width" value="AUTO" />
+> 	<ctl name="RX HPHR True Width" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
@@ -25794,18 +25794,18 @@
 > 	<ctl name="1 True Stereo Switch" value="2" />
 > 	<ctl name="TX1 True Stereo" value="AUTO" />
 > 	<ctl name="RX1 True Stereo" value="AUTO" />
-> 	<ctl name="1 True Width Switch" value="2" />
-> 	<ctl name="TX1 True Width" value="AUTO" />
-> 	<ctl name="RX1 True Width" value="AUTO" />
+> 	<ctl name="1 True Expand Switch" value="2" />
+> 	<ctl name="TX1 True Expand" value="AUTO" />
+> 	<ctl name="RX1 True Expand" value="AUTO" />
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Orientation Switch" value="2" />
-> 	<ctl name="TX1 True Orientation" value="AUTO" />
-> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
+> 	<ctl name="1 True Width Switch" value="2" />
+> 	<ctl name="TX1 True Width" value="AUTO" />
+> 	<ctl name="RX1 True Width" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
@@ -25836,18 +25836,18 @@
 > 	<ctl name="2 True Stereo Switch" value="2" />
 > 	<ctl name="TX2 True Stereo" value="AUTO" />
 > 	<ctl name="RX2 True Stereo" value="AUTO" />
-> 	<ctl name="2 True Width Switch" value="2" />
-> 	<ctl name="TX2 True Width" value="AUTO" />
-> 	<ctl name="RX2 True Width" value="AUTO" />
+> 	<ctl name="2 True Expand Switch" value="2" />
+> 	<ctl name="TX2 True Expand" value="AUTO" />
+> 	<ctl name="RX2 True Expand" value="AUTO" />
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Orientation Switch" value="2" />
-> 	<ctl name="TX2 True Orientation" value="AUTO" />
-> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
+> 	<ctl name="2 True Width Switch" value="2" />
+> 	<ctl name="TX2 True Width" value="AUTO" />
+> 	<ctl name="RX2 True Width" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
@@ -25878,18 +25878,18 @@
 > 	<ctl name="HPHL True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHL True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHL True Stereo" value="AUTO" />
-> 	<ctl name="HPHL True Width Switch" value="2" />
-> 	<ctl name="TX HPHL True Width" value="AUTO" />
-> 	<ctl name="RX HPHL True Width" value="AUTO" />
+> 	<ctl name="HPHL True Expand Switch" value="2" />
+> 	<ctl name="TX HPHL True Expand" value="AUTO" />
+> 	<ctl name="RX HPHL True Expand" value="AUTO" />
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
+> 	<ctl name="HPHL True Width Switch" value="2" />
+> 	<ctl name="TX HPHL True Width" value="AUTO" />
+> 	<ctl name="RX HPHL True Width" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
@@ -25917,18 +25917,18 @@
 > 	<ctl name="HPHR True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHR True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHR True Stereo" value="AUTO" />
-> 	<ctl name="HPHR True Width Switch" value="2" />
-> 	<ctl name="TX HPHR True Width" value="AUTO" />
-> 	<ctl name="RX HPHR True Width" value="AUTO" />
+> 	<ctl name="HPHR True Expand Switch" value="2" />
+> 	<ctl name="TX HPHR True Expand" value="AUTO" />
+> 	<ctl name="RX HPHR True Expand" value="AUTO" />
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
+> 	<ctl name="HPHR True Width Switch" value="2" />
+> 	<ctl name="TX HPHR True Width" value="AUTO" />
+> 	<ctl name="RX HPHR True Width" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
@@ -25967,18 +25967,18 @@
 > 	<ctl name="1 True Stereo Switch" value="2" />
 > 	<ctl name="TX1 True Stereo" value="AUTO" />
 > 	<ctl name="RX1 True Stereo" value="AUTO" />
-> 	<ctl name="1 True Width Switch" value="2" />
-> 	<ctl name="TX1 True Width" value="AUTO" />
-> 	<ctl name="RX1 True Width" value="AUTO" />
+> 	<ctl name="1 True Expand Switch" value="2" />
+> 	<ctl name="TX1 True Expand" value="AUTO" />
+> 	<ctl name="RX1 True Expand" value="AUTO" />
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Orientation Switch" value="2" />
-> 	<ctl name="TX1 True Orientation" value="AUTO" />
-> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
+> 	<ctl name="1 True Width Switch" value="2" />
+> 	<ctl name="TX1 True Width" value="AUTO" />
+> 	<ctl name="RX1 True Width" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
@@ -26009,18 +26009,18 @@
 > 	<ctl name="2 True Stereo Switch" value="2" />
 > 	<ctl name="TX2 True Stereo" value="AUTO" />
 > 	<ctl name="RX2 True Stereo" value="AUTO" />
-> 	<ctl name="2 True Width Switch" value="2" />
-> 	<ctl name="TX2 True Width" value="AUTO" />
-> 	<ctl name="RX2 True Width" value="AUTO" />
+> 	<ctl name="2 True Expand Switch" value="2" />
+> 	<ctl name="TX2 True Expand" value="AUTO" />
+> 	<ctl name="RX2 True Expand" value="AUTO" />
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Orientation Switch" value="2" />
-> 	<ctl name="TX2 True Orientation" value="AUTO" />
-> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
+> 	<ctl name="2 True Width Switch" value="2" />
+> 	<ctl name="TX2 True Width" value="AUTO" />
+> 	<ctl name="RX2 True Width" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
@@ -26051,18 +26051,18 @@
 > 	<ctl name="HPHL True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHL True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHL True Stereo" value="AUTO" />
-> 	<ctl name="HPHL True Width Switch" value="2" />
-> 	<ctl name="TX HPHL True Width" value="AUTO" />
-> 	<ctl name="RX HPHL True Width" value="AUTO" />
+> 	<ctl name="HPHL True Expand Switch" value="2" />
+> 	<ctl name="TX HPHL True Expand" value="AUTO" />
+> 	<ctl name="RX HPHL True Expand" value="AUTO" />
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
+> 	<ctl name="HPHL True Width Switch" value="2" />
+> 	<ctl name="TX HPHL True Width" value="AUTO" />
+> 	<ctl name="RX HPHL True Width" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
@@ -26090,18 +26090,18 @@
 > 	<ctl name="HPHR True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHR True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHR True Stereo" value="AUTO" />
-> 	<ctl name="HPHR True Width Switch" value="2" />
-> 	<ctl name="TX HPHR True Width" value="AUTO" />
-> 	<ctl name="RX HPHR True Width" value="AUTO" />
+> 	<ctl name="HPHR True Expand Switch" value="2" />
+> 	<ctl name="TX HPHR True Expand" value="AUTO" />
+> 	<ctl name="RX HPHR True Expand" value="AUTO" />
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
+> 	<ctl name="HPHR True Width Switch" value="2" />
+> 	<ctl name="TX HPHR True Width" value="AUTO" />
+> 	<ctl name="RX HPHR True Width" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
@@ -26140,18 +26140,18 @@
 > 	<ctl name="1 True Stereo Switch" value="2" />
 > 	<ctl name="TX1 True Stereo" value="AUTO" />
 > 	<ctl name="RX1 True Stereo" value="AUTO" />
-> 	<ctl name="1 True Width Switch" value="2" />
-> 	<ctl name="TX1 True Width" value="AUTO" />
-> 	<ctl name="RX1 True Width" value="AUTO" />
+> 	<ctl name="1 True Expand Switch" value="2" />
+> 	<ctl name="TX1 True Expand" value="AUTO" />
+> 	<ctl name="RX1 True Expand" value="AUTO" />
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Orientation Switch" value="2" />
-> 	<ctl name="TX1 True Orientation" value="AUTO" />
-> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
+> 	<ctl name="1 True Width Switch" value="2" />
+> 	<ctl name="TX1 True Width" value="AUTO" />
+> 	<ctl name="RX1 True Width" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
@@ -26182,18 +26182,18 @@
 > 	<ctl name="2 True Stereo Switch" value="2" />
 > 	<ctl name="TX2 True Stereo" value="AUTO" />
 > 	<ctl name="RX2 True Stereo" value="AUTO" />
-> 	<ctl name="2 True Width Switch" value="2" />
-> 	<ctl name="TX2 True Width" value="AUTO" />
-> 	<ctl name="RX2 True Width" value="AUTO" />
+> 	<ctl name="2 True Expand Switch" value="2" />
+> 	<ctl name="TX2 True Expand" value="AUTO" />
+> 	<ctl name="RX2 True Expand" value="AUTO" />
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Orientation Switch" value="2" />
-> 	<ctl name="TX2 True Orientation" value="AUTO" />
-> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
+> 	<ctl name="2 True Width Switch" value="2" />
+> 	<ctl name="TX2 True Width" value="AUTO" />
+> 	<ctl name="RX2 True Width" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
@@ -26224,18 +26224,18 @@
 > 	<ctl name="HPHL True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHL True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHL True Stereo" value="AUTO" />
-> 	<ctl name="HPHL True Width Switch" value="2" />
-> 	<ctl name="TX HPHL True Width" value="AUTO" />
-> 	<ctl name="RX HPHL True Width" value="AUTO" />
+> 	<ctl name="HPHL True Expand Switch" value="2" />
+> 	<ctl name="TX HPHL True Expand" value="AUTO" />
+> 	<ctl name="RX HPHL True Expand" value="AUTO" />
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
+> 	<ctl name="HPHL True Width Switch" value="2" />
+> 	<ctl name="TX HPHL True Width" value="AUTO" />
+> 	<ctl name="RX HPHL True Width" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
@@ -26263,18 +26263,18 @@
 > 	<ctl name="HPHR True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHR True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHR True Stereo" value="AUTO" />
-> 	<ctl name="HPHR True Width Switch" value="2" />
-> 	<ctl name="TX HPHR True Width" value="AUTO" />
-> 	<ctl name="RX HPHR True Width" value="AUTO" />
+> 	<ctl name="HPHR True Expand Switch" value="2" />
+> 	<ctl name="TX HPHR True Expand" value="AUTO" />
+> 	<ctl name="RX HPHR True Expand" value="AUTO" />
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
+> 	<ctl name="HPHR True Width Switch" value="2" />
+> 	<ctl name="TX HPHR True Width" value="AUTO" />
+> 	<ctl name="RX HPHR True Width" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
@@ -26331,18 +26331,18 @@
 > 	<ctl name="1 True Stereo Switch" value="2" />
 > 	<ctl name="TX1 True Stereo" value="AUTO" />
 > 	<ctl name="RX1 True Stereo" value="AUTO" />
-> 	<ctl name="1 True Width Switch" value="2" />
-> 	<ctl name="TX1 True Width" value="AUTO" />
-> 	<ctl name="RX1 True Width" value="AUTO" />
+> 	<ctl name="1 True Expand Switch" value="2" />
+> 	<ctl name="TX1 True Expand" value="AUTO" />
+> 	<ctl name="RX1 True Expand" value="AUTO" />
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Orientation Switch" value="2" />
-> 	<ctl name="TX1 True Orientation" value="AUTO" />
-> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
+> 	<ctl name="1 True Width Switch" value="2" />
+> 	<ctl name="TX1 True Width" value="AUTO" />
+> 	<ctl name="RX1 True Width" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
@@ -26373,18 +26373,18 @@
 > 	<ctl name="2 True Stereo Switch" value="2" />
 > 	<ctl name="TX2 True Stereo" value="AUTO" />
 > 	<ctl name="RX2 True Stereo" value="AUTO" />
-> 	<ctl name="2 True Width Switch" value="2" />
-> 	<ctl name="TX2 True Width" value="AUTO" />
-> 	<ctl name="RX2 True Width" value="AUTO" />
+> 	<ctl name="2 True Expand Switch" value="2" />
+> 	<ctl name="TX2 True Expand" value="AUTO" />
+> 	<ctl name="RX2 True Expand" value="AUTO" />
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Orientation Switch" value="2" />
-> 	<ctl name="TX2 True Orientation" value="AUTO" />
-> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
+> 	<ctl name="2 True Width Switch" value="2" />
+> 	<ctl name="TX2 True Width" value="AUTO" />
+> 	<ctl name="RX2 True Width" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
@@ -26415,18 +26415,18 @@
 > 	<ctl name="HPHL True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHL True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHL True Stereo" value="AUTO" />
-> 	<ctl name="HPHL True Width Switch" value="2" />
-> 	<ctl name="TX HPHL True Width" value="AUTO" />
-> 	<ctl name="RX HPHL True Width" value="AUTO" />
+> 	<ctl name="HPHL True Expand Switch" value="2" />
+> 	<ctl name="TX HPHL True Expand" value="AUTO" />
+> 	<ctl name="RX HPHL True Expand" value="AUTO" />
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
+> 	<ctl name="HPHL True Width Switch" value="2" />
+> 	<ctl name="TX HPHL True Width" value="AUTO" />
+> 	<ctl name="RX HPHL True Width" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
@@ -26454,18 +26454,18 @@
 > 	<ctl name="HPHR True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHR True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHR True Stereo" value="AUTO" />
-> 	<ctl name="HPHR True Width Switch" value="2" />
-> 	<ctl name="TX HPHR True Width" value="AUTO" />
-> 	<ctl name="RX HPHR True Width" value="AUTO" />
+> 	<ctl name="HPHR True Expand Switch" value="2" />
+> 	<ctl name="TX HPHR True Expand" value="AUTO" />
+> 	<ctl name="RX HPHR True Expand" value="AUTO" />
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
+> 	<ctl name="HPHR True Width Switch" value="2" />
+> 	<ctl name="TX HPHR True Width" value="AUTO" />
+> 	<ctl name="RX HPHR True Width" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
@@ -26504,18 +26504,18 @@
 > 	<ctl name="1 True Stereo Switch" value="2" />
 > 	<ctl name="TX1 True Stereo" value="AUTO" />
 > 	<ctl name="RX1 True Stereo" value="AUTO" />
-> 	<ctl name="1 True Width Switch" value="2" />
-> 	<ctl name="TX1 True Width" value="AUTO" />
-> 	<ctl name="RX1 True Width" value="AUTO" />
+> 	<ctl name="1 True Expand Switch" value="2" />
+> 	<ctl name="TX1 True Expand" value="AUTO" />
+> 	<ctl name="RX1 True Expand" value="AUTO" />
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Orientation Switch" value="2" />
-> 	<ctl name="TX1 True Orientation" value="AUTO" />
-> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
+> 	<ctl name="1 True Width Switch" value="2" />
+> 	<ctl name="TX1 True Width" value="AUTO" />
+> 	<ctl name="RX1 True Width" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
@@ -26546,18 +26546,18 @@
 > 	<ctl name="2 True Stereo Switch" value="2" />
 > 	<ctl name="TX2 True Stereo" value="AUTO" />
 > 	<ctl name="RX2 True Stereo" value="AUTO" />
-> 	<ctl name="2 True Width Switch" value="2" />
-> 	<ctl name="TX2 True Width" value="AUTO" />
-> 	<ctl name="RX2 True Width" value="AUTO" />
+> 	<ctl name="2 True Expand Switch" value="2" />
+> 	<ctl name="TX2 True Expand" value="AUTO" />
+> 	<ctl name="RX2 True Expand" value="AUTO" />
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Orientation Switch" value="2" />
-> 	<ctl name="TX2 True Orientation" value="AUTO" />
-> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
+> 	<ctl name="2 True Width Switch" value="2" />
+> 	<ctl name="TX2 True Width" value="AUTO" />
+> 	<ctl name="RX2 True Width" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
@@ -26588,18 +26588,18 @@
 > 	<ctl name="HPHL True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHL True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHL True Stereo" value="AUTO" />
-> 	<ctl name="HPHL True Width Switch" value="2" />
-> 	<ctl name="TX HPHL True Width" value="AUTO" />
-> 	<ctl name="RX HPHL True Width" value="AUTO" />
+> 	<ctl name="HPHL True Expand Switch" value="2" />
+> 	<ctl name="TX HPHL True Expand" value="AUTO" />
+> 	<ctl name="RX HPHL True Expand" value="AUTO" />
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
+> 	<ctl name="HPHL True Width Switch" value="2" />
+> 	<ctl name="TX HPHL True Width" value="AUTO" />
+> 	<ctl name="RX HPHL True Width" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
@@ -26627,18 +26627,18 @@
 > 	<ctl name="HPHR True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHR True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHR True Stereo" value="AUTO" />
-> 	<ctl name="HPHR True Width Switch" value="2" />
-> 	<ctl name="TX HPHR True Width" value="AUTO" />
-> 	<ctl name="RX HPHR True Width" value="AUTO" />
+> 	<ctl name="HPHR True Expand Switch" value="2" />
+> 	<ctl name="TX HPHR True Expand" value="AUTO" />
+> 	<ctl name="RX HPHR True Expand" value="AUTO" />
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
+> 	<ctl name="HPHR True Width Switch" value="2" />
+> 	<ctl name="TX HPHR True Width" value="AUTO" />
+> 	<ctl name="RX HPHR True Width" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
@@ -26677,18 +26677,18 @@
 > 	<ctl name="1 True Stereo Switch" value="2" />
 > 	<ctl name="TX1 True Stereo" value="AUTO" />
 > 	<ctl name="RX1 True Stereo" value="AUTO" />
-> 	<ctl name="1 True Width Switch" value="2" />
-> 	<ctl name="TX1 True Width" value="AUTO" />
-> 	<ctl name="RX1 True Width" value="AUTO" />
+> 	<ctl name="1 True Expand Switch" value="2" />
+> 	<ctl name="TX1 True Expand" value="AUTO" />
+> 	<ctl name="RX1 True Expand" value="AUTO" />
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Orientation Switch" value="2" />
-> 	<ctl name="TX1 True Orientation" value="AUTO" />
-> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
+> 	<ctl name="1 True Width Switch" value="2" />
+> 	<ctl name="TX1 True Width" value="AUTO" />
+> 	<ctl name="RX1 True Width" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
@@ -26719,18 +26719,18 @@
 > 	<ctl name="2 True Stereo Switch" value="2" />
 > 	<ctl name="TX2 True Stereo" value="AUTO" />
 > 	<ctl name="RX2 True Stereo" value="AUTO" />
-> 	<ctl name="2 True Width Switch" value="2" />
-> 	<ctl name="TX2 True Width" value="AUTO" />
-> 	<ctl name="RX2 True Width" value="AUTO" />
+> 	<ctl name="2 True Expand Switch" value="2" />
+> 	<ctl name="TX2 True Expand" value="AUTO" />
+> 	<ctl name="RX2 True Expand" value="AUTO" />
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Orientation Switch" value="2" />
-> 	<ctl name="TX2 True Orientation" value="AUTO" />
-> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
+> 	<ctl name="2 True Width Switch" value="2" />
+> 	<ctl name="TX2 True Width" value="AUTO" />
+> 	<ctl name="RX2 True Width" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
@@ -26761,18 +26761,18 @@
 > 	<ctl name="HPHL True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHL True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHL True Stereo" value="AUTO" />
-> 	<ctl name="HPHL True Width Switch" value="2" />
-> 	<ctl name="TX HPHL True Width" value="AUTO" />
-> 	<ctl name="RX HPHL True Width" value="AUTO" />
+> 	<ctl name="HPHL True Expand Switch" value="2" />
+> 	<ctl name="TX HPHL True Expand" value="AUTO" />
+> 	<ctl name="RX HPHL True Expand" value="AUTO" />
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
+> 	<ctl name="HPHL True Width Switch" value="2" />
+> 	<ctl name="TX HPHL True Width" value="AUTO" />
+> 	<ctl name="RX HPHL True Width" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
@@ -26800,18 +26800,18 @@
 > 	<ctl name="HPHR True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHR True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHR True Stereo" value="AUTO" />
-> 	<ctl name="HPHR True Width Switch" value="2" />
-> 	<ctl name="TX HPHR True Width" value="AUTO" />
-> 	<ctl name="RX HPHR True Width" value="AUTO" />
+> 	<ctl name="HPHR True Expand Switch" value="2" />
+> 	<ctl name="TX HPHR True Expand" value="AUTO" />
+> 	<ctl name="RX HPHR True Expand" value="AUTO" />
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
+> 	<ctl name="HPHR True Width Switch" value="2" />
+> 	<ctl name="TX HPHR True Width" value="AUTO" />
+> 	<ctl name="RX HPHR True Width" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
@@ -26851,18 +26851,18 @@
 > 	<ctl name="1 True Stereo Switch" value="2" />
 > 	<ctl name="TX1 True Stereo" value="AUTO" />
 > 	<ctl name="RX1 True Stereo" value="AUTO" />
-> 	<ctl name="1 True Width Switch" value="2" />
-> 	<ctl name="TX1 True Width" value="AUTO" />
-> 	<ctl name="RX1 True Width" value="AUTO" />
+> 	<ctl name="1 True Expand Switch" value="2" />
+> 	<ctl name="TX1 True Expand" value="AUTO" />
+> 	<ctl name="RX1 True Expand" value="AUTO" />
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Orientation Switch" value="2" />
-> 	<ctl name="TX1 True Orientation" value="AUTO" />
-> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
+> 	<ctl name="1 True Width Switch" value="2" />
+> 	<ctl name="TX1 True Width" value="AUTO" />
+> 	<ctl name="RX1 True Width" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
@@ -26893,18 +26893,18 @@
 > 	<ctl name="2 True Stereo Switch" value="2" />
 > 	<ctl name="TX2 True Stereo" value="AUTO" />
 > 	<ctl name="RX2 True Stereo" value="AUTO" />
-> 	<ctl name="2 True Width Switch" value="2" />
-> 	<ctl name="TX2 True Width" value="AUTO" />
-> 	<ctl name="RX2 True Width" value="AUTO" />
+> 	<ctl name="2 True Expand Switch" value="2" />
+> 	<ctl name="TX2 True Expand" value="AUTO" />
+> 	<ctl name="RX2 True Expand" value="AUTO" />
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Orientation Switch" value="2" />
-> 	<ctl name="TX2 True Orientation" value="AUTO" />
-> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
+> 	<ctl name="2 True Width Switch" value="2" />
+> 	<ctl name="TX2 True Width" value="AUTO" />
+> 	<ctl name="RX2 True Width" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
@@ -26935,18 +26935,18 @@
 > 	<ctl name="HPHL True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHL True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHL True Stereo" value="AUTO" />
-> 	<ctl name="HPHL True Width Switch" value="2" />
-> 	<ctl name="TX HPHL True Width" value="AUTO" />
-> 	<ctl name="RX HPHL True Width" value="AUTO" />
+> 	<ctl name="HPHL True Expand Switch" value="2" />
+> 	<ctl name="TX HPHL True Expand" value="AUTO" />
+> 	<ctl name="RX HPHL True Expand" value="AUTO" />
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
+> 	<ctl name="HPHL True Width Switch" value="2" />
+> 	<ctl name="TX HPHL True Width" value="AUTO" />
+> 	<ctl name="RX HPHL True Width" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
@@ -26974,18 +26974,18 @@
 > 	<ctl name="HPHR True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHR True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHR True Stereo" value="AUTO" />
-> 	<ctl name="HPHR True Width Switch" value="2" />
-> 	<ctl name="TX HPHR True Width" value="AUTO" />
-> 	<ctl name="RX HPHR True Width" value="AUTO" />
+> 	<ctl name="HPHR True Expand Switch" value="2" />
+> 	<ctl name="TX HPHR True Expand" value="AUTO" />
+> 	<ctl name="RX HPHR True Expand" value="AUTO" />
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
+> 	<ctl name="HPHR True Width Switch" value="2" />
+> 	<ctl name="TX HPHR True Width" value="AUTO" />
+> 	<ctl name="RX HPHR True Width" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
@@ -27024,18 +27024,18 @@
 > 	<ctl name="1 True Stereo Switch" value="2" />
 > 	<ctl name="TX1 True Stereo" value="AUTO" />
 > 	<ctl name="RX1 True Stereo" value="AUTO" />
-> 	<ctl name="1 True Width Switch" value="2" />
-> 	<ctl name="TX1 True Width" value="AUTO" />
-> 	<ctl name="RX1 True Width" value="AUTO" />
+> 	<ctl name="1 True Expand Switch" value="2" />
+> 	<ctl name="TX1 True Expand" value="AUTO" />
+> 	<ctl name="RX1 True Expand" value="AUTO" />
 > 	<ctl name="1 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX1 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX1 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="1 True Orientation Switch" value="2" />
-> 	<ctl name="TX1 True Orientation" value="AUTO" />
-> 	<ctl name="RX1 True Orientation" value="AUTO" />
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
+> 	<ctl name="1 True Width Switch" value="2" />
+> 	<ctl name="TX1 True Width" value="AUTO" />
+> 	<ctl name="RX1 True Width" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
@@ -27066,18 +27066,18 @@
 > 	<ctl name="2 True Stereo Switch" value="2" />
 > 	<ctl name="TX2 True Stereo" value="AUTO" />
 > 	<ctl name="RX2 True Stereo" value="AUTO" />
-> 	<ctl name="2 True Width Switch" value="2" />
-> 	<ctl name="TX2 True Width" value="AUTO" />
-> 	<ctl name="RX2 True Width" value="AUTO" />
+> 	<ctl name="2 True Expand Switch" value="2" />
+> 	<ctl name="TX2 True Expand" value="AUTO" />
+> 	<ctl name="RX2 True Expand" value="AUTO" />
 > 	<ctl name="2 True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX2 True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX2 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="2 True Orientation Switch" value="2" />
-> 	<ctl name="TX2 True Orientation" value="AUTO" />
-> 	<ctl name="RX2 True Orientation" value="AUTO" />
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
+> 	<ctl name="2 True Width Switch" value="2" />
+> 	<ctl name="TX2 True Width" value="AUTO" />
+> 	<ctl name="RX2 True Width" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
@@ -27108,18 +27108,18 @@
 > 	<ctl name="HPHL True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHL True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHL True Stereo" value="AUTO" />
-> 	<ctl name="HPHL True Width Switch" value="2" />
-> 	<ctl name="TX HPHL True Width" value="AUTO" />
-> 	<ctl name="RX HPHL True Width" value="AUTO" />
+> 	<ctl name="HPHL True Expand Switch" value="2" />
+> 	<ctl name="TX HPHL True Expand" value="AUTO" />
+> 	<ctl name="RX HPHL True Expand" value="AUTO" />
 > 	<ctl name="HPHL True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHL True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHL True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHL True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHL True Orientation" value="AUTO" />
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
+> 	<ctl name="HPHL True Width Switch" value="2" />
+> 	<ctl name="TX HPHL True Width" value="AUTO" />
+> 	<ctl name="RX HPHL True Width" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
@@ -27147,18 +27147,18 @@
 > 	<ctl name="HPHR True Stereo Switch" value="2" />
 > 	<ctl name="TX HPHR True Stereo" value="AUTO" />
 > 	<ctl name="RX HPHR True Stereo" value="AUTO" />
-> 	<ctl name="HPHR True Width Switch" value="2" />
-> 	<ctl name="TX HPHR True Width" value="AUTO" />
-> 	<ctl name="RX HPHR True Width" value="AUTO" />
+> 	<ctl name="HPHR True Expand Switch" value="2" />
+> 	<ctl name="TX HPHR True Expand" value="AUTO" />
+> 	<ctl name="RX HPHR True Expand" value="AUTO" />
 > 	<ctl name="HPHR True Nominalize Volume Switch" value="2" />
 > 	<ctl name="TX HPHR True Nominalize Volume" value="AUTO" />
 > 	<ctl name="RX HPHR True Nominalize Volume" value="AUTO" />
-> 	<ctl name="HPHR True Orientation Switch" value="2" />
-> 	<ctl name="TX HPHR True Orientation" value="AUTO" />
-> 	<ctl name="RX HPHR True Orientation" value="AUTO" />
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
+> 	<ctl name="HPHR True Width Switch" value="2" />
+> 	<ctl name="TX HPHR True Width" value="AUTO" />
+> 	<ctl name="RX HPHR True Width" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
