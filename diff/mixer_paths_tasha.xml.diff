@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v246.1 -->
+> 	<!-- Lemon Drop Hi-Res treble v247.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -7207,12 +7207,12 @@
 > 	<ctl name="0 True Level Switch" value="0" />
 > 	<ctl name="TX0 True Level" value="ZERO" />
 > 	<ctl name="RX0 True Level" value="ZERO" />
-> 	<ctl name="0 True Alignment Switch" value="0" />
-> 	<ctl name="TX0 True Alignment" value="ZERO" />
-> 	<ctl name="RX0 True Alignment" value="ZERO" />
 > 	<ctl name="0 True Center Switch" value="0" />
 > 	<ctl name="TX0 True Center" value="ZERO" />
 > 	<ctl name="RX0 True Center" value="ZERO" />
+> 	<ctl name="0 True Alignment Switch" value="0" />
+> 	<ctl name="TX0 True Alignment" value="ZERO" />
+> 	<ctl name="RX0 True Alignment" value="ZERO" />
 > 	<ctl name="0 Digital Volume Switch" value="0" />
 > 	<ctl name="TX0 Digital Volume" value="0" />
 > 	<ctl name="RX0 Digital Volume" value="0" />
@@ -7249,12 +7249,12 @@
 > 	<ctl name="1 True Level Switch" value="0" />
 > 	<ctl name="TX1 True Level" value="ZERO" />
 > 	<ctl name="RX1 True Level" value="ZERO" />
-> 	<ctl name="1 True Alignment Switch" value="0" />
-> 	<ctl name="TX1 True Alignment" value="ZERO" />
-> 	<ctl name="RX1 True Alignment" value="ZERO" />
 > 	<ctl name="1 True Center Switch" value="0" />
 > 	<ctl name="TX1 True Center" value="ZERO" />
 > 	<ctl name="RX1 True Center" value="ZERO" />
+> 	<ctl name="1 True Alignment Switch" value="0" />
+> 	<ctl name="TX1 True Alignment" value="ZERO" />
+> 	<ctl name="RX1 True Alignment" value="ZERO" />
 > 	<ctl name="1 Digital Volume Switch" value="0" />
 > 	<ctl name="TX1 Digital Volume" value="0" />
 > 	<ctl name="RX1 Digital Volume" value="0" />
@@ -7291,12 +7291,12 @@
 > 	<ctl name="2 True Level Switch" value="0" />
 > 	<ctl name="TX2 True Level" value="ZERO" />
 > 	<ctl name="RX2 True Level" value="ZERO" />
-> 	<ctl name="2 True Alignment Switch" value="0" />
-> 	<ctl name="TX2 True Alignment" value="ZERO" />
-> 	<ctl name="RX2 True Alignment" value="ZERO" />
 > 	<ctl name="2 True Center Switch" value="0" />
 > 	<ctl name="TX2 True Center" value="ZERO" />
 > 	<ctl name="RX2 True Center" value="ZERO" />
+> 	<ctl name="2 True Alignment Switch" value="0" />
+> 	<ctl name="TX2 True Alignment" value="ZERO" />
+> 	<ctl name="RX2 True Alignment" value="ZERO" />
 > 	<ctl name="2 Digital Volume Switch" value="0" />
 > 	<ctl name="TX2 Digital Volume" value="0" />
 > 	<ctl name="RX2 Digital Volume" value="0" />
@@ -7333,12 +7333,12 @@
 > 	<ctl name="3 True Level Switch" value="0" />
 > 	<ctl name="TX3 True Level" value="ZERO" />
 > 	<ctl name="RX3 True Level" value="ZERO" />
-> 	<ctl name="3 True Alignment Switch" value="0" />
-> 	<ctl name="TX3 True Alignment" value="ZERO" />
-> 	<ctl name="RX3 True Alignment" value="ZERO" />
 > 	<ctl name="3 True Center Switch" value="0" />
 > 	<ctl name="TX3 True Center" value="ZERO" />
 > 	<ctl name="RX3 True Center" value="ZERO" />
+> 	<ctl name="3 True Alignment Switch" value="0" />
+> 	<ctl name="TX3 True Alignment" value="ZERO" />
+> 	<ctl name="RX3 True Alignment" value="ZERO" />
 > 	<ctl name="3 Digital Volume Switch" value="0" />
 > 	<ctl name="TX3 Digital Volume" value="0" />
 > 	<ctl name="RX3 Digital Volume" value="0" />
@@ -7375,12 +7375,12 @@
 > 	<ctl name="4 True Level Switch" value="0" />
 > 	<ctl name="TX4 True Level" value="ZERO" />
 > 	<ctl name="RX4 True Level" value="ZERO" />
-> 	<ctl name="4 True Alignment Switch" value="0" />
-> 	<ctl name="TX4 True Alignment" value="ZERO" />
-> 	<ctl name="RX4 True Alignment" value="ZERO" />
 > 	<ctl name="4 True Center Switch" value="0" />
 > 	<ctl name="TX4 True Center" value="ZERO" />
 > 	<ctl name="RX4 True Center" value="ZERO" />
+> 	<ctl name="4 True Alignment Switch" value="0" />
+> 	<ctl name="TX4 True Alignment" value="ZERO" />
+> 	<ctl name="RX4 True Alignment" value="ZERO" />
 > 	<ctl name="4 Digital Volume Switch" value="0" />
 > 	<ctl name="TX4 Digital Volume" value="0" />
 > 	<ctl name="RX4 Digital Volume" value="0" />
@@ -7417,12 +7417,12 @@
 > 	<ctl name="5 True Level Switch" value="0" />
 > 	<ctl name="TX5 True Level" value="ZERO" />
 > 	<ctl name="RX5 True Level" value="ZERO" />
-> 	<ctl name="5 True Alignment Switch" value="0" />
-> 	<ctl name="TX5 True Alignment" value="ZERO" />
-> 	<ctl name="RX5 True Alignment" value="ZERO" />
 > 	<ctl name="5 True Center Switch" value="0" />
 > 	<ctl name="TX5 True Center" value="ZERO" />
 > 	<ctl name="RX5 True Center" value="ZERO" />
+> 	<ctl name="5 True Alignment Switch" value="0" />
+> 	<ctl name="TX5 True Alignment" value="ZERO" />
+> 	<ctl name="RX5 True Alignment" value="ZERO" />
 > 	<ctl name="5 Digital Volume Switch" value="0" />
 > 	<ctl name="TX5 Digital Volume" value="0" />
 > 	<ctl name="RX5 Digital Volume" value="0" />
@@ -7459,12 +7459,12 @@
 > 	<ctl name="6 True Level Switch" value="0" />
 > 	<ctl name="TX6 True Level" value="ZERO" />
 > 	<ctl name="RX6 True Level" value="ZERO" />
-> 	<ctl name="6 True Alignment Switch" value="0" />
-> 	<ctl name="TX6 True Alignment" value="ZERO" />
-> 	<ctl name="RX6 True Alignment" value="ZERO" />
 > 	<ctl name="6 True Center Switch" value="0" />
 > 	<ctl name="TX6 True Center" value="ZERO" />
 > 	<ctl name="RX6 True Center" value="ZERO" />
+> 	<ctl name="6 True Alignment Switch" value="0" />
+> 	<ctl name="TX6 True Alignment" value="ZERO" />
+> 	<ctl name="RX6 True Alignment" value="ZERO" />
 > 	<ctl name="6 Digital Volume Switch" value="0" />
 > 	<ctl name="TX6 Digital Volume" value="0" />
 > 	<ctl name="RX6 Digital Volume" value="0" />
@@ -7501,12 +7501,12 @@
 > 	<ctl name="7 True Level Switch" value="0" />
 > 	<ctl name="TX7 True Level" value="ZERO" />
 > 	<ctl name="RX7 True Level" value="ZERO" />
-> 	<ctl name="7 True Alignment Switch" value="0" />
-> 	<ctl name="TX7 True Alignment" value="ZERO" />
-> 	<ctl name="RX7 True Alignment" value="ZERO" />
 > 	<ctl name="7 True Center Switch" value="0" />
 > 	<ctl name="TX7 True Center" value="ZERO" />
 > 	<ctl name="RX7 True Center" value="ZERO" />
+> 	<ctl name="7 True Alignment Switch" value="0" />
+> 	<ctl name="TX7 True Alignment" value="ZERO" />
+> 	<ctl name="RX7 True Alignment" value="ZERO" />
 > 	<ctl name="7 Digital Volume Switch" value="0" />
 > 	<ctl name="TX7 Digital Volume" value="0" />
 > 	<ctl name="RX7 Digital Volume" value="0" />
@@ -7543,12 +7543,12 @@
 > 	<ctl name="8 True Level Switch" value="0" />
 > 	<ctl name="TX8 True Level" value="ZERO" />
 > 	<ctl name="RX8 True Level" value="ZERO" />
-> 	<ctl name="8 True Alignment Switch" value="0" />
-> 	<ctl name="TX8 True Alignment" value="ZERO" />
-> 	<ctl name="RX8 True Alignment" value="ZERO" />
 > 	<ctl name="8 True Center Switch" value="0" />
 > 	<ctl name="TX8 True Center" value="ZERO" />
 > 	<ctl name="RX8 True Center" value="ZERO" />
+> 	<ctl name="8 True Alignment Switch" value="0" />
+> 	<ctl name="TX8 True Alignment" value="ZERO" />
+> 	<ctl name="RX8 True Alignment" value="ZERO" />
 > 	<ctl name="8 Digital Volume Switch" value="0" />
 > 	<ctl name="TX8 Digital Volume" value="0" />
 > 	<ctl name="RX8 Digital Volume" value="0" />
@@ -7585,12 +7585,12 @@
 > 	<ctl name="HPHL True Level Switch" value="0" />
 > 	<ctl name="TX HPHL True Level" value="ZERO" />
 > 	<ctl name="RX HPHL True Level" value="ZERO" />
-> 	<ctl name="HPHL True Alignment Switch" value="0" />
-> 	<ctl name="TX HPHL True Alignment" value="ZERO" />
-> 	<ctl name="RX HPHL True Alignment" value="ZERO" />
 > 	<ctl name="HPHL True Center Switch" value="0" />
 > 	<ctl name="TX HPHL True Center" value="ZERO" />
 > 	<ctl name="RX HPHL True Center" value="ZERO" />
+> 	<ctl name="HPHL True Alignment Switch" value="0" />
+> 	<ctl name="TX HPHL True Alignment" value="ZERO" />
+> 	<ctl name="RX HPHL True Alignment" value="ZERO" />
 > 	<ctl name="HPHL Volume Switch" value="0" />
 > 	<ctl name="TX HPHL Volume" value="0" />
 > 	<ctl name="RX HPHL Volume" value="0" />
@@ -7624,12 +7624,12 @@
 > 	<ctl name="HPHR True Level Switch" value="0" />
 > 	<ctl name="TX HPHR True Level" value="ZERO" />
 > 	<ctl name="RX HPHR True Level" value="ZERO" />
-> 	<ctl name="HPHR True Alignment Switch" value="0" />
-> 	<ctl name="TX HPHR True Alignment" value="ZERO" />
-> 	<ctl name="RX HPHR True Alignment" value="ZERO" />
 > 	<ctl name="HPHR True Center Switch" value="0" />
 > 	<ctl name="TX HPHR True Center" value="ZERO" />
 > 	<ctl name="RX HPHR True Center" value="ZERO" />
+> 	<ctl name="HPHR True Alignment Switch" value="0" />
+> 	<ctl name="TX HPHR True Alignment" value="ZERO" />
+> 	<ctl name="RX HPHR True Alignment" value="ZERO" />
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
@@ -7663,12 +7663,12 @@
 > 	<ctl name="SPKRL True Level Switch" value="0" />
 > 	<ctl name="TX SPKRL True Level" value="ZERO" />
 > 	<ctl name="RX SPKRL True Level" value="ZERO" />
-> 	<ctl name="SPKRL True Alignment Switch" value="0" />
-> 	<ctl name="TX SPKRL True Alignment" value="ZERO" />
-> 	<ctl name="RX SPKRL True Alignment" value="ZERO" />
 > 	<ctl name="SPKRL True Center Switch" value="0" />
 > 	<ctl name="TX SPKRL True Center" value="ZERO" />
 > 	<ctl name="RX SPKRL True Center" value="ZERO" />
+> 	<ctl name="SPKRL True Alignment Switch" value="0" />
+> 	<ctl name="TX SPKRL True Alignment" value="ZERO" />
+> 	<ctl name="RX SPKRL True Alignment" value="ZERO" />
 > 	<ctl name="SPKRL Volume Switch" value="0" />
 > 	<ctl name="TX SPKRL Volume" value="0" />
 > 	<ctl name="RX SPKRL Volume" value="0" />
@@ -7702,12 +7702,12 @@
 > 	<ctl name="SPKRR True Level Switch" value="0" />
 > 	<ctl name="TX SPKRR True Level" value="ZERO" />
 > 	<ctl name="RX SPKRR True Level" value="ZERO" />
-> 	<ctl name="SPKRR True Alignment Switch" value="0" />
-> 	<ctl name="TX SPKRR True Alignment" value="ZERO" />
-> 	<ctl name="RX SPKRR True Alignment" value="ZERO" />
 > 	<ctl name="SPKRR True Center Switch" value="0" />
 > 	<ctl name="TX SPKRR True Center" value="ZERO" />
 > 	<ctl name="RX SPKRR True Center" value="ZERO" />
+> 	<ctl name="SPKRR True Alignment Switch" value="0" />
+> 	<ctl name="TX SPKRR True Alignment" value="ZERO" />
+> 	<ctl name="RX SPKRR True Alignment" value="ZERO" />
 > 	<ctl name="SPKRR Volume Switch" value="0" />
 > 	<ctl name="TX SPKRR Volume" value="0" />
 > 	<ctl name="RX SPKRR Volume" value="0" />
@@ -18231,12 +18231,12 @@
 > 	<ctl name="7 True Level Switch" value="1" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
-> 	<ctl name="7 True Alignment Switch" value="1" />
-> 	<ctl name="TX7 True Alignment" value="AUTO" />
-> 	<ctl name="RX7 True Alignment" value="AUTO" />
 > 	<ctl name="7 True Center Switch" value="1" />
 > 	<ctl name="TX7 True Center" value="AUTO" />
 > 	<ctl name="RX7 True Center" value="AUTO" />
+> 	<ctl name="7 True Alignment Switch" value="1" />
+> 	<ctl name="TX7 True Alignment" value="AUTO" />
+> 	<ctl name="RX7 True Alignment" value="AUTO" />
 > 	<ctl name="7 Digital Volume Switch" value="1" />
 > 	<ctl name="TX7 Digital Volume" value="84" />
 > 	<ctl name="RX7 Digital Volume" value="84" />
@@ -18273,12 +18273,12 @@
 > 	<ctl name="8 True Level Switch" value="0" />
 > 	<ctl name="TX8 True Level" value="ZERO" />
 > 	<ctl name="RX8 True Level" value="ZERO" />
-> 	<ctl name="8 True Alignment Switch" value="0" />
-> 	<ctl name="TX8 True Alignment" value="ZERO" />
-> 	<ctl name="RX8 True Alignment" value="ZERO" />
 > 	<ctl name="8 True Center Switch" value="0" />
 > 	<ctl name="TX8 True Center" value="ZERO" />
 > 	<ctl name="RX8 True Center" value="ZERO" />
+> 	<ctl name="8 True Alignment Switch" value="0" />
+> 	<ctl name="TX8 True Alignment" value="ZERO" />
+> 	<ctl name="RX8 True Alignment" value="ZERO" />
 > 	<ctl name="8 Digital Volume Switch" value="0" />
 > 	<ctl name="TX8 Digital Volume" value="0" />
 > 	<ctl name="RX8 Digital Volume" value="0" />
@@ -18315,12 +18315,12 @@
 > 	<ctl name="SPKRL True Level Switch" value="1" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
-> 	<ctl name="SPKRL True Alignment Switch" value="1" />
-> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
-> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
 > 	<ctl name="SPKRL True Center Switch" value="1" />
 > 	<ctl name="TX SPKRL True Center" value="AUTO" />
 > 	<ctl name="RX SPKRL True Center" value="AUTO" />
+> 	<ctl name="SPKRL True Alignment Switch" value="1" />
+> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
+> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
 > 	<ctl name="SPKRL Volume Switch" value="1" />
 > 	<ctl name="TX SPKRL Volume" value="16" />
 > 	<ctl name="RX SPKRL Volume" value="16" />
@@ -18354,12 +18354,12 @@
 > 	<ctl name="SPKRR True Level Switch" value="0" />
 > 	<ctl name="TX SPKRR True Level" value="ZERO" />
 > 	<ctl name="RX SPKRR True Level" value="ZERO" />
-> 	<ctl name="SPKRR True Alignment Switch" value="0" />
-> 	<ctl name="TX SPKRR True Alignment" value="ZERO" />
-> 	<ctl name="RX SPKRR True Alignment" value="ZERO" />
 > 	<ctl name="SPKRR True Center Switch" value="0" />
 > 	<ctl name="TX SPKRR True Center" value="ZERO" />
 > 	<ctl name="RX SPKRR True Center" value="ZERO" />
+> 	<ctl name="SPKRR True Alignment Switch" value="0" />
+> 	<ctl name="TX SPKRR True Alignment" value="ZERO" />
+> 	<ctl name="RX SPKRR True Alignment" value="ZERO" />
 > 	<ctl name="SPKRR Volume Switch" value="0" />
 > 	<ctl name="TX SPKRR Volume" value="0" />
 > 	<ctl name="RX SPKRR Volume" value="0" />
@@ -18489,12 +18489,12 @@
 > 	<ctl name="7 True Level Switch" value="2" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
-> 	<ctl name="7 True Alignment Switch" value="2" />
-> 	<ctl name="TX7 True Alignment" value="AUTO" />
-> 	<ctl name="RX7 True Alignment" value="AUTO" />
 > 	<ctl name="7 True Center Switch" value="2" />
 > 	<ctl name="TX7 True Center" value="AUTO" />
 > 	<ctl name="RX7 True Center" value="AUTO" />
+> 	<ctl name="7 True Alignment Switch" value="2" />
+> 	<ctl name="TX7 True Alignment" value="AUTO" />
+> 	<ctl name="RX7 True Alignment" value="AUTO" />
 > 	<ctl name="7 Digital Volume Switch" value="2" />
 > 	<ctl name="TX7 Digital Volume" value="84" />
 > 	<ctl name="RX7 Digital Volume" value="84" />
@@ -18531,12 +18531,12 @@
 > 	<ctl name="8 True Level Switch" value="2" />
 > 	<ctl name="TX8 True Level" value="AUTO" />
 > 	<ctl name="RX8 True Level" value="AUTO" />
-> 	<ctl name="8 True Alignment Switch" value="2" />
-> 	<ctl name="TX8 True Alignment" value="AUTO" />
-> 	<ctl name="RX8 True Alignment" value="AUTO" />
 > 	<ctl name="8 True Center Switch" value="2" />
 > 	<ctl name="TX8 True Center" value="AUTO" />
 > 	<ctl name="RX8 True Center" value="AUTO" />
+> 	<ctl name="8 True Alignment Switch" value="2" />
+> 	<ctl name="TX8 True Alignment" value="AUTO" />
+> 	<ctl name="RX8 True Alignment" value="AUTO" />
 > 	<ctl name="8 Digital Volume Switch" value="2" />
 > 	<ctl name="TX8 Digital Volume" value="84" />
 > 	<ctl name="RX8 Digital Volume" value="84" />
@@ -18573,12 +18573,12 @@
 > 	<ctl name="SPKRL True Level Switch" value="2" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
-> 	<ctl name="SPKRL True Alignment Switch" value="2" />
-> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
-> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
 > 	<ctl name="SPKRL True Center Switch" value="2" />
 > 	<ctl name="TX SPKRL True Center" value="AUTO" />
 > 	<ctl name="RX SPKRL True Center" value="AUTO" />
+> 	<ctl name="SPKRL True Alignment Switch" value="2" />
+> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
+> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
 > 	<ctl name="SPKRL Volume Switch" value="2" />
 > 	<ctl name="TX SPKRL Volume" value="16" />
 > 	<ctl name="RX SPKRL Volume" value="16" />
@@ -18612,12 +18612,12 @@
 > 	<ctl name="SPKRR True Level Switch" value="2" />
 > 	<ctl name="TX SPKRR True Level" value="AUTO" />
 > 	<ctl name="RX SPKRR True Level" value="AUTO" />
-> 	<ctl name="SPKRR True Alignment Switch" value="2" />
-> 	<ctl name="TX SPKRR True Alignment" value="AUTO" />
-> 	<ctl name="RX SPKRR True Alignment" value="AUTO" />
 > 	<ctl name="SPKRR True Center Switch" value="2" />
 > 	<ctl name="TX SPKRR True Center" value="AUTO" />
 > 	<ctl name="RX SPKRR True Center" value="AUTO" />
+> 	<ctl name="SPKRR True Alignment Switch" value="2" />
+> 	<ctl name="TX SPKRR True Alignment" value="AUTO" />
+> 	<ctl name="RX SPKRR True Alignment" value="AUTO" />
 > 	<ctl name="SPKRR Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR Volume" value="16" />
 > 	<ctl name="RX SPKRR Volume" value="16" />
@@ -18683,12 +18683,12 @@
 > 	<ctl name="7 True Level Switch" value="2" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
-> 	<ctl name="7 True Alignment Switch" value="2" />
-> 	<ctl name="TX7 True Alignment" value="AUTO" />
-> 	<ctl name="RX7 True Alignment" value="AUTO" />
 > 	<ctl name="7 True Center Switch" value="2" />
 > 	<ctl name="TX7 True Center" value="AUTO" />
 > 	<ctl name="RX7 True Center" value="AUTO" />
+> 	<ctl name="7 True Alignment Switch" value="2" />
+> 	<ctl name="TX7 True Alignment" value="AUTO" />
+> 	<ctl name="RX7 True Alignment" value="AUTO" />
 > 	<ctl name="7 Digital Volume Switch" value="2" />
 > 	<ctl name="TX7 Digital Volume" value="84" />
 > 	<ctl name="RX7 Digital Volume" value="84" />
@@ -18725,12 +18725,12 @@
 > 	<ctl name="8 True Level Switch" value="2" />
 > 	<ctl name="TX8 True Level" value="AUTO" />
 > 	<ctl name="RX8 True Level" value="AUTO" />
-> 	<ctl name="8 True Alignment Switch" value="2" />
-> 	<ctl name="TX8 True Alignment" value="AUTO" />
-> 	<ctl name="RX8 True Alignment" value="AUTO" />
 > 	<ctl name="8 True Center Switch" value="2" />
 > 	<ctl name="TX8 True Center" value="AUTO" />
 > 	<ctl name="RX8 True Center" value="AUTO" />
+> 	<ctl name="8 True Alignment Switch" value="2" />
+> 	<ctl name="TX8 True Alignment" value="AUTO" />
+> 	<ctl name="RX8 True Alignment" value="AUTO" />
 > 	<ctl name="8 Digital Volume Switch" value="2" />
 > 	<ctl name="TX8 Digital Volume" value="84" />
 > 	<ctl name="RX8 Digital Volume" value="84" />
@@ -18767,12 +18767,12 @@
 > 	<ctl name="SPKRL True Level Switch" value="2" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
-> 	<ctl name="SPKRL True Alignment Switch" value="2" />
-> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
-> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
 > 	<ctl name="SPKRL True Center Switch" value="2" />
 > 	<ctl name="TX SPKRL True Center" value="AUTO" />
 > 	<ctl name="RX SPKRL True Center" value="AUTO" />
+> 	<ctl name="SPKRL True Alignment Switch" value="2" />
+> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
+> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
 > 	<ctl name="SPKRL Volume Switch" value="2" />
 > 	<ctl name="TX SPKRL Volume" value="16" />
 > 	<ctl name="RX SPKRL Volume" value="16" />
@@ -18806,12 +18806,12 @@
 > 	<ctl name="SPKRR True Level Switch" value="2" />
 > 	<ctl name="TX SPKRR True Level" value="AUTO" />
 > 	<ctl name="RX SPKRR True Level" value="AUTO" />
-> 	<ctl name="SPKRR True Alignment Switch" value="2" />
-> 	<ctl name="TX SPKRR True Alignment" value="AUTO" />
-> 	<ctl name="RX SPKRR True Alignment" value="AUTO" />
 > 	<ctl name="SPKRR True Center Switch" value="2" />
 > 	<ctl name="TX SPKRR True Center" value="AUTO" />
 > 	<ctl name="RX SPKRR True Center" value="AUTO" />
+> 	<ctl name="SPKRR True Alignment Switch" value="2" />
+> 	<ctl name="TX SPKRR True Alignment" value="AUTO" />
+> 	<ctl name="RX SPKRR True Alignment" value="AUTO" />
 > 	<ctl name="SPKRR Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR Volume" value="16" />
 > 	<ctl name="RX SPKRR Volume" value="16" />
@@ -18877,12 +18877,12 @@
 > 	<ctl name="7 True Level Switch" value="2" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
-> 	<ctl name="7 True Alignment Switch" value="2" />
-> 	<ctl name="TX7 True Alignment" value="AUTO" />
-> 	<ctl name="RX7 True Alignment" value="AUTO" />
 > 	<ctl name="7 True Center Switch" value="2" />
 > 	<ctl name="TX7 True Center" value="AUTO" />
 > 	<ctl name="RX7 True Center" value="AUTO" />
+> 	<ctl name="7 True Alignment Switch" value="2" />
+> 	<ctl name="TX7 True Alignment" value="AUTO" />
+> 	<ctl name="RX7 True Alignment" value="AUTO" />
 > 	<ctl name="7 Digital Volume Switch" value="2" />
 > 	<ctl name="TX7 Digital Volume" value="84" />
 > 	<ctl name="RX7 Digital Volume" value="84" />
@@ -18919,12 +18919,12 @@
 > 	<ctl name="8 True Level Switch" value="2" />
 > 	<ctl name="TX8 True Level" value="AUTO" />
 > 	<ctl name="RX8 True Level" value="AUTO" />
-> 	<ctl name="8 True Alignment Switch" value="2" />
-> 	<ctl name="TX8 True Alignment" value="AUTO" />
-> 	<ctl name="RX8 True Alignment" value="AUTO" />
 > 	<ctl name="8 True Center Switch" value="2" />
 > 	<ctl name="TX8 True Center" value="AUTO" />
 > 	<ctl name="RX8 True Center" value="AUTO" />
+> 	<ctl name="8 True Alignment Switch" value="2" />
+> 	<ctl name="TX8 True Alignment" value="AUTO" />
+> 	<ctl name="RX8 True Alignment" value="AUTO" />
 > 	<ctl name="8 Digital Volume Switch" value="2" />
 > 	<ctl name="TX8 Digital Volume" value="84" />
 > 	<ctl name="RX8 Digital Volume" value="84" />
@@ -18961,12 +18961,12 @@
 > 	<ctl name="SPKRL True Level Switch" value="2" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
-> 	<ctl name="SPKRL True Alignment Switch" value="2" />
-> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
-> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
 > 	<ctl name="SPKRL True Center Switch" value="2" />
 > 	<ctl name="TX SPKRL True Center" value="AUTO" />
 > 	<ctl name="RX SPKRL True Center" value="AUTO" />
+> 	<ctl name="SPKRL True Alignment Switch" value="2" />
+> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
+> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
 > 	<ctl name="SPKRL Volume Switch" value="2" />
 > 	<ctl name="TX SPKRL Volume" value="16" />
 > 	<ctl name="RX SPKRL Volume" value="16" />
@@ -19000,12 +19000,12 @@
 > 	<ctl name="SPKRR True Level Switch" value="2" />
 > 	<ctl name="TX SPKRR True Level" value="AUTO" />
 > 	<ctl name="RX SPKRR True Level" value="AUTO" />
-> 	<ctl name="SPKRR True Alignment Switch" value="2" />
-> 	<ctl name="TX SPKRR True Alignment" value="AUTO" />
-> 	<ctl name="RX SPKRR True Alignment" value="AUTO" />
 > 	<ctl name="SPKRR True Center Switch" value="2" />
 > 	<ctl name="TX SPKRR True Center" value="AUTO" />
 > 	<ctl name="RX SPKRR True Center" value="AUTO" />
+> 	<ctl name="SPKRR True Alignment Switch" value="2" />
+> 	<ctl name="TX SPKRR True Alignment" value="AUTO" />
+> 	<ctl name="RX SPKRR True Alignment" value="AUTO" />
 > 	<ctl name="SPKRR Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR Volume" value="16" />
 > 	<ctl name="RX SPKRR Volume" value="16" />
@@ -19100,12 +19100,12 @@
 > 	<ctl name="7 True Level Switch" value="1" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
-> 	<ctl name="7 True Alignment Switch" value="1" />
-> 	<ctl name="TX7 True Alignment" value="AUTO" />
-> 	<ctl name="RX7 True Alignment" value="AUTO" />
 > 	<ctl name="7 True Center Switch" value="1" />
 > 	<ctl name="TX7 True Center" value="AUTO" />
 > 	<ctl name="RX7 True Center" value="AUTO" />
+> 	<ctl name="7 True Alignment Switch" value="1" />
+> 	<ctl name="TX7 True Alignment" value="AUTO" />
+> 	<ctl name="RX7 True Alignment" value="AUTO" />
 > 	<ctl name="7 Digital Volume Switch" value="1" />
 > 	<ctl name="TX7 Digital Volume" value="84" />
 > 	<ctl name="RX7 Digital Volume" value="84" />
@@ -19142,12 +19142,12 @@
 > 	<ctl name="8 True Level Switch" value="0" />
 > 	<ctl name="TX8 True Level" value="ZERO" />
 > 	<ctl name="RX8 True Level" value="ZERO" />
-> 	<ctl name="8 True Alignment Switch" value="0" />
-> 	<ctl name="TX8 True Alignment" value="ZERO" />
-> 	<ctl name="RX8 True Alignment" value="ZERO" />
 > 	<ctl name="8 True Center Switch" value="0" />
 > 	<ctl name="TX8 True Center" value="ZERO" />
 > 	<ctl name="RX8 True Center" value="ZERO" />
+> 	<ctl name="8 True Alignment Switch" value="0" />
+> 	<ctl name="TX8 True Alignment" value="ZERO" />
+> 	<ctl name="RX8 True Alignment" value="ZERO" />
 > 	<ctl name="8 Digital Volume Switch" value="0" />
 > 	<ctl name="TX8 Digital Volume" value="0" />
 > 	<ctl name="RX8 Digital Volume" value="0" />
@@ -19184,12 +19184,12 @@
 > 	<ctl name="SPKRL True Level Switch" value="1" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
-> 	<ctl name="SPKRL True Alignment Switch" value="1" />
-> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
-> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
 > 	<ctl name="SPKRL True Center Switch" value="1" />
 > 	<ctl name="TX SPKRL True Center" value="AUTO" />
 > 	<ctl name="RX SPKRL True Center" value="AUTO" />
+> 	<ctl name="SPKRL True Alignment Switch" value="1" />
+> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
+> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
 > 	<ctl name="SPKRL Volume Switch" value="1" />
 > 	<ctl name="TX SPKRL Volume" value="16" />
 > 	<ctl name="RX SPKRL Volume" value="16" />
@@ -19223,12 +19223,12 @@
 > 	<ctl name="SPKRR True Level Switch" value="0" />
 > 	<ctl name="TX SPKRR True Level" value="ZERO" />
 > 	<ctl name="RX SPKRR True Level" value="ZERO" />
-> 	<ctl name="SPKRR True Alignment Switch" value="0" />
-> 	<ctl name="TX SPKRR True Alignment" value="ZERO" />
-> 	<ctl name="RX SPKRR True Alignment" value="ZERO" />
 > 	<ctl name="SPKRR True Center Switch" value="0" />
 > 	<ctl name="TX SPKRR True Center" value="ZERO" />
 > 	<ctl name="RX SPKRR True Center" value="ZERO" />
+> 	<ctl name="SPKRR True Alignment Switch" value="0" />
+> 	<ctl name="TX SPKRR True Alignment" value="ZERO" />
+> 	<ctl name="RX SPKRR True Alignment" value="ZERO" />
 > 	<ctl name="SPKRR Volume Switch" value="0" />
 > 	<ctl name="TX SPKRR Volume" value="0" />
 > 	<ctl name="RX SPKRR Volume" value="0" />
@@ -19304,12 +19304,12 @@
 > 	<ctl name="7 True Level Switch" value="2" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
-> 	<ctl name="7 True Alignment Switch" value="2" />
-> 	<ctl name="TX7 True Alignment" value="AUTO" />
-> 	<ctl name="RX7 True Alignment" value="AUTO" />
 > 	<ctl name="7 True Center Switch" value="2" />
 > 	<ctl name="TX7 True Center" value="AUTO" />
 > 	<ctl name="RX7 True Center" value="AUTO" />
+> 	<ctl name="7 True Alignment Switch" value="2" />
+> 	<ctl name="TX7 True Alignment" value="AUTO" />
+> 	<ctl name="RX7 True Alignment" value="AUTO" />
 > 	<ctl name="7 Digital Volume Switch" value="2" />
 > 	<ctl name="TX7 Digital Volume" value="84" />
 > 	<ctl name="RX7 Digital Volume" value="84" />
@@ -19346,12 +19346,12 @@
 > 	<ctl name="8 True Level Switch" value="2" />
 > 	<ctl name="TX8 True Level" value="AUTO" />
 > 	<ctl name="RX8 True Level" value="AUTO" />
-> 	<ctl name="8 True Alignment Switch" value="2" />
-> 	<ctl name="TX8 True Alignment" value="AUTO" />
-> 	<ctl name="RX8 True Alignment" value="AUTO" />
 > 	<ctl name="8 True Center Switch" value="2" />
 > 	<ctl name="TX8 True Center" value="AUTO" />
 > 	<ctl name="RX8 True Center" value="AUTO" />
+> 	<ctl name="8 True Alignment Switch" value="2" />
+> 	<ctl name="TX8 True Alignment" value="AUTO" />
+> 	<ctl name="RX8 True Alignment" value="AUTO" />
 > 	<ctl name="8 Digital Volume Switch" value="2" />
 > 	<ctl name="TX8 Digital Volume" value="84" />
 > 	<ctl name="RX8 Digital Volume" value="84" />
@@ -19388,12 +19388,12 @@
 > 	<ctl name="SPKRL True Level Switch" value="2" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
-> 	<ctl name="SPKRL True Alignment Switch" value="2" />
-> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
-> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
 > 	<ctl name="SPKRL True Center Switch" value="2" />
 > 	<ctl name="TX SPKRL True Center" value="AUTO" />
 > 	<ctl name="RX SPKRL True Center" value="AUTO" />
+> 	<ctl name="SPKRL True Alignment Switch" value="2" />
+> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
+> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
 > 	<ctl name="SPKRL Volume Switch" value="2" />
 > 	<ctl name="TX SPKRL Volume" value="16" />
 > 	<ctl name="RX SPKRL Volume" value="16" />
@@ -19427,12 +19427,12 @@
 > 	<ctl name="SPKRR True Level Switch" value="2" />
 > 	<ctl name="TX SPKRR True Level" value="AUTO" />
 > 	<ctl name="RX SPKRR True Level" value="AUTO" />
-> 	<ctl name="SPKRR True Alignment Switch" value="2" />
-> 	<ctl name="TX SPKRR True Alignment" value="AUTO" />
-> 	<ctl name="RX SPKRR True Alignment" value="AUTO" />
 > 	<ctl name="SPKRR True Center Switch" value="2" />
 > 	<ctl name="TX SPKRR True Center" value="AUTO" />
 > 	<ctl name="RX SPKRR True Center" value="AUTO" />
+> 	<ctl name="SPKRR True Alignment Switch" value="2" />
+> 	<ctl name="TX SPKRR True Alignment" value="AUTO" />
+> 	<ctl name="RX SPKRR True Alignment" value="AUTO" />
 > 	<ctl name="SPKRR Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR Volume" value="16" />
 > 	<ctl name="RX SPKRR Volume" value="16" />
@@ -19496,12 +19496,12 @@
 > 	<ctl name="7 True Level Switch" value="2" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
-> 	<ctl name="7 True Alignment Switch" value="2" />
-> 	<ctl name="TX7 True Alignment" value="AUTO" />
-> 	<ctl name="RX7 True Alignment" value="AUTO" />
 > 	<ctl name="7 True Center Switch" value="2" />
 > 	<ctl name="TX7 True Center" value="AUTO" />
 > 	<ctl name="RX7 True Center" value="AUTO" />
+> 	<ctl name="7 True Alignment Switch" value="2" />
+> 	<ctl name="TX7 True Alignment" value="AUTO" />
+> 	<ctl name="RX7 True Alignment" value="AUTO" />
 > 	<ctl name="7 Digital Volume Switch" value="2" />
 > 	<ctl name="TX7 Digital Volume" value="84" />
 > 	<ctl name="RX7 Digital Volume" value="84" />
@@ -19538,12 +19538,12 @@
 > 	<ctl name="8 True Level Switch" value="2" />
 > 	<ctl name="TX8 True Level" value="AUTO" />
 > 	<ctl name="RX8 True Level" value="AUTO" />
-> 	<ctl name="8 True Alignment Switch" value="2" />
-> 	<ctl name="TX8 True Alignment" value="AUTO" />
-> 	<ctl name="RX8 True Alignment" value="AUTO" />
 > 	<ctl name="8 True Center Switch" value="2" />
 > 	<ctl name="TX8 True Center" value="AUTO" />
 > 	<ctl name="RX8 True Center" value="AUTO" />
+> 	<ctl name="8 True Alignment Switch" value="2" />
+> 	<ctl name="TX8 True Alignment" value="AUTO" />
+> 	<ctl name="RX8 True Alignment" value="AUTO" />
 > 	<ctl name="8 Digital Volume Switch" value="2" />
 > 	<ctl name="TX8 Digital Volume" value="84" />
 > 	<ctl name="RX8 Digital Volume" value="84" />
@@ -19580,12 +19580,12 @@
 > 	<ctl name="SPKRL True Level Switch" value="2" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
-> 	<ctl name="SPKRL True Alignment Switch" value="2" />
-> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
-> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
 > 	<ctl name="SPKRL True Center Switch" value="2" />
 > 	<ctl name="TX SPKRL True Center" value="AUTO" />
 > 	<ctl name="RX SPKRL True Center" value="AUTO" />
+> 	<ctl name="SPKRL True Alignment Switch" value="2" />
+> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
+> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
 > 	<ctl name="SPKRL Volume Switch" value="2" />
 > 	<ctl name="TX SPKRL Volume" value="16" />
 > 	<ctl name="RX SPKRL Volume" value="16" />
@@ -19619,12 +19619,12 @@
 > 	<ctl name="SPKRR True Level Switch" value="2" />
 > 	<ctl name="TX SPKRR True Level" value="AUTO" />
 > 	<ctl name="RX SPKRR True Level" value="AUTO" />
-> 	<ctl name="SPKRR True Alignment Switch" value="2" />
-> 	<ctl name="TX SPKRR True Alignment" value="AUTO" />
-> 	<ctl name="RX SPKRR True Alignment" value="AUTO" />
 > 	<ctl name="SPKRR True Center Switch" value="2" />
 > 	<ctl name="TX SPKRR True Center" value="AUTO" />
 > 	<ctl name="RX SPKRR True Center" value="AUTO" />
+> 	<ctl name="SPKRR True Alignment Switch" value="2" />
+> 	<ctl name="TX SPKRR True Alignment" value="AUTO" />
+> 	<ctl name="RX SPKRR True Alignment" value="AUTO" />
 > 	<ctl name="SPKRR Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR Volume" value="16" />
 > 	<ctl name="RX SPKRR Volume" value="16" />
@@ -19688,12 +19688,12 @@
 > 	<ctl name="7 True Level Switch" value="2" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
-> 	<ctl name="7 True Alignment Switch" value="2" />
-> 	<ctl name="TX7 True Alignment" value="AUTO" />
-> 	<ctl name="RX7 True Alignment" value="AUTO" />
 > 	<ctl name="7 True Center Switch" value="2" />
 > 	<ctl name="TX7 True Center" value="AUTO" />
 > 	<ctl name="RX7 True Center" value="AUTO" />
+> 	<ctl name="7 True Alignment Switch" value="2" />
+> 	<ctl name="TX7 True Alignment" value="AUTO" />
+> 	<ctl name="RX7 True Alignment" value="AUTO" />
 > 	<ctl name="7 Digital Volume Switch" value="2" />
 > 	<ctl name="TX7 Digital Volume" value="84" />
 > 	<ctl name="RX7 Digital Volume" value="84" />
@@ -19730,12 +19730,12 @@
 > 	<ctl name="8 True Level Switch" value="2" />
 > 	<ctl name="TX8 True Level" value="AUTO" />
 > 	<ctl name="RX8 True Level" value="AUTO" />
-> 	<ctl name="8 True Alignment Switch" value="2" />
-> 	<ctl name="TX8 True Alignment" value="AUTO" />
-> 	<ctl name="RX8 True Alignment" value="AUTO" />
 > 	<ctl name="8 True Center Switch" value="2" />
 > 	<ctl name="TX8 True Center" value="AUTO" />
 > 	<ctl name="RX8 True Center" value="AUTO" />
+> 	<ctl name="8 True Alignment Switch" value="2" />
+> 	<ctl name="TX8 True Alignment" value="AUTO" />
+> 	<ctl name="RX8 True Alignment" value="AUTO" />
 > 	<ctl name="8 Digital Volume Switch" value="2" />
 > 	<ctl name="TX8 Digital Volume" value="84" />
 > 	<ctl name="RX8 Digital Volume" value="84" />
@@ -19772,12 +19772,12 @@
 > 	<ctl name="SPKRL True Level Switch" value="2" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
-> 	<ctl name="SPKRL True Alignment Switch" value="2" />
-> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
-> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
 > 	<ctl name="SPKRL True Center Switch" value="2" />
 > 	<ctl name="TX SPKRL True Center" value="AUTO" />
 > 	<ctl name="RX SPKRL True Center" value="AUTO" />
+> 	<ctl name="SPKRL True Alignment Switch" value="2" />
+> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
+> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
 > 	<ctl name="SPKRL Volume Switch" value="2" />
 > 	<ctl name="TX SPKRL Volume" value="16" />
 > 	<ctl name="RX SPKRL Volume" value="16" />
@@ -19811,12 +19811,12 @@
 > 	<ctl name="SPKRR True Level Switch" value="2" />
 > 	<ctl name="TX SPKRR True Level" value="AUTO" />
 > 	<ctl name="RX SPKRR True Level" value="AUTO" />
-> 	<ctl name="SPKRR True Alignment Switch" value="2" />
-> 	<ctl name="TX SPKRR True Alignment" value="AUTO" />
-> 	<ctl name="RX SPKRR True Alignment" value="AUTO" />
 > 	<ctl name="SPKRR True Center Switch" value="2" />
 > 	<ctl name="TX SPKRR True Center" value="AUTO" />
 > 	<ctl name="RX SPKRR True Center" value="AUTO" />
+> 	<ctl name="SPKRR True Alignment Switch" value="2" />
+> 	<ctl name="TX SPKRR True Alignment" value="AUTO" />
+> 	<ctl name="RX SPKRR True Alignment" value="AUTO" />
 > 	<ctl name="SPKRR Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR Volume" value="16" />
 > 	<ctl name="RX SPKRR Volume" value="16" />
@@ -23085,12 +23085,12 @@
 > 	<ctl name="7 True Level Switch" value="2" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
-> 	<ctl name="7 True Alignment Switch" value="2" />
-> 	<ctl name="TX7 True Alignment" value="AUTO" />
-> 	<ctl name="RX7 True Alignment" value="AUTO" />
 > 	<ctl name="7 True Center Switch" value="2" />
 > 	<ctl name="TX7 True Center" value="AUTO" />
 > 	<ctl name="RX7 True Center" value="AUTO" />
+> 	<ctl name="7 True Alignment Switch" value="2" />
+> 	<ctl name="TX7 True Alignment" value="AUTO" />
+> 	<ctl name="RX7 True Alignment" value="AUTO" />
 > 	<ctl name="7 Digital Volume Switch" value="2" />
 > 	<ctl name="TX7 Digital Volume" value="0" />
 > 	<ctl name="RX7 Digital Volume" value="0" />
@@ -23127,12 +23127,12 @@
 > 	<ctl name="8 True Level Switch" value="2" />
 > 	<ctl name="TX8 True Level" value="AUTO" />
 > 	<ctl name="RX8 True Level" value="AUTO" />
-> 	<ctl name="8 True Alignment Switch" value="2" />
-> 	<ctl name="TX8 True Alignment" value="AUTO" />
-> 	<ctl name="RX8 True Alignment" value="AUTO" />
 > 	<ctl name="8 True Center Switch" value="2" />
 > 	<ctl name="TX8 True Center" value="AUTO" />
 > 	<ctl name="RX8 True Center" value="AUTO" />
+> 	<ctl name="8 True Alignment Switch" value="2" />
+> 	<ctl name="TX8 True Alignment" value="AUTO" />
+> 	<ctl name="RX8 True Alignment" value="AUTO" />
 > 	<ctl name="8 Digital Volume Switch" value="2" />
 > 	<ctl name="TX8 Digital Volume" value="0" />
 > 	<ctl name="RX8 Digital Volume" value="0" />
@@ -23169,12 +23169,12 @@
 > 	<ctl name="SPKRL True Level Switch" value="2" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
-> 	<ctl name="SPKRL True Alignment Switch" value="2" />
-> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
-> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
 > 	<ctl name="SPKRL True Center Switch" value="2" />
 > 	<ctl name="TX SPKRL True Center" value="AUTO" />
 > 	<ctl name="RX SPKRL True Center" value="AUTO" />
+> 	<ctl name="SPKRL True Alignment Switch" value="2" />
+> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
+> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
 > 	<ctl name="SPKRL Volume Switch" value="2" />
 > 	<ctl name="TX SPKRL Volume" value="0" />
 > 	<ctl name="RX SPKRL Volume" value="0" />
@@ -23208,12 +23208,12 @@
 > 	<ctl name="SPKRR True Level Switch" value="2" />
 > 	<ctl name="TX SPKRR True Level" value="AUTO" />
 > 	<ctl name="RX SPKRR True Level" value="AUTO" />
-> 	<ctl name="SPKRR True Alignment Switch" value="2" />
-> 	<ctl name="TX SPKRR True Alignment" value="AUTO" />
-> 	<ctl name="RX SPKRR True Alignment" value="AUTO" />
 > 	<ctl name="SPKRR True Center Switch" value="2" />
 > 	<ctl name="TX SPKRR True Center" value="AUTO" />
 > 	<ctl name="RX SPKRR True Center" value="AUTO" />
+> 	<ctl name="SPKRR True Alignment Switch" value="2" />
+> 	<ctl name="TX SPKRR True Alignment" value="AUTO" />
+> 	<ctl name="RX SPKRR True Alignment" value="AUTO" />
 > 	<ctl name="SPKRR Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR Volume" value="0" />
 > 	<ctl name="RX SPKRR Volume" value="0" />
@@ -23258,12 +23258,12 @@
 > 	<ctl name="7 True Level Switch" value="1" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
-> 	<ctl name="7 True Alignment Switch" value="1" />
-> 	<ctl name="TX7 True Alignment" value="AUTO" />
-> 	<ctl name="RX7 True Alignment" value="AUTO" />
 > 	<ctl name="7 True Center Switch" value="1" />
 > 	<ctl name="TX7 True Center" value="AUTO" />
 > 	<ctl name="RX7 True Center" value="AUTO" />
+> 	<ctl name="7 True Alignment Switch" value="1" />
+> 	<ctl name="TX7 True Alignment" value="AUTO" />
+> 	<ctl name="RX7 True Alignment" value="AUTO" />
 > 	<ctl name="7 Digital Volume Switch" value="1" />
 > 	<ctl name="TX7 Digital Volume" value="0" />
 > 	<ctl name="RX7 Digital Volume" value="0" />
@@ -23300,12 +23300,12 @@
 > 	<ctl name="8 True Level Switch" value="0" />
 > 	<ctl name="TX8 True Level" value="ZERO" />
 > 	<ctl name="RX8 True Level" value="ZERO" />
-> 	<ctl name="8 True Alignment Switch" value="0" />
-> 	<ctl name="TX8 True Alignment" value="ZERO" />
-> 	<ctl name="RX8 True Alignment" value="ZERO" />
 > 	<ctl name="8 True Center Switch" value="0" />
 > 	<ctl name="TX8 True Center" value="ZERO" />
 > 	<ctl name="RX8 True Center" value="ZERO" />
+> 	<ctl name="8 True Alignment Switch" value="0" />
+> 	<ctl name="TX8 True Alignment" value="ZERO" />
+> 	<ctl name="RX8 True Alignment" value="ZERO" />
 > 	<ctl name="8 Digital Volume Switch" value="0" />
 > 	<ctl name="TX8 Digital Volume" value="0" />
 > 	<ctl name="RX8 Digital Volume" value="0" />
@@ -23342,12 +23342,12 @@
 > 	<ctl name="SPKRL True Level Switch" value="1" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
-> 	<ctl name="SPKRL True Alignment Switch" value="1" />
-> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
-> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
 > 	<ctl name="SPKRL True Center Switch" value="1" />
 > 	<ctl name="TX SPKRL True Center" value="AUTO" />
 > 	<ctl name="RX SPKRL True Center" value="AUTO" />
+> 	<ctl name="SPKRL True Alignment Switch" value="1" />
+> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
+> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
 > 	<ctl name="SPKRL Volume Switch" value="1" />
 > 	<ctl name="TX SPKRL Volume" value="0" />
 > 	<ctl name="RX SPKRL Volume" value="0" />
@@ -23381,12 +23381,12 @@
 > 	<ctl name="SPKRR True Level Switch" value="0" />
 > 	<ctl name="TX SPKRR True Level" value="ZERO" />
 > 	<ctl name="RX SPKRR True Level" value="ZERO" />
-> 	<ctl name="SPKRR True Alignment Switch" value="0" />
-> 	<ctl name="TX SPKRR True Alignment" value="ZERO" />
-> 	<ctl name="RX SPKRR True Alignment" value="ZERO" />
 > 	<ctl name="SPKRR True Center Switch" value="0" />
 > 	<ctl name="TX SPKRR True Center" value="ZERO" />
 > 	<ctl name="RX SPKRR True Center" value="ZERO" />
+> 	<ctl name="SPKRR True Alignment Switch" value="0" />
+> 	<ctl name="TX SPKRR True Alignment" value="ZERO" />
+> 	<ctl name="RX SPKRR True Alignment" value="ZERO" />
 > 	<ctl name="SPKRR Volume Switch" value="0" />
 > 	<ctl name="TX SPKRR Volume" value="0" />
 > 	<ctl name="RX SPKRR Volume" value="0" />
@@ -23431,12 +23431,12 @@
 > 	<ctl name="7 True Level Switch" value="2" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
-> 	<ctl name="7 True Alignment Switch" value="2" />
-> 	<ctl name="TX7 True Alignment" value="AUTO" />
-> 	<ctl name="RX7 True Alignment" value="AUTO" />
 > 	<ctl name="7 True Center Switch" value="2" />
 > 	<ctl name="TX7 True Center" value="AUTO" />
 > 	<ctl name="RX7 True Center" value="AUTO" />
+> 	<ctl name="7 True Alignment Switch" value="2" />
+> 	<ctl name="TX7 True Alignment" value="AUTO" />
+> 	<ctl name="RX7 True Alignment" value="AUTO" />
 > 	<ctl name="7 Digital Volume Switch" value="2" />
 > 	<ctl name="TX7 Digital Volume" value="0" />
 > 	<ctl name="RX7 Digital Volume" value="0" />
@@ -23473,12 +23473,12 @@
 > 	<ctl name="8 True Level Switch" value="2" />
 > 	<ctl name="TX8 True Level" value="AUTO" />
 > 	<ctl name="RX8 True Level" value="AUTO" />
-> 	<ctl name="8 True Alignment Switch" value="2" />
-> 	<ctl name="TX8 True Alignment" value="AUTO" />
-> 	<ctl name="RX8 True Alignment" value="AUTO" />
 > 	<ctl name="8 True Center Switch" value="2" />
 > 	<ctl name="TX8 True Center" value="AUTO" />
 > 	<ctl name="RX8 True Center" value="AUTO" />
+> 	<ctl name="8 True Alignment Switch" value="2" />
+> 	<ctl name="TX8 True Alignment" value="AUTO" />
+> 	<ctl name="RX8 True Alignment" value="AUTO" />
 > 	<ctl name="8 Digital Volume Switch" value="2" />
 > 	<ctl name="TX8 Digital Volume" value="0" />
 > 	<ctl name="RX8 Digital Volume" value="0" />
@@ -23515,12 +23515,12 @@
 > 	<ctl name="SPKRL True Level Switch" value="2" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
-> 	<ctl name="SPKRL True Alignment Switch" value="2" />
-> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
-> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
 > 	<ctl name="SPKRL True Center Switch" value="2" />
 > 	<ctl name="TX SPKRL True Center" value="AUTO" />
 > 	<ctl name="RX SPKRL True Center" value="AUTO" />
+> 	<ctl name="SPKRL True Alignment Switch" value="2" />
+> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
+> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
 > 	<ctl name="SPKRL Volume Switch" value="2" />
 > 	<ctl name="TX SPKRL Volume" value="0" />
 > 	<ctl name="RX SPKRL Volume" value="0" />
@@ -23554,12 +23554,12 @@
 > 	<ctl name="SPKRR True Level Switch" value="2" />
 > 	<ctl name="TX SPKRR True Level" value="AUTO" />
 > 	<ctl name="RX SPKRR True Level" value="AUTO" />
-> 	<ctl name="SPKRR True Alignment Switch" value="2" />
-> 	<ctl name="TX SPKRR True Alignment" value="AUTO" />
-> 	<ctl name="RX SPKRR True Alignment" value="AUTO" />
 > 	<ctl name="SPKRR True Center Switch" value="2" />
 > 	<ctl name="TX SPKRR True Center" value="AUTO" />
 > 	<ctl name="RX SPKRR True Center" value="AUTO" />
+> 	<ctl name="SPKRR True Alignment Switch" value="2" />
+> 	<ctl name="TX SPKRR True Alignment" value="AUTO" />
+> 	<ctl name="RX SPKRR True Alignment" value="AUTO" />
 > 	<ctl name="SPKRR Volume Switch" value="2" />
 > 	<ctl name="TX SPKRR Volume" value="0" />
 > 	<ctl name="RX SPKRR Volume" value="0" />
@@ -23603,12 +23603,12 @@
 > 	<ctl name="7 True Level Switch" value="1" />
 > 	<ctl name="TX7 True Level" value="AUTO" />
 > 	<ctl name="RX7 True Level" value="AUTO" />
-> 	<ctl name="7 True Alignment Switch" value="1" />
-> 	<ctl name="TX7 True Alignment" value="AUTO" />
-> 	<ctl name="RX7 True Alignment" value="AUTO" />
 > 	<ctl name="7 True Center Switch" value="1" />
 > 	<ctl name="TX7 True Center" value="AUTO" />
 > 	<ctl name="RX7 True Center" value="AUTO" />
+> 	<ctl name="7 True Alignment Switch" value="1" />
+> 	<ctl name="TX7 True Alignment" value="AUTO" />
+> 	<ctl name="RX7 True Alignment" value="AUTO" />
 > 	<ctl name="7 Digital Volume Switch" value="1" />
 > 	<ctl name="TX7 Digital Volume" value="0" />
 > 	<ctl name="RX7 Digital Volume" value="0" />
@@ -23645,12 +23645,12 @@
 > 	<ctl name="8 True Level Switch" value="0" />
 > 	<ctl name="TX8 True Level" value="ZERO" />
 > 	<ctl name="RX8 True Level" value="ZERO" />
-> 	<ctl name="8 True Alignment Switch" value="0" />
-> 	<ctl name="TX8 True Alignment" value="ZERO" />
-> 	<ctl name="RX8 True Alignment" value="ZERO" />
 > 	<ctl name="8 True Center Switch" value="0" />
 > 	<ctl name="TX8 True Center" value="ZERO" />
 > 	<ctl name="RX8 True Center" value="ZERO" />
+> 	<ctl name="8 True Alignment Switch" value="0" />
+> 	<ctl name="TX8 True Alignment" value="ZERO" />
+> 	<ctl name="RX8 True Alignment" value="ZERO" />
 > 	<ctl name="8 Digital Volume Switch" value="0" />
 > 	<ctl name="TX8 Digital Volume" value="0" />
 > 	<ctl name="RX8 Digital Volume" value="0" />
@@ -23687,12 +23687,12 @@
 > 	<ctl name="SPKRL True Level Switch" value="1" />
 > 	<ctl name="TX SPKRL True Level" value="AUTO" />
 > 	<ctl name="RX SPKRL True Level" value="AUTO" />
-> 	<ctl name="SPKRL True Alignment Switch" value="1" />
-> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
-> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
 > 	<ctl name="SPKRL True Center Switch" value="1" />
 > 	<ctl name="TX SPKRL True Center" value="AUTO" />
 > 	<ctl name="RX SPKRL True Center" value="AUTO" />
+> 	<ctl name="SPKRL True Alignment Switch" value="1" />
+> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
+> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
 > 	<ctl name="SPKRL Volume Switch" value="1" />
 > 	<ctl name="TX SPKRL Volume" value="0" />
 > 	<ctl name="RX SPKRL Volume" value="0" />
@@ -23726,12 +23726,12 @@
 > 	<ctl name="SPKRR True Level Switch" value="0" />
 > 	<ctl name="TX SPKRR True Level" value="ZERO" />
 > 	<ctl name="RX SPKRR True Level" value="ZERO" />
-> 	<ctl name="SPKRR True Alignment Switch" value="0" />
-> 	<ctl name="TX SPKRR True Alignment" value="ZERO" />
-> 	<ctl name="RX SPKRR True Alignment" value="ZERO" />
 > 	<ctl name="SPKRR True Center Switch" value="0" />
 > 	<ctl name="TX SPKRR True Center" value="ZERO" />
 > 	<ctl name="RX SPKRR True Center" value="ZERO" />
+> 	<ctl name="SPKRR True Alignment Switch" value="0" />
+> 	<ctl name="TX SPKRR True Alignment" value="ZERO" />
+> 	<ctl name="RX SPKRR True Alignment" value="ZERO" />
 > 	<ctl name="SPKRR Volume Switch" value="0" />
 > 	<ctl name="TX SPKRR Volume" value="0" />
 > 	<ctl name="RX SPKRR Volume" value="0" />
@@ -23947,12 +23947,12 @@
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
-> 	<ctl name="1 True Alignment Switch" value="2" />
-> 	<ctl name="TX1 True Alignment" value="AUTO" />
-> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
+> 	<ctl name="1 True Alignment Switch" value="2" />
+> 	<ctl name="TX1 True Alignment" value="AUTO" />
+> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -23989,12 +23989,12 @@
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
-> 	<ctl name="2 True Alignment Switch" value="2" />
-> 	<ctl name="TX2 True Alignment" value="AUTO" />
-> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
+> 	<ctl name="2 True Alignment Switch" value="2" />
+> 	<ctl name="TX2 True Alignment" value="AUTO" />
+> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 Digital Volume Switch" value="2" />
 > 	<ctl name="TX2 Digital Volume" value="84" />
 > 	<ctl name="RX2 Digital Volume" value="84" />
@@ -24031,12 +24031,12 @@
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
-> 	<ctl name="HPHL True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
+> 	<ctl name="HPHL True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL Volume Switch" value="2" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -24070,12 +24070,12 @@
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
-> 	<ctl name="HPHR True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
+> 	<ctl name="HPHR True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
@@ -24139,12 +24139,12 @@
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
-> 	<ctl name="1 True Alignment Switch" value="2" />
-> 	<ctl name="TX1 True Alignment" value="AUTO" />
-> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
+> 	<ctl name="1 True Alignment Switch" value="2" />
+> 	<ctl name="TX1 True Alignment" value="AUTO" />
+> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -24181,12 +24181,12 @@
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
-> 	<ctl name="2 True Alignment Switch" value="2" />
-> 	<ctl name="TX2 True Alignment" value="AUTO" />
-> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
+> 	<ctl name="2 True Alignment Switch" value="2" />
+> 	<ctl name="TX2 True Alignment" value="AUTO" />
+> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 Digital Volume Switch" value="2" />
 > 	<ctl name="TX2 Digital Volume" value="84" />
 > 	<ctl name="RX2 Digital Volume" value="84" />
@@ -24223,12 +24223,12 @@
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
-> 	<ctl name="HPHL True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
+> 	<ctl name="HPHL True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL Volume Switch" value="2" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -24262,12 +24262,12 @@
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
-> 	<ctl name="HPHR True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
+> 	<ctl name="HPHR True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
@@ -24331,12 +24331,12 @@
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
-> 	<ctl name="1 True Alignment Switch" value="2" />
-> 	<ctl name="TX1 True Alignment" value="AUTO" />
-> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
+> 	<ctl name="1 True Alignment Switch" value="2" />
+> 	<ctl name="TX1 True Alignment" value="AUTO" />
+> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -24373,12 +24373,12 @@
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
-> 	<ctl name="2 True Alignment Switch" value="2" />
-> 	<ctl name="TX2 True Alignment" value="AUTO" />
-> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
+> 	<ctl name="2 True Alignment Switch" value="2" />
+> 	<ctl name="TX2 True Alignment" value="AUTO" />
+> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 Digital Volume Switch" value="2" />
 > 	<ctl name="TX2 Digital Volume" value="84" />
 > 	<ctl name="RX2 Digital Volume" value="84" />
@@ -24415,12 +24415,12 @@
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
-> 	<ctl name="HPHL True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
+> 	<ctl name="HPHL True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL Volume Switch" value="2" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -24454,12 +24454,12 @@
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
-> 	<ctl name="HPHR True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
+> 	<ctl name="HPHR True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
@@ -24505,12 +24505,12 @@
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
-> 	<ctl name="1 True Alignment Switch" value="2" />
-> 	<ctl name="TX1 True Alignment" value="AUTO" />
-> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
+> 	<ctl name="1 True Alignment Switch" value="2" />
+> 	<ctl name="TX1 True Alignment" value="AUTO" />
+> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -24547,12 +24547,12 @@
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
-> 	<ctl name="2 True Alignment Switch" value="2" />
-> 	<ctl name="TX2 True Alignment" value="AUTO" />
-> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
+> 	<ctl name="2 True Alignment Switch" value="2" />
+> 	<ctl name="TX2 True Alignment" value="AUTO" />
+> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 Digital Volume Switch" value="2" />
 > 	<ctl name="TX2 Digital Volume" value="84" />
 > 	<ctl name="RX2 Digital Volume" value="84" />
@@ -24589,12 +24589,12 @@
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
-> 	<ctl name="HPHL True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
+> 	<ctl name="HPHL True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL Volume Switch" value="2" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -24628,12 +24628,12 @@
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
-> 	<ctl name="HPHR True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
+> 	<ctl name="HPHR True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
@@ -24679,12 +24679,12 @@
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
-> 	<ctl name="1 True Alignment Switch" value="2" />
-> 	<ctl name="TX1 True Alignment" value="AUTO" />
-> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
+> 	<ctl name="1 True Alignment Switch" value="2" />
+> 	<ctl name="TX1 True Alignment" value="AUTO" />
+> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -24721,12 +24721,12 @@
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
-> 	<ctl name="2 True Alignment Switch" value="2" />
-> 	<ctl name="TX2 True Alignment" value="AUTO" />
-> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
+> 	<ctl name="2 True Alignment Switch" value="2" />
+> 	<ctl name="TX2 True Alignment" value="AUTO" />
+> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 Digital Volume Switch" value="2" />
 > 	<ctl name="TX2 Digital Volume" value="84" />
 > 	<ctl name="RX2 Digital Volume" value="84" />
@@ -24763,12 +24763,12 @@
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
-> 	<ctl name="HPHL True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
+> 	<ctl name="HPHL True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL Volume Switch" value="2" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -24802,12 +24802,12 @@
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
-> 	<ctl name="HPHR True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
+> 	<ctl name="HPHR True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
@@ -24871,12 +24871,12 @@
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
-> 	<ctl name="1 True Alignment Switch" value="2" />
-> 	<ctl name="TX1 True Alignment" value="AUTO" />
-> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
+> 	<ctl name="1 True Alignment Switch" value="2" />
+> 	<ctl name="TX1 True Alignment" value="AUTO" />
+> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -24913,12 +24913,12 @@
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
-> 	<ctl name="2 True Alignment Switch" value="2" />
-> 	<ctl name="TX2 True Alignment" value="AUTO" />
-> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
+> 	<ctl name="2 True Alignment Switch" value="2" />
+> 	<ctl name="TX2 True Alignment" value="AUTO" />
+> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 Digital Volume Switch" value="2" />
 > 	<ctl name="TX2 Digital Volume" value="84" />
 > 	<ctl name="RX2 Digital Volume" value="84" />
@@ -24955,12 +24955,12 @@
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
-> 	<ctl name="HPHL True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
+> 	<ctl name="HPHL True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL Volume Switch" value="2" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -24994,12 +24994,12 @@
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
-> 	<ctl name="HPHR True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
+> 	<ctl name="HPHR True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
@@ -25045,12 +25045,12 @@
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
-> 	<ctl name="1 True Alignment Switch" value="2" />
-> 	<ctl name="TX1 True Alignment" value="AUTO" />
-> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
+> 	<ctl name="1 True Alignment Switch" value="2" />
+> 	<ctl name="TX1 True Alignment" value="AUTO" />
+> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -25087,12 +25087,12 @@
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
-> 	<ctl name="2 True Alignment Switch" value="2" />
-> 	<ctl name="TX2 True Alignment" value="AUTO" />
-> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
+> 	<ctl name="2 True Alignment Switch" value="2" />
+> 	<ctl name="TX2 True Alignment" value="AUTO" />
+> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 Digital Volume Switch" value="2" />
 > 	<ctl name="TX2 Digital Volume" value="84" />
 > 	<ctl name="RX2 Digital Volume" value="84" />
@@ -25129,12 +25129,12 @@
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
-> 	<ctl name="HPHL True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
+> 	<ctl name="HPHL True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL Volume Switch" value="2" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -25168,12 +25168,12 @@
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
-> 	<ctl name="HPHR True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
+> 	<ctl name="HPHR True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
@@ -25219,12 +25219,12 @@
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
-> 	<ctl name="1 True Alignment Switch" value="2" />
-> 	<ctl name="TX1 True Alignment" value="AUTO" />
-> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
+> 	<ctl name="1 True Alignment Switch" value="2" />
+> 	<ctl name="TX1 True Alignment" value="AUTO" />
+> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -25261,12 +25261,12 @@
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
-> 	<ctl name="2 True Alignment Switch" value="2" />
-> 	<ctl name="TX2 True Alignment" value="AUTO" />
-> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
+> 	<ctl name="2 True Alignment Switch" value="2" />
+> 	<ctl name="TX2 True Alignment" value="AUTO" />
+> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 Digital Volume Switch" value="2" />
 > 	<ctl name="TX2 Digital Volume" value="84" />
 > 	<ctl name="RX2 Digital Volume" value="84" />
@@ -25303,12 +25303,12 @@
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
-> 	<ctl name="HPHL True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
+> 	<ctl name="HPHL True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL Volume Switch" value="2" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -25342,12 +25342,12 @@
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
-> 	<ctl name="HPHR True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
+> 	<ctl name="HPHR True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
@@ -25421,12 +25421,12 @@
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
-> 	<ctl name="1 True Alignment Switch" value="2" />
-> 	<ctl name="TX1 True Alignment" value="AUTO" />
-> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
+> 	<ctl name="1 True Alignment Switch" value="2" />
+> 	<ctl name="TX1 True Alignment" value="AUTO" />
+> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -25463,12 +25463,12 @@
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
-> 	<ctl name="2 True Alignment Switch" value="2" />
-> 	<ctl name="TX2 True Alignment" value="AUTO" />
-> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
+> 	<ctl name="2 True Alignment Switch" value="2" />
+> 	<ctl name="TX2 True Alignment" value="AUTO" />
+> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 Digital Volume Switch" value="2" />
 > 	<ctl name="TX2 Digital Volume" value="84" />
 > 	<ctl name="RX2 Digital Volume" value="84" />
@@ -25505,12 +25505,12 @@
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
-> 	<ctl name="HPHL True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
+> 	<ctl name="HPHL True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL Volume Switch" value="2" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -25544,12 +25544,12 @@
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
-> 	<ctl name="HPHR True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
+> 	<ctl name="HPHR True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
@@ -25612,12 +25612,12 @@
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
-> 	<ctl name="1 True Alignment Switch" value="2" />
-> 	<ctl name="TX1 True Alignment" value="AUTO" />
-> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
+> 	<ctl name="1 True Alignment Switch" value="2" />
+> 	<ctl name="TX1 True Alignment" value="AUTO" />
+> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -25654,12 +25654,12 @@
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
-> 	<ctl name="2 True Alignment Switch" value="2" />
-> 	<ctl name="TX2 True Alignment" value="AUTO" />
-> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
+> 	<ctl name="2 True Alignment Switch" value="2" />
+> 	<ctl name="TX2 True Alignment" value="AUTO" />
+> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 Digital Volume Switch" value="2" />
 > 	<ctl name="TX2 Digital Volume" value="84" />
 > 	<ctl name="RX2 Digital Volume" value="84" />
@@ -25696,12 +25696,12 @@
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
-> 	<ctl name="HPHL True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
+> 	<ctl name="HPHL True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL Volume Switch" value="2" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -25735,12 +25735,12 @@
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
-> 	<ctl name="HPHR True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
+> 	<ctl name="HPHR True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
@@ -25803,12 +25803,12 @@
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
-> 	<ctl name="1 True Alignment Switch" value="2" />
-> 	<ctl name="TX1 True Alignment" value="AUTO" />
-> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
+> 	<ctl name="1 True Alignment Switch" value="2" />
+> 	<ctl name="TX1 True Alignment" value="AUTO" />
+> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -25845,12 +25845,12 @@
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
-> 	<ctl name="2 True Alignment Switch" value="2" />
-> 	<ctl name="TX2 True Alignment" value="AUTO" />
-> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
+> 	<ctl name="2 True Alignment Switch" value="2" />
+> 	<ctl name="TX2 True Alignment" value="AUTO" />
+> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 Digital Volume Switch" value="2" />
 > 	<ctl name="TX2 Digital Volume" value="84" />
 > 	<ctl name="RX2 Digital Volume" value="84" />
@@ -25887,12 +25887,12 @@
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
-> 	<ctl name="HPHL True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
+> 	<ctl name="HPHL True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL Volume Switch" value="2" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -25926,12 +25926,12 @@
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
-> 	<ctl name="HPHR True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
+> 	<ctl name="HPHR True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
@@ -25976,12 +25976,12 @@
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
-> 	<ctl name="1 True Alignment Switch" value="2" />
-> 	<ctl name="TX1 True Alignment" value="AUTO" />
-> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
+> 	<ctl name="1 True Alignment Switch" value="2" />
+> 	<ctl name="TX1 True Alignment" value="AUTO" />
+> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -26018,12 +26018,12 @@
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
-> 	<ctl name="2 True Alignment Switch" value="2" />
-> 	<ctl name="TX2 True Alignment" value="AUTO" />
-> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
+> 	<ctl name="2 True Alignment Switch" value="2" />
+> 	<ctl name="TX2 True Alignment" value="AUTO" />
+> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 Digital Volume Switch" value="2" />
 > 	<ctl name="TX2 Digital Volume" value="84" />
 > 	<ctl name="RX2 Digital Volume" value="84" />
@@ -26060,12 +26060,12 @@
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
-> 	<ctl name="HPHL True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
+> 	<ctl name="HPHL True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL Volume Switch" value="2" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -26099,12 +26099,12 @@
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
-> 	<ctl name="HPHR True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
+> 	<ctl name="HPHR True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
@@ -26149,12 +26149,12 @@
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
-> 	<ctl name="1 True Alignment Switch" value="2" />
-> 	<ctl name="TX1 True Alignment" value="AUTO" />
-> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
+> 	<ctl name="1 True Alignment Switch" value="2" />
+> 	<ctl name="TX1 True Alignment" value="AUTO" />
+> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -26191,12 +26191,12 @@
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
-> 	<ctl name="2 True Alignment Switch" value="2" />
-> 	<ctl name="TX2 True Alignment" value="AUTO" />
-> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
+> 	<ctl name="2 True Alignment Switch" value="2" />
+> 	<ctl name="TX2 True Alignment" value="AUTO" />
+> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 Digital Volume Switch" value="2" />
 > 	<ctl name="TX2 Digital Volume" value="84" />
 > 	<ctl name="RX2 Digital Volume" value="84" />
@@ -26233,12 +26233,12 @@
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
-> 	<ctl name="HPHL True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
+> 	<ctl name="HPHL True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL Volume Switch" value="2" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -26272,12 +26272,12 @@
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
-> 	<ctl name="HPHR True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
+> 	<ctl name="HPHR True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
@@ -26340,12 +26340,12 @@
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
-> 	<ctl name="1 True Alignment Switch" value="2" />
-> 	<ctl name="TX1 True Alignment" value="AUTO" />
-> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
+> 	<ctl name="1 True Alignment Switch" value="2" />
+> 	<ctl name="TX1 True Alignment" value="AUTO" />
+> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -26382,12 +26382,12 @@
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
-> 	<ctl name="2 True Alignment Switch" value="2" />
-> 	<ctl name="TX2 True Alignment" value="AUTO" />
-> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
+> 	<ctl name="2 True Alignment Switch" value="2" />
+> 	<ctl name="TX2 True Alignment" value="AUTO" />
+> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 Digital Volume Switch" value="2" />
 > 	<ctl name="TX2 Digital Volume" value="84" />
 > 	<ctl name="RX2 Digital Volume" value="84" />
@@ -26424,12 +26424,12 @@
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
-> 	<ctl name="HPHL True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
+> 	<ctl name="HPHL True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL Volume Switch" value="2" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -26463,12 +26463,12 @@
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
-> 	<ctl name="HPHR True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
+> 	<ctl name="HPHR True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
@@ -26513,12 +26513,12 @@
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
-> 	<ctl name="1 True Alignment Switch" value="2" />
-> 	<ctl name="TX1 True Alignment" value="AUTO" />
-> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
+> 	<ctl name="1 True Alignment Switch" value="2" />
+> 	<ctl name="TX1 True Alignment" value="AUTO" />
+> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -26555,12 +26555,12 @@
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
-> 	<ctl name="2 True Alignment Switch" value="2" />
-> 	<ctl name="TX2 True Alignment" value="AUTO" />
-> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
+> 	<ctl name="2 True Alignment Switch" value="2" />
+> 	<ctl name="TX2 True Alignment" value="AUTO" />
+> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 Digital Volume Switch" value="2" />
 > 	<ctl name="TX2 Digital Volume" value="84" />
 > 	<ctl name="RX2 Digital Volume" value="84" />
@@ -26597,12 +26597,12 @@
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
-> 	<ctl name="HPHL True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
+> 	<ctl name="HPHL True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL Volume Switch" value="2" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -26636,12 +26636,12 @@
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
-> 	<ctl name="HPHR True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
+> 	<ctl name="HPHR True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
@@ -26686,12 +26686,12 @@
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
-> 	<ctl name="1 True Alignment Switch" value="2" />
-> 	<ctl name="TX1 True Alignment" value="AUTO" />
-> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
+> 	<ctl name="1 True Alignment Switch" value="2" />
+> 	<ctl name="TX1 True Alignment" value="AUTO" />
+> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -26728,12 +26728,12 @@
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
-> 	<ctl name="2 True Alignment Switch" value="2" />
-> 	<ctl name="TX2 True Alignment" value="AUTO" />
-> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
+> 	<ctl name="2 True Alignment Switch" value="2" />
+> 	<ctl name="TX2 True Alignment" value="AUTO" />
+> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 Digital Volume Switch" value="2" />
 > 	<ctl name="TX2 Digital Volume" value="84" />
 > 	<ctl name="RX2 Digital Volume" value="84" />
@@ -26770,12 +26770,12 @@
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
-> 	<ctl name="HPHL True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
+> 	<ctl name="HPHL True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL Volume Switch" value="2" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -26809,12 +26809,12 @@
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
-> 	<ctl name="HPHR True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
+> 	<ctl name="HPHR True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
@@ -26860,12 +26860,12 @@
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
-> 	<ctl name="1 True Alignment Switch" value="2" />
-> 	<ctl name="TX1 True Alignment" value="AUTO" />
-> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
+> 	<ctl name="1 True Alignment Switch" value="2" />
+> 	<ctl name="TX1 True Alignment" value="AUTO" />
+> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="0" />
 > 	<ctl name="RX1 Digital Volume" value="0" />
@@ -26902,12 +26902,12 @@
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
-> 	<ctl name="2 True Alignment Switch" value="2" />
-> 	<ctl name="TX2 True Alignment" value="AUTO" />
-> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
+> 	<ctl name="2 True Alignment Switch" value="2" />
+> 	<ctl name="TX2 True Alignment" value="AUTO" />
+> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 Digital Volume Switch" value="2" />
 > 	<ctl name="TX2 Digital Volume" value="0" />
 > 	<ctl name="RX2 Digital Volume" value="0" />
@@ -26944,12 +26944,12 @@
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
-> 	<ctl name="HPHL True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
+> 	<ctl name="HPHL True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL Volume Switch" value="2" />
 > 	<ctl name="TX HPHL Volume" value="0" />
 > 	<ctl name="RX HPHL Volume" value="0" />
@@ -26983,12 +26983,12 @@
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
-> 	<ctl name="HPHR True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
+> 	<ctl name="HPHR True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
@@ -27033,12 +27033,12 @@
 > 	<ctl name="1 True Level Switch" value="2" />
 > 	<ctl name="TX1 True Level" value="AUTO" />
 > 	<ctl name="RX1 True Level" value="AUTO" />
-> 	<ctl name="1 True Alignment Switch" value="2" />
-> 	<ctl name="TX1 True Alignment" value="AUTO" />
-> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 True Center Switch" value="2" />
 > 	<ctl name="TX1 True Center" value="AUTO" />
 > 	<ctl name="RX1 True Center" value="AUTO" />
+> 	<ctl name="1 True Alignment Switch" value="2" />
+> 	<ctl name="TX1 True Alignment" value="AUTO" />
+> 	<ctl name="RX1 True Alignment" value="AUTO" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="0" />
 > 	<ctl name="RX1 Digital Volume" value="0" />
@@ -27075,12 +27075,12 @@
 > 	<ctl name="2 True Level Switch" value="2" />
 > 	<ctl name="TX2 True Level" value="AUTO" />
 > 	<ctl name="RX2 True Level" value="AUTO" />
-> 	<ctl name="2 True Alignment Switch" value="2" />
-> 	<ctl name="TX2 True Alignment" value="AUTO" />
-> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 True Center Switch" value="2" />
 > 	<ctl name="TX2 True Center" value="AUTO" />
 > 	<ctl name="RX2 True Center" value="AUTO" />
+> 	<ctl name="2 True Alignment Switch" value="2" />
+> 	<ctl name="TX2 True Alignment" value="AUTO" />
+> 	<ctl name="RX2 True Alignment" value="AUTO" />
 > 	<ctl name="2 Digital Volume Switch" value="2" />
 > 	<ctl name="TX2 Digital Volume" value="0" />
 > 	<ctl name="RX2 Digital Volume" value="0" />
@@ -27117,12 +27117,12 @@
 > 	<ctl name="HPHL True Level Switch" value="2" />
 > 	<ctl name="TX HPHL True Level" value="AUTO" />
 > 	<ctl name="RX HPHL True Level" value="AUTO" />
-> 	<ctl name="HPHL True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL True Center Switch" value="2" />
 > 	<ctl name="TX HPHL True Center" value="AUTO" />
 > 	<ctl name="RX HPHL True Center" value="AUTO" />
+> 	<ctl name="HPHL True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHL True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHL True Alignment" value="AUTO" />
 > 	<ctl name="HPHL Volume Switch" value="2" />
 > 	<ctl name="TX HPHL Volume" value="0" />
 > 	<ctl name="RX HPHL Volume" value="0" />
@@ -27156,12 +27156,12 @@
 > 	<ctl name="HPHR True Level Switch" value="2" />
 > 	<ctl name="TX HPHR True Level" value="AUTO" />
 > 	<ctl name="RX HPHR True Level" value="AUTO" />
-> 	<ctl name="HPHR True Alignment Switch" value="2" />
-> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
-> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR True Center Switch" value="2" />
 > 	<ctl name="TX HPHR True Center" value="AUTO" />
 > 	<ctl name="RX HPHR True Center" value="AUTO" />
+> 	<ctl name="HPHR True Alignment Switch" value="2" />
+> 	<ctl name="TX HPHR True Alignment" value="AUTO" />
+> 	<ctl name="RX HPHR True Alignment" value="AUTO" />
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
