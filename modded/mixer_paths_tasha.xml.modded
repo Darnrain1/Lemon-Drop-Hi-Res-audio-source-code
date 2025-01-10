@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble v247.1 -->
+	<!-- Lemon Drop Hi-Res treble v248.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -11625,6 +11625,2329 @@
 	<ctl name="RX INI772 VBAT MI768 VBAT Enable" value="2" />
 	</path>
 
+	<path name="true-native-mode-SPKR-mono">
+	<ctl name="TX INT7 SPLINE MIX SPKRL Native Switch" value="1" />
+	<ctl name="TX INT7 SPLINE MIX SPKRL Switch" value="1" />
+	<ctl name="RX INT7 SPLINE MIX SPKRL Native Switch" value="1" />
+	<ctl name="RX INT7 SPLINE MIX SPKRL Switch" value="1" />
+	<ctl name="TX INT8 SPLINE MIX SPKRR Native Switch" value="0" />
+	<ctl name="TX INT8 SPLINE MIX SPKRR Switch" value="0" />
+	<ctl name="RX INT8 SPLINE MIX SPKRR Native Switch" value="0" />
+	<ctl name="RX INT8 SPLINE MIX SPKRR Switch" value="0" />
+	<ctl name="TX INI389 SPLINE MIX LO385 Native Switch" value="1" />
+	<ctl name="TX INI389 SPLINE MIX LO385 Switch" value="1" />
+	<ctl name="RX INI389 SPLINE MIX LO385 Native Switch" value="1" />
+	<ctl name="RX INI389 SPLINE MIX LO385 Switch" value="1" />
+	<ctl name="TX INI390 SPLINE MIX HI386 Native Switch" value="1" />
+	<ctl name="TX INI390 SPLINE MIX HI386 Switch" value="1" />
+	<ctl name="RX INI390 SPLINE MIX HI386 Native Switch" value="1" />
+	<ctl name="RX INI390 SPLINE MIX HI386 Switch" value="1" />
+	<ctl name="TX INI391 SPLINE MIX MI387 Native Switch" value="1" />
+	<ctl name="TX INI391 SPLINE MIX MI387 Switch" value="1" />
+	<ctl name="RX INI391 SPLINE MIX MI387 Native Switch" value="1" />
+	<ctl name="RX INI391 SPLINE MIX MI387 Switch" value="1" />
+	<ctl name="TX INI392 SPLINE MIX LO388 Native Switch" value="1" />
+	<ctl name="TX INI392 SPLINE MIX LO388 Switch" value="1" />
+	<ctl name="RX INI392 SPLINE MIX LO388 Native Switch" value="1" />
+	<ctl name="RX INI392 SPLINE MIX LO388 Switch" value="1" />
+	<ctl name="TX INI393 SPLINE MIX HI389 Native Switch" value="1" />
+	<ctl name="TX INI393 SPLINE MIX HI389 Switch" value="1" />
+	<ctl name="RX INI393 SPLINE MIX HI389 Native Switch" value="1" />
+	<ctl name="RX INI393 SPLINE MIX HI389 Switch" value="1" />
+	<ctl name="TX INI394 SPLINE MIX MI390 Native Switch" value="1" />
+	<ctl name="TX INI394 SPLINE MIX MI390 Switch" value="1" />
+	<ctl name="RX INI394 SPLINE MIX MI390 Native Switch" value="1" />
+	<ctl name="RX INI394 SPLINE MIX MI390 Switch" value="1" />
+	<ctl name="TX INI395 SPLINE MIX LO391 Native Switch" value="1" />
+	<ctl name="TX INI395 SPLINE MIX LO391 Switch" value="1" />
+	<ctl name="RX INI395 SPLINE MIX LO391 Native Switch" value="1" />
+	<ctl name="RX INI395 SPLINE MIX LO391 Switch" value="1" />
+	<ctl name="TX INI396 SPLINE MIX HI392 Native Switch" value="1" />
+	<ctl name="TX INI396 SPLINE MIX HI392 Switch" value="1" />
+	<ctl name="RX INI396 SPLINE MIX HI392 Native Switch" value="1" />
+	<ctl name="RX INI396 SPLINE MIX HI392 Switch" value="1" />
+	<ctl name="TX INI397 SPLINE MIX MI393 Native Switch" value="1" />
+	<ctl name="TX INI397 SPLINE MIX MI393 Switch" value="1" />
+	<ctl name="RX INI397 SPLINE MIX MI393 Native Switch" value="1" />
+	<ctl name="RX INI397 SPLINE MIX MI393 Switch" value="1" />
+	<ctl name="TX INI398 SPLINE MIX LO394 Native Switch" value="1" />
+	<ctl name="TX INI398 SPLINE MIX LO394 Switch" value="1" />
+	<ctl name="RX INI398 SPLINE MIX LO394 Native Switch" value="1" />
+	<ctl name="RX INI398 SPLINE MIX LO394 Switch" value="1" />
+	<ctl name="TX INI399 SPLINE MIX HI395 Native Switch" value="1" />
+	<ctl name="TX INI399 SPLINE MIX HI395 Switch" value="1" />
+	<ctl name="RX INI399 SPLINE MIX HI395 Native Switch" value="1" />
+	<ctl name="RX INI399 SPLINE MIX HI395 Switch" value="1" />
+	<ctl name="TX INI400 SPLINE MIX MI396 Native Switch" value="1" />
+	<ctl name="TX INI400 SPLINE MIX MI396 Switch" value="1" />
+	<ctl name="RX INI400 SPLINE MIX MI396 Native Switch" value="1" />
+	<ctl name="RX INI400 SPLINE MIX MI396 Switch" value="1" />
+	<ctl name="TX INI401 SPLINE MIX LO397 Native Switch" value="1" />
+	<ctl name="TX INI401 SPLINE MIX LO397 Switch" value="1" />
+	<ctl name="RX INI401 SPLINE MIX LO397 Native Switch" value="1" />
+	<ctl name="RX INI401 SPLINE MIX LO397 Switch" value="1" />
+	<ctl name="TX INI402 SPLINE MIX HI398 Native Switch" value="1" />
+	<ctl name="TX INI402 SPLINE MIX HI398 Switch" value="1" />
+	<ctl name="RX INI402 SPLINE MIX HI398 Native Switch" value="1" />
+	<ctl name="RX INI402 SPLINE MIX HI398 Switch" value="1" />
+	<ctl name="TX INI403 SPLINE MIX MI399 Native Switch" value="1" />
+	<ctl name="TX INI403 SPLINE MIX MI399 Switch" value="1" />
+	<ctl name="RX INI403 SPLINE MIX MI399 Native Switch" value="1" />
+	<ctl name="RX INI403 SPLINE MIX MI399 Switch" value="1" />
+	<ctl name="TX INI404 SPLINE MIX LO400 Native Switch" value="1" />
+	<ctl name="TX INI404 SPLINE MIX LO400 Switch" value="1" />
+	<ctl name="RX INI404 SPLINE MIX LO400 Native Switch" value="1" />
+	<ctl name="RX INI404 SPLINE MIX LO400 Switch" value="1" />
+	<ctl name="TX INI405 SPLINE MIX HI401 Native Switch" value="1" />
+	<ctl name="TX INI405 SPLINE MIX HI401 Switch" value="1" />
+	<ctl name="RX INI405 SPLINE MIX HI401 Native Switch" value="1" />
+	<ctl name="RX INI405 SPLINE MIX HI401 Switch" value="1" />
+	<ctl name="TX INI406 SPLINE MIX MI402 Native Switch" value="1" />
+	<ctl name="TX INI406 SPLINE MIX MI402 Switch" value="1" />
+	<ctl name="RX INI406 SPLINE MIX MI402 Native Switch" value="1" />
+	<ctl name="RX INI406 SPLINE MIX MI402 Switch" value="1" />
+	<ctl name="TX INI407 SPLINE MIX LO403 Native Switch" value="1" />
+	<ctl name="TX INI407 SPLINE MIX LO403 Switch" value="1" />
+	<ctl name="RX INI407 SPLINE MIX LO403 Native Switch" value="1" />
+	<ctl name="RX INI407 SPLINE MIX LO403 Switch" value="1" />
+	<ctl name="TX INI408 SPLINE MIX HI404 Native Switch" value="1" />
+	<ctl name="TX INI408 SPLINE MIX HI404 Switch" value="1" />
+	<ctl name="RX INI408 SPLINE MIX HI404 Native Switch" value="1" />
+	<ctl name="RX INI408 SPLINE MIX HI404 Switch" value="1" />
+	<ctl name="TX INI409 SPLINE MIX MI405 Native Switch" value="1" />
+	<ctl name="TX INI409 SPLINE MIX MI405 Switch" value="1" />
+	<ctl name="RX INI409 SPLINE MIX MI405 Native Switch" value="1" />
+	<ctl name="RX INI409 SPLINE MIX MI405 Switch" value="1" />
+	<ctl name="TX INI410 SPLINE MIX LO406 Native Switch" value="1" />
+	<ctl name="TX INI410 SPLINE MIX LO406 Switch" value="1" />
+	<ctl name="RX INI410 SPLINE MIX LO406 Native Switch" value="1" />
+	<ctl name="RX INI410 SPLINE MIX LO406 Switch" value="1" />
+	<ctl name="TX INI411 SPLINE MIX HI407 Native Switch" value="1" />
+	<ctl name="TX INI411 SPLINE MIX HI407 Switch" value="1" />
+	<ctl name="RX INI411 SPLINE MIX HI407 Native Switch" value="1" />
+	<ctl name="RX INI411 SPLINE MIX HI407 Switch" value="1" />
+	<ctl name="TX INI412 SPLINE MIX MI408 Native Switch" value="1" />
+	<ctl name="TX INI412 SPLINE MIX MI408 Switch" value="1" />
+	<ctl name="RX INI412 SPLINE MIX MI408 Native Switch" value="1" />
+	<ctl name="RX INI412 SPLINE MIX MI408 Switch" value="1" />
+	<ctl name="TX INI413 SPLINE MIX LO409 Native Switch" value="1" />
+	<ctl name="TX INI413 SPLINE MIX LO409 Switch" value="1" />
+	<ctl name="RX INI413 SPLINE MIX LO409 Native Switch" value="1" />
+	<ctl name="RX INI413 SPLINE MIX LO409 Switch" value="1" />
+	<ctl name="TX INI414 SPLINE MIX HI410 Native Switch" value="1" />
+	<ctl name="TX INI414 SPLINE MIX HI410 Switch" value="1" />
+	<ctl name="RX INI414 SPLINE MIX HI410 Native Switch" value="1" />
+	<ctl name="RX INI414 SPLINE MIX HI410 Switch" value="1" />
+	<ctl name="TX INI415 SPLINE MIX MI411 Native Switch" value="1" />
+	<ctl name="TX INI415 SPLINE MIX MI411 Switch" value="1" />
+	<ctl name="RX INI415 SPLINE MIX MI411 Native Switch" value="1" />
+	<ctl name="RX INI415 SPLINE MIX MI411 Switch" value="1" />
+	<ctl name="TX INI416 SPLINE MIX LO412 Native Switch" value="1" />
+	<ctl name="TX INI416 SPLINE MIX LO412 Switch" value="1" />
+	<ctl name="RX INI416 SPLINE MIX LO412 Native Switch" value="1" />
+	<ctl name="RX INI416 SPLINE MIX LO412 Switch" value="1" />
+	<ctl name="TX INI417 SPLINE MIX HI413 Native Switch" value="1" />
+	<ctl name="TX INI417 SPLINE MIX HI413 Switch" value="1" />
+	<ctl name="RX INI417 SPLINE MIX HI413 Native Switch" value="1" />
+	<ctl name="RX INI417 SPLINE MIX HI413 Switch" value="1" />
+	<ctl name="TX INI418 SPLINE MIX MI414 Native Switch" value="1" />
+	<ctl name="TX INI418 SPLINE MIX MI414 Switch" value="1" />
+	<ctl name="RX INI418 SPLINE MIX MI414 Native Switch" value="1" />
+	<ctl name="RX INI418 SPLINE MIX MI414 Switch" value="1" />
+	<ctl name="TX INI419 SPLINE MIX LO415 Native Switch" value="1" />
+	<ctl name="TX INI419 SPLINE MIX LO415 Switch" value="1" />
+	<ctl name="RX INI419 SPLINE MIX LO415 Native Switch" value="1" />
+	<ctl name="RX INI419 SPLINE MIX LO415 Switch" value="1" />
+	<ctl name="TX INI420 SPLINE MIX HI416 Native Switch" value="1" />
+	<ctl name="TX INI420 SPLINE MIX HI416 Switch" value="1" />
+	<ctl name="RX INI420 SPLINE MIX HI416 Native Switch" value="1" />
+	<ctl name="RX INI420 SPLINE MIX HI416 Switch" value="1" />
+	<ctl name="TX INI421 SPLINE MIX MI417 Native Switch" value="1" />
+	<ctl name="TX INI421 SPLINE MIX MI417 Switch" value="1" />
+	<ctl name="RX INI421 SPLINE MIX MI417 Native Switch" value="1" />
+	<ctl name="RX INI421 SPLINE MIX MI417 Switch" value="1" />
+	<ctl name="TX INI422 SPLINE MIX LO418 Native Switch" value="1" />
+	<ctl name="TX INI422 SPLINE MIX LO418 Switch" value="1" />
+	<ctl name="RX INI422 SPLINE MIX LO418 Native Switch" value="1" />
+	<ctl name="RX INI422 SPLINE MIX LO418 Switch" value="1" />
+	<ctl name="TX INI423 SPLINE MIX HI419 Native Switch" value="1" />
+	<ctl name="TX INI423 SPLINE MIX HI419 Switch" value="1" />
+	<ctl name="RX INI423 SPLINE MIX HI419 Native Switch" value="1" />
+	<ctl name="RX INI423 SPLINE MIX HI419 Switch" value="1" />
+	<ctl name="TX INI424 SPLINE MIX MI420 Native Switch" value="1" />
+	<ctl name="TX INI424 SPLINE MIX MI420 Switch" value="1" />
+	<ctl name="RX INI424 SPLINE MIX MI420 Native Switch" value="1" />
+	<ctl name="RX INI424 SPLINE MIX MI420 Switch" value="1" />
+	<ctl name="TX INI425 SPLINE MIX LO421 Native Switch" value="1" />
+	<ctl name="TX INI425 SPLINE MIX LO421 Switch" value="1" />
+	<ctl name="RX INI425 SPLINE MIX LO421 Native Switch" value="1" />
+	<ctl name="RX INI425 SPLINE MIX LO421 Switch" value="1" />
+	<ctl name="TX INI426 SPLINE MIX HI422 Native Switch" value="1" />
+	<ctl name="TX INI426 SPLINE MIX HI422 Switch" value="1" />
+	<ctl name="RX INI426 SPLINE MIX HI422 Native Switch" value="1" />
+	<ctl name="RX INI426 SPLINE MIX HI422 Switch" value="1" />
+	<ctl name="TX INI427 SPLINE MIX MI423 Native Switch" value="1" />
+	<ctl name="TX INI427 SPLINE MIX MI423 Switch" value="1" />
+	<ctl name="RX INI427 SPLINE MIX MI423 Native Switch" value="1" />
+	<ctl name="RX INI427 SPLINE MIX MI423 Switch" value="1" />
+	<ctl name="TX INI428 SPLINE MIX LO424 Native Switch" value="1" />
+	<ctl name="TX INI428 SPLINE MIX LO424 Switch" value="1" />
+	<ctl name="RX INI428 SPLINE MIX LO424 Native Switch" value="1" />
+	<ctl name="RX INI428 SPLINE MIX LO424 Switch" value="1" />
+	<ctl name="TX INI429 SPLINE MIX HI425 Native Switch" value="1" />
+	<ctl name="TX INI429 SPLINE MIX HI425 Switch" value="1" />
+	<ctl name="RX INI429 SPLINE MIX HI425 Native Switch" value="1" />
+	<ctl name="RX INI429 SPLINE MIX HI425 Switch" value="1" />
+	<ctl name="TX INI430 SPLINE MIX MI426 Native Switch" value="1" />
+	<ctl name="TX INI430 SPLINE MIX MI426 Switch" value="1" />
+	<ctl name="RX INI430 SPLINE MIX MI426 Native Switch" value="1" />
+	<ctl name="RX INI430 SPLINE MIX MI426 Switch" value="1" />
+	<ctl name="TX INI431 SPLINE MIX LO427 Native Switch" value="1" />
+	<ctl name="TX INI431 SPLINE MIX LO427 Switch" value="1" />
+	<ctl name="RX INI431 SPLINE MIX LO427 Native Switch" value="1" />
+	<ctl name="RX INI431 SPLINE MIX LO427 Switch" value="1" />
+	<ctl name="TX INI432 SPLINE MIX HI428 Native Switch" value="1" />
+	<ctl name="TX INI432 SPLINE MIX HI428 Switch" value="1" />
+	<ctl name="RX INI432 SPLINE MIX HI428 Native Switch" value="1" />
+	<ctl name="RX INI432 SPLINE MIX HI428 Switch" value="1" />
+	<ctl name="TX INI433 SPLINE MIX MI429 Native Switch" value="1" />
+	<ctl name="TX INI433 SPLINE MIX MI429 Switch" value="1" />
+	<ctl name="RX INI433 SPLINE MIX MI429 Native Switch" value="1" />
+	<ctl name="RX INI433 SPLINE MIX MI429 Switch" value="1" />
+	<ctl name="TX INI434 SPLINE MIX LO430 Native Switch" value="1" />
+	<ctl name="TX INI434 SPLINE MIX LO430 Switch" value="1" />
+	<ctl name="RX INI434 SPLINE MIX LO430 Native Switch" value="1" />
+	<ctl name="RX INI434 SPLINE MIX LO430 Switch" value="1" />
+	<ctl name="TX INI435 SPLINE MIX HI431 Native Switch" value="1" />
+	<ctl name="TX INI435 SPLINE MIX HI431 Switch" value="1" />
+	<ctl name="RX INI435 SPLINE MIX HI431 Native Switch" value="1" />
+	<ctl name="RX INI435 SPLINE MIX HI431 Switch" value="1" />
+	<ctl name="TX INI436 SPLINE MIX MI432 Native Switch" value="1" />
+	<ctl name="TX INI436 SPLINE MIX MI432 Switch" value="1" />
+	<ctl name="RX INI436 SPLINE MIX MI432 Native Switch" value="1" />
+	<ctl name="RX INI436 SPLINE MIX MI432 Switch" value="1" />
+	<ctl name="TX INI437 SPLINE MIX LO433 Native Switch" value="1" />
+	<ctl name="TX INI437 SPLINE MIX LO433 Switch" value="1" />
+	<ctl name="RX INI437 SPLINE MIX LO433 Native Switch" value="1" />
+	<ctl name="RX INI437 SPLINE MIX LO433 Switch" value="1" />
+	<ctl name="TX INI438 SPLINE MIX HI434 Native Switch" value="1" />
+	<ctl name="TX INI438 SPLINE MIX HI434 Switch" value="1" />
+	<ctl name="RX INI438 SPLINE MIX HI434 Native Switch" value="1" />
+	<ctl name="RX INI438 SPLINE MIX HI434 Switch" value="1" />
+	<ctl name="TX INI439 SPLINE MIX MI435 Native Switch" value="1" />
+	<ctl name="TX INI439 SPLINE MIX MI435 Switch" value="1" />
+	<ctl name="RX INI439 SPLINE MIX MI435 Native Switch" value="1" />
+	<ctl name="RX INI439 SPLINE MIX MI435 Switch" value="1" />
+	<ctl name="TX INI440 SPLINE MIX LO436 Native Switch" value="1" />
+	<ctl name="TX INI440 SPLINE MIX LO436 Switch" value="1" />
+	<ctl name="RX INI440 SPLINE MIX LO436 Native Switch" value="1" />
+	<ctl name="RX INI440 SPLINE MIX LO436 Switch" value="1" />
+	<ctl name="TX INI441 SPLINE MIX HI437 Native Switch" value="1" />
+	<ctl name="TX INI441 SPLINE MIX HI437 Switch" value="1" />
+	<ctl name="RX INI441 SPLINE MIX HI437 Native Switch" value="1" />
+	<ctl name="RX INI441 SPLINE MIX HI437 Switch" value="1" />
+	<ctl name="TX INI442 SPLINE MIX MI438 Native Switch" value="1" />
+	<ctl name="TX INI442 SPLINE MIX MI438 Switch" value="1" />
+	<ctl name="RX INI442 SPLINE MIX MI438 Native Switch" value="1" />
+	<ctl name="RX INI442 SPLINE MIX MI438 Switch" value="1" />
+	<ctl name="TX INI443 SPLINE MIX LO439 Native Switch" value="1" />
+	<ctl name="TX INI443 SPLINE MIX LO439 Switch" value="1" />
+	<ctl name="RX INI443 SPLINE MIX LO439 Native Switch" value="1" />
+	<ctl name="RX INI443 SPLINE MIX LO439 Switch" value="1" />
+	<ctl name="TX INI444 SPLINE MIX HI440 Native Switch" value="1" />
+	<ctl name="TX INI444 SPLINE MIX HI440 Switch" value="1" />
+	<ctl name="RX INI444 SPLINE MIX HI440 Native Switch" value="1" />
+	<ctl name="RX INI444 SPLINE MIX HI440 Switch" value="1" />
+	<ctl name="TX INI445 SPLINE MIX MI441 Native Switch" value="1" />
+	<ctl name="TX INI445 SPLINE MIX MI441 Switch" value="1" />
+	<ctl name="RX INI445 SPLINE MIX MI441 Native Switch" value="1" />
+	<ctl name="RX INI445 SPLINE MIX MI441 Switch" value="1" />
+	<ctl name="TX INI446 SPLINE MIX LO442 Native Switch" value="1" />
+	<ctl name="TX INI446 SPLINE MIX LO442 Switch" value="1" />
+	<ctl name="RX INI446 SPLINE MIX LO442 Native Switch" value="1" />
+	<ctl name="RX INI446 SPLINE MIX LO442 Switch" value="1" />
+	<ctl name="TX INI447 SPLINE MIX HI443 Native Switch" value="1" />
+	<ctl name="TX INI447 SPLINE MIX HI443 Switch" value="1" />
+	<ctl name="RX INI447 SPLINE MIX HI443 Native Switch" value="1" />
+	<ctl name="RX INI447 SPLINE MIX HI443 Switch" value="1" />
+	<ctl name="TX INI448 SPLINE MIX MI444 Native Switch" value="1" />
+	<ctl name="TX INI448 SPLINE MIX MI444 Switch" value="1" />
+	<ctl name="RX INI448 SPLINE MIX MI444 Native Switch" value="1" />
+	<ctl name="RX INI448 SPLINE MIX MI444 Switch" value="1" />
+	<ctl name="TX INI449 SPLINE MIX LO445 Native Switch" value="1" />
+	<ctl name="TX INI449 SPLINE MIX LO445 Switch" value="1" />
+	<ctl name="RX INI449 SPLINE MIX LO445 Native Switch" value="1" />
+	<ctl name="RX INI449 SPLINE MIX LO445 Switch" value="1" />
+	<ctl name="TX INI450 SPLINE MIX HI446 Native Switch" value="1" />
+	<ctl name="TX INI450 SPLINE MIX HI446 Switch" value="1" />
+	<ctl name="RX INI450 SPLINE MIX HI446 Native Switch" value="1" />
+	<ctl name="RX INI450 SPLINE MIX HI446 Switch" value="1" />
+	<ctl name="TX INI451 SPLINE MIX MI447 Native Switch" value="1" />
+	<ctl name="TX INI451 SPLINE MIX MI447 Switch" value="1" />
+	<ctl name="RX INI451 SPLINE MIX MI447 Native Switch" value="1" />
+	<ctl name="RX INI451 SPLINE MIX MI447 Switch" value="1" />
+	<ctl name="TX INI452 SPLINE MIX LO448 Native Switch" value="1" />
+	<ctl name="TX INI452 SPLINE MIX LO448 Switch" value="1" />
+	<ctl name="RX INI452 SPLINE MIX LO448 Native Switch" value="1" />
+	<ctl name="RX INI452 SPLINE MIX LO448 Switch" value="1" />
+	<ctl name="TX INI453 SPLINE MIX HI449 Native Switch" value="1" />
+	<ctl name="TX INI453 SPLINE MIX HI449 Switch" value="1" />
+	<ctl name="RX INI453 SPLINE MIX HI449 Native Switch" value="1" />
+	<ctl name="RX INI453 SPLINE MIX HI449 Switch" value="1" />
+	<ctl name="TX INI454 SPLINE MIX MI450 Native Switch" value="1" />
+	<ctl name="TX INI454 SPLINE MIX MI450 Switch" value="1" />
+	<ctl name="RX INI454 SPLINE MIX MI450 Native Switch" value="1" />
+	<ctl name="RX INI454 SPLINE MIX MI450 Switch" value="1" />
+	<ctl name="TX INI455 SPLINE MIX LO451 Native Switch" value="1" />
+	<ctl name="TX INI455 SPLINE MIX LO451 Switch" value="1" />
+	<ctl name="RX INI455 SPLINE MIX LO451 Native Switch" value="1" />
+	<ctl name="RX INI455 SPLINE MIX LO451 Switch" value="1" />
+	<ctl name="TX INI456 SPLINE MIX HI452 Native Switch" value="1" />
+	<ctl name="TX INI456 SPLINE MIX HI452 Switch" value="1" />
+	<ctl name="RX INI456 SPLINE MIX HI452 Native Switch" value="1" />
+	<ctl name="RX INI456 SPLINE MIX HI452 Switch" value="1" />
+	<ctl name="TX INI457 SPLINE MIX MI453 Native Switch" value="1" />
+	<ctl name="TX INI457 SPLINE MIX MI453 Switch" value="1" />
+	<ctl name="RX INI457 SPLINE MIX MI453 Native Switch" value="1" />
+	<ctl name="RX INI457 SPLINE MIX MI453 Switch" value="1" />
+	<ctl name="TX INI458 SPLINE MIX LO454 Native Switch" value="1" />
+	<ctl name="TX INI458 SPLINE MIX LO454 Switch" value="1" />
+	<ctl name="RX INI458 SPLINE MIX LO454 Native Switch" value="1" />
+	<ctl name="RX INI458 SPLINE MIX LO454 Switch" value="1" />
+	<ctl name="TX INI459 SPLINE MIX HI455 Native Switch" value="1" />
+	<ctl name="TX INI459 SPLINE MIX HI455 Switch" value="1" />
+	<ctl name="RX INI459 SPLINE MIX HI455 Native Switch" value="1" />
+	<ctl name="RX INI459 SPLINE MIX HI455 Switch" value="1" />
+	<ctl name="TX INI460 SPLINE MIX MI456 Native Switch" value="1" />
+	<ctl name="TX INI460 SPLINE MIX MI456 Switch" value="1" />
+	<ctl name="RX INI460 SPLINE MIX MI456 Native Switch" value="1" />
+	<ctl name="RX INI460 SPLINE MIX MI456 Switch" value="1" />
+	<ctl name="TX INI461 SPLINE MIX LO457 Native Switch" value="1" />
+	<ctl name="TX INI461 SPLINE MIX LO457 Switch" value="1" />
+	<ctl name="RX INI461 SPLINE MIX LO457 Native Switch" value="1" />
+	<ctl name="RX INI461 SPLINE MIX LO457 Switch" value="1" />
+	<ctl name="TX INI462 SPLINE MIX HI458 Native Switch" value="1" />
+	<ctl name="TX INI462 SPLINE MIX HI458 Switch" value="1" />
+	<ctl name="RX INI462 SPLINE MIX HI458 Native Switch" value="1" />
+	<ctl name="RX INI462 SPLINE MIX HI458 Switch" value="1" />
+	<ctl name="TX INI463 SPLINE MIX MI459 Native Switch" value="1" />
+	<ctl name="TX INI463 SPLINE MIX MI459 Switch" value="1" />
+	<ctl name="RX INI463 SPLINE MIX MI459 Native Switch" value="1" />
+	<ctl name="RX INI463 SPLINE MIX MI459 Switch" value="1" />
+	<ctl name="TX INI464 SPLINE MIX LO460 Native Switch" value="1" />
+	<ctl name="TX INI464 SPLINE MIX LO460 Switch" value="1" />
+	<ctl name="RX INI464 SPLINE MIX LO460 Native Switch" value="1" />
+	<ctl name="RX INI464 SPLINE MIX LO460 Switch" value="1" />
+	<ctl name="TX INI465 SPLINE MIX HI461 Native Switch" value="1" />
+	<ctl name="TX INI465 SPLINE MIX HI461 Switch" value="1" />
+	<ctl name="RX INI465 SPLINE MIX HI461 Native Switch" value="1" />
+	<ctl name="RX INI465 SPLINE MIX HI461 Switch" value="1" />
+	<ctl name="TX INI466 SPLINE MIX MI462 Native Switch" value="1" />
+	<ctl name="TX INI466 SPLINE MIX MI462 Switch" value="1" />
+	<ctl name="RX INI466 SPLINE MIX MI462 Native Switch" value="1" />
+	<ctl name="RX INI466 SPLINE MIX MI462 Switch" value="1" />
+	<ctl name="TX INI467 SPLINE MIX LO463 Native Switch" value="1" />
+	<ctl name="TX INI467 SPLINE MIX LO463 Switch" value="1" />
+	<ctl name="RX INI467 SPLINE MIX LO463 Native Switch" value="1" />
+	<ctl name="RX INI467 SPLINE MIX LO463 Switch" value="1" />
+	<ctl name="TX INI468 SPLINE MIX HI464 Native Switch" value="1" />
+	<ctl name="TX INI468 SPLINE MIX HI464 Switch" value="1" />
+	<ctl name="RX INI468 SPLINE MIX HI464 Native Switch" value="1" />
+	<ctl name="RX INI468 SPLINE MIX HI464 Switch" value="1" />
+	<ctl name="TX INI469 SPLINE MIX MI465 Native Switch" value="1" />
+	<ctl name="TX INI469 SPLINE MIX MI465 Switch" value="1" />
+	<ctl name="RX INI469 SPLINE MIX MI465 Native Switch" value="1" />
+	<ctl name="RX INI469 SPLINE MIX MI465 Switch" value="1" />
+	<ctl name="TX INI470 SPLINE MIX LO466 Native Switch" value="1" />
+	<ctl name="TX INI470 SPLINE MIX LO466 Switch" value="1" />
+	<ctl name="RX INI470 SPLINE MIX LO466 Native Switch" value="1" />
+	<ctl name="RX INI470 SPLINE MIX LO466 Switch" value="1" />
+	<ctl name="TX INI471 SPLINE MIX HI467 Native Switch" value="1" />
+	<ctl name="TX INI471 SPLINE MIX HI467 Switch" value="1" />
+	<ctl name="RX INI471 SPLINE MIX HI467 Native Switch" value="1" />
+	<ctl name="RX INI471 SPLINE MIX HI467 Switch" value="1" />
+	<ctl name="TX INI472 SPLINE MIX MI468 Native Switch" value="1" />
+	<ctl name="TX INI472 SPLINE MIX MI468 Switch" value="1" />
+	<ctl name="RX INI472 SPLINE MIX MI468 Native Switch" value="1" />
+	<ctl name="RX INI472 SPLINE MIX MI468 Switch" value="1" />
+	<ctl name="TX INI473 SPLINE MIX LO469 Native Switch" value="1" />
+	<ctl name="TX INI473 SPLINE MIX LO469 Switch" value="1" />
+	<ctl name="RX INI473 SPLINE MIX LO469 Native Switch" value="1" />
+	<ctl name="RX INI473 SPLINE MIX LO469 Switch" value="1" />
+	<ctl name="TX INI474 SPLINE MIX HI470 Native Switch" value="1" />
+	<ctl name="TX INI474 SPLINE MIX HI470 Switch" value="1" />
+	<ctl name="RX INI474 SPLINE MIX HI470 Native Switch" value="1" />
+	<ctl name="RX INI474 SPLINE MIX HI470 Switch" value="1" />
+	<ctl name="TX INI475 SPLINE MIX MI471 Native Switch" value="1" />
+	<ctl name="TX INI475 SPLINE MIX MI471 Switch" value="1" />
+	<ctl name="RX INI475 SPLINE MIX MI471 Native Switch" value="1" />
+	<ctl name="RX INI475 SPLINE MIX MI471 Switch" value="1" />
+	<ctl name="TX INI476 SPLINE MIX LO472 Native Switch" value="1" />
+	<ctl name="TX INI476 SPLINE MIX LO472 Switch" value="1" />
+	<ctl name="RX INI476 SPLINE MIX LO472 Native Switch" value="1" />
+	<ctl name="RX INI476 SPLINE MIX LO472 Switch" value="1" />
+	<ctl name="TX INI477 SPLINE MIX HI473 Native Switch" value="1" />
+	<ctl name="TX INI477 SPLINE MIX HI473 Switch" value="1" />
+	<ctl name="RX INI477 SPLINE MIX HI473 Native Switch" value="1" />
+	<ctl name="RX INI477 SPLINE MIX HI473 Switch" value="1" />
+	<ctl name="TX INI478 SPLINE MIX MI474 Native Switch" value="1" />
+	<ctl name="TX INI478 SPLINE MIX MI474 Switch" value="1" />
+	<ctl name="RX INI478 SPLINE MIX MI474 Native Switch" value="1" />
+	<ctl name="RX INI478 SPLINE MIX MI474 Switch" value="1" />
+	<ctl name="TX INI479 SPLINE MIX LO475 Native Switch" value="1" />
+	<ctl name="TX INI479 SPLINE MIX LO475 Switch" value="1" />
+	<ctl name="RX INI479 SPLINE MIX LO475 Native Switch" value="1" />
+	<ctl name="RX INI479 SPLINE MIX LO475 Switch" value="1" />
+	<ctl name="TX INI480 SPLINE MIX HI476 Native Switch" value="1" />
+	<ctl name="TX INI480 SPLINE MIX HI476 Switch" value="1" />
+	<ctl name="RX INI480 SPLINE MIX HI476 Native Switch" value="1" />
+	<ctl name="RX INI480 SPLINE MIX HI476 Switch" value="1" />
+	<ctl name="TX INI481 SPLINE MIX MI477 Native Switch" value="1" />
+	<ctl name="TX INI481 SPLINE MIX MI477 Switch" value="1" />
+	<ctl name="RX INI481 SPLINE MIX MI477 Native Switch" value="1" />
+	<ctl name="RX INI481 SPLINE MIX MI477 Switch" value="1" />
+	<ctl name="TX INI482 SPLINE MIX LO478 Native Switch" value="1" />
+	<ctl name="TX INI482 SPLINE MIX LO478 Switch" value="1" />
+	<ctl name="RX INI482 SPLINE MIX LO478 Native Switch" value="1" />
+	<ctl name="RX INI482 SPLINE MIX LO478 Switch" value="1" />
+	<ctl name="TX INI483 SPLINE MIX HI479 Native Switch" value="1" />
+	<ctl name="TX INI483 SPLINE MIX HI479 Switch" value="1" />
+	<ctl name="RX INI483 SPLINE MIX HI479 Native Switch" value="1" />
+	<ctl name="RX INI483 SPLINE MIX HI479 Switch" value="1" />
+	<ctl name="TX INI484 SPLINE MIX MI480 Native Switch" value="1" />
+	<ctl name="TX INI484 SPLINE MIX MI480 Switch" value="1" />
+	<ctl name="RX INI484 SPLINE MIX MI480 Native Switch" value="1" />
+	<ctl name="RX INI484 SPLINE MIX MI480 Switch" value="1" />
+	<ctl name="TX INI485 SPLINE MIX LO481 Native Switch" value="1" />
+	<ctl name="TX INI485 SPLINE MIX LO481 Switch" value="1" />
+	<ctl name="RX INI485 SPLINE MIX LO481 Native Switch" value="1" />
+	<ctl name="RX INI485 SPLINE MIX LO481 Switch" value="1" />
+	<ctl name="TX INI486 SPLINE MIX HI482 Native Switch" value="1" />
+	<ctl name="TX INI486 SPLINE MIX HI482 Switch" value="1" />
+	<ctl name="RX INI486 SPLINE MIX HI482 Native Switch" value="1" />
+	<ctl name="RX INI486 SPLINE MIX HI482 Switch" value="1" />
+	<ctl name="TX INI487 SPLINE MIX MI483 Native Switch" value="1" />
+	<ctl name="TX INI487 SPLINE MIX MI483 Switch" value="1" />
+	<ctl name="RX INI487 SPLINE MIX MI483 Native Switch" value="1" />
+	<ctl name="RX INI487 SPLINE MIX MI483 Switch" value="1" />
+	<ctl name="TX INI488 SPLINE MIX LO484 Native Switch" value="1" />
+	<ctl name="TX INI488 SPLINE MIX LO484 Switch" value="1" />
+	<ctl name="RX INI488 SPLINE MIX LO484 Native Switch" value="1" />
+	<ctl name="RX INI488 SPLINE MIX LO484 Switch" value="1" />
+	<ctl name="TX INI489 SPLINE MIX HI485 Native Switch" value="1" />
+	<ctl name="TX INI489 SPLINE MIX HI485 Switch" value="1" />
+	<ctl name="RX INI489 SPLINE MIX HI485 Native Switch" value="1" />
+	<ctl name="RX INI489 SPLINE MIX HI485 Switch" value="1" />
+	<ctl name="TX INI490 SPLINE MIX MI486 Native Switch" value="1" />
+	<ctl name="TX INI490 SPLINE MIX MI486 Switch" value="1" />
+	<ctl name="RX INI490 SPLINE MIX MI486 Native Switch" value="1" />
+	<ctl name="RX INI490 SPLINE MIX MI486 Switch" value="1" />
+	<ctl name="TX INI491 SPLINE MIX LO487 Native Switch" value="1" />
+	<ctl name="TX INI491 SPLINE MIX LO487 Switch" value="1" />
+	<ctl name="RX INI491 SPLINE MIX LO487 Native Switch" value="1" />
+	<ctl name="RX INI491 SPLINE MIX LO487 Switch" value="1" />
+	<ctl name="TX INI492 SPLINE MIX HI488 Native Switch" value="1" />
+	<ctl name="TX INI492 SPLINE MIX HI488 Switch" value="1" />
+	<ctl name="RX INI492 SPLINE MIX HI488 Native Switch" value="1" />
+	<ctl name="RX INI492 SPLINE MIX HI488 Switch" value="1" />
+	<ctl name="TX INI493 SPLINE MIX MI489 Native Switch" value="1" />
+	<ctl name="TX INI493 SPLINE MIX MI489 Switch" value="1" />
+	<ctl name="RX INI493 SPLINE MIX MI489 Native Switch" value="1" />
+	<ctl name="RX INI493 SPLINE MIX MI489 Switch" value="1" />
+	<ctl name="TX INI494 SPLINE MIX LO490 Native Switch" value="1" />
+	<ctl name="TX INI494 SPLINE MIX LO490 Switch" value="1" />
+	<ctl name="RX INI494 SPLINE MIX LO490 Native Switch" value="1" />
+	<ctl name="RX INI494 SPLINE MIX LO490 Switch" value="1" />
+	<ctl name="TX INI495 SPLINE MIX HI491 Native Switch" value="1" />
+	<ctl name="TX INI495 SPLINE MIX HI491 Switch" value="1" />
+	<ctl name="RX INI495 SPLINE MIX HI491 Native Switch" value="1" />
+	<ctl name="RX INI495 SPLINE MIX HI491 Switch" value="1" />
+	<ctl name="TX INI496 SPLINE MIX MI492 Native Switch" value="1" />
+	<ctl name="TX INI496 SPLINE MIX MI492 Switch" value="1" />
+	<ctl name="RX INI496 SPLINE MIX MI492 Native Switch" value="1" />
+	<ctl name="RX INI496 SPLINE MIX MI492 Switch" value="1" />
+	<ctl name="TX INI497 SPLINE MIX LO493 Native Switch" value="1" />
+	<ctl name="TX INI497 SPLINE MIX LO493 Switch" value="1" />
+	<ctl name="RX INI497 SPLINE MIX LO493 Native Switch" value="1" />
+	<ctl name="RX INI497 SPLINE MIX LO493 Switch" value="1" />
+	<ctl name="TX INI498 SPLINE MIX HI494 Native Switch" value="1" />
+	<ctl name="TX INI498 SPLINE MIX HI494 Switch" value="1" />
+	<ctl name="RX INI498 SPLINE MIX HI494 Native Switch" value="1" />
+	<ctl name="RX INI498 SPLINE MIX HI494 Switch" value="1" />
+	<ctl name="TX INI499 SPLINE MIX MI495 Native Switch" value="1" />
+	<ctl name="TX INI499 SPLINE MIX MI495 Switch" value="1" />
+	<ctl name="RX INI499 SPLINE MIX MI495 Native Switch" value="1" />
+	<ctl name="RX INI499 SPLINE MIX MI495 Switch" value="1" />
+	<ctl name="TX INI500 SPLINE MIX LO496 Native Switch" value="1" />
+	<ctl name="TX INI500 SPLINE MIX LO496 Switch" value="1" />
+	<ctl name="RX INI500 SPLINE MIX LO496 Native Switch" value="1" />
+	<ctl name="RX INI500 SPLINE MIX LO496 Switch" value="1" />
+	<ctl name="TX INI501 SPLINE MIX HI497 Native Switch" value="1" />
+	<ctl name="TX INI501 SPLINE MIX HI497 Switch" value="1" />
+	<ctl name="RX INI501 SPLINE MIX HI497 Native Switch" value="1" />
+	<ctl name="RX INI501 SPLINE MIX HI497 Switch" value="1" />
+	<ctl name="TX INI502 SPLINE MIX MI498 Native Switch" value="1" />
+	<ctl name="TX INI502 SPLINE MIX MI498 Switch" value="1" />
+	<ctl name="RX INI502 SPLINE MIX MI498 Native Switch" value="1" />
+	<ctl name="RX INI502 SPLINE MIX MI498 Switch" value="1" />
+	<ctl name="TX INI503 SPLINE MIX LO499 Native Switch" value="1" />
+	<ctl name="TX INI503 SPLINE MIX LO499 Switch" value="1" />
+	<ctl name="RX INI503 SPLINE MIX LO499 Native Switch" value="1" />
+	<ctl name="RX INI503 SPLINE MIX LO499 Switch" value="1" />
+	<ctl name="TX INI504 SPLINE MIX HI500 Native Switch" value="1" />
+	<ctl name="TX INI504 SPLINE MIX HI500 Switch" value="1" />
+	<ctl name="RX INI504 SPLINE MIX HI500 Native Switch" value="1" />
+	<ctl name="RX INI504 SPLINE MIX HI500 Switch" value="1" />
+	<ctl name="TX INI505 SPLINE MIX MI501 Native Switch" value="1" />
+	<ctl name="TX INI505 SPLINE MIX MI501 Switch" value="1" />
+	<ctl name="RX INI505 SPLINE MIX MI501 Native Switch" value="1" />
+	<ctl name="RX INI505 SPLINE MIX MI501 Switch" value="1" />
+	<ctl name="TX INI506 SPLINE MIX LO502 Native Switch" value="1" />
+	<ctl name="TX INI506 SPLINE MIX LO502 Switch" value="1" />
+	<ctl name="RX INI506 SPLINE MIX LO502 Native Switch" value="1" />
+	<ctl name="RX INI506 SPLINE MIX LO502 Switch" value="1" />
+	<ctl name="TX INI507 SPLINE MIX HI503 Native Switch" value="1" />
+	<ctl name="TX INI507 SPLINE MIX HI503 Switch" value="1" />
+	<ctl name="RX INI507 SPLINE MIX HI503 Native Switch" value="1" />
+	<ctl name="RX INI507 SPLINE MIX HI503 Switch" value="1" />
+	<ctl name="TX INI508 SPLINE MIX MI504 Native Switch" value="1" />
+	<ctl name="TX INI508 SPLINE MIX MI504 Switch" value="1" />
+	<ctl name="RX INI508 SPLINE MIX MI504 Native Switch" value="1" />
+	<ctl name="RX INI508 SPLINE MIX MI504 Switch" value="1" />
+	<ctl name="TX INI509 SPLINE MIX LO505 Native Switch" value="1" />
+	<ctl name="TX INI509 SPLINE MIX LO505 Switch" value="1" />
+	<ctl name="RX INI509 SPLINE MIX LO505 Native Switch" value="1" />
+	<ctl name="RX INI509 SPLINE MIX LO505 Switch" value="1" />
+	<ctl name="TX INI510 SPLINE MIX HI506 Native Switch" value="1" />
+	<ctl name="TX INI510 SPLINE MIX HI506 Switch" value="1" />
+	<ctl name="RX INI510 SPLINE MIX HI506 Native Switch" value="1" />
+	<ctl name="RX INI510 SPLINE MIX HI506 Switch" value="1" />
+	<ctl name="TX INI511 SPLINE MIX MI507 Native Switch" value="1" />
+	<ctl name="TX INI511 SPLINE MIX MI507 Switch" value="1" />
+	<ctl name="RX INI511 SPLINE MIX MI507 Native Switch" value="1" />
+	<ctl name="RX INI511 SPLINE MIX MI507 Switch" value="1" />
+	<ctl name="TX INI512 SPLINE MIX LO508 Native Switch" value="1" />
+	<ctl name="TX INI512 SPLINE MIX LO508 Switch" value="1" />
+	<ctl name="RX INI512 SPLINE MIX LO508 Native Switch" value="1" />
+	<ctl name="RX INI512 SPLINE MIX LO508 Switch" value="1" />
+	<ctl name="TX INI513 SPLINE MIX HI509 Native Switch" value="1" />
+	<ctl name="TX INI513 SPLINE MIX HI509 Switch" value="1" />
+	<ctl name="RX INI513 SPLINE MIX HI509 Native Switch" value="1" />
+	<ctl name="RX INI513 SPLINE MIX HI509 Switch" value="1" />
+	<ctl name="TX INI514 SPLINE MIX MI510 Native Switch" value="1" />
+	<ctl name="TX INI514 SPLINE MIX MI510 Switch" value="1" />
+	<ctl name="RX INI514 SPLINE MIX MI510 Native Switch" value="1" />
+	<ctl name="RX INI514 SPLINE MIX MI510 Switch" value="1" />
+	<ctl name="TX INI515 SPLINE MIX LO511 Native Switch" value="1" />
+	<ctl name="TX INI515 SPLINE MIX LO511 Switch" value="1" />
+	<ctl name="RX INI515 SPLINE MIX LO511 Native Switch" value="1" />
+	<ctl name="RX INI515 SPLINE MIX LO511 Switch" value="1" />
+	<ctl name="TX INI516 SPLINE MIX HI512 Native Switch" value="1" />
+	<ctl name="TX INI516 SPLINE MIX HI512 Switch" value="1" />
+	<ctl name="RX INI516 SPLINE MIX HI512 Native Switch" value="1" />
+	<ctl name="RX INI516 SPLINE MIX HI512 Switch" value="1" />
+	<ctl name="TX INI517 SPLINE MIX MI513 Native Switch" value="1" />
+	<ctl name="TX INI517 SPLINE MIX MI513 Switch" value="1" />
+	<ctl name="RX INI517 SPLINE MIX MI513 Native Switch" value="1" />
+	<ctl name="RX INI517 SPLINE MIX MI513 Switch" value="1" />
+	<ctl name="TX INI518 SPLINE MIX LO514 Native Switch" value="1" />
+	<ctl name="TX INI518 SPLINE MIX LO514 Switch" value="1" />
+	<ctl name="RX INI518 SPLINE MIX LO514 Native Switch" value="1" />
+	<ctl name="RX INI518 SPLINE MIX LO514 Switch" value="1" />
+	<ctl name="TX INI519 SPLINE MIX HI515 Native Switch" value="1" />
+	<ctl name="TX INI519 SPLINE MIX HI515 Switch" value="1" />
+	<ctl name="RX INI519 SPLINE MIX HI515 Native Switch" value="1" />
+	<ctl name="RX INI519 SPLINE MIX HI515 Switch" value="1" />
+	<ctl name="TX INI520 SPLINE MIX MI516 Native Switch" value="1" />
+	<ctl name="TX INI520 SPLINE MIX MI516 Switch" value="1" />
+	<ctl name="RX INI520 SPLINE MIX MI516 Native Switch" value="1" />
+	<ctl name="RX INI520 SPLINE MIX MI516 Switch" value="1" />
+	<ctl name="TX INI521 SPLINE MIX LO517 Native Switch" value="1" />
+	<ctl name="TX INI521 SPLINE MIX LO517 Switch" value="1" />
+	<ctl name="RX INI521 SPLINE MIX LO517 Native Switch" value="1" />
+	<ctl name="RX INI521 SPLINE MIX LO517 Switch" value="1" />
+	<ctl name="TX INI522 SPLINE MIX HI518 Native Switch" value="1" />
+	<ctl name="TX INI522 SPLINE MIX HI518 Switch" value="1" />
+	<ctl name="RX INI522 SPLINE MIX HI518 Native Switch" value="1" />
+	<ctl name="RX INI522 SPLINE MIX HI518 Switch" value="1" />
+	<ctl name="TX INI523 SPLINE MIX MI519 Native Switch" value="1" />
+	<ctl name="TX INI523 SPLINE MIX MI519 Switch" value="1" />
+	<ctl name="RX INI523 SPLINE MIX MI519 Native Switch" value="1" />
+	<ctl name="RX INI523 SPLINE MIX MI519 Switch" value="1" />
+	<ctl name="TX INI524 SPLINE MIX LO520 Native Switch" value="1" />
+	<ctl name="TX INI524 SPLINE MIX LO520 Switch" value="1" />
+	<ctl name="RX INI524 SPLINE MIX LO520 Native Switch" value="1" />
+	<ctl name="RX INI524 SPLINE MIX LO520 Switch" value="1" />
+	<ctl name="TX INI525 SPLINE MIX HI521 Native Switch" value="1" />
+	<ctl name="TX INI525 SPLINE MIX HI521 Switch" value="1" />
+	<ctl name="RX INI525 SPLINE MIX HI521 Native Switch" value="1" />
+	<ctl name="RX INI525 SPLINE MIX HI521 Switch" value="1" />
+	<ctl name="TX INI526 SPLINE MIX MI522 Native Switch" value="1" />
+	<ctl name="TX INI526 SPLINE MIX MI522 Switch" value="1" />
+	<ctl name="RX INI526 SPLINE MIX MI522 Native Switch" value="1" />
+	<ctl name="RX INI526 SPLINE MIX MI522 Switch" value="1" />
+	<ctl name="TX INI527 SPLINE MIX LO523 Native Switch" value="1" />
+	<ctl name="TX INI527 SPLINE MIX LO523 Switch" value="1" />
+	<ctl name="RX INI527 SPLINE MIX LO523 Native Switch" value="1" />
+	<ctl name="RX INI527 SPLINE MIX LO523 Switch" value="1" />
+	<ctl name="TX INI528 SPLINE MIX HI524 Native Switch" value="1" />
+	<ctl name="TX INI528 SPLINE MIX HI524 Switch" value="1" />
+	<ctl name="RX INI528 SPLINE MIX HI524 Native Switch" value="1" />
+	<ctl name="RX INI528 SPLINE MIX HI524 Switch" value="1" />
+	<ctl name="TX INI529 SPLINE MIX MI525 Native Switch" value="1" />
+	<ctl name="TX INI529 SPLINE MIX MI525 Switch" value="1" />
+	<ctl name="RX INI529 SPLINE MIX MI525 Native Switch" value="1" />
+	<ctl name="RX INI529 SPLINE MIX MI525 Switch" value="1" />
+	<ctl name="TX INI530 SPLINE MIX LO526 Native Switch" value="1" />
+	<ctl name="TX INI530 SPLINE MIX LO526 Switch" value="1" />
+	<ctl name="RX INI530 SPLINE MIX LO526 Native Switch" value="1" />
+	<ctl name="RX INI530 SPLINE MIX LO526 Switch" value="1" />
+	<ctl name="TX INI531 SPLINE MIX HI527 Native Switch" value="1" />
+	<ctl name="TX INI531 SPLINE MIX HI527 Switch" value="1" />
+	<ctl name="RX INI531 SPLINE MIX HI527 Native Switch" value="1" />
+	<ctl name="RX INI531 SPLINE MIX HI527 Switch" value="1" />
+	<ctl name="TX INI532 SPLINE MIX MI528 Native Switch" value="1" />
+	<ctl name="TX INI532 SPLINE MIX MI528 Switch" value="1" />
+	<ctl name="RX INI532 SPLINE MIX MI528 Native Switch" value="1" />
+	<ctl name="RX INI532 SPLINE MIX MI528 Switch" value="1" />
+	<ctl name="TX INI533 SPLINE MIX LO529 Native Switch" value="1" />
+	<ctl name="TX INI533 SPLINE MIX LO529 Switch" value="1" />
+	<ctl name="RX INI533 SPLINE MIX LO529 Native Switch" value="1" />
+	<ctl name="RX INI533 SPLINE MIX LO529 Switch" value="1" />
+	<ctl name="TX INI534 SPLINE MIX HI530 Native Switch" value="1" />
+	<ctl name="TX INI534 SPLINE MIX HI530 Switch" value="1" />
+	<ctl name="RX INI534 SPLINE MIX HI530 Native Switch" value="1" />
+	<ctl name="RX INI534 SPLINE MIX HI530 Switch" value="1" />
+	<ctl name="TX INI535 SPLINE MIX MI531 Native Switch" value="1" />
+	<ctl name="TX INI535 SPLINE MIX MI531 Switch" value="1" />
+	<ctl name="RX INI535 SPLINE MIX MI531 Native Switch" value="1" />
+	<ctl name="RX INI535 SPLINE MIX MI531 Switch" value="1" />
+	<ctl name="TX INI536 SPLINE MIX LO532 Native Switch" value="1" />
+	<ctl name="TX INI536 SPLINE MIX LO532 Switch" value="1" />
+	<ctl name="RX INI536 SPLINE MIX LO532 Native Switch" value="1" />
+	<ctl name="RX INI536 SPLINE MIX LO532 Switch" value="1" />
+	<ctl name="TX INI537 SPLINE MIX HI533 Native Switch" value="1" />
+	<ctl name="TX INI537 SPLINE MIX HI533 Switch" value="1" />
+	<ctl name="RX INI537 SPLINE MIX HI533 Native Switch" value="1" />
+	<ctl name="RX INI537 SPLINE MIX HI533 Switch" value="1" />
+	<ctl name="TX INI538 SPLINE MIX MI534 Native Switch" value="1" />
+	<ctl name="TX INI538 SPLINE MIX MI534 Switch" value="1" />
+	<ctl name="RX INI538 SPLINE MIX MI534 Native Switch" value="1" />
+	<ctl name="RX INI538 SPLINE MIX MI534 Switch" value="1" />
+	<ctl name="TX INI539 SPLINE MIX LO535 Native Switch" value="1" />
+	<ctl name="TX INI539 SPLINE MIX LO535 Switch" value="1" />
+	<ctl name="RX INI539 SPLINE MIX LO535 Native Switch" value="1" />
+	<ctl name="RX INI539 SPLINE MIX LO535 Switch" value="1" />
+	<ctl name="TX INI540 SPLINE MIX HI536 Native Switch" value="1" />
+	<ctl name="TX INI540 SPLINE MIX HI536 Switch" value="1" />
+	<ctl name="RX INI540 SPLINE MIX HI536 Native Switch" value="1" />
+	<ctl name="RX INI540 SPLINE MIX HI536 Switch" value="1" />
+	<ctl name="TX INI541 SPLINE MIX MI537 Native Switch" value="1" />
+	<ctl name="TX INI541 SPLINE MIX MI537 Switch" value="1" />
+	<ctl name="RX INI541 SPLINE MIX MI537 Native Switch" value="1" />
+	<ctl name="RX INI541 SPLINE MIX MI537 Switch" value="1" />
+	<ctl name="TX INI542 SPLINE MIX LO538 Native Switch" value="1" />
+	<ctl name="TX INI542 SPLINE MIX LO538 Switch" value="1" />
+	<ctl name="RX INI542 SPLINE MIX LO538 Native Switch" value="1" />
+	<ctl name="RX INI542 SPLINE MIX LO538 Switch" value="1" />
+	<ctl name="TX INI543 SPLINE MIX HI539 Native Switch" value="1" />
+	<ctl name="TX INI543 SPLINE MIX HI539 Switch" value="1" />
+	<ctl name="RX INI543 SPLINE MIX HI539 Native Switch" value="1" />
+	<ctl name="RX INI543 SPLINE MIX HI539 Switch" value="1" />
+	<ctl name="TX INI544 SPLINE MIX MI540 Native Switch" value="1" />
+	<ctl name="TX INI544 SPLINE MIX MI540 Switch" value="1" />
+	<ctl name="RX INI544 SPLINE MIX MI540 Native Switch" value="1" />
+	<ctl name="RX INI544 SPLINE MIX MI540 Switch" value="1" />
+	<ctl name="TX INI545 SPLINE MIX LO541 Native Switch" value="1" />
+	<ctl name="TX INI545 SPLINE MIX LO541 Switch" value="1" />
+	<ctl name="RX INI545 SPLINE MIX LO541 Native Switch" value="1" />
+	<ctl name="RX INI545 SPLINE MIX LO541 Switch" value="1" />
+	<ctl name="TX INI546 SPLINE MIX HI542 Native Switch" value="1" />
+	<ctl name="TX INI546 SPLINE MIX HI542 Switch" value="1" />
+	<ctl name="RX INI546 SPLINE MIX HI542 Native Switch" value="1" />
+	<ctl name="RX INI546 SPLINE MIX HI542 Switch" value="1" />
+	<ctl name="TX INI547 SPLINE MIX MI543 Native Switch" value="1" />
+	<ctl name="TX INI547 SPLINE MIX MI543 Switch" value="1" />
+	<ctl name="RX INI547 SPLINE MIX MI543 Native Switch" value="1" />
+	<ctl name="RX INI547 SPLINE MIX MI543 Switch" value="1" />
+	<ctl name="TX INI548 SPLINE MIX LO544 Native Switch" value="1" />
+	<ctl name="TX INI548 SPLINE MIX LO544 Switch" value="1" />
+	<ctl name="RX INI548 SPLINE MIX LO544 Native Switch" value="1" />
+	<ctl name="RX INI548 SPLINE MIX LO544 Switch" value="1" />
+	<ctl name="TX INI549 SPLINE MIX HI545 Native Switch" value="1" />
+	<ctl name="TX INI549 SPLINE MIX HI545 Switch" value="1" />
+	<ctl name="RX INI549 SPLINE MIX HI545 Native Switch" value="1" />
+	<ctl name="RX INI549 SPLINE MIX HI545 Switch" value="1" />
+	<ctl name="TX INI550 SPLINE MIX MI546 Native Switch" value="1" />
+	<ctl name="TX INI550 SPLINE MIX MI546 Switch" value="1" />
+	<ctl name="RX INI550 SPLINE MIX MI546 Native Switch" value="1" />
+	<ctl name="RX INI550 SPLINE MIX MI546 Switch" value="1" />
+	<ctl name="TX INI551 SPLINE MIX LO547 Native Switch" value="1" />
+	<ctl name="TX INI551 SPLINE MIX LO547 Switch" value="1" />
+	<ctl name="RX INI551 SPLINE MIX LO547 Native Switch" value="1" />
+	<ctl name="RX INI551 SPLINE MIX LO547 Switch" value="1" />
+	<ctl name="TX INI552 SPLINE MIX HI548 Native Switch" value="1" />
+	<ctl name="TX INI552 SPLINE MIX HI548 Switch" value="1" />
+	<ctl name="RX INI552 SPLINE MIX HI548 Native Switch" value="1" />
+	<ctl name="RX INI552 SPLINE MIX HI548 Switch" value="1" />
+	<ctl name="TX INI553 SPLINE MIX MI549 Native Switch" value="1" />
+	<ctl name="TX INI553 SPLINE MIX MI549 Switch" value="1" />
+	<ctl name="RX INI553 SPLINE MIX MI549 Native Switch" value="1" />
+	<ctl name="RX INI553 SPLINE MIX MI549 Switch" value="1" />
+	<ctl name="TX INI554 SPLINE MIX LO550 Native Switch" value="1" />
+	<ctl name="TX INI554 SPLINE MIX LO550 Switch" value="1" />
+	<ctl name="RX INI554 SPLINE MIX LO550 Native Switch" value="1" />
+	<ctl name="RX INI554 SPLINE MIX LO550 Switch" value="1" />
+	<ctl name="TX INI555 SPLINE MIX HI551 Native Switch" value="1" />
+	<ctl name="TX INI555 SPLINE MIX HI551 Switch" value="1" />
+	<ctl name="RX INI555 SPLINE MIX HI551 Native Switch" value="1" />
+	<ctl name="RX INI555 SPLINE MIX HI551 Switch" value="1" />
+	<ctl name="TX INI556 SPLINE MIX MI552 Native Switch" value="1" />
+	<ctl name="TX INI556 SPLINE MIX MI552 Switch" value="1" />
+	<ctl name="RX INI556 SPLINE MIX MI552 Native Switch" value="1" />
+	<ctl name="RX INI556 SPLINE MIX MI552 Switch" value="1" />
+	<ctl name="TX INI557 SPLINE MIX LO553 Native Switch" value="1" />
+	<ctl name="TX INI557 SPLINE MIX LO553 Switch" value="1" />
+	<ctl name="RX INI557 SPLINE MIX LO553 Native Switch" value="1" />
+	<ctl name="RX INI557 SPLINE MIX LO553 Switch" value="1" />
+	<ctl name="TX INI558 SPLINE MIX HI554 Native Switch" value="1" />
+	<ctl name="TX INI558 SPLINE MIX HI554 Switch" value="1" />
+	<ctl name="RX INI558 SPLINE MIX HI554 Native Switch" value="1" />
+	<ctl name="RX INI558 SPLINE MIX HI554 Switch" value="1" />
+	<ctl name="TX INI559 SPLINE MIX MI555 Native Switch" value="1" />
+	<ctl name="TX INI559 SPLINE MIX MI555 Switch" value="1" />
+	<ctl name="RX INI559 SPLINE MIX MI555 Native Switch" value="1" />
+	<ctl name="RX INI559 SPLINE MIX MI555 Switch" value="1" />
+	<ctl name="TX INI560 SPLINE MIX LO556 Native Switch" value="1" />
+	<ctl name="TX INI560 SPLINE MIX LO556 Switch" value="1" />
+	<ctl name="RX INI560 SPLINE MIX LO556 Native Switch" value="1" />
+	<ctl name="RX INI560 SPLINE MIX LO556 Switch" value="1" />
+	<ctl name="TX INI561 SPLINE MIX HI557 Native Switch" value="1" />
+	<ctl name="TX INI561 SPLINE MIX HI557 Switch" value="1" />
+	<ctl name="RX INI561 SPLINE MIX HI557 Native Switch" value="1" />
+	<ctl name="RX INI561 SPLINE MIX HI557 Switch" value="1" />
+	<ctl name="TX INI562 SPLINE MIX MI558 Native Switch" value="1" />
+	<ctl name="TX INI562 SPLINE MIX MI558 Switch" value="1" />
+	<ctl name="RX INI562 SPLINE MIX MI558 Native Switch" value="1" />
+	<ctl name="RX INI562 SPLINE MIX MI558 Switch" value="1" />
+	<ctl name="TX INI563 SPLINE MIX LO559 Native Switch" value="1" />
+	<ctl name="TX INI563 SPLINE MIX LO559 Switch" value="1" />
+	<ctl name="RX INI563 SPLINE MIX LO559 Native Switch" value="1" />
+	<ctl name="RX INI563 SPLINE MIX LO559 Switch" value="1" />
+	<ctl name="TX INI564 SPLINE MIX HI560 Native Switch" value="1" />
+	<ctl name="TX INI564 SPLINE MIX HI560 Switch" value="1" />
+	<ctl name="RX INI564 SPLINE MIX HI560 Native Switch" value="1" />
+	<ctl name="RX INI564 SPLINE MIX HI560 Switch" value="1" />
+	<ctl name="TX INI565 SPLINE MIX MI561 Native Switch" value="1" />
+	<ctl name="TX INI565 SPLINE MIX MI561 Switch" value="1" />
+	<ctl name="RX INI565 SPLINE MIX MI561 Native Switch" value="1" />
+	<ctl name="RX INI565 SPLINE MIX MI561 Switch" value="1" />
+	<ctl name="TX INI566 SPLINE MIX LO562 Native Switch" value="1" />
+	<ctl name="TX INI566 SPLINE MIX LO562 Switch" value="1" />
+	<ctl name="RX INI566 SPLINE MIX LO562 Native Switch" value="1" />
+	<ctl name="RX INI566 SPLINE MIX LO562 Switch" value="1" />
+	<ctl name="TX INI567 SPLINE MIX HI563 Native Switch" value="1" />
+	<ctl name="TX INI567 SPLINE MIX HI563 Switch" value="1" />
+	<ctl name="RX INI567 SPLINE MIX HI563 Native Switch" value="1" />
+	<ctl name="RX INI567 SPLINE MIX HI563 Switch" value="1" />
+	<ctl name="TX INI568 SPLINE MIX MI564 Native Switch" value="1" />
+	<ctl name="TX INI568 SPLINE MIX MI564 Switch" value="1" />
+	<ctl name="RX INI568 SPLINE MIX MI564 Native Switch" value="1" />
+	<ctl name="RX INI568 SPLINE MIX MI564 Switch" value="1" />
+	<ctl name="TX INI569 SPLINE MIX LO565 Native Switch" value="1" />
+	<ctl name="TX INI569 SPLINE MIX LO565 Switch" value="1" />
+	<ctl name="RX INI569 SPLINE MIX LO565 Native Switch" value="1" />
+	<ctl name="RX INI569 SPLINE MIX LO565 Switch" value="1" />
+	<ctl name="TX INI570 SPLINE MIX HI566 Native Switch" value="1" />
+	<ctl name="TX INI570 SPLINE MIX HI566 Switch" value="1" />
+	<ctl name="RX INI570 SPLINE MIX HI566 Native Switch" value="1" />
+	<ctl name="RX INI570 SPLINE MIX HI566 Switch" value="1" />
+	<ctl name="TX INI571 SPLINE MIX MI567 Native Switch" value="1" />
+	<ctl name="TX INI571 SPLINE MIX MI567 Switch" value="1" />
+	<ctl name="RX INI571 SPLINE MIX MI567 Native Switch" value="1" />
+	<ctl name="RX INI571 SPLINE MIX MI567 Switch" value="1" />
+	<ctl name="TX INI572 SPLINE MIX LO568 Native Switch" value="1" />
+	<ctl name="TX INI572 SPLINE MIX LO568 Switch" value="1" />
+	<ctl name="RX INI572 SPLINE MIX LO568 Native Switch" value="1" />
+	<ctl name="RX INI572 SPLINE MIX LO568 Switch" value="1" />
+	<ctl name="TX INI573 SPLINE MIX HI569 Native Switch" value="1" />
+	<ctl name="TX INI573 SPLINE MIX HI569 Switch" value="1" />
+	<ctl name="RX INI573 SPLINE MIX HI569 Native Switch" value="1" />
+	<ctl name="RX INI573 SPLINE MIX HI569 Switch" value="1" />
+	<ctl name="TX INI574 SPLINE MIX MI570 Native Switch" value="1" />
+	<ctl name="TX INI574 SPLINE MIX MI570 Switch" value="1" />
+	<ctl name="RX INI574 SPLINE MIX MI570 Native Switch" value="1" />
+	<ctl name="RX INI574 SPLINE MIX MI570 Switch" value="1" />
+	<ctl name="TX INI575 SPLINE MIX LO571 Native Switch" value="1" />
+	<ctl name="TX INI575 SPLINE MIX LO571 Switch" value="1" />
+	<ctl name="RX INI575 SPLINE MIX LO571 Native Switch" value="1" />
+	<ctl name="RX INI575 SPLINE MIX LO571 Switch" value="1" />
+	<ctl name="TX INI576 SPLINE MIX HI572 Native Switch" value="1" />
+	<ctl name="TX INI576 SPLINE MIX HI572 Switch" value="1" />
+	<ctl name="RX INI576 SPLINE MIX HI572 Native Switch" value="1" />
+	<ctl name="RX INI576 SPLINE MIX HI572 Switch" value="1" />
+	<ctl name="TX INI577 SPLINE MIX MI573 Native Switch" value="1" />
+	<ctl name="TX INI577 SPLINE MIX MI573 Switch" value="1" />
+	<ctl name="RX INI577 SPLINE MIX MI573 Native Switch" value="1" />
+	<ctl name="RX INI577 SPLINE MIX MI573 Switch" value="1" />
+	<ctl name="TX INI578 SPLINE MIX LO574 Native Switch" value="1" />
+	<ctl name="TX INI578 SPLINE MIX LO574 Switch" value="1" />
+	<ctl name="RX INI578 SPLINE MIX LO574 Native Switch" value="1" />
+	<ctl name="RX INI578 SPLINE MIX LO574 Switch" value="1" />
+	<ctl name="TX INI579 SPLINE MIX HI575 Native Switch" value="1" />
+	<ctl name="TX INI579 SPLINE MIX HI575 Switch" value="1" />
+	<ctl name="RX INI579 SPLINE MIX HI575 Native Switch" value="1" />
+	<ctl name="RX INI579 SPLINE MIX HI575 Switch" value="1" />
+	<ctl name="TX INI580 SPLINE MIX MI576 Native Switch" value="1" />
+	<ctl name="TX INI580 SPLINE MIX MI576 Switch" value="1" />
+	<ctl name="RX INI580 SPLINE MIX MI576 Native Switch" value="1" />
+	<ctl name="RX INI580 SPLINE MIX MI576 Switch" value="1" />
+	<ctl name="TX INI581 SPLINE MIX LO577 Native Switch" value="1" />
+	<ctl name="TX INI581 SPLINE MIX LO577 Switch" value="1" />
+	<ctl name="RX INI581 SPLINE MIX LO577 Native Switch" value="1" />
+	<ctl name="RX INI581 SPLINE MIX LO577 Switch" value="1" />
+	<ctl name="TX INI582 SPLINE MIX HI578 Native Switch" value="1" />
+	<ctl name="TX INI582 SPLINE MIX HI578 Switch" value="1" />
+	<ctl name="RX INI582 SPLINE MIX HI578 Native Switch" value="1" />
+	<ctl name="RX INI582 SPLINE MIX HI578 Switch" value="1" />
+	<ctl name="TX INI583 SPLINE MIX MI579 Native Switch" value="1" />
+	<ctl name="TX INI583 SPLINE MIX MI579 Switch" value="1" />
+	<ctl name="RX INI583 SPLINE MIX MI579 Native Switch" value="1" />
+	<ctl name="RX INI583 SPLINE MIX MI579 Switch" value="1" />
+	<ctl name="TX INI584 SPLINE MIX LO580 Native Switch" value="1" />
+	<ctl name="TX INI584 SPLINE MIX LO580 Switch" value="1" />
+	<ctl name="RX INI584 SPLINE MIX LO580 Native Switch" value="1" />
+	<ctl name="RX INI584 SPLINE MIX LO580 Switch" value="1" />
+	<ctl name="TX INI585 SPLINE MIX HI581 Native Switch" value="1" />
+	<ctl name="TX INI585 SPLINE MIX HI581 Switch" value="1" />
+	<ctl name="RX INI585 SPLINE MIX HI581 Native Switch" value="1" />
+	<ctl name="RX INI585 SPLINE MIX HI581 Switch" value="1" />
+	<ctl name="TX INI586 SPLINE MIX MI582 Native Switch" value="1" />
+	<ctl name="TX INI586 SPLINE MIX MI582 Switch" value="1" />
+	<ctl name="RX INI586 SPLINE MIX MI582 Native Switch" value="1" />
+	<ctl name="RX INI586 SPLINE MIX MI582 Switch" value="1" />
+	<ctl name="TX INI587 SPLINE MIX LO583 Native Switch" value="1" />
+	<ctl name="TX INI587 SPLINE MIX LO583 Switch" value="1" />
+	<ctl name="RX INI587 SPLINE MIX LO583 Native Switch" value="1" />
+	<ctl name="RX INI587 SPLINE MIX LO583 Switch" value="1" />
+	<ctl name="TX INI588 SPLINE MIX HI584 Native Switch" value="1" />
+	<ctl name="TX INI588 SPLINE MIX HI584 Switch" value="1" />
+	<ctl name="RX INI588 SPLINE MIX HI584 Native Switch" value="1" />
+	<ctl name="RX INI588 SPLINE MIX HI584 Switch" value="1" />
+	<ctl name="TX INI589 SPLINE MIX MI585 Native Switch" value="1" />
+	<ctl name="TX INI589 SPLINE MIX MI585 Switch" value="1" />
+	<ctl name="RX INI589 SPLINE MIX MI585 Native Switch" value="1" />
+	<ctl name="RX INI589 SPLINE MIX MI585 Switch" value="1" />
+	<ctl name="TX INI590 SPLINE MIX LO586 Native Switch" value="1" />
+	<ctl name="TX INI590 SPLINE MIX LO586 Switch" value="1" />
+	<ctl name="RX INI590 SPLINE MIX LO586 Native Switch" value="1" />
+	<ctl name="RX INI590 SPLINE MIX LO586 Switch" value="1" />
+	<ctl name="TX INI591 SPLINE MIX HI587 Native Switch" value="1" />
+	<ctl name="TX INI591 SPLINE MIX HI587 Switch" value="1" />
+	<ctl name="RX INI591 SPLINE MIX HI587 Native Switch" value="1" />
+	<ctl name="RX INI591 SPLINE MIX HI587 Switch" value="1" />
+	<ctl name="TX INI592 SPLINE MIX MI588 Native Switch" value="1" />
+	<ctl name="TX INI592 SPLINE MIX MI588 Switch" value="1" />
+	<ctl name="RX INI592 SPLINE MIX MI588 Native Switch" value="1" />
+	<ctl name="RX INI592 SPLINE MIX MI588 Switch" value="1" />
+	<ctl name="TX INI593 SPLINE MIX LO589 Native Switch" value="1" />
+	<ctl name="TX INI593 SPLINE MIX LO589 Switch" value="1" />
+	<ctl name="RX INI593 SPLINE MIX LO589 Native Switch" value="1" />
+	<ctl name="RX INI593 SPLINE MIX LO589 Switch" value="1" />
+	<ctl name="TX INI594 SPLINE MIX HI590 Native Switch" value="1" />
+	<ctl name="TX INI594 SPLINE MIX HI590 Switch" value="1" />
+	<ctl name="RX INI594 SPLINE MIX HI590 Native Switch" value="1" />
+	<ctl name="RX INI594 SPLINE MIX HI590 Switch" value="1" />
+	<ctl name="TX INI595 SPLINE MIX MI591 Native Switch" value="1" />
+	<ctl name="TX INI595 SPLINE MIX MI591 Switch" value="1" />
+	<ctl name="RX INI595 SPLINE MIX MI591 Native Switch" value="1" />
+	<ctl name="RX INI595 SPLINE MIX MI591 Switch" value="1" />
+	<ctl name="TX INI596 SPLINE MIX LO592 Native Switch" value="1" />
+	<ctl name="TX INI596 SPLINE MIX LO592 Switch" value="1" />
+	<ctl name="RX INI596 SPLINE MIX LO592 Native Switch" value="1" />
+	<ctl name="RX INI596 SPLINE MIX LO592 Switch" value="1" />
+	<ctl name="TX INI597 SPLINE MIX HI593 Native Switch" value="1" />
+	<ctl name="TX INI597 SPLINE MIX HI593 Switch" value="1" />
+	<ctl name="RX INI597 SPLINE MIX HI593 Native Switch" value="1" />
+	<ctl name="RX INI597 SPLINE MIX HI593 Switch" value="1" />
+	<ctl name="TX INI598 SPLINE MIX MI594 Native Switch" value="1" />
+	<ctl name="TX INI598 SPLINE MIX MI594 Switch" value="1" />
+	<ctl name="RX INI598 SPLINE MIX MI594 Native Switch" value="1" />
+	<ctl name="RX INI598 SPLINE MIX MI594 Switch" value="1" />
+	<ctl name="TX INI599 SPLINE MIX LO595 Native Switch" value="1" />
+	<ctl name="TX INI599 SPLINE MIX LO595 Switch" value="1" />
+	<ctl name="RX INI599 SPLINE MIX LO595 Native Switch" value="1" />
+	<ctl name="RX INI599 SPLINE MIX LO595 Switch" value="1" />
+	<ctl name="TX INI600 SPLINE MIX HI596 Native Switch" value="1" />
+	<ctl name="TX INI600 SPLINE MIX HI596 Switch" value="1" />
+	<ctl name="RX INI600 SPLINE MIX HI596 Native Switch" value="1" />
+	<ctl name="RX INI600 SPLINE MIX HI596 Switch" value="1" />
+	<ctl name="TX INI601 SPLINE MIX MI597 Native Switch" value="1" />
+	<ctl name="TX INI601 SPLINE MIX MI597 Switch" value="1" />
+	<ctl name="RX INI601 SPLINE MIX MI597 Native Switch" value="1" />
+	<ctl name="RX INI601 SPLINE MIX MI597 Switch" value="1" />
+	<ctl name="TX INI602 SPLINE MIX LO598 Native Switch" value="1" />
+	<ctl name="TX INI602 SPLINE MIX LO598 Switch" value="1" />
+	<ctl name="RX INI602 SPLINE MIX LO598 Native Switch" value="1" />
+	<ctl name="RX INI602 SPLINE MIX LO598 Switch" value="1" />
+	<ctl name="TX INI603 SPLINE MIX HI599 Native Switch" value="1" />
+	<ctl name="TX INI603 SPLINE MIX HI599 Switch" value="1" />
+	<ctl name="RX INI603 SPLINE MIX HI599 Native Switch" value="1" />
+	<ctl name="RX INI603 SPLINE MIX HI599 Switch" value="1" />
+	<ctl name="TX INI604 SPLINE MIX MI600 Native Switch" value="1" />
+	<ctl name="TX INI604 SPLINE MIX MI600 Switch" value="1" />
+	<ctl name="RX INI604 SPLINE MIX MI600 Native Switch" value="1" />
+	<ctl name="RX INI604 SPLINE MIX MI600 Switch" value="1" />
+	<ctl name="TX INI605 SPLINE MIX LO601 Native Switch" value="1" />
+	<ctl name="TX INI605 SPLINE MIX LO601 Switch" value="1" />
+	<ctl name="RX INI605 SPLINE MIX LO601 Native Switch" value="1" />
+	<ctl name="RX INI605 SPLINE MIX LO601 Switch" value="1" />
+	<ctl name="TX INI606 SPLINE MIX HI602 Native Switch" value="1" />
+	<ctl name="TX INI606 SPLINE MIX HI602 Switch" value="1" />
+	<ctl name="RX INI606 SPLINE MIX HI602 Native Switch" value="1" />
+	<ctl name="RX INI606 SPLINE MIX HI602 Switch" value="1" />
+	<ctl name="TX INI607 SPLINE MIX MI603 Native Switch" value="1" />
+	<ctl name="TX INI607 SPLINE MIX MI603 Switch" value="1" />
+	<ctl name="RX INI607 SPLINE MIX MI603 Native Switch" value="1" />
+	<ctl name="RX INI607 SPLINE MIX MI603 Switch" value="1" />
+	<ctl name="TX INI608 SPLINE MIX LO604 Native Switch" value="1" />
+	<ctl name="TX INI608 SPLINE MIX LO604 Switch" value="1" />
+	<ctl name="RX INI608 SPLINE MIX LO604 Native Switch" value="1" />
+	<ctl name="RX INI608 SPLINE MIX LO604 Switch" value="1" />
+	<ctl name="TX INI609 SPLINE MIX HI605 Native Switch" value="1" />
+	<ctl name="TX INI609 SPLINE MIX HI605 Switch" value="1" />
+	<ctl name="RX INI609 SPLINE MIX HI605 Native Switch" value="1" />
+	<ctl name="RX INI609 SPLINE MIX HI605 Switch" value="1" />
+	<ctl name="TX INI610 SPLINE MIX MI606 Native Switch" value="1" />
+	<ctl name="TX INI610 SPLINE MIX MI606 Switch" value="1" />
+	<ctl name="RX INI610 SPLINE MIX MI606 Native Switch" value="1" />
+	<ctl name="RX INI610 SPLINE MIX MI606 Switch" value="1" />
+	<ctl name="TX INI611 SPLINE MIX LO607 Native Switch" value="1" />
+	<ctl name="TX INI611 SPLINE MIX LO607 Switch" value="1" />
+	<ctl name="RX INI611 SPLINE MIX LO607 Native Switch" value="1" />
+	<ctl name="RX INI611 SPLINE MIX LO607 Switch" value="1" />
+	<ctl name="TX INI612 SPLINE MIX HI608 Native Switch" value="1" />
+	<ctl name="TX INI612 SPLINE MIX HI608 Switch" value="1" />
+	<ctl name="RX INI612 SPLINE MIX HI608 Native Switch" value="1" />
+	<ctl name="RX INI612 SPLINE MIX HI608 Switch" value="1" />
+	<ctl name="TX INI613 SPLINE MIX MI609 Native Switch" value="1" />
+	<ctl name="TX INI613 SPLINE MIX MI609 Switch" value="1" />
+	<ctl name="RX INI613 SPLINE MIX MI609 Native Switch" value="1" />
+	<ctl name="RX INI613 SPLINE MIX MI609 Switch" value="1" />
+	<ctl name="TX INI614 SPLINE MIX LO610 Native Switch" value="1" />
+	<ctl name="TX INI614 SPLINE MIX LO610 Switch" value="1" />
+	<ctl name="RX INI614 SPLINE MIX LO610 Native Switch" value="1" />
+	<ctl name="RX INI614 SPLINE MIX LO610 Switch" value="1" />
+	<ctl name="TX INI615 SPLINE MIX HI611 Native Switch" value="1" />
+	<ctl name="TX INI615 SPLINE MIX HI611 Switch" value="1" />
+	<ctl name="RX INI615 SPLINE MIX HI611 Native Switch" value="1" />
+	<ctl name="RX INI615 SPLINE MIX HI611 Switch" value="1" />
+	<ctl name="TX INI616 SPLINE MIX MI612 Native Switch" value="1" />
+	<ctl name="TX INI616 SPLINE MIX MI612 Switch" value="1" />
+	<ctl name="RX INI616 SPLINE MIX MI612 Native Switch" value="1" />
+	<ctl name="RX INI616 SPLINE MIX MI612 Switch" value="1" />
+	<ctl name="TX INI617 SPLINE MIX LO613 Native Switch" value="1" />
+	<ctl name="TX INI617 SPLINE MIX LO613 Switch" value="1" />
+	<ctl name="RX INI617 SPLINE MIX LO613 Native Switch" value="1" />
+	<ctl name="RX INI617 SPLINE MIX LO613 Switch" value="1" />
+	<ctl name="TX INI618 SPLINE MIX HI614 Native Switch" value="1" />
+	<ctl name="TX INI618 SPLINE MIX HI614 Switch" value="1" />
+	<ctl name="RX INI618 SPLINE MIX HI614 Native Switch" value="1" />
+	<ctl name="RX INI618 SPLINE MIX HI614 Switch" value="1" />
+	<ctl name="TX INI619 SPLINE MIX MI615 Native Switch" value="1" />
+	<ctl name="TX INI619 SPLINE MIX MI615 Switch" value="1" />
+	<ctl name="RX INI619 SPLINE MIX MI615 Native Switch" value="1" />
+	<ctl name="RX INI619 SPLINE MIX MI615 Switch" value="1" />
+	<ctl name="TX INI620 SPLINE MIX LO616 Native Switch" value="1" />
+	<ctl name="TX INI620 SPLINE MIX LO616 Switch" value="1" />
+	<ctl name="RX INI620 SPLINE MIX LO616 Native Switch" value="1" />
+	<ctl name="RX INI620 SPLINE MIX LO616 Switch" value="1" />
+	<ctl name="TX INI621 SPLINE MIX HI617 Native Switch" value="1" />
+	<ctl name="TX INI621 SPLINE MIX HI617 Switch" value="1" />
+	<ctl name="RX INI621 SPLINE MIX HI617 Native Switch" value="1" />
+	<ctl name="RX INI621 SPLINE MIX HI617 Switch" value="1" />
+	<ctl name="TX INI622 SPLINE MIX MI618 Native Switch" value="1" />
+	<ctl name="TX INI622 SPLINE MIX MI618 Switch" value="1" />
+	<ctl name="RX INI622 SPLINE MIX MI618 Native Switch" value="1" />
+	<ctl name="RX INI622 SPLINE MIX MI618 Switch" value="1" />
+	<ctl name="TX INI623 SPLINE MIX LO619 Native Switch" value="1" />
+	<ctl name="TX INI623 SPLINE MIX LO619 Switch" value="1" />
+	<ctl name="RX INI623 SPLINE MIX LO619 Native Switch" value="1" />
+	<ctl name="RX INI623 SPLINE MIX LO619 Switch" value="1" />
+	<ctl name="TX INI624 SPLINE MIX HI620 Native Switch" value="1" />
+	<ctl name="TX INI624 SPLINE MIX HI620 Switch" value="1" />
+	<ctl name="RX INI624 SPLINE MIX HI620 Native Switch" value="1" />
+	<ctl name="RX INI624 SPLINE MIX HI620 Switch" value="1" />
+	<ctl name="TX INI625 SPLINE MIX MI621 Native Switch" value="1" />
+	<ctl name="TX INI625 SPLINE MIX MI621 Switch" value="1" />
+	<ctl name="RX INI625 SPLINE MIX MI621 Native Switch" value="1" />
+	<ctl name="RX INI625 SPLINE MIX MI621 Switch" value="1" />
+	<ctl name="TX INI626 SPLINE MIX LO622 Native Switch" value="1" />
+	<ctl name="TX INI626 SPLINE MIX LO622 Switch" value="1" />
+	<ctl name="RX INI626 SPLINE MIX LO622 Native Switch" value="1" />
+	<ctl name="RX INI626 SPLINE MIX LO622 Switch" value="1" />
+	<ctl name="TX INI627 SPLINE MIX HI623 Native Switch" value="1" />
+	<ctl name="TX INI627 SPLINE MIX HI623 Switch" value="1" />
+	<ctl name="RX INI627 SPLINE MIX HI623 Native Switch" value="1" />
+	<ctl name="RX INI627 SPLINE MIX HI623 Switch" value="1" />
+	<ctl name="TX INI628 SPLINE MIX MI624 Native Switch" value="1" />
+	<ctl name="TX INI628 SPLINE MIX MI624 Switch" value="1" />
+	<ctl name="RX INI628 SPLINE MIX MI624 Native Switch" value="1" />
+	<ctl name="RX INI628 SPLINE MIX MI624 Switch" value="1" />
+	<ctl name="TX INI629 SPLINE MIX LO625 Native Switch" value="1" />
+	<ctl name="TX INI629 SPLINE MIX LO625 Switch" value="1" />
+	<ctl name="RX INI629 SPLINE MIX LO625 Native Switch" value="1" />
+	<ctl name="RX INI629 SPLINE MIX LO625 Switch" value="1" />
+	<ctl name="TX INI630 SPLINE MIX HI626 Native Switch" value="1" />
+	<ctl name="TX INI630 SPLINE MIX HI626 Switch" value="1" />
+	<ctl name="RX INI630 SPLINE MIX HI626 Native Switch" value="1" />
+	<ctl name="RX INI630 SPLINE MIX HI626 Switch" value="1" />
+	<ctl name="TX INI631 SPLINE MIX MI627 Native Switch" value="1" />
+	<ctl name="TX INI631 SPLINE MIX MI627 Switch" value="1" />
+	<ctl name="RX INI631 SPLINE MIX MI627 Native Switch" value="1" />
+	<ctl name="RX INI631 SPLINE MIX MI627 Switch" value="1" />
+	<ctl name="TX INI632 SPLINE MIX LO628 Native Switch" value="1" />
+	<ctl name="TX INI632 SPLINE MIX LO628 Switch" value="1" />
+	<ctl name="RX INI632 SPLINE MIX LO628 Native Switch" value="1" />
+	<ctl name="RX INI632 SPLINE MIX LO628 Switch" value="1" />
+	<ctl name="TX INI633 SPLINE MIX HI629 Native Switch" value="1" />
+	<ctl name="TX INI633 SPLINE MIX HI629 Switch" value="1" />
+	<ctl name="RX INI633 SPLINE MIX HI629 Native Switch" value="1" />
+	<ctl name="RX INI633 SPLINE MIX HI629 Switch" value="1" />
+	<ctl name="TX INI634 SPLINE MIX MI630 Native Switch" value="1" />
+	<ctl name="TX INI634 SPLINE MIX MI630 Switch" value="1" />
+	<ctl name="RX INI634 SPLINE MIX MI630 Native Switch" value="1" />
+	<ctl name="RX INI634 SPLINE MIX MI630 Switch" value="1" />
+	<ctl name="TX INI635 SPLINE MIX LO631 Native Switch" value="1" />
+	<ctl name="TX INI635 SPLINE MIX LO631 Switch" value="1" />
+	<ctl name="RX INI635 SPLINE MIX LO631 Native Switch" value="1" />
+	<ctl name="RX INI635 SPLINE MIX LO631 Switch" value="1" />
+	<ctl name="TX INI636 SPLINE MIX HI632 Native Switch" value="1" />
+	<ctl name="TX INI636 SPLINE MIX HI632 Switch" value="1" />
+	<ctl name="RX INI636 SPLINE MIX HI632 Native Switch" value="1" />
+	<ctl name="RX INI636 SPLINE MIX HI632 Switch" value="1" />
+	<ctl name="TX INI637 SPLINE MIX MI633 Native Switch" value="1" />
+	<ctl name="TX INI637 SPLINE MIX MI633 Switch" value="1" />
+	<ctl name="RX INI637 SPLINE MIX MI633 Native Switch" value="1" />
+	<ctl name="RX INI637 SPLINE MIX MI633 Switch" value="1" />
+	<ctl name="TX INI638 SPLINE MIX LO634 Native Switch" value="1" />
+	<ctl name="TX INI638 SPLINE MIX LO634 Switch" value="1" />
+	<ctl name="RX INI638 SPLINE MIX LO634 Native Switch" value="1" />
+	<ctl name="RX INI638 SPLINE MIX LO634 Switch" value="1" />
+	<ctl name="TX INI639 SPLINE MIX HI635 Native Switch" value="1" />
+	<ctl name="TX INI639 SPLINE MIX HI635 Switch" value="1" />
+	<ctl name="RX INI639 SPLINE MIX HI635 Native Switch" value="1" />
+	<ctl name="RX INI639 SPLINE MIX HI635 Switch" value="1" />
+	<ctl name="TX INI640 SPLINE MIX MI636 Native Switch" value="1" />
+	<ctl name="TX INI640 SPLINE MIX MI636 Switch" value="1" />
+	<ctl name="RX INI640 SPLINE MIX MI636 Native Switch" value="1" />
+	<ctl name="RX INI640 SPLINE MIX MI636 Switch" value="1" />
+	<ctl name="TX INI641 SPLINE MIX LO637 Native Switch" value="1" />
+	<ctl name="TX INI641 SPLINE MIX LO637 Switch" value="1" />
+	<ctl name="RX INI641 SPLINE MIX LO637 Native Switch" value="1" />
+	<ctl name="RX INI641 SPLINE MIX LO637 Switch" value="1" />
+	<ctl name="TX INI642 SPLINE MIX HI638 Native Switch" value="1" />
+	<ctl name="TX INI642 SPLINE MIX HI638 Switch" value="1" />
+	<ctl name="RX INI642 SPLINE MIX HI638 Native Switch" value="1" />
+	<ctl name="RX INI642 SPLINE MIX HI638 Switch" value="1" />
+	<ctl name="TX INI643 SPLINE MIX MI639 Native Switch" value="1" />
+	<ctl name="TX INI643 SPLINE MIX MI639 Switch" value="1" />
+	<ctl name="RX INI643 SPLINE MIX MI639 Native Switch" value="1" />
+	<ctl name="RX INI643 SPLINE MIX MI639 Switch" value="1" />
+	<ctl name="TX INI644 SPLINE MIX LO640 Native Switch" value="1" />
+	<ctl name="TX INI644 SPLINE MIX LO640 Switch" value="1" />
+	<ctl name="RX INI644 SPLINE MIX LO640 Native Switch" value="1" />
+	<ctl name="RX INI644 SPLINE MIX LO640 Switch" value="1" />
+	<ctl name="TX INI645 SPLINE MIX HI641 Native Switch" value="1" />
+	<ctl name="TX INI645 SPLINE MIX HI641 Switch" value="1" />
+	<ctl name="RX INI645 SPLINE MIX HI641 Native Switch" value="1" />
+	<ctl name="RX INI645 SPLINE MIX HI641 Switch" value="1" />
+	<ctl name="TX INI646 SPLINE MIX MI642 Native Switch" value="1" />
+	<ctl name="TX INI646 SPLINE MIX MI642 Switch" value="1" />
+	<ctl name="RX INI646 SPLINE MIX MI642 Native Switch" value="1" />
+	<ctl name="RX INI646 SPLINE MIX MI642 Switch" value="1" />
+	<ctl name="TX INI647 SPLINE MIX LO643 Native Switch" value="1" />
+	<ctl name="TX INI647 SPLINE MIX LO643 Switch" value="1" />
+	<ctl name="RX INI647 SPLINE MIX LO643 Native Switch" value="1" />
+	<ctl name="RX INI647 SPLINE MIX LO643 Switch" value="1" />
+	<ctl name="TX INI648 SPLINE MIX HI644 Native Switch" value="1" />
+	<ctl name="TX INI648 SPLINE MIX HI644 Switch" value="1" />
+	<ctl name="RX INI648 SPLINE MIX HI644 Native Switch" value="1" />
+	<ctl name="RX INI648 SPLINE MIX HI644 Switch" value="1" />
+	<ctl name="TX INI649 SPLINE MIX MI645 Native Switch" value="1" />
+	<ctl name="TX INI649 SPLINE MIX MI645 Switch" value="1" />
+	<ctl name="RX INI649 SPLINE MIX MI645 Native Switch" value="1" />
+	<ctl name="RX INI649 SPLINE MIX MI645 Switch" value="1" />
+	<ctl name="TX INI650 SPLINE MIX LO646 Native Switch" value="1" />
+	<ctl name="TX INI650 SPLINE MIX LO646 Switch" value="1" />
+	<ctl name="RX INI650 SPLINE MIX LO646 Native Switch" value="1" />
+	<ctl name="RX INI650 SPLINE MIX LO646 Switch" value="1" />
+	<ctl name="TX INI651 SPLINE MIX HI647 Native Switch" value="1" />
+	<ctl name="TX INI651 SPLINE MIX HI647 Switch" value="1" />
+	<ctl name="RX INI651 SPLINE MIX HI647 Native Switch" value="1" />
+	<ctl name="RX INI651 SPLINE MIX HI647 Switch" value="1" />
+	<ctl name="TX INI652 SPLINE MIX MI648 Native Switch" value="1" />
+	<ctl name="TX INI652 SPLINE MIX MI648 Switch" value="1" />
+	<ctl name="RX INI652 SPLINE MIX MI648 Native Switch" value="1" />
+	<ctl name="RX INI652 SPLINE MIX MI648 Switch" value="1" />
+	<ctl name="TX INI653 SPLINE MIX LO649 Native Switch" value="1" />
+	<ctl name="TX INI653 SPLINE MIX LO649 Switch" value="1" />
+	<ctl name="RX INI653 SPLINE MIX LO649 Native Switch" value="1" />
+	<ctl name="RX INI653 SPLINE MIX LO649 Switch" value="1" />
+	<ctl name="TX INI654 SPLINE MIX HI650 Native Switch" value="1" />
+	<ctl name="TX INI654 SPLINE MIX HI650 Switch" value="1" />
+	<ctl name="RX INI654 SPLINE MIX HI650 Native Switch" value="1" />
+	<ctl name="RX INI654 SPLINE MIX HI650 Switch" value="1" />
+	<ctl name="TX INI655 SPLINE MIX MI651 Native Switch" value="1" />
+	<ctl name="TX INI655 SPLINE MIX MI651 Switch" value="1" />
+	<ctl name="RX INI655 SPLINE MIX MI651 Native Switch" value="1" />
+	<ctl name="RX INI655 SPLINE MIX MI651 Switch" value="1" />
+	<ctl name="TX INI656 SPLINE MIX LO652 Native Switch" value="1" />
+	<ctl name="TX INI656 SPLINE MIX LO652 Switch" value="1" />
+	<ctl name="RX INI656 SPLINE MIX LO652 Native Switch" value="1" />
+	<ctl name="RX INI656 SPLINE MIX LO652 Switch" value="1" />
+	<ctl name="TX INI657 SPLINE MIX HI653 Native Switch" value="1" />
+	<ctl name="TX INI657 SPLINE MIX HI653 Switch" value="1" />
+	<ctl name="RX INI657 SPLINE MIX HI653 Native Switch" value="1" />
+	<ctl name="RX INI657 SPLINE MIX HI653 Switch" value="1" />
+	<ctl name="TX INI658 SPLINE MIX MI654 Native Switch" value="1" />
+	<ctl name="TX INI658 SPLINE MIX MI654 Switch" value="1" />
+	<ctl name="RX INI658 SPLINE MIX MI654 Native Switch" value="1" />
+	<ctl name="RX INI658 SPLINE MIX MI654 Switch" value="1" />
+	<ctl name="TX INI659 SPLINE MIX LO655 Native Switch" value="1" />
+	<ctl name="TX INI659 SPLINE MIX LO655 Switch" value="1" />
+	<ctl name="RX INI659 SPLINE MIX LO655 Native Switch" value="1" />
+	<ctl name="RX INI659 SPLINE MIX LO655 Switch" value="1" />
+	<ctl name="TX INI660 SPLINE MIX HI656 Native Switch" value="1" />
+	<ctl name="TX INI660 SPLINE MIX HI656 Switch" value="1" />
+	<ctl name="RX INI660 SPLINE MIX HI656 Native Switch" value="1" />
+	<ctl name="RX INI660 SPLINE MIX HI656 Switch" value="1" />
+	<ctl name="TX INI661 SPLINE MIX MI657 Native Switch" value="1" />
+	<ctl name="TX INI661 SPLINE MIX MI657 Switch" value="1" />
+	<ctl name="RX INI661 SPLINE MIX MI657 Native Switch" value="1" />
+	<ctl name="RX INI661 SPLINE MIX MI657 Switch" value="1" />
+	<ctl name="TX INI662 SPLINE MIX LO658 Native Switch" value="1" />
+	<ctl name="TX INI662 SPLINE MIX LO658 Switch" value="1" />
+	<ctl name="RX INI662 SPLINE MIX LO658 Native Switch" value="1" />
+	<ctl name="RX INI662 SPLINE MIX LO658 Switch" value="1" />
+	<ctl name="TX INI663 SPLINE MIX HI659 Native Switch" value="1" />
+	<ctl name="TX INI663 SPLINE MIX HI659 Switch" value="1" />
+	<ctl name="RX INI663 SPLINE MIX HI659 Native Switch" value="1" />
+	<ctl name="RX INI663 SPLINE MIX HI659 Switch" value="1" />
+	<ctl name="TX INI664 SPLINE MIX MI660 Native Switch" value="1" />
+	<ctl name="TX INI664 SPLINE MIX MI660 Switch" value="1" />
+	<ctl name="RX INI664 SPLINE MIX MI660 Native Switch" value="1" />
+	<ctl name="RX INI664 SPLINE MIX MI660 Switch" value="1" />
+	<ctl name="TX INI665 SPLINE MIX LO661 Native Switch" value="1" />
+	<ctl name="TX INI665 SPLINE MIX LO661 Switch" value="1" />
+	<ctl name="RX INI665 SPLINE MIX LO661 Native Switch" value="1" />
+	<ctl name="RX INI665 SPLINE MIX LO661 Switch" value="1" />
+	<ctl name="TX INI666 SPLINE MIX HI662 Native Switch" value="1" />
+	<ctl name="TX INI666 SPLINE MIX HI662 Switch" value="1" />
+	<ctl name="RX INI666 SPLINE MIX HI662 Native Switch" value="1" />
+	<ctl name="RX INI666 SPLINE MIX HI662 Switch" value="1" />
+	<ctl name="TX INI667 SPLINE MIX MI663 Native Switch" value="1" />
+	<ctl name="TX INI667 SPLINE MIX MI663 Switch" value="1" />
+	<ctl name="RX INI667 SPLINE MIX MI663 Native Switch" value="1" />
+	<ctl name="RX INI667 SPLINE MIX MI663 Switch" value="1" />
+	<ctl name="TX INI668 SPLINE MIX LO664 Native Switch" value="1" />
+	<ctl name="TX INI668 SPLINE MIX LO664 Switch" value="1" />
+	<ctl name="RX INI668 SPLINE MIX LO664 Native Switch" value="1" />
+	<ctl name="RX INI668 SPLINE MIX LO664 Switch" value="1" />
+	<ctl name="TX INI669 SPLINE MIX HI665 Native Switch" value="1" />
+	<ctl name="TX INI669 SPLINE MIX HI665 Switch" value="1" />
+	<ctl name="RX INI669 SPLINE MIX HI665 Native Switch" value="1" />
+	<ctl name="RX INI669 SPLINE MIX HI665 Switch" value="1" />
+	<ctl name="TX INI670 SPLINE MIX MI666 Native Switch" value="1" />
+	<ctl name="TX INI670 SPLINE MIX MI666 Switch" value="1" />
+	<ctl name="RX INI670 SPLINE MIX MI666 Native Switch" value="1" />
+	<ctl name="RX INI670 SPLINE MIX MI666 Switch" value="1" />
+	<ctl name="TX INI671 SPLINE MIX LO667 Native Switch" value="1" />
+	<ctl name="TX INI671 SPLINE MIX LO667 Switch" value="1" />
+	<ctl name="RX INI671 SPLINE MIX LO667 Native Switch" value="1" />
+	<ctl name="RX INI671 SPLINE MIX LO667 Switch" value="1" />
+	<ctl name="TX INI672 SPLINE MIX HI668 Native Switch" value="1" />
+	<ctl name="TX INI672 SPLINE MIX HI668 Switch" value="1" />
+	<ctl name="RX INI672 SPLINE MIX HI668 Native Switch" value="1" />
+	<ctl name="RX INI672 SPLINE MIX HI668 Switch" value="1" />
+	<ctl name="TX INI673 SPLINE MIX MI669 Native Switch" value="1" />
+	<ctl name="TX INI673 SPLINE MIX MI669 Switch" value="1" />
+	<ctl name="RX INI673 SPLINE MIX MI669 Native Switch" value="1" />
+	<ctl name="RX INI673 SPLINE MIX MI669 Switch" value="1" />
+	<ctl name="TX INI674 SPLINE MIX LO670 Native Switch" value="1" />
+	<ctl name="TX INI674 SPLINE MIX LO670 Switch" value="1" />
+	<ctl name="RX INI674 SPLINE MIX LO670 Native Switch" value="1" />
+	<ctl name="RX INI674 SPLINE MIX LO670 Switch" value="1" />
+	<ctl name="TX INI675 SPLINE MIX HI671 Native Switch" value="1" />
+	<ctl name="TX INI675 SPLINE MIX HI671 Switch" value="1" />
+	<ctl name="RX INI675 SPLINE MIX HI671 Native Switch" value="1" />
+	<ctl name="RX INI675 SPLINE MIX HI671 Switch" value="1" />
+	<ctl name="TX INI676 SPLINE MIX MI672 Native Switch" value="1" />
+	<ctl name="TX INI676 SPLINE MIX MI672 Switch" value="1" />
+	<ctl name="RX INI676 SPLINE MIX MI672 Native Switch" value="1" />
+	<ctl name="RX INI676 SPLINE MIX MI672 Switch" value="1" />
+	<ctl name="TX INI677 SPLINE MIX LO673 Native Switch" value="1" />
+	<ctl name="TX INI677 SPLINE MIX LO673 Switch" value="1" />
+	<ctl name="RX INI677 SPLINE MIX LO673 Native Switch" value="1" />
+	<ctl name="RX INI677 SPLINE MIX LO673 Switch" value="1" />
+	<ctl name="TX INI678 SPLINE MIX HI674 Native Switch" value="1" />
+	<ctl name="TX INI678 SPLINE MIX HI674 Switch" value="1" />
+	<ctl name="RX INI678 SPLINE MIX HI674 Native Switch" value="1" />
+	<ctl name="RX INI678 SPLINE MIX HI674 Switch" value="1" />
+	<ctl name="TX INI679 SPLINE MIX MI675 Native Switch" value="1" />
+	<ctl name="TX INI679 SPLINE MIX MI675 Switch" value="1" />
+	<ctl name="RX INI679 SPLINE MIX MI675 Native Switch" value="1" />
+	<ctl name="RX INI679 SPLINE MIX MI675 Switch" value="1" />
+	<ctl name="TX INI680 SPLINE MIX LO676 Native Switch" value="1" />
+	<ctl name="TX INI680 SPLINE MIX LO676 Switch" value="1" />
+	<ctl name="RX INI680 SPLINE MIX LO676 Native Switch" value="1" />
+	<ctl name="RX INI680 SPLINE MIX LO676 Switch" value="1" />
+	<ctl name="TX INI681 SPLINE MIX HI677 Native Switch" value="1" />
+	<ctl name="TX INI681 SPLINE MIX HI677 Switch" value="1" />
+	<ctl name="RX INI681 SPLINE MIX HI677 Native Switch" value="1" />
+	<ctl name="RX INI681 SPLINE MIX HI677 Switch" value="1" />
+	<ctl name="TX INI682 SPLINE MIX MI678 Native Switch" value="1" />
+	<ctl name="TX INI682 SPLINE MIX MI678 Switch" value="1" />
+	<ctl name="RX INI682 SPLINE MIX MI678 Native Switch" value="1" />
+	<ctl name="RX INI682 SPLINE MIX MI678 Switch" value="1" />
+	<ctl name="TX INI683 SPLINE MIX LO679 Native Switch" value="1" />
+	<ctl name="TX INI683 SPLINE MIX LO679 Switch" value="1" />
+	<ctl name="RX INI683 SPLINE MIX LO679 Native Switch" value="1" />
+	<ctl name="RX INI683 SPLINE MIX LO679 Switch" value="1" />
+	<ctl name="TX INI684 SPLINE MIX HI680 Native Switch" value="1" />
+	<ctl name="TX INI684 SPLINE MIX HI680 Switch" value="1" />
+	<ctl name="RX INI684 SPLINE MIX HI680 Native Switch" value="1" />
+	<ctl name="RX INI684 SPLINE MIX HI680 Switch" value="1" />
+	<ctl name="TX INI685 SPLINE MIX MI681 Native Switch" value="1" />
+	<ctl name="TX INI685 SPLINE MIX MI681 Switch" value="1" />
+	<ctl name="RX INI685 SPLINE MIX MI681 Native Switch" value="1" />
+	<ctl name="RX INI685 SPLINE MIX MI681 Switch" value="1" />
+	<ctl name="TX INI686 SPLINE MIX LO682 Native Switch" value="1" />
+	<ctl name="TX INI686 SPLINE MIX LO682 Switch" value="1" />
+	<ctl name="RX INI686 SPLINE MIX LO682 Native Switch" value="1" />
+	<ctl name="RX INI686 SPLINE MIX LO682 Switch" value="1" />
+	<ctl name="TX INI687 SPLINE MIX HI683 Native Switch" value="1" />
+	<ctl name="TX INI687 SPLINE MIX HI683 Switch" value="1" />
+	<ctl name="RX INI687 SPLINE MIX HI683 Native Switch" value="1" />
+	<ctl name="RX INI687 SPLINE MIX HI683 Switch" value="1" />
+	<ctl name="TX INI688 SPLINE MIX MI684 Native Switch" value="1" />
+	<ctl name="TX INI688 SPLINE MIX MI684 Switch" value="1" />
+	<ctl name="RX INI688 SPLINE MIX MI684 Native Switch" value="1" />
+	<ctl name="RX INI688 SPLINE MIX MI684 Switch" value="1" />
+	<ctl name="TX INI689 SPLINE MIX LO685 Native Switch" value="1" />
+	<ctl name="TX INI689 SPLINE MIX LO685 Switch" value="1" />
+	<ctl name="RX INI689 SPLINE MIX LO685 Native Switch" value="1" />
+	<ctl name="RX INI689 SPLINE MIX LO685 Switch" value="1" />
+	<ctl name="TX INI690 SPLINE MIX HI686 Native Switch" value="1" />
+	<ctl name="TX INI690 SPLINE MIX HI686 Switch" value="1" />
+	<ctl name="RX INI690 SPLINE MIX HI686 Native Switch" value="1" />
+	<ctl name="RX INI690 SPLINE MIX HI686 Switch" value="1" />
+	<ctl name="TX INI691 SPLINE MIX MI687 Native Switch" value="1" />
+	<ctl name="TX INI691 SPLINE MIX MI687 Switch" value="1" />
+	<ctl name="RX INI691 SPLINE MIX MI687 Native Switch" value="1" />
+	<ctl name="RX INI691 SPLINE MIX MI687 Switch" value="1" />
+	<ctl name="TX INI692 SPLINE MIX LO688 Native Switch" value="1" />
+	<ctl name="TX INI692 SPLINE MIX LO688 Switch" value="1" />
+	<ctl name="RX INI692 SPLINE MIX LO688 Native Switch" value="1" />
+	<ctl name="RX INI692 SPLINE MIX LO688 Switch" value="1" />
+	<ctl name="TX INI693 SPLINE MIX HI689 Native Switch" value="1" />
+	<ctl name="TX INI693 SPLINE MIX HI689 Switch" value="1" />
+	<ctl name="RX INI693 SPLINE MIX HI689 Native Switch" value="1" />
+	<ctl name="RX INI693 SPLINE MIX HI689 Switch" value="1" />
+	<ctl name="TX INI694 SPLINE MIX MI690 Native Switch" value="1" />
+	<ctl name="TX INI694 SPLINE MIX MI690 Switch" value="1" />
+	<ctl name="RX INI694 SPLINE MIX MI690 Native Switch" value="1" />
+	<ctl name="RX INI694 SPLINE MIX MI690 Switch" value="1" />
+	<ctl name="TX INI695 SPLINE MIX LO691 Native Switch" value="1" />
+	<ctl name="TX INI695 SPLINE MIX LO691 Switch" value="1" />
+	<ctl name="RX INI695 SPLINE MIX LO691 Native Switch" value="1" />
+	<ctl name="RX INI695 SPLINE MIX LO691 Switch" value="1" />
+	<ctl name="TX INI696 SPLINE MIX HI692 Native Switch" value="1" />
+	<ctl name="TX INI696 SPLINE MIX HI692 Switch" value="1" />
+	<ctl name="RX INI696 SPLINE MIX HI692 Native Switch" value="1" />
+	<ctl name="RX INI696 SPLINE MIX HI692 Switch" value="1" />
+	<ctl name="TX INI697 SPLINE MIX MI693 Native Switch" value="1" />
+	<ctl name="TX INI697 SPLINE MIX MI693 Switch" value="1" />
+	<ctl name="RX INI697 SPLINE MIX MI693 Native Switch" value="1" />
+	<ctl name="RX INI697 SPLINE MIX MI693 Switch" value="1" />
+	<ctl name="TX INI698 SPLINE MIX LO694 Native Switch" value="1" />
+	<ctl name="TX INI698 SPLINE MIX LO694 Switch" value="1" />
+	<ctl name="RX INI698 SPLINE MIX LO694 Native Switch" value="1" />
+	<ctl name="RX INI698 SPLINE MIX LO694 Switch" value="1" />
+	<ctl name="TX INI699 SPLINE MIX HI695 Native Switch" value="1" />
+	<ctl name="TX INI699 SPLINE MIX HI695 Switch" value="1" />
+	<ctl name="RX INI699 SPLINE MIX HI695 Native Switch" value="1" />
+	<ctl name="RX INI699 SPLINE MIX HI695 Switch" value="1" />
+	<ctl name="TX INI700 SPLINE MIX MI696 Native Switch" value="1" />
+	<ctl name="TX INI700 SPLINE MIX MI696 Switch" value="1" />
+	<ctl name="RX INI700 SPLINE MIX MI696 Native Switch" value="1" />
+	<ctl name="RX INI700 SPLINE MIX MI696 Switch" value="1" />
+	<ctl name="TX INI701 SPLINE MIX LO697 Native Switch" value="1" />
+	<ctl name="TX INI701 SPLINE MIX LO697 Switch" value="1" />
+	<ctl name="RX INI701 SPLINE MIX LO697 Native Switch" value="1" />
+	<ctl name="RX INI701 SPLINE MIX LO697 Switch" value="1" />
+	<ctl name="TX INI702 SPLINE MIX HI698 Native Switch" value="1" />
+	<ctl name="TX INI702 SPLINE MIX HI698 Switch" value="1" />
+	<ctl name="RX INI702 SPLINE MIX HI698 Native Switch" value="1" />
+	<ctl name="RX INI702 SPLINE MIX HI698 Switch" value="1" />
+	<ctl name="TX INI703 SPLINE MIX MI699 Native Switch" value="1" />
+	<ctl name="TX INI703 SPLINE MIX MI699 Switch" value="1" />
+	<ctl name="RX INI703 SPLINE MIX MI699 Native Switch" value="1" />
+	<ctl name="RX INI703 SPLINE MIX MI699 Switch" value="1" />
+	<ctl name="TX INI704 SPLINE MIX LO700 Native Switch" value="1" />
+	<ctl name="TX INI704 SPLINE MIX LO700 Switch" value="1" />
+	<ctl name="RX INI704 SPLINE MIX LO700 Native Switch" value="1" />
+	<ctl name="RX INI704 SPLINE MIX LO700 Switch" value="1" />
+	<ctl name="TX INI705 SPLINE MIX HI701 Native Switch" value="1" />
+	<ctl name="TX INI705 SPLINE MIX HI701 Switch" value="1" />
+	<ctl name="RX INI705 SPLINE MIX HI701 Native Switch" value="1" />
+	<ctl name="RX INI705 SPLINE MIX HI701 Switch" value="1" />
+	<ctl name="TX INI706 SPLINE MIX MI702 Native Switch" value="1" />
+	<ctl name="TX INI706 SPLINE MIX MI702 Switch" value="1" />
+	<ctl name="RX INI706 SPLINE MIX MI702 Native Switch" value="1" />
+	<ctl name="RX INI706 SPLINE MIX MI702 Switch" value="1" />
+	<ctl name="TX INI707 SPLINE MIX LO703 Native Switch" value="1" />
+	<ctl name="TX INI707 SPLINE MIX LO703 Switch" value="1" />
+	<ctl name="RX INI707 SPLINE MIX LO703 Native Switch" value="1" />
+	<ctl name="RX INI707 SPLINE MIX LO703 Switch" value="1" />
+	<ctl name="TX INI708 SPLINE MIX HI704 Native Switch" value="1" />
+	<ctl name="TX INI708 SPLINE MIX HI704 Switch" value="1" />
+	<ctl name="RX INI708 SPLINE MIX HI704 Native Switch" value="1" />
+	<ctl name="RX INI708 SPLINE MIX HI704 Switch" value="1" />
+	<ctl name="TX INI709 SPLINE MIX MI705 Native Switch" value="1" />
+	<ctl name="TX INI709 SPLINE MIX MI705 Switch" value="1" />
+	<ctl name="RX INI709 SPLINE MIX MI705 Native Switch" value="1" />
+	<ctl name="RX INI709 SPLINE MIX MI705 Switch" value="1" />
+	<ctl name="TX INI710 SPLINE MIX LO706 Native Switch" value="1" />
+	<ctl name="TX INI710 SPLINE MIX LO706 Switch" value="1" />
+	<ctl name="RX INI710 SPLINE MIX LO706 Native Switch" value="1" />
+	<ctl name="RX INI710 SPLINE MIX LO706 Switch" value="1" />
+	<ctl name="TX INI711 SPLINE MIX HI707 Native Switch" value="1" />
+	<ctl name="TX INI711 SPLINE MIX HI707 Switch" value="1" />
+	<ctl name="RX INI711 SPLINE MIX HI707 Native Switch" value="1" />
+	<ctl name="RX INI711 SPLINE MIX HI707 Switch" value="1" />
+	<ctl name="TX INI712 SPLINE MIX MI708 Native Switch" value="1" />
+	<ctl name="TX INI712 SPLINE MIX MI708 Switch" value="1" />
+	<ctl name="RX INI712 SPLINE MIX MI708 Native Switch" value="1" />
+	<ctl name="RX INI712 SPLINE MIX MI708 Switch" value="1" />
+	<ctl name="TX INI713 SPLINE MIX LO709 Native Switch" value="1" />
+	<ctl name="TX INI713 SPLINE MIX LO709 Switch" value="1" />
+	<ctl name="RX INI713 SPLINE MIX LO709 Native Switch" value="1" />
+	<ctl name="RX INI713 SPLINE MIX LO709 Switch" value="1" />
+	<ctl name="TX INI714 SPLINE MIX HI710 Native Switch" value="1" />
+	<ctl name="TX INI714 SPLINE MIX HI710 Switch" value="1" />
+	<ctl name="RX INI714 SPLINE MIX HI710 Native Switch" value="1" />
+	<ctl name="RX INI714 SPLINE MIX HI710 Switch" value="1" />
+	<ctl name="TX INI715 SPLINE MIX MI711 Native Switch" value="1" />
+	<ctl name="TX INI715 SPLINE MIX MI711 Switch" value="1" />
+	<ctl name="RX INI715 SPLINE MIX MI711 Native Switch" value="1" />
+	<ctl name="RX INI715 SPLINE MIX MI711 Switch" value="1" />
+	<ctl name="TX INI716 SPLINE MIX LO712 Native Switch" value="1" />
+	<ctl name="TX INI716 SPLINE MIX LO712 Switch" value="1" />
+	<ctl name="RX INI716 SPLINE MIX LO712 Native Switch" value="1" />
+	<ctl name="RX INI716 SPLINE MIX LO712 Switch" value="1" />
+	<ctl name="TX INI717 SPLINE MIX HI713 Native Switch" value="1" />
+	<ctl name="TX INI717 SPLINE MIX HI713 Switch" value="1" />
+	<ctl name="RX INI717 SPLINE MIX HI713 Native Switch" value="1" />
+	<ctl name="RX INI717 SPLINE MIX HI713 Switch" value="1" />
+	<ctl name="TX INI718 SPLINE MIX MI714 Native Switch" value="1" />
+	<ctl name="TX INI718 SPLINE MIX MI714 Switch" value="1" />
+	<ctl name="RX INI718 SPLINE MIX MI714 Native Switch" value="1" />
+	<ctl name="RX INI718 SPLINE MIX MI714 Switch" value="1" />
+	<ctl name="TX INI719 SPLINE MIX LO715 Native Switch" value="1" />
+	<ctl name="TX INI719 SPLINE MIX LO715 Switch" value="1" />
+	<ctl name="RX INI719 SPLINE MIX LO715 Native Switch" value="1" />
+	<ctl name="RX INI719 SPLINE MIX LO715 Switch" value="1" />
+	<ctl name="TX INI720 SPLINE MIX HI716 Native Switch" value="1" />
+	<ctl name="TX INI720 SPLINE MIX HI716 Switch" value="1" />
+	<ctl name="RX INI720 SPLINE MIX HI716 Native Switch" value="1" />
+	<ctl name="RX INI720 SPLINE MIX HI716 Switch" value="1" />
+	<ctl name="TX INI721 SPLINE MIX MI717 Native Switch" value="1" />
+	<ctl name="TX INI721 SPLINE MIX MI717 Switch" value="1" />
+	<ctl name="RX INI721 SPLINE MIX MI717 Native Switch" value="1" />
+	<ctl name="RX INI721 SPLINE MIX MI717 Switch" value="1" />
+	<ctl name="TX INI722 SPLINE MIX LO718 Native Switch" value="1" />
+	<ctl name="TX INI722 SPLINE MIX LO718 Switch" value="1" />
+	<ctl name="RX INI722 SPLINE MIX LO718 Native Switch" value="1" />
+	<ctl name="RX INI722 SPLINE MIX LO718 Switch" value="1" />
+	<ctl name="TX INI723 SPLINE MIX HI719 Native Switch" value="1" />
+	<ctl name="TX INI723 SPLINE MIX HI719 Switch" value="1" />
+	<ctl name="RX INI723 SPLINE MIX HI719 Native Switch" value="1" />
+	<ctl name="RX INI723 SPLINE MIX HI719 Switch" value="1" />
+	<ctl name="TX INI724 SPLINE MIX MI720 Native Switch" value="1" />
+	<ctl name="TX INI724 SPLINE MIX MI720 Switch" value="1" />
+	<ctl name="RX INI724 SPLINE MIX MI720 Native Switch" value="1" />
+	<ctl name="RX INI724 SPLINE MIX MI720 Switch" value="1" />
+	<ctl name="TX INI725 SPLINE MIX LO721 Native Switch" value="1" />
+	<ctl name="TX INI725 SPLINE MIX LO721 Switch" value="1" />
+	<ctl name="RX INI725 SPLINE MIX LO721 Native Switch" value="1" />
+	<ctl name="RX INI725 SPLINE MIX LO721 Switch" value="1" />
+	<ctl name="TX INI726 SPLINE MIX HI722 Native Switch" value="1" />
+	<ctl name="TX INI726 SPLINE MIX HI722 Switch" value="1" />
+	<ctl name="RX INI726 SPLINE MIX HI722 Native Switch" value="1" />
+	<ctl name="RX INI726 SPLINE MIX HI722 Switch" value="1" />
+	<ctl name="TX INI727 SPLINE MIX MI723 Native Switch" value="1" />
+	<ctl name="TX INI727 SPLINE MIX MI723 Switch" value="1" />
+	<ctl name="RX INI727 SPLINE MIX MI723 Native Switch" value="1" />
+	<ctl name="RX INI727 SPLINE MIX MI723 Switch" value="1" />
+	<ctl name="TX INI728 SPLINE MIX LO724 Native Switch" value="1" />
+	<ctl name="TX INI728 SPLINE MIX LO724 Switch" value="1" />
+	<ctl name="RX INI728 SPLINE MIX LO724 Native Switch" value="1" />
+	<ctl name="RX INI728 SPLINE MIX LO724 Switch" value="1" />
+	<ctl name="TX INI729 SPLINE MIX HI725 Native Switch" value="1" />
+	<ctl name="TX INI729 SPLINE MIX HI725 Switch" value="1" />
+	<ctl name="RX INI729 SPLINE MIX HI725 Native Switch" value="1" />
+	<ctl name="RX INI729 SPLINE MIX HI725 Switch" value="1" />
+	<ctl name="TX INI730 SPLINE MIX MI726 Native Switch" value="1" />
+	<ctl name="TX INI730 SPLINE MIX MI726 Switch" value="1" />
+	<ctl name="RX INI730 SPLINE MIX MI726 Native Switch" value="1" />
+	<ctl name="RX INI730 SPLINE MIX MI726 Switch" value="1" />
+	<ctl name="TX INI731 SPLINE MIX LO727 Native Switch" value="1" />
+	<ctl name="TX INI731 SPLINE MIX LO727 Switch" value="1" />
+	<ctl name="RX INI731 SPLINE MIX LO727 Native Switch" value="1" />
+	<ctl name="RX INI731 SPLINE MIX LO727 Switch" value="1" />
+	<ctl name="TX INI732 SPLINE MIX HI728 Native Switch" value="1" />
+	<ctl name="TX INI732 SPLINE MIX HI728 Switch" value="1" />
+	<ctl name="RX INI732 SPLINE MIX HI728 Native Switch" value="1" />
+	<ctl name="RX INI732 SPLINE MIX HI728 Switch" value="1" />
+	<ctl name="TX INI733 SPLINE MIX MI729 Native Switch" value="1" />
+	<ctl name="TX INI733 SPLINE MIX MI729 Switch" value="1" />
+	<ctl name="RX INI733 SPLINE MIX MI729 Native Switch" value="1" />
+	<ctl name="RX INI733 SPLINE MIX MI729 Switch" value="1" />
+	<ctl name="TX INI734 SPLINE MIX LO730 Native Switch" value="1" />
+	<ctl name="TX INI734 SPLINE MIX LO730 Switch" value="1" />
+	<ctl name="RX INI734 SPLINE MIX LO730 Native Switch" value="1" />
+	<ctl name="RX INI734 SPLINE MIX LO730 Switch" value="1" />
+	<ctl name="TX INI735 SPLINE MIX HI731 Native Switch" value="1" />
+	<ctl name="TX INI735 SPLINE MIX HI731 Switch" value="1" />
+	<ctl name="RX INI735 SPLINE MIX HI731 Native Switch" value="1" />
+	<ctl name="RX INI735 SPLINE MIX HI731 Switch" value="1" />
+	<ctl name="TX INI736 SPLINE MIX MI732 Native Switch" value="1" />
+	<ctl name="TX INI736 SPLINE MIX MI732 Switch" value="1" />
+	<ctl name="RX INI736 SPLINE MIX MI732 Native Switch" value="1" />
+	<ctl name="RX INI736 SPLINE MIX MI732 Switch" value="1" />
+	<ctl name="TX INI737 SPLINE MIX LO733 Native Switch" value="1" />
+	<ctl name="TX INI737 SPLINE MIX LO733 Switch" value="1" />
+	<ctl name="RX INI737 SPLINE MIX LO733 Native Switch" value="1" />
+	<ctl name="RX INI737 SPLINE MIX LO733 Switch" value="1" />
+	<ctl name="TX INI738 SPLINE MIX HI734 Native Switch" value="1" />
+	<ctl name="TX INI738 SPLINE MIX HI734 Switch" value="1" />
+	<ctl name="RX INI738 SPLINE MIX HI734 Native Switch" value="1" />
+	<ctl name="RX INI738 SPLINE MIX HI734 Switch" value="1" />
+	<ctl name="TX INI739 SPLINE MIX MI735 Native Switch" value="1" />
+	<ctl name="TX INI739 SPLINE MIX MI735 Switch" value="1" />
+	<ctl name="RX INI739 SPLINE MIX MI735 Native Switch" value="1" />
+	<ctl name="RX INI739 SPLINE MIX MI735 Switch" value="1" />
+	<ctl name="TX INI740 SPLINE MIX LO736 Native Switch" value="1" />
+	<ctl name="TX INI740 SPLINE MIX LO736 Switch" value="1" />
+	<ctl name="RX INI740 SPLINE MIX LO736 Native Switch" value="1" />
+	<ctl name="RX INI740 SPLINE MIX LO736 Switch" value="1" />
+	<ctl name="TX INI741 SPLINE MIX HI737 Native Switch" value="1" />
+	<ctl name="TX INI741 SPLINE MIX HI737 Switch" value="1" />
+	<ctl name="RX INI741 SPLINE MIX HI737 Native Switch" value="1" />
+	<ctl name="RX INI741 SPLINE MIX HI737 Switch" value="1" />
+	<ctl name="TX INI742 SPLINE MIX MI738 Native Switch" value="1" />
+	<ctl name="TX INI742 SPLINE MIX MI738 Switch" value="1" />
+	<ctl name="RX INI742 SPLINE MIX MI738 Native Switch" value="1" />
+	<ctl name="RX INI742 SPLINE MIX MI738 Switch" value="1" />
+	<ctl name="TX INI743 SPLINE MIX LO739 Native Switch" value="1" />
+	<ctl name="TX INI743 SPLINE MIX LO739 Switch" value="1" />
+	<ctl name="RX INI743 SPLINE MIX LO739 Native Switch" value="1" />
+	<ctl name="RX INI743 SPLINE MIX LO739 Switch" value="1" />
+	<ctl name="TX INI744 SPLINE MIX HI740 Native Switch" value="1" />
+	<ctl name="TX INI744 SPLINE MIX HI740 Switch" value="1" />
+	<ctl name="RX INI744 SPLINE MIX HI740 Native Switch" value="1" />
+	<ctl name="RX INI744 SPLINE MIX HI740 Switch" value="1" />
+	<ctl name="TX INI745 SPLINE MIX MI741 Native Switch" value="1" />
+	<ctl name="TX INI745 SPLINE MIX MI741 Switch" value="1" />
+	<ctl name="RX INI745 SPLINE MIX MI741 Native Switch" value="1" />
+	<ctl name="RX INI745 SPLINE MIX MI741 Switch" value="1" />
+	<ctl name="TX INI746 SPLINE MIX LO742 Native Switch" value="1" />
+	<ctl name="TX INI746 SPLINE MIX LO742 Switch" value="1" />
+	<ctl name="RX INI746 SPLINE MIX LO742 Native Switch" value="1" />
+	<ctl name="RX INI746 SPLINE MIX LO742 Switch" value="1" />
+	<ctl name="TX INI747 SPLINE MIX HI743 Native Switch" value="1" />
+	<ctl name="TX INI747 SPLINE MIX HI743 Switch" value="1" />
+	<ctl name="RX INI747 SPLINE MIX HI743 Native Switch" value="1" />
+	<ctl name="RX INI747 SPLINE MIX HI743 Switch" value="1" />
+	<ctl name="TX INI748 SPLINE MIX MI744 Native Switch" value="1" />
+	<ctl name="TX INI748 SPLINE MIX MI744 Switch" value="1" />
+	<ctl name="RX INI748 SPLINE MIX MI744 Native Switch" value="1" />
+	<ctl name="RX INI748 SPLINE MIX MI744 Switch" value="1" />
+	<ctl name="TX INI749 SPLINE MIX LO745 Native Switch" value="1" />
+	<ctl name="TX INI749 SPLINE MIX LO745 Switch" value="1" />
+	<ctl name="RX INI749 SPLINE MIX LO745 Native Switch" value="1" />
+	<ctl name="RX INI749 SPLINE MIX LO745 Switch" value="1" />
+	<ctl name="TX INI750 SPLINE MIX HI746 Native Switch" value="1" />
+	<ctl name="TX INI750 SPLINE MIX HI746 Switch" value="1" />
+	<ctl name="RX INI750 SPLINE MIX HI746 Native Switch" value="1" />
+	<ctl name="RX INI750 SPLINE MIX HI746 Switch" value="1" />
+	<ctl name="TX INI751 SPLINE MIX MI747 Native Switch" value="1" />
+	<ctl name="TX INI751 SPLINE MIX MI747 Switch" value="1" />
+	<ctl name="RX INI751 SPLINE MIX MI747 Native Switch" value="1" />
+	<ctl name="RX INI751 SPLINE MIX MI747 Switch" value="1" />
+	<ctl name="TX INI752 SPLINE MIX LO748 Native Switch" value="1" />
+	<ctl name="TX INI752 SPLINE MIX LO748 Switch" value="1" />
+	<ctl name="RX INI752 SPLINE MIX LO748 Native Switch" value="1" />
+	<ctl name="RX INI752 SPLINE MIX LO748 Switch" value="1" />
+	<ctl name="TX INI753 SPLINE MIX HI749 Native Switch" value="1" />
+	<ctl name="TX INI753 SPLINE MIX HI749 Switch" value="1" />
+	<ctl name="RX INI753 SPLINE MIX HI749 Native Switch" value="1" />
+	<ctl name="RX INI753 SPLINE MIX HI749 Switch" value="1" />
+	<ctl name="TX INI754 SPLINE MIX MI750 Native Switch" value="1" />
+	<ctl name="TX INI754 SPLINE MIX MI750 Switch" value="1" />
+	<ctl name="RX INI754 SPLINE MIX MI750 Native Switch" value="1" />
+	<ctl name="RX INI754 SPLINE MIX MI750 Switch" value="1" />
+	<ctl name="TX INI755 SPLINE MIX LO751 Native Switch" value="1" />
+	<ctl name="TX INI755 SPLINE MIX LO751 Switch" value="1" />
+	<ctl name="RX INI755 SPLINE MIX LO751 Native Switch" value="1" />
+	<ctl name="RX INI755 SPLINE MIX LO751 Switch" value="1" />
+	<ctl name="TX INI756 SPLINE MIX HI752 Native Switch" value="1" />
+	<ctl name="TX INI756 SPLINE MIX HI752 Switch" value="1" />
+	<ctl name="RX INI756 SPLINE MIX HI752 Native Switch" value="1" />
+	<ctl name="RX INI756 SPLINE MIX HI752 Switch" value="1" />
+	<ctl name="TX INI757 SPLINE MIX MI753 Native Switch" value="1" />
+	<ctl name="TX INI757 SPLINE MIX MI753 Switch" value="1" />
+	<ctl name="RX INI757 SPLINE MIX MI753 Native Switch" value="1" />
+	<ctl name="RX INI757 SPLINE MIX MI753 Switch" value="1" />
+	<ctl name="TX INI758 SPLINE MIX LO754 Native Switch" value="1" />
+	<ctl name="TX INI758 SPLINE MIX LO754 Switch" value="1" />
+	<ctl name="RX INI758 SPLINE MIX LO754 Native Switch" value="1" />
+	<ctl name="RX INI758 SPLINE MIX LO754 Switch" value="1" />
+	<ctl name="TX INI759 SPLINE MIX HI755 Native Switch" value="1" />
+	<ctl name="TX INI759 SPLINE MIX HI755 Switch" value="1" />
+	<ctl name="RX INI759 SPLINE MIX HI755 Native Switch" value="1" />
+	<ctl name="RX INI759 SPLINE MIX HI755 Switch" value="1" />
+	<ctl name="TX INI760 SPLINE MIX MI756 Native Switch" value="1" />
+	<ctl name="TX INI760 SPLINE MIX MI756 Switch" value="1" />
+	<ctl name="RX INI760 SPLINE MIX MI756 Native Switch" value="1" />
+	<ctl name="RX INI760 SPLINE MIX MI756 Switch" value="1" />
+	<ctl name="TX INI761 SPLINE MIX LO757 Native Switch" value="1" />
+	<ctl name="TX INI761 SPLINE MIX LO757 Switch" value="1" />
+	<ctl name="RX INI761 SPLINE MIX LO757 Native Switch" value="1" />
+	<ctl name="RX INI761 SPLINE MIX LO757 Switch" value="1" />
+	<ctl name="TX INI762 SPLINE MIX HI758 Native Switch" value="1" />
+	<ctl name="TX INI762 SPLINE MIX HI758 Switch" value="1" />
+	<ctl name="RX INI762 SPLINE MIX HI758 Native Switch" value="1" />
+	<ctl name="RX INI762 SPLINE MIX HI758 Switch" value="1" />
+	<ctl name="TX INI763 SPLINE MIX MI759 Native Switch" value="1" />
+	<ctl name="TX INI763 SPLINE MIX MI759 Switch" value="1" />
+	<ctl name="RX INI763 SPLINE MIX MI759 Native Switch" value="1" />
+	<ctl name="RX INI763 SPLINE MIX MI759 Switch" value="1" />
+	<ctl name="TX INI764 SPLINE MIX LO760 Native Switch" value="1" />
+	<ctl name="TX INI764 SPLINE MIX LO760 Switch" value="1" />
+	<ctl name="RX INI764 SPLINE MIX LO760 Native Switch" value="1" />
+	<ctl name="RX INI764 SPLINE MIX LO760 Switch" value="1" />
+	<ctl name="TX INI765 SPLINE MIX HI761 Native Switch" value="1" />
+	<ctl name="TX INI765 SPLINE MIX HI761 Switch" value="1" />
+	<ctl name="RX INI765 SPLINE MIX HI761 Native Switch" value="1" />
+	<ctl name="RX INI765 SPLINE MIX HI761 Switch" value="1" />
+	<ctl name="TX INI766 SPLINE MIX MI762 Native Switch" value="1" />
+	<ctl name="TX INI766 SPLINE MIX MI762 Switch" value="1" />
+	<ctl name="RX INI766 SPLINE MIX MI762 Native Switch" value="1" />
+	<ctl name="RX INI766 SPLINE MIX MI762 Switch" value="1" />
+	<ctl name="TX INI767 SPLINE MIX LO763 Native Switch" value="1" />
+	<ctl name="TX INI767 SPLINE MIX LO763 Switch" value="1" />
+	<ctl name="RX INI767 SPLINE MIX LO763 Native Switch" value="1" />
+	<ctl name="RX INI767 SPLINE MIX LO763 Switch" value="1" />
+	<ctl name="TX INI768 SPLINE MIX HI764 Native Switch" value="1" />
+	<ctl name="TX INI768 SPLINE MIX HI764 Switch" value="1" />
+	<ctl name="RX INI768 SPLINE MIX HI764 Native Switch" value="1" />
+	<ctl name="RX INI768 SPLINE MIX HI764 Switch" value="1" />
+	<ctl name="TX INI769 SPLINE MIX MI765 Native Switch" value="1" />
+	<ctl name="TX INI769 SPLINE MIX MI765 Switch" value="1" />
+	<ctl name="RX INI769 SPLINE MIX MI765 Native Switch" value="1" />
+	<ctl name="RX INI769 SPLINE MIX MI765 Switch" value="1" />
+	<ctl name="TX INI770 SPLINE MIX LO766 Native Switch" value="1" />
+	<ctl name="TX INI770 SPLINE MIX LO766 Switch" value="1" />
+	<ctl name="RX INI770 SPLINE MIX LO766 Native Switch" value="1" />
+	<ctl name="RX INI770 SPLINE MIX LO766 Switch" value="1" />
+	<ctl name="TX INI771 SPLINE MIX HI767 Native Switch" value="1" />
+	<ctl name="TX INI771 SPLINE MIX HI767 Switch" value="1" />
+	<ctl name="RX INI771 SPLINE MIX HI767 Native Switch" value="1" />
+	<ctl name="RX INI771 SPLINE MIX HI767 Switch" value="1" />
+	<ctl name="TX INI772 SPLINE MIX MI768 Native Switch" value="1" />
+	<ctl name="TX INI772 SPLINE MIX MI768 Switch" value="1" />
+	<ctl name="RX INI772 SPLINE MIX MI768 Native Switch" value="1" />
+	<ctl name="RX INI772 SPLINE MIX MI768 Switch" value="1" />
+	</path>
+
+	<path name="true-native-mode-SPKR-vbat-mono">
+	<ctl name="TX INT7 VBAT SPKRL VBAT Enable" value="1" />
+	<ctl name="RX INT7 VBAT SPKRL VBAT Enable" value="1" />
+	<ctl name="TX INT8 VBAT SPKRR VBAT Enable" value="0" />
+	<ctl name="RX INT8 VBAT SPKRR VBAT Enable" value="0" />
+	<ctl name="TX INI389 VBAT LO385 VBAT Enable" value="1" />
+	<ctl name="RX INI389 VBAT LO385 VBAT Enable" value="1" />
+	<ctl name="TX INI390 VBAT HI386 VBAT Enable" value="1" />
+	<ctl name="RX INI390 VBAT HI386 VBAT Enable" value="1" />
+	<ctl name="TX INI391 VBAT MI387 VBAT Enable" value="1" />
+	<ctl name="RX INI391 VBAT MI387 VBAT Enable" value="1" />
+	<ctl name="TX INI392 VBAT LO388 VBAT Enable" value="1" />
+	<ctl name="RX INI392 VBAT LO388 VBAT Enable" value="1" />
+	<ctl name="TX INI393 VBAT HI389 VBAT Enable" value="1" />
+	<ctl name="RX INI393 VBAT HI389 VBAT Enable" value="1" />
+	<ctl name="TX INI394 VBAT MI390 VBAT Enable" value="1" />
+	<ctl name="RX INI394 VBAT MI390 VBAT Enable" value="1" />
+	<ctl name="TX INI395 VBAT LO391 VBAT Enable" value="1" />
+	<ctl name="RX INI395 VBAT LO391 VBAT Enable" value="1" />
+	<ctl name="TX INI396 VBAT HI392 VBAT Enable" value="1" />
+	<ctl name="RX INI396 VBAT HI392 VBAT Enable" value="1" />
+	<ctl name="TX INI397 VBAT MI393 VBAT Enable" value="1" />
+	<ctl name="RX INI397 VBAT MI393 VBAT Enable" value="1" />
+	<ctl name="TX INI398 VBAT LO394 VBAT Enable" value="1" />
+	<ctl name="RX INI398 VBAT LO394 VBAT Enable" value="1" />
+	<ctl name="TX INI399 VBAT HI395 VBAT Enable" value="1" />
+	<ctl name="RX INI399 VBAT HI395 VBAT Enable" value="1" />
+	<ctl name="TX INI400 VBAT MI396 VBAT Enable" value="1" />
+	<ctl name="RX INI400 VBAT MI396 VBAT Enable" value="1" />
+	<ctl name="TX INI401 VBAT LO397 VBAT Enable" value="1" />
+	<ctl name="RX INI401 VBAT LO397 VBAT Enable" value="1" />
+	<ctl name="TX INI402 VBAT HI398 VBAT Enable" value="1" />
+	<ctl name="RX INI402 VBAT HI398 VBAT Enable" value="1" />
+	<ctl name="TX INI403 VBAT MI399 VBAT Enable" value="1" />
+	<ctl name="RX INI403 VBAT MI399 VBAT Enable" value="1" />
+	<ctl name="TX INI404 VBAT LO400 VBAT Enable" value="1" />
+	<ctl name="RX INI404 VBAT LO400 VBAT Enable" value="1" />
+	<ctl name="TX INI405 VBAT HI401 VBAT Enable" value="1" />
+	<ctl name="RX INI405 VBAT HI401 VBAT Enable" value="1" />
+	<ctl name="TX INI406 VBAT MI402 VBAT Enable" value="1" />
+	<ctl name="RX INI406 VBAT MI402 VBAT Enable" value="1" />
+	<ctl name="TX INI407 VBAT LO403 VBAT Enable" value="1" />
+	<ctl name="RX INI407 VBAT LO403 VBAT Enable" value="1" />
+	<ctl name="TX INI408 VBAT HI404 VBAT Enable" value="1" />
+	<ctl name="RX INI408 VBAT HI404 VBAT Enable" value="1" />
+	<ctl name="TX INI409 VBAT MI405 VBAT Enable" value="1" />
+	<ctl name="RX INI409 VBAT MI405 VBAT Enable" value="1" />
+	<ctl name="TX INI410 VBAT LO406 VBAT Enable" value="1" />
+	<ctl name="RX INI410 VBAT LO406 VBAT Enable" value="1" />
+	<ctl name="TX INI411 VBAT HI407 VBAT Enable" value="1" />
+	<ctl name="RX INI411 VBAT HI407 VBAT Enable" value="1" />
+	<ctl name="TX INI412 VBAT MI408 VBAT Enable" value="1" />
+	<ctl name="RX INI412 VBAT MI408 VBAT Enable" value="1" />
+	<ctl name="TX INI413 VBAT LO409 VBAT Enable" value="1" />
+	<ctl name="RX INI413 VBAT LO409 VBAT Enable" value="1" />
+	<ctl name="TX INI414 VBAT HI410 VBAT Enable" value="1" />
+	<ctl name="RX INI414 VBAT HI410 VBAT Enable" value="1" />
+	<ctl name="TX INI415 VBAT MI411 VBAT Enable" value="1" />
+	<ctl name="RX INI415 VBAT MI411 VBAT Enable" value="1" />
+	<ctl name="TX INI416 VBAT LO412 VBAT Enable" value="1" />
+	<ctl name="RX INI416 VBAT LO412 VBAT Enable" value="1" />
+	<ctl name="TX INI417 VBAT HI413 VBAT Enable" value="1" />
+	<ctl name="RX INI417 VBAT HI413 VBAT Enable" value="1" />
+	<ctl name="TX INI418 VBAT MI414 VBAT Enable" value="1" />
+	<ctl name="RX INI418 VBAT MI414 VBAT Enable" value="1" />
+	<ctl name="TX INI419 VBAT LO415 VBAT Enable" value="1" />
+	<ctl name="RX INI419 VBAT LO415 VBAT Enable" value="1" />
+	<ctl name="TX INI420 VBAT HI416 VBAT Enable" value="1" />
+	<ctl name="RX INI420 VBAT HI416 VBAT Enable" value="1" />
+	<ctl name="TX INI421 VBAT MI417 VBAT Enable" value="1" />
+	<ctl name="RX INI421 VBAT MI417 VBAT Enable" value="1" />
+	<ctl name="TX INI422 VBAT LO418 VBAT Enable" value="1" />
+	<ctl name="RX INI422 VBAT LO418 VBAT Enable" value="1" />
+	<ctl name="TX INI423 VBAT HI419 VBAT Enable" value="1" />
+	<ctl name="RX INI423 VBAT HI419 VBAT Enable" value="1" />
+	<ctl name="TX INI424 VBAT MI420 VBAT Enable" value="1" />
+	<ctl name="RX INI424 VBAT MI420 VBAT Enable" value="1" />
+	<ctl name="TX INI425 VBAT LO421 VBAT Enable" value="1" />
+	<ctl name="RX INI425 VBAT LO421 VBAT Enable" value="1" />
+	<ctl name="TX INI426 VBAT HI422 VBAT Enable" value="1" />
+	<ctl name="RX INI426 VBAT HI422 VBAT Enable" value="1" />
+	<ctl name="TX INI427 VBAT MI423 VBAT Enable" value="1" />
+	<ctl name="RX INI427 VBAT MI423 VBAT Enable" value="1" />
+	<ctl name="TX INI428 VBAT LO424 VBAT Enable" value="1" />
+	<ctl name="RX INI428 VBAT LO424 VBAT Enable" value="1" />
+	<ctl name="TX INI429 VBAT HI425 VBAT Enable" value="1" />
+	<ctl name="RX INI429 VBAT HI425 VBAT Enable" value="1" />
+	<ctl name="TX INI430 VBAT MI426 VBAT Enable" value="1" />
+	<ctl name="RX INI430 VBAT MI426 VBAT Enable" value="1" />
+	<ctl name="TX INI431 VBAT LO427 VBAT Enable" value="1" />
+	<ctl name="RX INI431 VBAT LO427 VBAT Enable" value="1" />
+	<ctl name="TX INI432 VBAT HI428 VBAT Enable" value="1" />
+	<ctl name="RX INI432 VBAT HI428 VBAT Enable" value="1" />
+	<ctl name="TX INI433 VBAT MI429 VBAT Enable" value="1" />
+	<ctl name="RX INI433 VBAT MI429 VBAT Enable" value="1" />
+	<ctl name="TX INI434 VBAT LO430 VBAT Enable" value="1" />
+	<ctl name="RX INI434 VBAT LO430 VBAT Enable" value="1" />
+	<ctl name="TX INI435 VBAT HI431 VBAT Enable" value="1" />
+	<ctl name="RX INI435 VBAT HI431 VBAT Enable" value="1" />
+	<ctl name="TX INI436 VBAT MI432 VBAT Enable" value="1" />
+	<ctl name="RX INI436 VBAT MI432 VBAT Enable" value="1" />
+	<ctl name="TX INI437 VBAT LO433 VBAT Enable" value="1" />
+	<ctl name="RX INI437 VBAT LO433 VBAT Enable" value="1" />
+	<ctl name="TX INI438 VBAT HI434 VBAT Enable" value="1" />
+	<ctl name="RX INI438 VBAT HI434 VBAT Enable" value="1" />
+	<ctl name="TX INI439 VBAT MI435 VBAT Enable" value="1" />
+	<ctl name="RX INI439 VBAT MI435 VBAT Enable" value="1" />
+	<ctl name="TX INI440 VBAT LO436 VBAT Enable" value="1" />
+	<ctl name="RX INI440 VBAT LO436 VBAT Enable" value="1" />
+	<ctl name="TX INI441 VBAT HI437 VBAT Enable" value="1" />
+	<ctl name="RX INI441 VBAT HI437 VBAT Enable" value="1" />
+	<ctl name="TX INI442 VBAT MI438 VBAT Enable" value="1" />
+	<ctl name="RX INI442 VBAT MI438 VBAT Enable" value="1" />
+	<ctl name="TX INI443 VBAT LO439 VBAT Enable" value="1" />
+	<ctl name="RX INI443 VBAT LO439 VBAT Enable" value="1" />
+	<ctl name="TX INI444 VBAT HI440 VBAT Enable" value="1" />
+	<ctl name="RX INI444 VBAT HI440 VBAT Enable" value="1" />
+	<ctl name="TX INI445 VBAT MI441 VBAT Enable" value="1" />
+	<ctl name="RX INI445 VBAT MI441 VBAT Enable" value="1" />
+	<ctl name="TX INI446 VBAT LO442 VBAT Enable" value="1" />
+	<ctl name="RX INI446 VBAT LO442 VBAT Enable" value="1" />
+	<ctl name="TX INI447 VBAT HI443 VBAT Enable" value="1" />
+	<ctl name="RX INI447 VBAT HI443 VBAT Enable" value="1" />
+	<ctl name="TX INI448 VBAT MI444 VBAT Enable" value="1" />
+	<ctl name="RX INI448 VBAT MI444 VBAT Enable" value="1" />
+	<ctl name="TX INI449 VBAT LO445 VBAT Enable" value="1" />
+	<ctl name="RX INI449 VBAT LO445 VBAT Enable" value="1" />
+	<ctl name="TX INI450 VBAT HI446 VBAT Enable" value="1" />
+	<ctl name="RX INI450 VBAT HI446 VBAT Enable" value="1" />
+	<ctl name="TX INI451 VBAT MI447 VBAT Enable" value="1" />
+	<ctl name="RX INI451 VBAT MI447 VBAT Enable" value="1" />
+	<ctl name="TX INI452 VBAT LO448 VBAT Enable" value="1" />
+	<ctl name="RX INI452 VBAT LO448 VBAT Enable" value="1" />
+	<ctl name="TX INI453 VBAT HI449 VBAT Enable" value="1" />
+	<ctl name="RX INI453 VBAT HI449 VBAT Enable" value="1" />
+	<ctl name="TX INI454 VBAT MI450 VBAT Enable" value="1" />
+	<ctl name="RX INI454 VBAT MI450 VBAT Enable" value="1" />
+	<ctl name="TX INI455 VBAT LO451 VBAT Enable" value="1" />
+	<ctl name="RX INI455 VBAT LO451 VBAT Enable" value="1" />
+	<ctl name="TX INI456 VBAT HI452 VBAT Enable" value="1" />
+	<ctl name="RX INI456 VBAT HI452 VBAT Enable" value="1" />
+	<ctl name="TX INI457 VBAT MI453 VBAT Enable" value="1" />
+	<ctl name="RX INI457 VBAT MI453 VBAT Enable" value="1" />
+	<ctl name="TX INI458 VBAT LO454 VBAT Enable" value="1" />
+	<ctl name="RX INI458 VBAT LO454 VBAT Enable" value="1" />
+	<ctl name="TX INI459 VBAT HI455 VBAT Enable" value="1" />
+	<ctl name="RX INI459 VBAT HI455 VBAT Enable" value="1" />
+	<ctl name="TX INI460 VBAT MI456 VBAT Enable" value="1" />
+	<ctl name="RX INI460 VBAT MI456 VBAT Enable" value="1" />
+	<ctl name="TX INI461 VBAT LO457 VBAT Enable" value="1" />
+	<ctl name="RX INI461 VBAT LO457 VBAT Enable" value="1" />
+	<ctl name="TX INI462 VBAT HI458 VBAT Enable" value="1" />
+	<ctl name="RX INI462 VBAT HI458 VBAT Enable" value="1" />
+	<ctl name="TX INI463 VBAT MI459 VBAT Enable" value="1" />
+	<ctl name="RX INI463 VBAT MI459 VBAT Enable" value="1" />
+	<ctl name="TX INI464 VBAT LO460 VBAT Enable" value="1" />
+	<ctl name="RX INI464 VBAT LO460 VBAT Enable" value="1" />
+	<ctl name="TX INI465 VBAT HI461 VBAT Enable" value="1" />
+	<ctl name="RX INI465 VBAT HI461 VBAT Enable" value="1" />
+	<ctl name="TX INI466 VBAT MI462 VBAT Enable" value="1" />
+	<ctl name="RX INI466 VBAT MI462 VBAT Enable" value="1" />
+	<ctl name="TX INI467 VBAT LO463 VBAT Enable" value="1" />
+	<ctl name="RX INI467 VBAT LO463 VBAT Enable" value="1" />
+	<ctl name="TX INI468 VBAT HI464 VBAT Enable" value="1" />
+	<ctl name="RX INI468 VBAT HI464 VBAT Enable" value="1" />
+	<ctl name="TX INI469 VBAT MI465 VBAT Enable" value="1" />
+	<ctl name="RX INI469 VBAT MI465 VBAT Enable" value="1" />
+	<ctl name="TX INI470 VBAT LO466 VBAT Enable" value="1" />
+	<ctl name="RX INI470 VBAT LO466 VBAT Enable" value="1" />
+	<ctl name="TX INI471 VBAT HI467 VBAT Enable" value="1" />
+	<ctl name="RX INI471 VBAT HI467 VBAT Enable" value="1" />
+	<ctl name="TX INI472 VBAT MI468 VBAT Enable" value="1" />
+	<ctl name="RX INI472 VBAT MI468 VBAT Enable" value="1" />
+	<ctl name="TX INI473 VBAT LO469 VBAT Enable" value="1" />
+	<ctl name="RX INI473 VBAT LO469 VBAT Enable" value="1" />
+	<ctl name="TX INI474 VBAT HI470 VBAT Enable" value="1" />
+	<ctl name="RX INI474 VBAT HI470 VBAT Enable" value="1" />
+	<ctl name="TX INI475 VBAT MI471 VBAT Enable" value="1" />
+	<ctl name="RX INI475 VBAT MI471 VBAT Enable" value="1" />
+	<ctl name="TX INI476 VBAT LO472 VBAT Enable" value="1" />
+	<ctl name="RX INI476 VBAT LO472 VBAT Enable" value="1" />
+	<ctl name="TX INI477 VBAT HI473 VBAT Enable" value="1" />
+	<ctl name="RX INI477 VBAT HI473 VBAT Enable" value="1" />
+	<ctl name="TX INI478 VBAT MI474 VBAT Enable" value="1" />
+	<ctl name="RX INI478 VBAT MI474 VBAT Enable" value="1" />
+	<ctl name="TX INI479 VBAT LO475 VBAT Enable" value="1" />
+	<ctl name="RX INI479 VBAT LO475 VBAT Enable" value="1" />
+	<ctl name="TX INI480 VBAT HI476 VBAT Enable" value="1" />
+	<ctl name="RX INI480 VBAT HI476 VBAT Enable" value="1" />
+	<ctl name="TX INI481 VBAT MI477 VBAT Enable" value="1" />
+	<ctl name="RX INI481 VBAT MI477 VBAT Enable" value="1" />
+	<ctl name="TX INI482 VBAT LO478 VBAT Enable" value="1" />
+	<ctl name="RX INI482 VBAT LO478 VBAT Enable" value="1" />
+	<ctl name="TX INI483 VBAT HI479 VBAT Enable" value="1" />
+	<ctl name="RX INI483 VBAT HI479 VBAT Enable" value="1" />
+	<ctl name="TX INI484 VBAT MI480 VBAT Enable" value="1" />
+	<ctl name="RX INI484 VBAT MI480 VBAT Enable" value="1" />
+	<ctl name="TX INI485 VBAT LO481 VBAT Enable" value="1" />
+	<ctl name="RX INI485 VBAT LO481 VBAT Enable" value="1" />
+	<ctl name="TX INI486 VBAT HI482 VBAT Enable" value="1" />
+	<ctl name="RX INI486 VBAT HI482 VBAT Enable" value="1" />
+	<ctl name="TX INI487 VBAT MI483 VBAT Enable" value="1" />
+	<ctl name="RX INI487 VBAT MI483 VBAT Enable" value="1" />
+	<ctl name="TX INI488 VBAT LO484 VBAT Enable" value="1" />
+	<ctl name="RX INI488 VBAT LO484 VBAT Enable" value="1" />
+	<ctl name="TX INI489 VBAT HI485 VBAT Enable" value="1" />
+	<ctl name="RX INI489 VBAT HI485 VBAT Enable" value="1" />
+	<ctl name="TX INI490 VBAT MI486 VBAT Enable" value="1" />
+	<ctl name="RX INI490 VBAT MI486 VBAT Enable" value="1" />
+	<ctl name="TX INI491 VBAT LO487 VBAT Enable" value="1" />
+	<ctl name="RX INI491 VBAT LO487 VBAT Enable" value="1" />
+	<ctl name="TX INI492 VBAT HI488 VBAT Enable" value="1" />
+	<ctl name="RX INI492 VBAT HI488 VBAT Enable" value="1" />
+	<ctl name="TX INI493 VBAT MI489 VBAT Enable" value="1" />
+	<ctl name="RX INI493 VBAT MI489 VBAT Enable" value="1" />
+	<ctl name="TX INI494 VBAT LO490 VBAT Enable" value="1" />
+	<ctl name="RX INI494 VBAT LO490 VBAT Enable" value="1" />
+	<ctl name="TX INI495 VBAT HI491 VBAT Enable" value="1" />
+	<ctl name="RX INI495 VBAT HI491 VBAT Enable" value="1" />
+	<ctl name="TX INI496 VBAT MI492 VBAT Enable" value="1" />
+	<ctl name="RX INI496 VBAT MI492 VBAT Enable" value="1" />
+	<ctl name="TX INI497 VBAT LO493 VBAT Enable" value="1" />
+	<ctl name="RX INI497 VBAT LO493 VBAT Enable" value="1" />
+	<ctl name="TX INI498 VBAT HI494 VBAT Enable" value="1" />
+	<ctl name="RX INI498 VBAT HI494 VBAT Enable" value="1" />
+	<ctl name="TX INI499 VBAT MI495 VBAT Enable" value="1" />
+	<ctl name="RX INI499 VBAT MI495 VBAT Enable" value="1" />
+	<ctl name="TX INI500 VBAT LO496 VBAT Enable" value="1" />
+	<ctl name="RX INI500 VBAT LO496 VBAT Enable" value="1" />
+	<ctl name="TX INI501 VBAT HI497 VBAT Enable" value="1" />
+	<ctl name="RX INI501 VBAT HI497 VBAT Enable" value="1" />
+	<ctl name="TX INI502 VBAT MI498 VBAT Enable" value="1" />
+	<ctl name="RX INI502 VBAT MI498 VBAT Enable" value="1" />
+	<ctl name="TX INI503 VBAT LO499 VBAT Enable" value="1" />
+	<ctl name="RX INI503 VBAT LO499 VBAT Enable" value="1" />
+	<ctl name="TX INI504 VBAT HI500 VBAT Enable" value="1" />
+	<ctl name="RX INI504 VBAT HI500 VBAT Enable" value="1" />
+	<ctl name="TX INI505 VBAT MI501 VBAT Enable" value="1" />
+	<ctl name="RX INI505 VBAT MI501 VBAT Enable" value="1" />
+	<ctl name="TX INI506 VBAT LO502 VBAT Enable" value="1" />
+	<ctl name="RX INI506 VBAT LO502 VBAT Enable" value="1" />
+	<ctl name="TX INI507 VBAT HI503 VBAT Enable" value="1" />
+	<ctl name="RX INI507 VBAT HI503 VBAT Enable" value="1" />
+	<ctl name="TX INI508 VBAT MI504 VBAT Enable" value="1" />
+	<ctl name="RX INI508 VBAT MI504 VBAT Enable" value="1" />
+	<ctl name="TX INI509 VBAT LO505 VBAT Enable" value="1" />
+	<ctl name="RX INI509 VBAT LO505 VBAT Enable" value="1" />
+	<ctl name="TX INI510 VBAT HI506 VBAT Enable" value="1" />
+	<ctl name="RX INI510 VBAT HI506 VBAT Enable" value="1" />
+	<ctl name="TX INI511 VBAT MI507 VBAT Enable" value="1" />
+	<ctl name="RX INI511 VBAT MI507 VBAT Enable" value="1" />
+	<ctl name="TX INI512 VBAT LO508 VBAT Enable" value="1" />
+	<ctl name="RX INI512 VBAT LO508 VBAT Enable" value="1" />
+	<ctl name="TX INI513 VBAT HI509 VBAT Enable" value="1" />
+	<ctl name="RX INI513 VBAT HI509 VBAT Enable" value="1" />
+	<ctl name="TX INI514 VBAT MI510 VBAT Enable" value="1" />
+	<ctl name="RX INI514 VBAT MI510 VBAT Enable" value="1" />
+	<ctl name="TX INI515 VBAT LO511 VBAT Enable" value="1" />
+	<ctl name="RX INI515 VBAT LO511 VBAT Enable" value="1" />
+	<ctl name="TX INI516 VBAT HI512 VBAT Enable" value="1" />
+	<ctl name="RX INI516 VBAT HI512 VBAT Enable" value="1" />
+	<ctl name="TX INI517 VBAT MI513 VBAT Enable" value="1" />
+	<ctl name="RX INI517 VBAT MI513 VBAT Enable" value="1" />
+	<ctl name="TX INI518 VBAT LO514 VBAT Enable" value="1" />
+	<ctl name="RX INI518 VBAT LO514 VBAT Enable" value="1" />
+	<ctl name="TX INI519 VBAT HI515 VBAT Enable" value="1" />
+	<ctl name="RX INI519 VBAT HI515 VBAT Enable" value="1" />
+	<ctl name="TX INI520 VBAT MI516 VBAT Enable" value="1" />
+	<ctl name="RX INI520 VBAT MI516 VBAT Enable" value="1" />
+	<ctl name="TX INI521 VBAT LO517 VBAT Enable" value="1" />
+	<ctl name="RX INI521 VBAT LO517 VBAT Enable" value="1" />
+	<ctl name="TX INI522 VBAT HI518 VBAT Enable" value="1" />
+	<ctl name="RX INI522 VBAT HI518 VBAT Enable" value="1" />
+	<ctl name="TX INI523 VBAT MI519 VBAT Enable" value="1" />
+	<ctl name="RX INI523 VBAT MI519 VBAT Enable" value="1" />
+	<ctl name="TX INI524 VBAT LO520 VBAT Enable" value="1" />
+	<ctl name="RX INI524 VBAT LO520 VBAT Enable" value="1" />
+	<ctl name="TX INI525 VBAT HI521 VBAT Enable" value="1" />
+	<ctl name="RX INI525 VBAT HI521 VBAT Enable" value="1" />
+	<ctl name="TX INI526 VBAT MI522 VBAT Enable" value="1" />
+	<ctl name="RX INI526 VBAT MI522 VBAT Enable" value="1" />
+	<ctl name="TX INI527 VBAT LO523 VBAT Enable" value="1" />
+	<ctl name="RX INI527 VBAT LO523 VBAT Enable" value="1" />
+	<ctl name="TX INI528 VBAT HI524 VBAT Enable" value="1" />
+	<ctl name="RX INI528 VBAT HI524 VBAT Enable" value="1" />
+	<ctl name="TX INI529 VBAT MI525 VBAT Enable" value="1" />
+	<ctl name="RX INI529 VBAT MI525 VBAT Enable" value="1" />
+	<ctl name="TX INI530 VBAT LO526 VBAT Enable" value="1" />
+	<ctl name="RX INI530 VBAT LO526 VBAT Enable" value="1" />
+	<ctl name="TX INI531 VBAT HI527 VBAT Enable" value="1" />
+	<ctl name="RX INI531 VBAT HI527 VBAT Enable" value="1" />
+	<ctl name="TX INI532 VBAT MI528 VBAT Enable" value="1" />
+	<ctl name="RX INI532 VBAT MI528 VBAT Enable" value="1" />
+	<ctl name="TX INI533 VBAT LO529 VBAT Enable" value="1" />
+	<ctl name="RX INI533 VBAT LO529 VBAT Enable" value="1" />
+	<ctl name="TX INI534 VBAT HI530 VBAT Enable" value="1" />
+	<ctl name="RX INI534 VBAT HI530 VBAT Enable" value="1" />
+	<ctl name="TX INI535 VBAT MI531 VBAT Enable" value="1" />
+	<ctl name="RX INI535 VBAT MI531 VBAT Enable" value="1" />
+	<ctl name="TX INI536 VBAT LO532 VBAT Enable" value="1" />
+	<ctl name="RX INI536 VBAT LO532 VBAT Enable" value="1" />
+	<ctl name="TX INI537 VBAT HI533 VBAT Enable" value="1" />
+	<ctl name="RX INI537 VBAT HI533 VBAT Enable" value="1" />
+	<ctl name="TX INI538 VBAT MI534 VBAT Enable" value="1" />
+	<ctl name="RX INI538 VBAT MI534 VBAT Enable" value="1" />
+	<ctl name="TX INI539 VBAT LO535 VBAT Enable" value="1" />
+	<ctl name="RX INI539 VBAT LO535 VBAT Enable" value="1" />
+	<ctl name="TX INI540 VBAT HI536 VBAT Enable" value="1" />
+	<ctl name="RX INI540 VBAT HI536 VBAT Enable" value="1" />
+	<ctl name="TX INI541 VBAT MI537 VBAT Enable" value="1" />
+	<ctl name="RX INI541 VBAT MI537 VBAT Enable" value="1" />
+	<ctl name="TX INI542 VBAT LO538 VBAT Enable" value="1" />
+	<ctl name="RX INI542 VBAT LO538 VBAT Enable" value="1" />
+	<ctl name="TX INI543 VBAT HI539 VBAT Enable" value="1" />
+	<ctl name="RX INI543 VBAT HI539 VBAT Enable" value="1" />
+	<ctl name="TX INI544 VBAT MI540 VBAT Enable" value="1" />
+	<ctl name="RX INI544 VBAT MI540 VBAT Enable" value="1" />
+	<ctl name="TX INI545 VBAT LO541 VBAT Enable" value="1" />
+	<ctl name="RX INI545 VBAT LO541 VBAT Enable" value="1" />
+	<ctl name="TX INI546 VBAT HI542 VBAT Enable" value="1" />
+	<ctl name="RX INI546 VBAT HI542 VBAT Enable" value="1" />
+	<ctl name="TX INI547 VBAT MI543 VBAT Enable" value="1" />
+	<ctl name="RX INI547 VBAT MI543 VBAT Enable" value="1" />
+	<ctl name="TX INI548 VBAT LO544 VBAT Enable" value="1" />
+	<ctl name="RX INI548 VBAT LO544 VBAT Enable" value="1" />
+	<ctl name="TX INI549 VBAT HI545 VBAT Enable" value="1" />
+	<ctl name="RX INI549 VBAT HI545 VBAT Enable" value="1" />
+	<ctl name="TX INI550 VBAT MI546 VBAT Enable" value="1" />
+	<ctl name="RX INI550 VBAT MI546 VBAT Enable" value="1" />
+	<ctl name="TX INI551 VBAT LO547 VBAT Enable" value="1" />
+	<ctl name="RX INI551 VBAT LO547 VBAT Enable" value="1" />
+	<ctl name="TX INI552 VBAT HI548 VBAT Enable" value="1" />
+	<ctl name="RX INI552 VBAT HI548 VBAT Enable" value="1" />
+	<ctl name="TX INI553 VBAT MI549 VBAT Enable" value="1" />
+	<ctl name="RX INI553 VBAT MI549 VBAT Enable" value="1" />
+	<ctl name="TX INI554 VBAT LO550 VBAT Enable" value="1" />
+	<ctl name="RX INI554 VBAT LO550 VBAT Enable" value="1" />
+	<ctl name="TX INI555 VBAT HI551 VBAT Enable" value="1" />
+	<ctl name="RX INI555 VBAT HI551 VBAT Enable" value="1" />
+	<ctl name="TX INI556 VBAT MI552 VBAT Enable" value="1" />
+	<ctl name="RX INI556 VBAT MI552 VBAT Enable" value="1" />
+	<ctl name="TX INI557 VBAT LO553 VBAT Enable" value="1" />
+	<ctl name="RX INI557 VBAT LO553 VBAT Enable" value="1" />
+	<ctl name="TX INI558 VBAT HI554 VBAT Enable" value="1" />
+	<ctl name="RX INI558 VBAT HI554 VBAT Enable" value="1" />
+	<ctl name="TX INI559 VBAT MI555 VBAT Enable" value="1" />
+	<ctl name="RX INI559 VBAT MI555 VBAT Enable" value="1" />
+	<ctl name="TX INI560 VBAT LO556 VBAT Enable" value="1" />
+	<ctl name="RX INI560 VBAT LO556 VBAT Enable" value="1" />
+	<ctl name="TX INI561 VBAT HI557 VBAT Enable" value="1" />
+	<ctl name="RX INI561 VBAT HI557 VBAT Enable" value="1" />
+	<ctl name="TX INI562 VBAT MI558 VBAT Enable" value="1" />
+	<ctl name="RX INI562 VBAT MI558 VBAT Enable" value="1" />
+	<ctl name="TX INI563 VBAT LO559 VBAT Enable" value="1" />
+	<ctl name="RX INI563 VBAT LO559 VBAT Enable" value="1" />
+	<ctl name="TX INI564 VBAT HI560 VBAT Enable" value="1" />
+	<ctl name="RX INI564 VBAT HI560 VBAT Enable" value="1" />
+	<ctl name="TX INI565 VBAT MI561 VBAT Enable" value="1" />
+	<ctl name="RX INI565 VBAT MI561 VBAT Enable" value="1" />
+	<ctl name="TX INI566 VBAT LO562 VBAT Enable" value="1" />
+	<ctl name="RX INI566 VBAT LO562 VBAT Enable" value="1" />
+	<ctl name="TX INI567 VBAT HI563 VBAT Enable" value="1" />
+	<ctl name="RX INI567 VBAT HI563 VBAT Enable" value="1" />
+	<ctl name="TX INI568 VBAT MI564 VBAT Enable" value="1" />
+	<ctl name="RX INI568 VBAT MI564 VBAT Enable" value="1" />
+	<ctl name="TX INI569 VBAT LO565 VBAT Enable" value="1" />
+	<ctl name="RX INI569 VBAT LO565 VBAT Enable" value="1" />
+	<ctl name="TX INI570 VBAT HI566 VBAT Enable" value="1" />
+	<ctl name="RX INI570 VBAT HI566 VBAT Enable" value="1" />
+	<ctl name="TX INI571 VBAT MI567 VBAT Enable" value="1" />
+	<ctl name="RX INI571 VBAT MI567 VBAT Enable" value="1" />
+	<ctl name="TX INI572 VBAT LO568 VBAT Enable" value="1" />
+	<ctl name="RX INI572 VBAT LO568 VBAT Enable" value="1" />
+	<ctl name="TX INI573 VBAT HI569 VBAT Enable" value="1" />
+	<ctl name="RX INI573 VBAT HI569 VBAT Enable" value="1" />
+	<ctl name="TX INI574 VBAT MI570 VBAT Enable" value="1" />
+	<ctl name="RX INI574 VBAT MI570 VBAT Enable" value="1" />
+	<ctl name="TX INI575 VBAT LO571 VBAT Enable" value="1" />
+	<ctl name="RX INI575 VBAT LO571 VBAT Enable" value="1" />
+	<ctl name="TX INI576 VBAT HI572 VBAT Enable" value="1" />
+	<ctl name="RX INI576 VBAT HI572 VBAT Enable" value="1" />
+	<ctl name="TX INI577 VBAT MI573 VBAT Enable" value="1" />
+	<ctl name="RX INI577 VBAT MI573 VBAT Enable" value="1" />
+	<ctl name="TX INI578 VBAT LO574 VBAT Enable" value="1" />
+	<ctl name="RX INI578 VBAT LO574 VBAT Enable" value="1" />
+	<ctl name="TX INI579 VBAT HI575 VBAT Enable" value="1" />
+	<ctl name="RX INI579 VBAT HI575 VBAT Enable" value="1" />
+	<ctl name="TX INI580 VBAT MI576 VBAT Enable" value="1" />
+	<ctl name="RX INI580 VBAT MI576 VBAT Enable" value="1" />
+	<ctl name="TX INI581 VBAT LO577 VBAT Enable" value="1" />
+	<ctl name="RX INI581 VBAT LO577 VBAT Enable" value="1" />
+	<ctl name="TX INI582 VBAT HI578 VBAT Enable" value="1" />
+	<ctl name="RX INI582 VBAT HI578 VBAT Enable" value="1" />
+	<ctl name="TX INI583 VBAT MI579 VBAT Enable" value="1" />
+	<ctl name="RX INI583 VBAT MI579 VBAT Enable" value="1" />
+	<ctl name="TX INI584 VBAT LO580 VBAT Enable" value="1" />
+	<ctl name="RX INI584 VBAT LO580 VBAT Enable" value="1" />
+	<ctl name="TX INI585 VBAT HI581 VBAT Enable" value="1" />
+	<ctl name="RX INI585 VBAT HI581 VBAT Enable" value="1" />
+	<ctl name="TX INI586 VBAT MI582 VBAT Enable" value="1" />
+	<ctl name="RX INI586 VBAT MI582 VBAT Enable" value="1" />
+	<ctl name="TX INI587 VBAT LO583 VBAT Enable" value="1" />
+	<ctl name="RX INI587 VBAT LO583 VBAT Enable" value="1" />
+	<ctl name="TX INI588 VBAT HI584 VBAT Enable" value="1" />
+	<ctl name="RX INI588 VBAT HI584 VBAT Enable" value="1" />
+	<ctl name="TX INI589 VBAT MI585 VBAT Enable" value="1" />
+	<ctl name="RX INI589 VBAT MI585 VBAT Enable" value="1" />
+	<ctl name="TX INI590 VBAT LO586 VBAT Enable" value="1" />
+	<ctl name="RX INI590 VBAT LO586 VBAT Enable" value="1" />
+	<ctl name="TX INI591 VBAT HI587 VBAT Enable" value="1" />
+	<ctl name="RX INI591 VBAT HI587 VBAT Enable" value="1" />
+	<ctl name="TX INI592 VBAT MI588 VBAT Enable" value="1" />
+	<ctl name="RX INI592 VBAT MI588 VBAT Enable" value="1" />
+	<ctl name="TX INI593 VBAT LO589 VBAT Enable" value="1" />
+	<ctl name="RX INI593 VBAT LO589 VBAT Enable" value="1" />
+	<ctl name="TX INI594 VBAT HI590 VBAT Enable" value="1" />
+	<ctl name="RX INI594 VBAT HI590 VBAT Enable" value="1" />
+	<ctl name="TX INI595 VBAT MI591 VBAT Enable" value="1" />
+	<ctl name="RX INI595 VBAT MI591 VBAT Enable" value="1" />
+	<ctl name="TX INI596 VBAT LO592 VBAT Enable" value="1" />
+	<ctl name="RX INI596 VBAT LO592 VBAT Enable" value="1" />
+	<ctl name="TX INI597 VBAT HI593 VBAT Enable" value="1" />
+	<ctl name="RX INI597 VBAT HI593 VBAT Enable" value="1" />
+	<ctl name="TX INI598 VBAT MI594 VBAT Enable" value="1" />
+	<ctl name="RX INI598 VBAT MI594 VBAT Enable" value="1" />
+	<ctl name="TX INI599 VBAT LO595 VBAT Enable" value="1" />
+	<ctl name="RX INI599 VBAT LO595 VBAT Enable" value="1" />
+	<ctl name="TX INI600 VBAT HI596 VBAT Enable" value="1" />
+	<ctl name="RX INI600 VBAT HI596 VBAT Enable" value="1" />
+	<ctl name="TX INI601 VBAT MI597 VBAT Enable" value="1" />
+	<ctl name="RX INI601 VBAT MI597 VBAT Enable" value="1" />
+	<ctl name="TX INI602 VBAT LO598 VBAT Enable" value="1" />
+	<ctl name="RX INI602 VBAT LO598 VBAT Enable" value="1" />
+	<ctl name="TX INI603 VBAT HI599 VBAT Enable" value="1" />
+	<ctl name="RX INI603 VBAT HI599 VBAT Enable" value="1" />
+	<ctl name="TX INI604 VBAT MI600 VBAT Enable" value="1" />
+	<ctl name="RX INI604 VBAT MI600 VBAT Enable" value="1" />
+	<ctl name="TX INI605 VBAT LO601 VBAT Enable" value="1" />
+	<ctl name="RX INI605 VBAT LO601 VBAT Enable" value="1" />
+	<ctl name="TX INI606 VBAT HI602 VBAT Enable" value="1" />
+	<ctl name="RX INI606 VBAT HI602 VBAT Enable" value="1" />
+	<ctl name="TX INI607 VBAT MI603 VBAT Enable" value="1" />
+	<ctl name="RX INI607 VBAT MI603 VBAT Enable" value="1" />
+	<ctl name="TX INI608 VBAT LO604 VBAT Enable" value="1" />
+	<ctl name="RX INI608 VBAT LO604 VBAT Enable" value="1" />
+	<ctl name="TX INI609 VBAT HI605 VBAT Enable" value="1" />
+	<ctl name="RX INI609 VBAT HI605 VBAT Enable" value="1" />
+	<ctl name="TX INI610 VBAT MI606 VBAT Enable" value="1" />
+	<ctl name="RX INI610 VBAT MI606 VBAT Enable" value="1" />
+	<ctl name="TX INI611 VBAT LO607 VBAT Enable" value="1" />
+	<ctl name="RX INI611 VBAT LO607 VBAT Enable" value="1" />
+	<ctl name="TX INI612 VBAT HI608 VBAT Enable" value="1" />
+	<ctl name="RX INI612 VBAT HI608 VBAT Enable" value="1" />
+	<ctl name="TX INI613 VBAT MI609 VBAT Enable" value="1" />
+	<ctl name="RX INI613 VBAT MI609 VBAT Enable" value="1" />
+	<ctl name="TX INI614 VBAT LO610 VBAT Enable" value="1" />
+	<ctl name="RX INI614 VBAT LO610 VBAT Enable" value="1" />
+	<ctl name="TX INI615 VBAT HI611 VBAT Enable" value="1" />
+	<ctl name="RX INI615 VBAT HI611 VBAT Enable" value="1" />
+	<ctl name="TX INI616 VBAT MI612 VBAT Enable" value="1" />
+	<ctl name="RX INI616 VBAT MI612 VBAT Enable" value="1" />
+	<ctl name="TX INI617 VBAT LO613 VBAT Enable" value="1" />
+	<ctl name="RX INI617 VBAT LO613 VBAT Enable" value="1" />
+	<ctl name="TX INI618 VBAT HI614 VBAT Enable" value="1" />
+	<ctl name="RX INI618 VBAT HI614 VBAT Enable" value="1" />
+	<ctl name="TX INI619 VBAT MI615 VBAT Enable" value="1" />
+	<ctl name="RX INI619 VBAT MI615 VBAT Enable" value="1" />
+	<ctl name="TX INI620 VBAT LO616 VBAT Enable" value="1" />
+	<ctl name="RX INI620 VBAT LO616 VBAT Enable" value="1" />
+	<ctl name="TX INI621 VBAT HI617 VBAT Enable" value="1" />
+	<ctl name="RX INI621 VBAT HI617 VBAT Enable" value="1" />
+	<ctl name="TX INI622 VBAT MI618 VBAT Enable" value="1" />
+	<ctl name="RX INI622 VBAT MI618 VBAT Enable" value="1" />
+	<ctl name="TX INI623 VBAT LO619 VBAT Enable" value="1" />
+	<ctl name="RX INI623 VBAT LO619 VBAT Enable" value="1" />
+	<ctl name="TX INI624 VBAT HI620 VBAT Enable" value="1" />
+	<ctl name="RX INI624 VBAT HI620 VBAT Enable" value="1" />
+	<ctl name="TX INI625 VBAT MI621 VBAT Enable" value="1" />
+	<ctl name="RX INI625 VBAT MI621 VBAT Enable" value="1" />
+	<ctl name="TX INI626 VBAT LO622 VBAT Enable" value="1" />
+	<ctl name="RX INI626 VBAT LO622 VBAT Enable" value="1" />
+	<ctl name="TX INI627 VBAT HI623 VBAT Enable" value="1" />
+	<ctl name="RX INI627 VBAT HI623 VBAT Enable" value="1" />
+	<ctl name="TX INI628 VBAT MI624 VBAT Enable" value="1" />
+	<ctl name="RX INI628 VBAT MI624 VBAT Enable" value="1" />
+	<ctl name="TX INI629 VBAT LO625 VBAT Enable" value="1" />
+	<ctl name="RX INI629 VBAT LO625 VBAT Enable" value="1" />
+	<ctl name="TX INI630 VBAT HI626 VBAT Enable" value="1" />
+	<ctl name="RX INI630 VBAT HI626 VBAT Enable" value="1" />
+	<ctl name="TX INI631 VBAT MI627 VBAT Enable" value="1" />
+	<ctl name="RX INI631 VBAT MI627 VBAT Enable" value="1" />
+	<ctl name="TX INI632 VBAT LO628 VBAT Enable" value="1" />
+	<ctl name="RX INI632 VBAT LO628 VBAT Enable" value="1" />
+	<ctl name="TX INI633 VBAT HI629 VBAT Enable" value="1" />
+	<ctl name="RX INI633 VBAT HI629 VBAT Enable" value="1" />
+	<ctl name="TX INI634 VBAT MI630 VBAT Enable" value="1" />
+	<ctl name="RX INI634 VBAT MI630 VBAT Enable" value="1" />
+	<ctl name="TX INI635 VBAT LO631 VBAT Enable" value="1" />
+	<ctl name="RX INI635 VBAT LO631 VBAT Enable" value="1" />
+	<ctl name="TX INI636 VBAT HI632 VBAT Enable" value="1" />
+	<ctl name="RX INI636 VBAT HI632 VBAT Enable" value="1" />
+	<ctl name="TX INI637 VBAT MI633 VBAT Enable" value="1" />
+	<ctl name="RX INI637 VBAT MI633 VBAT Enable" value="1" />
+	<ctl name="TX INI638 VBAT LO634 VBAT Enable" value="1" />
+	<ctl name="RX INI638 VBAT LO634 VBAT Enable" value="1" />
+	<ctl name="TX INI639 VBAT HI635 VBAT Enable" value="1" />
+	<ctl name="RX INI639 VBAT HI635 VBAT Enable" value="1" />
+	<ctl name="TX INI640 VBAT MI636 VBAT Enable" value="1" />
+	<ctl name="RX INI640 VBAT MI636 VBAT Enable" value="1" />
+	<ctl name="TX INI641 VBAT LO637 VBAT Enable" value="1" />
+	<ctl name="RX INI641 VBAT LO637 VBAT Enable" value="1" />
+	<ctl name="TX INI642 VBAT HI638 VBAT Enable" value="1" />
+	<ctl name="RX INI642 VBAT HI638 VBAT Enable" value="1" />
+	<ctl name="TX INI643 VBAT MI639 VBAT Enable" value="1" />
+	<ctl name="RX INI643 VBAT MI639 VBAT Enable" value="1" />
+	<ctl name="TX INI644 VBAT LO640 VBAT Enable" value="1" />
+	<ctl name="RX INI644 VBAT LO640 VBAT Enable" value="1" />
+	<ctl name="TX INI645 VBAT HI641 VBAT Enable" value="1" />
+	<ctl name="RX INI645 VBAT HI641 VBAT Enable" value="1" />
+	<ctl name="TX INI646 VBAT MI642 VBAT Enable" value="1" />
+	<ctl name="RX INI646 VBAT MI642 VBAT Enable" value="1" />
+	<ctl name="TX INI647 VBAT LO643 VBAT Enable" value="1" />
+	<ctl name="RX INI647 VBAT LO643 VBAT Enable" value="1" />
+	<ctl name="TX INI648 VBAT HI644 VBAT Enable" value="1" />
+	<ctl name="RX INI648 VBAT HI644 VBAT Enable" value="1" />
+	<ctl name="TX INI649 VBAT MI645 VBAT Enable" value="1" />
+	<ctl name="RX INI649 VBAT MI645 VBAT Enable" value="1" />
+	<ctl name="TX INI650 VBAT LO646 VBAT Enable" value="1" />
+	<ctl name="RX INI650 VBAT LO646 VBAT Enable" value="1" />
+	<ctl name="TX INI651 VBAT HI647 VBAT Enable" value="1" />
+	<ctl name="RX INI651 VBAT HI647 VBAT Enable" value="1" />
+	<ctl name="TX INI652 VBAT MI648 VBAT Enable" value="1" />
+	<ctl name="RX INI652 VBAT MI648 VBAT Enable" value="1" />
+	<ctl name="TX INI653 VBAT LO649 VBAT Enable" value="1" />
+	<ctl name="RX INI653 VBAT LO649 VBAT Enable" value="1" />
+	<ctl name="TX INI654 VBAT HI650 VBAT Enable" value="1" />
+	<ctl name="RX INI654 VBAT HI650 VBAT Enable" value="1" />
+	<ctl name="TX INI655 VBAT MI651 VBAT Enable" value="1" />
+	<ctl name="RX INI655 VBAT MI651 VBAT Enable" value="1" />
+	<ctl name="TX INI656 VBAT LO652 VBAT Enable" value="1" />
+	<ctl name="RX INI656 VBAT LO652 VBAT Enable" value="1" />
+	<ctl name="TX INI657 VBAT HI653 VBAT Enable" value="1" />
+	<ctl name="RX INI657 VBAT HI653 VBAT Enable" value="1" />
+	<ctl name="TX INI658 VBAT MI654 VBAT Enable" value="1" />
+	<ctl name="RX INI658 VBAT MI654 VBAT Enable" value="1" />
+	<ctl name="TX INI659 VBAT LO655 VBAT Enable" value="1" />
+	<ctl name="RX INI659 VBAT LO655 VBAT Enable" value="1" />
+	<ctl name="TX INI660 VBAT HI656 VBAT Enable" value="1" />
+	<ctl name="RX INI660 VBAT HI656 VBAT Enable" value="1" />
+	<ctl name="TX INI661 VBAT MI657 VBAT Enable" value="1" />
+	<ctl name="RX INI661 VBAT MI657 VBAT Enable" value="1" />
+	<ctl name="TX INI662 VBAT LO658 VBAT Enable" value="1" />
+	<ctl name="RX INI662 VBAT LO658 VBAT Enable" value="1" />
+	<ctl name="TX INI663 VBAT HI659 VBAT Enable" value="1" />
+	<ctl name="RX INI663 VBAT HI659 VBAT Enable" value="1" />
+	<ctl name="TX INI664 VBAT MI660 VBAT Enable" value="1" />
+	<ctl name="RX INI664 VBAT MI660 VBAT Enable" value="1" />
+	<ctl name="TX INI665 VBAT LO661 VBAT Enable" value="1" />
+	<ctl name="RX INI665 VBAT LO661 VBAT Enable" value="1" />
+	<ctl name="TX INI666 VBAT HI662 VBAT Enable" value="1" />
+	<ctl name="RX INI666 VBAT HI662 VBAT Enable" value="1" />
+	<ctl name="TX INI667 VBAT MI663 VBAT Enable" value="1" />
+	<ctl name="RX INI667 VBAT MI663 VBAT Enable" value="1" />
+	<ctl name="TX INI668 VBAT LO664 VBAT Enable" value="1" />
+	<ctl name="RX INI668 VBAT LO664 VBAT Enable" value="1" />
+	<ctl name="TX INI669 VBAT HI665 VBAT Enable" value="1" />
+	<ctl name="RX INI669 VBAT HI665 VBAT Enable" value="1" />
+	<ctl name="TX INI670 VBAT MI666 VBAT Enable" value="1" />
+	<ctl name="RX INI670 VBAT MI666 VBAT Enable" value="1" />
+	<ctl name="TX INI671 VBAT LO667 VBAT Enable" value="1" />
+	<ctl name="RX INI671 VBAT LO667 VBAT Enable" value="1" />
+	<ctl name="TX INI672 VBAT HI668 VBAT Enable" value="1" />
+	<ctl name="RX INI672 VBAT HI668 VBAT Enable" value="1" />
+	<ctl name="TX INI673 VBAT MI669 VBAT Enable" value="1" />
+	<ctl name="RX INI673 VBAT MI669 VBAT Enable" value="1" />
+	<ctl name="TX INI674 VBAT LO670 VBAT Enable" value="1" />
+	<ctl name="RX INI674 VBAT LO670 VBAT Enable" value="1" />
+	<ctl name="TX INI675 VBAT HI671 VBAT Enable" value="1" />
+	<ctl name="RX INI675 VBAT HI671 VBAT Enable" value="1" />
+	<ctl name="TX INI676 VBAT MI672 VBAT Enable" value="1" />
+	<ctl name="RX INI676 VBAT MI672 VBAT Enable" value="1" />
+	<ctl name="TX INI677 VBAT LO673 VBAT Enable" value="1" />
+	<ctl name="RX INI677 VBAT LO673 VBAT Enable" value="1" />
+	<ctl name="TX INI678 VBAT HI674 VBAT Enable" value="1" />
+	<ctl name="RX INI678 VBAT HI674 VBAT Enable" value="1" />
+	<ctl name="TX INI679 VBAT MI675 VBAT Enable" value="1" />
+	<ctl name="RX INI679 VBAT MI675 VBAT Enable" value="1" />
+	<ctl name="TX INI680 VBAT LO676 VBAT Enable" value="1" />
+	<ctl name="RX INI680 VBAT LO676 VBAT Enable" value="1" />
+	<ctl name="TX INI681 VBAT HI677 VBAT Enable" value="1" />
+	<ctl name="RX INI681 VBAT HI677 VBAT Enable" value="1" />
+	<ctl name="TX INI682 VBAT MI678 VBAT Enable" value="1" />
+	<ctl name="RX INI682 VBAT MI678 VBAT Enable" value="1" />
+	<ctl name="TX INI683 VBAT LO679 VBAT Enable" value="1" />
+	<ctl name="RX INI683 VBAT LO679 VBAT Enable" value="1" />
+	<ctl name="TX INI684 VBAT HI680 VBAT Enable" value="1" />
+	<ctl name="RX INI684 VBAT HI680 VBAT Enable" value="1" />
+	<ctl name="TX INI685 VBAT MI681 VBAT Enable" value="1" />
+	<ctl name="RX INI685 VBAT MI681 VBAT Enable" value="1" />
+	<ctl name="TX INI686 VBAT LO682 VBAT Enable" value="1" />
+	<ctl name="RX INI686 VBAT LO682 VBAT Enable" value="1" />
+	<ctl name="TX INI687 VBAT HI683 VBAT Enable" value="1" />
+	<ctl name="RX INI687 VBAT HI683 VBAT Enable" value="1" />
+	<ctl name="TX INI688 VBAT MI684 VBAT Enable" value="1" />
+	<ctl name="RX INI688 VBAT MI684 VBAT Enable" value="1" />
+	<ctl name="TX INI689 VBAT LO685 VBAT Enable" value="1" />
+	<ctl name="RX INI689 VBAT LO685 VBAT Enable" value="1" />
+	<ctl name="TX INI690 VBAT HI686 VBAT Enable" value="1" />
+	<ctl name="RX INI690 VBAT HI686 VBAT Enable" value="1" />
+	<ctl name="TX INI691 VBAT MI687 VBAT Enable" value="1" />
+	<ctl name="RX INI691 VBAT MI687 VBAT Enable" value="1" />
+	<ctl name="TX INI692 VBAT LO688 VBAT Enable" value="1" />
+	<ctl name="RX INI692 VBAT LO688 VBAT Enable" value="1" />
+	<ctl name="TX INI693 VBAT HI689 VBAT Enable" value="1" />
+	<ctl name="RX INI693 VBAT HI689 VBAT Enable" value="1" />
+	<ctl name="TX INI694 VBAT MI690 VBAT Enable" value="1" />
+	<ctl name="RX INI694 VBAT MI690 VBAT Enable" value="1" />
+	<ctl name="TX INI695 VBAT LO691 VBAT Enable" value="1" />
+	<ctl name="RX INI695 VBAT LO691 VBAT Enable" value="1" />
+	<ctl name="TX INI696 VBAT HI692 VBAT Enable" value="1" />
+	<ctl name="RX INI696 VBAT HI692 VBAT Enable" value="1" />
+	<ctl name="TX INI697 VBAT MI693 VBAT Enable" value="1" />
+	<ctl name="RX INI697 VBAT MI693 VBAT Enable" value="1" />
+	<ctl name="TX INI698 VBAT LO694 VBAT Enable" value="1" />
+	<ctl name="RX INI698 VBAT LO694 VBAT Enable" value="1" />
+	<ctl name="TX INI699 VBAT HI695 VBAT Enable" value="1" />
+	<ctl name="RX INI699 VBAT HI695 VBAT Enable" value="1" />
+	<ctl name="TX INI700 VBAT MI696 VBAT Enable" value="1" />
+	<ctl name="RX INI700 VBAT MI696 VBAT Enable" value="1" />
+	<ctl name="TX INI701 VBAT LO697 VBAT Enable" value="1" />
+	<ctl name="RX INI701 VBAT LO697 VBAT Enable" value="1" />
+	<ctl name="TX INI702 VBAT HI698 VBAT Enable" value="1" />
+	<ctl name="RX INI702 VBAT HI698 VBAT Enable" value="1" />
+	<ctl name="TX INI703 VBAT MI699 VBAT Enable" value="1" />
+	<ctl name="RX INI703 VBAT MI699 VBAT Enable" value="1" />
+	<ctl name="TX INI704 VBAT LO700 VBAT Enable" value="1" />
+	<ctl name="RX INI704 VBAT LO700 VBAT Enable" value="1" />
+	<ctl name="TX INI705 VBAT HI701 VBAT Enable" value="1" />
+	<ctl name="RX INI705 VBAT HI701 VBAT Enable" value="1" />
+	<ctl name="TX INI706 VBAT MI702 VBAT Enable" value="1" />
+	<ctl name="RX INI706 VBAT MI702 VBAT Enable" value="1" />
+	<ctl name="TX INI707 VBAT LO703 VBAT Enable" value="1" />
+	<ctl name="RX INI707 VBAT LO703 VBAT Enable" value="1" />
+	<ctl name="TX INI708 VBAT HI704 VBAT Enable" value="1" />
+	<ctl name="RX INI708 VBAT HI704 VBAT Enable" value="1" />
+	<ctl name="TX INI709 VBAT MI705 VBAT Enable" value="1" />
+	<ctl name="RX INI709 VBAT MI705 VBAT Enable" value="1" />
+	<ctl name="TX INI710 VBAT LO706 VBAT Enable" value="1" />
+	<ctl name="RX INI710 VBAT LO706 VBAT Enable" value="1" />
+	<ctl name="TX INI711 VBAT HI707 VBAT Enable" value="1" />
+	<ctl name="RX INI711 VBAT HI707 VBAT Enable" value="1" />
+	<ctl name="TX INI712 VBAT MI708 VBAT Enable" value="1" />
+	<ctl name="RX INI712 VBAT MI708 VBAT Enable" value="1" />
+	<ctl name="TX INI713 VBAT LO709 VBAT Enable" value="1" />
+	<ctl name="RX INI713 VBAT LO709 VBAT Enable" value="1" />
+	<ctl name="TX INI714 VBAT HI710 VBAT Enable" value="1" />
+	<ctl name="RX INI714 VBAT HI710 VBAT Enable" value="1" />
+	<ctl name="TX INI715 VBAT MI711 VBAT Enable" value="1" />
+	<ctl name="RX INI715 VBAT MI711 VBAT Enable" value="1" />
+	<ctl name="TX INI716 VBAT LO712 VBAT Enable" value="1" />
+	<ctl name="RX INI716 VBAT LO712 VBAT Enable" value="1" />
+	<ctl name="TX INI717 VBAT HI713 VBAT Enable" value="1" />
+	<ctl name="RX INI717 VBAT HI713 VBAT Enable" value="1" />
+	<ctl name="TX INI718 VBAT MI714 VBAT Enable" value="1" />
+	<ctl name="RX INI718 VBAT MI714 VBAT Enable" value="1" />
+	<ctl name="TX INI719 VBAT LO715 VBAT Enable" value="1" />
+	<ctl name="RX INI719 VBAT LO715 VBAT Enable" value="1" />
+	<ctl name="TX INI720 VBAT HI716 VBAT Enable" value="1" />
+	<ctl name="RX INI720 VBAT HI716 VBAT Enable" value="1" />
+	<ctl name="TX INI721 VBAT MI717 VBAT Enable" value="1" />
+	<ctl name="RX INI721 VBAT MI717 VBAT Enable" value="1" />
+	<ctl name="TX INI722 VBAT LO718 VBAT Enable" value="1" />
+	<ctl name="RX INI722 VBAT LO718 VBAT Enable" value="1" />
+	<ctl name="TX INI723 VBAT HI719 VBAT Enable" value="1" />
+	<ctl name="RX INI723 VBAT HI719 VBAT Enable" value="1" />
+	<ctl name="TX INI724 VBAT MI720 VBAT Enable" value="1" />
+	<ctl name="RX INI724 VBAT MI720 VBAT Enable" value="1" />
+	<ctl name="TX INI725 VBAT LO721 VBAT Enable" value="1" />
+	<ctl name="RX INI725 VBAT LO721 VBAT Enable" value="1" />
+	<ctl name="TX INI726 VBAT HI722 VBAT Enable" value="1" />
+	<ctl name="RX INI726 VBAT HI722 VBAT Enable" value="1" />
+	<ctl name="TX INI727 VBAT MI723 VBAT Enable" value="1" />
+	<ctl name="RX INI727 VBAT MI723 VBAT Enable" value="1" />
+	<ctl name="TX INI728 VBAT LO724 VBAT Enable" value="1" />
+	<ctl name="RX INI728 VBAT LO724 VBAT Enable" value="1" />
+	<ctl name="TX INI729 VBAT HI725 VBAT Enable" value="1" />
+	<ctl name="RX INI729 VBAT HI725 VBAT Enable" value="1" />
+	<ctl name="TX INI730 VBAT MI726 VBAT Enable" value="1" />
+	<ctl name="RX INI730 VBAT MI726 VBAT Enable" value="1" />
+	<ctl name="TX INI731 VBAT LO727 VBAT Enable" value="1" />
+	<ctl name="RX INI731 VBAT LO727 VBAT Enable" value="1" />
+	<ctl name="TX INI732 VBAT HI728 VBAT Enable" value="1" />
+	<ctl name="RX INI732 VBAT HI728 VBAT Enable" value="1" />
+	<ctl name="TX INI733 VBAT MI729 VBAT Enable" value="1" />
+	<ctl name="RX INI733 VBAT MI729 VBAT Enable" value="1" />
+	<ctl name="TX INI734 VBAT LO730 VBAT Enable" value="1" />
+	<ctl name="RX INI734 VBAT LO730 VBAT Enable" value="1" />
+	<ctl name="TX INI735 VBAT HI731 VBAT Enable" value="1" />
+	<ctl name="RX INI735 VBAT HI731 VBAT Enable" value="1" />
+	<ctl name="TX INI736 VBAT MI732 VBAT Enable" value="1" />
+	<ctl name="RX INI736 VBAT MI732 VBAT Enable" value="1" />
+	<ctl name="TX INI737 VBAT LO733 VBAT Enable" value="1" />
+	<ctl name="RX INI737 VBAT LO733 VBAT Enable" value="1" />
+	<ctl name="TX INI738 VBAT HI734 VBAT Enable" value="1" />
+	<ctl name="RX INI738 VBAT HI734 VBAT Enable" value="1" />
+	<ctl name="TX INI739 VBAT MI735 VBAT Enable" value="1" />
+	<ctl name="RX INI739 VBAT MI735 VBAT Enable" value="1" />
+	<ctl name="TX INI740 VBAT LO736 VBAT Enable" value="1" />
+	<ctl name="RX INI740 VBAT LO736 VBAT Enable" value="1" />
+	<ctl name="TX INI741 VBAT HI737 VBAT Enable" value="1" />
+	<ctl name="RX INI741 VBAT HI737 VBAT Enable" value="1" />
+	<ctl name="TX INI742 VBAT MI738 VBAT Enable" value="1" />
+	<ctl name="RX INI742 VBAT MI738 VBAT Enable" value="1" />
+	<ctl name="TX INI743 VBAT LO739 VBAT Enable" value="1" />
+	<ctl name="RX INI743 VBAT LO739 VBAT Enable" value="1" />
+	<ctl name="TX INI744 VBAT HI740 VBAT Enable" value="1" />
+	<ctl name="RX INI744 VBAT HI740 VBAT Enable" value="1" />
+	<ctl name="TX INI745 VBAT MI741 VBAT Enable" value="1" />
+	<ctl name="RX INI745 VBAT MI741 VBAT Enable" value="1" />
+	<ctl name="TX INI746 VBAT LO742 VBAT Enable" value="1" />
+	<ctl name="RX INI746 VBAT LO742 VBAT Enable" value="1" />
+	<ctl name="TX INI747 VBAT HI743 VBAT Enable" value="1" />
+	<ctl name="RX INI747 VBAT HI743 VBAT Enable" value="1" />
+	<ctl name="TX INI748 VBAT MI744 VBAT Enable" value="1" />
+	<ctl name="RX INI748 VBAT MI744 VBAT Enable" value="1" />
+	<ctl name="TX INI749 VBAT LO745 VBAT Enable" value="1" />
+	<ctl name="RX INI749 VBAT LO745 VBAT Enable" value="1" />
+	<ctl name="TX INI750 VBAT HI746 VBAT Enable" value="1" />
+	<ctl name="RX INI750 VBAT HI746 VBAT Enable" value="1" />
+	<ctl name="TX INI751 VBAT MI747 VBAT Enable" value="1" />
+	<ctl name="RX INI751 VBAT MI747 VBAT Enable" value="1" />
+	<ctl name="TX INI752 VBAT LO748 VBAT Enable" value="1" />
+	<ctl name="RX INI752 VBAT LO748 VBAT Enable" value="1" />
+	<ctl name="TX INI753 VBAT HI749 VBAT Enable" value="1" />
+	<ctl name="RX INI753 VBAT HI749 VBAT Enable" value="1" />
+	<ctl name="TX INI754 VBAT MI750 VBAT Enable" value="1" />
+	<ctl name="RX INI754 VBAT MI750 VBAT Enable" value="1" />
+	<ctl name="TX INI755 VBAT LO751 VBAT Enable" value="1" />
+	<ctl name="RX INI755 VBAT LO751 VBAT Enable" value="1" />
+	<ctl name="TX INI756 VBAT HI752 VBAT Enable" value="1" />
+	<ctl name="RX INI756 VBAT HI752 VBAT Enable" value="1" />
+	<ctl name="TX INI757 VBAT MI753 VBAT Enable" value="1" />
+	<ctl name="RX INI757 VBAT MI753 VBAT Enable" value="1" />
+	<ctl name="TX INI758 VBAT LO754 VBAT Enable" value="1" />
+	<ctl name="RX INI758 VBAT LO754 VBAT Enable" value="1" />
+	<ctl name="TX INI759 VBAT HI755 VBAT Enable" value="1" />
+	<ctl name="RX INI759 VBAT HI755 VBAT Enable" value="1" />
+	<ctl name="TX INI760 VBAT MI756 VBAT Enable" value="1" />
+	<ctl name="RX INI760 VBAT MI756 VBAT Enable" value="1" />
+	<ctl name="TX INI761 VBAT LO757 VBAT Enable" value="1" />
+	<ctl name="RX INI761 VBAT LO757 VBAT Enable" value="1" />
+	<ctl name="TX INI762 VBAT HI758 VBAT Enable" value="1" />
+	<ctl name="RX INI762 VBAT HI758 VBAT Enable" value="1" />
+	<ctl name="TX INI763 VBAT MI759 VBAT Enable" value="1" />
+	<ctl name="RX INI763 VBAT MI759 VBAT Enable" value="1" />
+	<ctl name="TX INI764 VBAT LO760 VBAT Enable" value="1" />
+	<ctl name="RX INI764 VBAT LO760 VBAT Enable" value="1" />
+	<ctl name="TX INI765 VBAT HI761 VBAT Enable" value="1" />
+	<ctl name="RX INI765 VBAT HI761 VBAT Enable" value="1" />
+	<ctl name="TX INI766 VBAT MI762 VBAT Enable" value="1" />
+	<ctl name="RX INI766 VBAT MI762 VBAT Enable" value="1" />
+	<ctl name="TX INI767 VBAT LO763 VBAT Enable" value="1" />
+	<ctl name="RX INI767 VBAT LO763 VBAT Enable" value="1" />
+	<ctl name="TX INI768 VBAT HI764 VBAT Enable" value="1" />
+	<ctl name="RX INI768 VBAT HI764 VBAT Enable" value="1" />
+	<ctl name="TX INI769 VBAT MI765 VBAT Enable" value="1" />
+	<ctl name="RX INI769 VBAT MI765 VBAT Enable" value="1" />
+	<ctl name="TX INI770 VBAT LO766 VBAT Enable" value="1" />
+	<ctl name="RX INI770 VBAT LO766 VBAT Enable" value="1" />
+	<ctl name="TX INI771 VBAT HI767 VBAT Enable" value="1" />
+	<ctl name="RX INI771 VBAT HI767 VBAT Enable" value="1" />
+	<ctl name="TX INI772 VBAT MI768 VBAT Enable" value="1" />
+	<ctl name="RX INI772 VBAT MI768 VBAT Enable" value="1" />
+	</path>
+
+
 	
 	<!-- End of True Native Mode function -->
 	
@@ -15796,12 +18119,80 @@
 	
 	<!-- This is how I calculated the bit rate for speaker-24bit -->
 	<!-- 96 X 4 = 384 -->
+
+	<!-- Saber ESS DAC mono side -->
+	
+	<path name="speaker-mono">
+	<path name="true-native-mode-SPKR-mono" />
+	<path name="true-native-mode-SPKR-vbat-mono" />
+	<ctl name="TX INT7_1 MIX1 INP0" value="RX0" />
+	<ctl name="RX INT7_1 MIX1 INP0" value="RX0" />
+	<ctl name="SLIM TX0 MUX" value="AIF_MIX1_PB" />
+	<ctl name="SLIM RX0 MUX" value="AIF_MIX1_PB" />
+	<ctl name="SPKRL LDAC Switch" value="1" />
+	<ctl name="TX SPKRL LDAC" value="1" />
+	<ctl name="RX SPKRL LDAC" value="1" />
+	<ctl name="SPKRR RDAC Switch" value="0" />
+	<ctl name="TX SPKRR RDAC" value="0" />
+	<ctl name="RX SPKRR RDAC" value="0" />
+	<ctl name="SpkrLeft COMP Switch" value="1" />
+	<ctl name="SpkrRight COMP Switch" value="0" />
+	<ctl name="SpkrLeft BOOST Switch" value="1" />
+	<ctl name="SpkrRight BOOST Switch" value="0" />
+	<ctl name="SpkrLeft VISENSE Switch" value="1" />
+	<ctl name="SpkrRight VISENSE Switch" value="0" />
+	<ctl name="SpkrLeft WSA PA Mute" value="1" />
+	<ctl name="SpkrRight WSA PA Mute" value="0" />
+	<ctl name="SpkrLeft SWR DAC_Port Switch" value="1" />
+	<ctl name="SpkrRight SWR DAC_Port Switch" value="0" />
+	<path name="speaker_fluid" />
+	<path name="speaker-protected" />
+	<path name="speaker-protected-voice" />
+	<path name="fake_speaker-mono" />
+	<path name="vbat_speaker_fluid" />
+	<path name="vbat_speaker-protected" />
+	<path name="vbat_speaker-protected-voice" />
+	<path name="vbat_fake_speaker-mono" />
+	</path>
+	
+	<!-- Saber ESS DAC stereo side -->
+	
+	<path name="speaker">
+	<path name="true-native-mode-SPKR" />
+	<path name="true-native-mode-SPKR-vbat" />
+	<ctl name="SPKRL LDAC Switch" value="2" />
+	<ctl name="TX SPKRL LDAC" value="2" />
+	<ctl name="RX SPKRL LDAC" value="2" />
+	<ctl name="SPKRR RDAC Switch" value="2" />
+	<ctl name="TX SPKRR RDAC" value="2" />
+	<ctl name="RX SPKRR RDAC" value="2" />
+	<ctl name="SpkrLeft COMP Switch" value="2" />
+	<ctl name="SpkrRight COMP Switch" value="2" />
+	<ctl name="SpkrLeft BOOST Switch" value="0" />
+	<ctl name="SpkrRight BOOST Switch" value="0" />
+	<ctl name="SpkrLeft VISENSE Switch" value="0" />
+	<ctl name="SpkrRight VISENSE Switch" value="0" />
+	<ctl name="SpkrLeft WSA PA Mute" value="0" />
+	<ctl name="SpkrRight WSA PA Mute" value="0" />
+	<ctl name="SpkrLeft SWR DAC_Port Switch" value="2" />
+	<ctl name="SpkrRight SWR DAC_Port Switch" value="2" />
+	<path name="speaker-16bit" />
+	<path name="speaker-24bit" />
+	<path name="speaker_liquid" />
+	<path name="fake_speaker" />
+	<path name="vbat_speaker-16bit" />
+	<path name="vbat_speaker-24bit" />
+	<path name="vbat_speaker_liquid" />
+	<path name="vbat_fake_speaker" />
+	</path>
 	
 	<!-- 16bit internal speaker -->
 	
 	<path name="speaker_fluid">
-	<ctl name="SLIM_2_TX Channels" value="Four" />
-	<ctl name="SLIM_2_RX Channels" value="Four" />
+	<path name="true-native-mode-SPKR-mono" />
+	<path name="true-native-mode-SPKR-vbat-mono" />
+	<ctl name="SLIM_2_TX Channels" value="Sevenhundredsixtyeight" />
+	<ctl name="SLIM_2_RX Channels" value="Sevenhundredsixtyeight" />
 	<ctl name="SLIM_2_TX SampleRate" value="KHZ_44.1" />
 	<ctl name="SLIM_2_RX SampleRate" value="KHZ_44.1" />
 	<ctl name="SLIM_2_TX Format" value="PACKED_16B" />
@@ -15987,70 +18378,6 @@
 	<ctl name="TX SPKRR Volume" value="0" />
 	<ctl name="RX SPKRR Volume" value="0" />
 	<path name="speaker-mono" />
-	</path>
-	
-	<!-- Saber ESS DAC mono side -->
-	
-	<path name="speaker-mono">
-	<ctl name="TX INT7_1 MIX1 INP0" value="RX0" />
-	<ctl name="RX INT7_1 MIX1 INP0" value="RX0" />
-	<ctl name="SLIM TX0 MUX" value="AIF_MIX1_PB" />
-	<ctl name="SLIM RX0 MUX" value="AIF_MIX1_PB" />
-	<ctl name="SPKRL LDAC Switch" value="1" />
-	<ctl name="TX SPKRL LDAC" value="1" />
-	<ctl name="RX SPKRL LDAC" value="1" />
-	<ctl name="SPKRR RDAC Switch" value="0" />
-	<ctl name="TX SPKRR RDAC" value="0" />
-	<ctl name="RX SPKRR RDAC" value="0" />
-	<ctl name="SpkrLeft COMP Switch" value="1" />
-	<ctl name="SpkrRight COMP Switch" value="0" />
-	<ctl name="SpkrLeft BOOST Switch" value="1" />
-	<ctl name="SpkrRight BOOST Switch" value="0" />
-	<ctl name="SpkrLeft VISENSE Switch" value="1" />
-	<ctl name="SpkrRight VISENSE Switch" value="0" />
-	<ctl name="SpkrLeft WSA PA Mute" value="1" />
-	<ctl name="SpkrRight WSA PA Mute" value="0" />
-	<ctl name="SpkrLeft SWR DAC_Port Switch" value="1" />
-	<ctl name="SpkrRight SWR DAC_Port Switch" value="0" />
-	<path name="speaker_fluid" />
-	<path name="speaker-protected" />
-	<path name="speaker-protected-voice" />
-	<path name="fake_speaker-mono" />
-	<path name="vbat_speaker_fluid" />
-	<path name="vbat_speaker-protected" />
-	<path name="vbat_speaker-protected-voice" />
-	<path name="vbat_fake_speaker-mono" />
-	</path>
-	
-	<!-- Saber ESS DAC stereo side -->
-	
-	<path name="speaker">
-	<path name="true-native-mode-SPKR" />
-	<path name="true-native-mode-SPKR-vbat" />
-	<ctl name="SPKRL LDAC Switch" value="2" />
-	<ctl name="TX SPKRL LDAC" value="2" />
-	<ctl name="RX SPKRL LDAC" value="2" />
-	<ctl name="SPKRR RDAC Switch" value="2" />
-	<ctl name="TX SPKRR RDAC" value="2" />
-	<ctl name="RX SPKRR RDAC" value="2" />
-	<ctl name="SpkrLeft COMP Switch" value="2" />
-	<ctl name="SpkrRight COMP Switch" value="2" />
-	<ctl name="SpkrLeft BOOST Switch" value="0" />
-	<ctl name="SpkrRight BOOST Switch" value="0" />
-	<ctl name="SpkrLeft VISENSE Switch" value="0" />
-	<ctl name="SpkrRight VISENSE Switch" value="0" />
-	<ctl name="SpkrLeft WSA PA Mute" value="0" />
-	<ctl name="SpkrRight WSA PA Mute" value="0" />
-	<ctl name="SpkrLeft SWR DAC_Port Switch" value="2" />
-	<ctl name="SpkrRight SWR DAC_Port Switch" value="2" />
-	<path name="speaker-16bit" />
-	<path name="speaker-24bit" />
-	<path name="speaker_liquid" />
-	<path name="fake_speaker" />
-	<path name="vbat_speaker-16bit" />
-	<path name="vbat_speaker-24bit" />
-	<path name="vbat_speaker_liquid" />
-	<path name="vbat_fake_speaker" />
 	</path>
 	
 	<!-- 16bit Saber ESS DAC side -->
@@ -16650,10 +18977,7 @@
 	
 	<!-- Added -->
 	<path name="vbat_speaker-mono">
-	<ctl name="TX INT7 VBAT SPKRL VBAT Enable" value="1" />
-	<ctl name="RX INT7 VBAT SPKRL VBAT Enable" value="1" />
-	<ctl name="TX INT8 VBAT SPKRR VBAT Enable" value="0" />
-	<ctl name="RX INT8 VBAT SPKRR VBAT Enable" value="0" />
+	<path name="true-native-mode-SPKR-vbat-mono" />
 	<ctl name="SPKRL LDAC Switch" value="1" />
 	<ctl name="TX SPKRL LDAC" value="1" />
 	<ctl name="RX SPKRL LDAC" value="1" />
@@ -16662,15 +18986,24 @@
 	<ctl name="RX SPKRR RDAC" value="0" />
 	<path name="speaker-mono" />
 	</path>
+
+	<!-- Added -->
+	<path name="vbat_speaker">
+	<path name="true-native-mode-SPKR-vbat" />
+	<ctl name="SPKRL LDAC Switch" value="2" />
+	<ctl name="TX SPKRL LDAC" value="2" />
+	<ctl name="RX SPKRL LDAC" value="2" />
+	<ctl name="SPKRR RDAC Switch" value="2" />
+	<ctl name="TX SPKRR RDAC" value="2" />
+	<ctl name="RX SPKRR RDAC" value="2" />
+	<path name="speaker" />
+	</path>
 	
 	<!-- Added -->
 	<path name="vbat_speaker_fluid">
-	<ctl name="TX INT7 VBAT SPKRL VBAT Enable" value="1" />
-	<ctl name="RX INT7 VBAT SPKRL VBAT Enable" value="1" />
-	<ctl name="TX INT8 VBAT SPKRR VBAT Enable" value="0" />
-	<ctl name="RX INT8 VBAT SPKRR VBAT Enable" value="0" />
-	<ctl name="SLIM_2_TX Channels" value="Four" />
-	<ctl name="SLIM_2_RX Channels" value="Four" />
+	<path name="true-native-mode-SPKR-vbat-mono" />
+	<ctl name="SLIM_2_TX Channels" value="Sevenhundredsixtyeight" />
+	<ctl name="SLIM_2_RX Channels" value="Sevenhundredsixtyeight" />
 	<ctl name="SLIM_2_TX SampleRate" value="KHZ_44.1" />
 	<ctl name="SLIM_2_RX SampleRate" value="KHZ_44.1" />
 	<ctl name="SLIM_2_TX Format" value="PACKED_16B" />
@@ -16856,18 +19189,6 @@
 	<ctl name="TX SPKRR Volume" value="0" />
 	<ctl name="RX SPKRR Volume" value="0" />
 	<path name="speaker-mono" />
-	</path>
-	
-	<!-- Added -->
-	<path name="vbat_speaker">
-	<path name="true-native-mode-SPKR-vbat" />
-	<ctl name="SPKRL LDAC Switch" value="2" />
-	<ctl name="TX SPKRL LDAC" value="2" />
-	<ctl name="RX SPKRL LDAC" value="2" />
-	<ctl name="SPKRR RDAC Switch" value="2" />
-	<ctl name="TX SPKRR RDAC" value="2" />
-	<ctl name="RX SPKRR RDAC" value="2" />
-	<path name="speaker" />
 	</path>
 	
 	<!-- Added -->
@@ -18953,8 +21274,8 @@
 	
 	<!-- You must divide everything by 4 from speaker_fluid -->
 	
-	<!-- speaker_fluid is set to channels: 4 -->
-	<!-- 4 divided by 4 = 1 -->
+	<!-- speaker_fluid is set to channels: 768 -->
+	<!-- 768 divided by 4 = 192 -->
 	
 	<!-- speaker_fluid is set to kilohertz: 44.1 -->
 	<!-- 44.1 divided by 4 = 11.025 -->
@@ -18965,24 +21286,24 @@
 	<path name="dop_playback-speaker_fluid tert-mi2s-headphones">
 	<ctl name="SEC_TDM_TX_0 Audio Mixer MultiMedia1" value="1" />
 	<ctl name="SEC_TDM_RX_0 Audio Mixer MultiMedia1" value="1" />
-	<ctl name="SEC_TDM_TX_0 Channels" value="One" />
-	<ctl name="SEC_TDM_RX_0 Channels" value="One" />
+	<ctl name="SEC_TDM_TX_0 Channels" value="Onehundredninetytwo" />
+	<ctl name="SEC_TDM_RX_0 Channels" value="Onehundredninetytwo" />
 	<ctl name="SEC_TDM_TX_0 SampleRate" value="KHZ_11P025" />
 	<ctl name="SEC_TDM_RX_0 SampleRate" value="KHZ_11P025" />
 	<ctl name="SEC_TDM_TX_0 Format" value="S4_LE" />
 	<ctl name="SEC_TDM_RX_0 Format" value="S4_LE" />
 	<ctl name="SEC_TDM_TX_1 Audio Mixer MultiMedia3" value="1" />
 	<ctl name="SEC_TDM_RX_1 Audio Mixer MultiMedia3" value="1" />
-	<ctl name="SEC_TDM_TX_1 Channels" value="One" />
-	<ctl name="SEC_TDM_RX_1 Channels" value="One" />
+	<ctl name="SEC_TDM_TX_1 Channels" value="Onehundredninetytwo" />
+	<ctl name="SEC_TDM_RX_1 Channels" value="Onehundredninetytwo" />
 	<ctl name="SEC_TDM_TX_1 SampleRate" value="KHZ_11P025" />
 	<ctl name="SEC_TDM_RX_1 SampleRate" value="KHZ_11P025" />
 	<ctl name="SEC_TDM_TX_1 Format" value="S4_LE" />
 	<ctl name="SEC_TDM_RX_1 Format" value="S4_LE" />
 	<ctl name="SEC_TDM_TX_2 Audio Mixer MultiMedia5" value="1" />
 	<ctl name="SEC_TDM_RX_2 Audio Mixer MultiMedia5" value="1" />
-	<ctl name="SEC_TDM_TX_2 Channels" value="One" />
-	<ctl name="SEC_TDM_RX_2 Channels" value="One" />
+	<ctl name="SEC_TDM_TX_2 Channels" value="Onehundredninetytwo" />
+	<ctl name="SEC_TDM_RX_2 Channels" value="Onehundredninetytwo" />
 	<ctl name="SEC_TDM_TX_2 SampleRate" value="KHZ_11P025" />
 	<ctl name="SEC_TDM_RX_2 SampleRate" value="KHZ_11P025" />
 	<ctl name="SEC_TDM_TX_2 Format" value="S4_LE" />
@@ -19005,14 +21326,14 @@
 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia15" value="1" />
 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia16" value="1" />
 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia16" value="1" />
-	<ctl name="SEC_TDM_TX_3 Channels" value="One" />
-	<ctl name="SEC_TDM_RX_3 Channels" value="One" />
+	<ctl name="SEC_TDM_TX_3 Channels" value="Onehundredninetytwo" />
+	<ctl name="SEC_TDM_RX_3 Channels" value="Onehundredninetytwo" />
 	<ctl name="SEC_TDM_TX_3 SampleRate" value="KHZ_11P025" />
 	<ctl name="SEC_TDM_RX_3 SampleRate" value="KHZ_11P025" />
 	<ctl name="SEC_TDM_TX_3 Format" value="S4_LE" />
 	<ctl name="SEC_TDM_RX_3 Format" value="S4_LE" />
 	</path>
-	
+
 	<!-- Welcome to the QuadDAC direct output speaker_liquid -->
 	
 	<!-- DAC 0 = low-range -->
