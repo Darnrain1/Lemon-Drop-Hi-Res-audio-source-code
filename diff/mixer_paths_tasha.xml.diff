@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v248.1 -->
+> 	<!-- Lemon Drop Hi-Res treble v249.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -22731,7 +22731,7 @@
 > 	</path>
 > 	
 > 	<path name="anc-headphones">
-2467,3898c20326,26325
+2467,3898c20326,26328
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="1" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -25365,6 +25365,181 @@
 > 	<!-- <path name="speaker-mono" /> -->
 > 	<!-- <ctl name="RX7 Digital Volume" value="0" /> -->
 > 	<!-- </path> -->
+> 
+> 	<!-- Added -->
+> 	<path name="fake_speaker-mono">
+> 	<path name="true-native-mode-SPKR-mono" />
+> 	<path name="true-native-mode-SPKR-vbat-mono" />
+> 	<ctl name="SPKRL LDAC Switch" value="1" />
+> 	<ctl name="TX SPKRL LDAC" value="1" />
+> 	<ctl name="RX SPKRL LDAC" value="1" />
+> 	<ctl name="SPKRR RDAC Switch" value="0" />
+> 	<ctl name="TX SPKRR RDAC" value="0" />
+> 	<ctl name="RX SPKRR RDAC" value="0" />
+> 	<ctl name="7 True Offset1 Switch" value="1" />
+> 	<ctl name="TX7 True Offset1" value="AUTO" />
+> 	<ctl name="RX7 True Offset1" value="AUTO" />
+> 	<ctl name="7 True Offset2 Switch" value="1" />
+> 	<ctl name="TX7 True Offset2" value="AUTO" />
+> 	<ctl name="RX7 True Offset2" value="AUTO" />
+> 	<ctl name="7 True Offset3 Switch" value="1" />
+> 	<ctl name="TX7 True Offset3" value="AUTO" />
+> 	<ctl name="RX7 True Offset3" value="AUTO" />
+> 	<ctl name="7 True Low Switch" value="1" />
+> 	<ctl name="TX7 True Low" value="AUTO" />
+> 	<ctl name="RX7 True Low" value="AUTO" />
+> 	<ctl name="7 True High Switch" value="1" />
+> 	<ctl name="TX7 True High" value="AUTO" />
+> 	<ctl name="RX7 True High" value="AUTO" />
+> 	<ctl name="7 True Mid Switch" value="1" />
+> 	<ctl name="TX7 True Mid" value="AUTO" />
+> 	<ctl name="RX7 True Mid" value="AUTO" />
+> 	<ctl name="7 True Stereo Switch" value="1" />
+> 	<ctl name="TX7 True Stereo" value="AUTO" />
+> 	<ctl name="RX7 True Stereo" value="AUTO" />
+> 	<ctl name="7 True Expand Switch" value="1" />
+> 	<ctl name="TX7 True Expand" value="AUTO" />
+> 	<ctl name="RX7 True Expand" value="AUTO" />
+> 	<ctl name="7 True Nominalize Volume Switch" value="1" />
+> 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
+> 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
+> 	<ctl name="7 True Level Switch" value="1" />
+> 	<ctl name="TX7 True Level" value="AUTO" />
+> 	<ctl name="RX7 True Level" value="AUTO" />
+> 	<ctl name="7 True Center Switch" value="1" />
+> 	<ctl name="TX7 True Center" value="AUTO" />
+> 	<ctl name="RX7 True Center" value="AUTO" />
+> 	<ctl name="7 True Alignment Switch" value="1" />
+> 	<ctl name="TX7 True Alignment" value="AUTO" />
+> 	<ctl name="RX7 True Alignment" value="AUTO" />
+> 	<ctl name="7 Digital Volume Switch" value="1" />
+> 	<ctl name="TX7 Digital Volume" value="0" />
+> 	<ctl name="RX7 Digital Volume" value="0" />
+> 	<ctl name="7 Mix Digital Volume Switch" value="1" />
+> 	<ctl name="TX7 Mix Digital Volume" value="0" />
+> 	<ctl name="RX7 Mix Digital Volume" value="0" />
+> 	<ctl name="8 True Offset1 Switch" value="0" />
+> 	<ctl name="TX8 True Offset1" value="ZERO" />
+> 	<ctl name="RX8 True Offset1" value="ZERO" />
+> 	<ctl name="8 True Offset2 Switch" value="0" />
+> 	<ctl name="TX8 True Offset2" value="ZERO" />
+> 	<ctl name="RX8 True Offset2" value="ZERO" />
+> 	<ctl name="8 True Offset3 Switch" value="0" />
+> 	<ctl name="TX8 True Offset3" value="ZERO" />
+> 	<ctl name="RX8 True Offset3" value="ZERO" />
+> 	<ctl name="8 True Low Switch" value="0" />
+> 	<ctl name="TX8 True Low" value="ZERO" />
+> 	<ctl name="RX8 True Low" value="ZERO" />
+> 	<ctl name="8 True High Switch" value="0" />
+> 	<ctl name="TX8 True High" value="ZERO" />
+> 	<ctl name="RX8 True High" value="ZERO" />
+> 	<ctl name="8 True Mid Switch" value="0" />
+> 	<ctl name="TX8 True Mid" value="ZERO" />
+> 	<ctl name="RX8 True Mid" value="ZERO" />
+> 	<ctl name="8 True Stereo Switch" value="0" />
+> 	<ctl name="TX8 True Stereo" value="ZERO" />
+> 	<ctl name="RX8 True Stereo" value="ZERO" />
+> 	<ctl name="8 True Expand Switch" value="0" />
+> 	<ctl name="TX8 True Expand" value="ZERO" />
+> 	<ctl name="RX8 True Expand" value="ZERO" />
+> 	<ctl name="8 True Nominalize Volume Switch" value="0" />
+> 	<ctl name="TX8 True Nominalize Volume" value="ZERO" />
+> 	<ctl name="RX8 True Nominalize Volume" value="ZERO" />
+> 	<ctl name="8 True Level Switch" value="0" />
+> 	<ctl name="TX8 True Level" value="ZERO" />
+> 	<ctl name="RX8 True Level" value="ZERO" />
+> 	<ctl name="8 True Center Switch" value="0" />
+> 	<ctl name="TX8 True Center" value="ZERO" />
+> 	<ctl name="RX8 True Center" value="ZERO" />
+> 	<ctl name="8 True Alignment Switch" value="0" />
+> 	<ctl name="TX8 True Alignment" value="ZERO" />
+> 	<ctl name="RX8 True Alignment" value="ZERO" />
+> 	<ctl name="8 Digital Volume Switch" value="0" />
+> 	<ctl name="TX8 Digital Volume" value="0" />
+> 	<ctl name="RX8 Digital Volume" value="0" />
+> 	<ctl name="8 Mix Digital Volume Switch" value="0" />
+> 	<ctl name="TX8 Mix Digital Volume" value="0" />
+> 	<ctl name="RX8 Mix Digital Volume" value="0" />
+> 	<ctl name="SPKRL True Offset1 Switch" value="1" />
+> 	<ctl name="TX SPKRL True Offset1" value="AUTO" />
+> 	<ctl name="RX SPKRL True Offset1" value="AUTO" />
+> 	<ctl name="SPKRL True Offset2 Switch" value="1" />
+> 	<ctl name="TX SPKRL True Offset2" value="AUTO" />
+> 	<ctl name="RX SPKRL True Offset2" value="AUTO" />
+> 	<ctl name="SPKRL True Offset3 Switch" value="1" />
+> 	<ctl name="TX SPKRL True Offset3" value="AUTO" />
+> 	<ctl name="RX SPKRL True Offset3" value="AUTO" />
+> 	<ctl name="SPKRL True Low Switch" value="1" />
+> 	<ctl name="TX SPKRL True Low" value="AUTO" />
+> 	<ctl name="RX SPKRL True Low" value="AUTO" />
+> 	<ctl name="SPKRL True High Switch" value="1" />
+> 	<ctl name="TX SPKRL True High" value="AUTO" />
+> 	<ctl name="RX SPKRL True High" value="AUTO" />
+> 	<ctl name="SPKRL True Mid Switch" value="1" />
+> 	<ctl name="TX SPKRL True Mid" value="AUTO" />
+> 	<ctl name="RX SPKRL True Mid" value="AUTO" />
+> 	<ctl name="HPHL True Stereo Switch" value="1" />
+> 	<ctl name="TX HPHL True Stereo" value="AUTO" />
+> 	<ctl name="RX HPHL True Stereo" value="AUTO" />
+> 	<ctl name="SPKRL True Expand Switch" value="1" />
+> 	<ctl name="TX SPKRL True Expand" value="AUTO" />
+> 	<ctl name="RX SPKRL True Expand" value="AUTO" />
+> 	<ctl name="SPKRL True Nominalize Volume Switch" value="1" />
+> 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
+> 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
+> 	<ctl name="SPKRL True Level Switch" value="1" />
+> 	<ctl name="TX SPKRL True Level" value="AUTO" />
+> 	<ctl name="RX SPKRL True Level" value="AUTO" />
+> 	<ctl name="SPKRL True Center Switch" value="1" />
+> 	<ctl name="TX SPKRL True Center" value="AUTO" />
+> 	<ctl name="RX SPKRL True Center" value="AUTO" />
+> 	<ctl name="SPKRL True Alignment Switch" value="1" />
+> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
+> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
+> 	<ctl name="SPKRL Volume Switch" value="1" />
+> 	<ctl name="TX SPKRL Volume" value="0" />
+> 	<ctl name="RX SPKRL Volume" value="0" />
+> 	<ctl name="SPKRR True Offset1 Switch" value="0" />
+> 	<ctl name="TX SPKRR True Offset1" value="ZERO" />
+> 	<ctl name="RX SPKRR True Offset1" value="ZERO" />
+> 	<ctl name="SPKRR True Offset2 Switch" value="0" />
+> 	<ctl name="TX SPKRR True Offset2" value="ZERO" />
+> 	<ctl name="RX SPKRR True Offset2" value="ZERO" />
+> 	<ctl name="SPKRR True Offset3 Switch" value="0" />
+> 	<ctl name="TX SPKRR True Offset3" value="ZERO" />
+> 	<ctl name="RX SPKRR True Offset3" value="ZERO" />
+> 	<ctl name="SPKRR True Low Switch" value="0" />
+> 	<ctl name="TX SPKRR True Low" value="ZERO" />
+> 	<ctl name="RX SPKRR True Low" value="ZERO" />
+> 	<ctl name="SPKRR True High Switch" value="0" />
+> 	<ctl name="TX SPKRR True High" value="ZERO" />
+> 	<ctl name="RX SPKRR True High" value="ZERO" />
+> 	<ctl name="SPKRR True Mid Switch" value="0" />
+> 	<ctl name="TX SPKRR True Mid" value="ZERO" />
+> 	<ctl name="RX SPKRR True Mid" value="ZERO" />
+> 	<ctl name="SPKRR True Stereo Switch" value="0" />
+> 	<ctl name="TX SPKRR True Stereo" value="ZERO" />
+> 	<ctl name="RX SPKRR True Stereo" value="ZERO" />
+> 	<ctl name="SPKRR True Expand Switch" value="0" />
+> 	<ctl name="TX SPKRR True Expand" value="ZERO" />
+> 	<ctl name="RX SPKRR True Expand" value="ZERO" />
+> 	<ctl name="SPKRR True Nominalize Volume Switch" value="0" />
+> 	<ctl name="TX SPKRR True Nominalize Volume" value="ZERO" />
+> 	<ctl name="RX SPKRR True Nominalize Volume" value="ZERO" />
+> 	<ctl name="SPKRR True Level Switch" value="0" />
+> 	<ctl name="TX SPKRR True Level" value="ZERO" />
+> 	<ctl name="RX SPKRR True Level" value="ZERO" />
+> 	<ctl name="SPKRR True Center Switch" value="0" />
+> 	<ctl name="TX SPKRR True Center" value="ZERO" />
+> 	<ctl name="RX SPKRR True Center" value="ZERO" />
+> 	<ctl name="SPKRR True Alignment Switch" value="0" />
+> 	<ctl name="TX SPKRR True Alignment" value="ZERO" />
+> 	<ctl name="RX SPKRR True Alignment" value="ZERO" />
+> 	<ctl name="SPKRR Volume Switch" value="0" />
+> 	<ctl name="TX SPKRR Volume" value="0" />
+> 	<ctl name="RX SPKRR Volume" value="0" />
+> 	<path name="speaker-mono" />
+> 	</path>
 > 	
 > 	<!-- Added -->
 > 	<path name="fake_speaker">
@@ -25540,9 +25715,9 @@
 > 	<ctl name="RX SPKRR Volume" value="0" />
 > 	<path name="speaker" />
 > 	</path>
-> 	
-> 	<!-- Added -->
-> 	<path name="fake_speaker-mono">
+> 
+> 	<path name="vbat_fake_speaker-mono">
+> 	<path name="true-native-mode-SPKR-vbat-mono" />
 > 	<ctl name="SPKRL LDAC Switch" value="1" />
 > 	<ctl name="TX SPKRL LDAC" value="1" />
 > 	<ctl name="RX SPKRL LDAC" value="1" />
@@ -25885,178 +26060,6 @@
 > 	<ctl name="TX SPKRR Volume" value="0" />
 > 	<ctl name="RX SPKRR Volume" value="0" />
 > 	<path name="speaker" />
-> 	</path>
-> 
-> 	<path name="vbat_fake_speaker-mono">
-> 	<ctl name="SPKRL LDAC Switch" value="1" />
-> 	<ctl name="TX SPKRL LDAC" value="1" />
-> 	<ctl name="RX SPKRL LDAC" value="1" />
-> 	<ctl name="SPKRR RDAC Switch" value="0" />
-> 	<ctl name="TX SPKRR RDAC" value="0" />
-> 	<ctl name="RX SPKRR RDAC" value="0" />
-> 	<ctl name="7 True Offset1 Switch" value="1" />
-> 	<ctl name="TX7 True Offset1" value="AUTO" />
-> 	<ctl name="RX7 True Offset1" value="AUTO" />
-> 	<ctl name="7 True Offset2 Switch" value="1" />
-> 	<ctl name="TX7 True Offset2" value="AUTO" />
-> 	<ctl name="RX7 True Offset2" value="AUTO" />
-> 	<ctl name="7 True Offset3 Switch" value="1" />
-> 	<ctl name="TX7 True Offset3" value="AUTO" />
-> 	<ctl name="RX7 True Offset3" value="AUTO" />
-> 	<ctl name="7 True Low Switch" value="1" />
-> 	<ctl name="TX7 True Low" value="AUTO" />
-> 	<ctl name="RX7 True Low" value="AUTO" />
-> 	<ctl name="7 True High Switch" value="1" />
-> 	<ctl name="TX7 True High" value="AUTO" />
-> 	<ctl name="RX7 True High" value="AUTO" />
-> 	<ctl name="7 True Mid Switch" value="1" />
-> 	<ctl name="TX7 True Mid" value="AUTO" />
-> 	<ctl name="RX7 True Mid" value="AUTO" />
-> 	<ctl name="7 True Stereo Switch" value="1" />
-> 	<ctl name="TX7 True Stereo" value="AUTO" />
-> 	<ctl name="RX7 True Stereo" value="AUTO" />
-> 	<ctl name="7 True Expand Switch" value="1" />
-> 	<ctl name="TX7 True Expand" value="AUTO" />
-> 	<ctl name="RX7 True Expand" value="AUTO" />
-> 	<ctl name="7 True Nominalize Volume Switch" value="1" />
-> 	<ctl name="TX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="RX7 True Nominalize Volume" value="AUTO" />
-> 	<ctl name="7 True Level Switch" value="1" />
-> 	<ctl name="TX7 True Level" value="AUTO" />
-> 	<ctl name="RX7 True Level" value="AUTO" />
-> 	<ctl name="7 True Center Switch" value="1" />
-> 	<ctl name="TX7 True Center" value="AUTO" />
-> 	<ctl name="RX7 True Center" value="AUTO" />
-> 	<ctl name="7 True Alignment Switch" value="1" />
-> 	<ctl name="TX7 True Alignment" value="AUTO" />
-> 	<ctl name="RX7 True Alignment" value="AUTO" />
-> 	<ctl name="7 Digital Volume Switch" value="1" />
-> 	<ctl name="TX7 Digital Volume" value="0" />
-> 	<ctl name="RX7 Digital Volume" value="0" />
-> 	<ctl name="7 Mix Digital Volume Switch" value="1" />
-> 	<ctl name="TX7 Mix Digital Volume" value="0" />
-> 	<ctl name="RX7 Mix Digital Volume" value="0" />
-> 	<ctl name="8 True Offset1 Switch" value="0" />
-> 	<ctl name="TX8 True Offset1" value="ZERO" />
-> 	<ctl name="RX8 True Offset1" value="ZERO" />
-> 	<ctl name="8 True Offset2 Switch" value="0" />
-> 	<ctl name="TX8 True Offset2" value="ZERO" />
-> 	<ctl name="RX8 True Offset2" value="ZERO" />
-> 	<ctl name="8 True Offset3 Switch" value="0" />
-> 	<ctl name="TX8 True Offset3" value="ZERO" />
-> 	<ctl name="RX8 True Offset3" value="ZERO" />
-> 	<ctl name="8 True Low Switch" value="0" />
-> 	<ctl name="TX8 True Low" value="ZERO" />
-> 	<ctl name="RX8 True Low" value="ZERO" />
-> 	<ctl name="8 True High Switch" value="0" />
-> 	<ctl name="TX8 True High" value="ZERO" />
-> 	<ctl name="RX8 True High" value="ZERO" />
-> 	<ctl name="8 True Mid Switch" value="0" />
-> 	<ctl name="TX8 True Mid" value="ZERO" />
-> 	<ctl name="RX8 True Mid" value="ZERO" />
-> 	<ctl name="8 True Stereo Switch" value="0" />
-> 	<ctl name="TX8 True Stereo" value="ZERO" />
-> 	<ctl name="RX8 True Stereo" value="ZERO" />
-> 	<ctl name="8 True Expand Switch" value="0" />
-> 	<ctl name="TX8 True Expand" value="ZERO" />
-> 	<ctl name="RX8 True Expand" value="ZERO" />
-> 	<ctl name="8 True Nominalize Volume Switch" value="0" />
-> 	<ctl name="TX8 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="RX8 True Nominalize Volume" value="ZERO" />
-> 	<ctl name="8 True Level Switch" value="0" />
-> 	<ctl name="TX8 True Level" value="ZERO" />
-> 	<ctl name="RX8 True Level" value="ZERO" />
-> 	<ctl name="8 True Center Switch" value="0" />
-> 	<ctl name="TX8 True Center" value="ZERO" />
-> 	<ctl name="RX8 True Center" value="ZERO" />
-> 	<ctl name="8 True Alignment Switch" value="0" />
-> 	<ctl name="TX8 True Alignment" value="ZERO" />
-> 	<ctl name="RX8 True Alignment" value="ZERO" />
-> 	<ctl name="8 Digital Volume Switch" value="0" />
-> 	<ctl name="TX8 Digital Volume" value="0" />
-> 	<ctl name="RX8 Digital Volume" value="0" />
-> 	<ctl name="8 Mix Digital Volume Switch" value="0" />
-> 	<ctl name="TX8 Mix Digital Volume" value="0" />
-> 	<ctl name="RX8 Mix Digital Volume" value="0" />
-> 	<ctl name="SPKRL True Offset1 Switch" value="1" />
-> 	<ctl name="TX SPKRL True Offset1" value="AUTO" />
-> 	<ctl name="RX SPKRL True Offset1" value="AUTO" />
-> 	<ctl name="SPKRL True Offset2 Switch" value="1" />
-> 	<ctl name="TX SPKRL True Offset2" value="AUTO" />
-> 	<ctl name="RX SPKRL True Offset2" value="AUTO" />
-> 	<ctl name="SPKRL True Offset3 Switch" value="1" />
-> 	<ctl name="TX SPKRL True Offset3" value="AUTO" />
-> 	<ctl name="RX SPKRL True Offset3" value="AUTO" />
-> 	<ctl name="SPKRL True Low Switch" value="1" />
-> 	<ctl name="TX SPKRL True Low" value="AUTO" />
-> 	<ctl name="RX SPKRL True Low" value="AUTO" />
-> 	<ctl name="SPKRL True High Switch" value="1" />
-> 	<ctl name="TX SPKRL True High" value="AUTO" />
-> 	<ctl name="RX SPKRL True High" value="AUTO" />
-> 	<ctl name="SPKRL True Mid Switch" value="1" />
-> 	<ctl name="TX SPKRL True Mid" value="AUTO" />
-> 	<ctl name="RX SPKRL True Mid" value="AUTO" />
-> 	<ctl name="HPHL True Stereo Switch" value="1" />
-> 	<ctl name="TX HPHL True Stereo" value="AUTO" />
-> 	<ctl name="RX HPHL True Stereo" value="AUTO" />
-> 	<ctl name="SPKRL True Expand Switch" value="1" />
-> 	<ctl name="TX SPKRL True Expand" value="AUTO" />
-> 	<ctl name="RX SPKRL True Expand" value="AUTO" />
-> 	<ctl name="SPKRL True Nominalize Volume Switch" value="1" />
-> 	<ctl name="TX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="RX SPKRL True Nominalize Volume" value="AUTO" />
-> 	<ctl name="SPKRL True Level Switch" value="1" />
-> 	<ctl name="TX SPKRL True Level" value="AUTO" />
-> 	<ctl name="RX SPKRL True Level" value="AUTO" />
-> 	<ctl name="SPKRL True Center Switch" value="1" />
-> 	<ctl name="TX SPKRL True Center" value="AUTO" />
-> 	<ctl name="RX SPKRL True Center" value="AUTO" />
-> 	<ctl name="SPKRL True Alignment Switch" value="1" />
-> 	<ctl name="TX SPKRL True Alignment" value="AUTO" />
-> 	<ctl name="RX SPKRL True Alignment" value="AUTO" />
-> 	<ctl name="SPKRL Volume Switch" value="1" />
-> 	<ctl name="TX SPKRL Volume" value="0" />
-> 	<ctl name="RX SPKRL Volume" value="0" />
-> 	<ctl name="SPKRR True Offset1 Switch" value="0" />
-> 	<ctl name="TX SPKRR True Offset1" value="ZERO" />
-> 	<ctl name="RX SPKRR True Offset1" value="ZERO" />
-> 	<ctl name="SPKRR True Offset2 Switch" value="0" />
-> 	<ctl name="TX SPKRR True Offset2" value="ZERO" />
-> 	<ctl name="RX SPKRR True Offset2" value="ZERO" />
-> 	<ctl name="SPKRR True Offset3 Switch" value="0" />
-> 	<ctl name="TX SPKRR True Offset3" value="ZERO" />
-> 	<ctl name="RX SPKRR True Offset3" value="ZERO" />
-> 	<ctl name="SPKRR True Low Switch" value="0" />
-> 	<ctl name="TX SPKRR True Low" value="ZERO" />
-> 	<ctl name="RX SPKRR True Low" value="ZERO" />
-> 	<ctl name="SPKRR True High Switch" value="0" />
-> 	<ctl name="TX SPKRR True High" value="ZERO" />
-> 	<ctl name="RX SPKRR True High" value="ZERO" />
-> 	<ctl name="SPKRR True Mid Switch" value="0" />
-> 	<ctl name="TX SPKRR True Mid" value="ZERO" />
-> 	<ctl name="RX SPKRR True Mid" value="ZERO" />
-> 	<ctl name="SPKRR True Stereo Switch" value="0" />
-> 	<ctl name="TX SPKRR True Stereo" value="ZERO" />
-> 	<ctl name="RX SPKRR True Stereo" value="ZERO" />
-> 	<ctl name="SPKRR True Expand Switch" value="0" />
-> 	<ctl name="TX SPKRR True Expand" value="ZERO" />
-> 	<ctl name="RX SPKRR True Expand" value="ZERO" />
-> 	<ctl name="SPKRR True Nominalize Volume Switch" value="0" />
-> 	<ctl name="TX SPKRR True Nominalize Volume" value="ZERO" />
-> 	<ctl name="RX SPKRR True Nominalize Volume" value="ZERO" />
-> 	<ctl name="SPKRR True Level Switch" value="0" />
-> 	<ctl name="TX SPKRR True Level" value="ZERO" />
-> 	<ctl name="RX SPKRR True Level" value="ZERO" />
-> 	<ctl name="SPKRR True Center Switch" value="0" />
-> 	<ctl name="TX SPKRR True Center" value="ZERO" />
-> 	<ctl name="RX SPKRR True Center" value="ZERO" />
-> 	<ctl name="SPKRR True Alignment Switch" value="0" />
-> 	<ctl name="TX SPKRR True Alignment" value="ZERO" />
-> 	<ctl name="RX SPKRR True Alignment" value="ZERO" />
-> 	<ctl name="SPKRR Volume Switch" value="0" />
-> 	<ctl name="TX SPKRR Volume" value="0" />
-> 	<ctl name="RX SPKRR Volume" value="0" />
-> 	<path name="speaker-mono" />
 > 	</path>
 > 	
 > 	<!-- Lemon Drop Hi-Res end of mods -->
@@ -30165,7 +30168,7 @@
 > 	<path name="speaker-protected" />
 > 	</path>
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
-3899a26327,26329
+3899a26330,26332
 > 	
 > 	
 > 	<!-- Bottom of page -->
