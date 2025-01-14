@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble v251.1 -->
+	<!-- Lemon Drop Hi-Res treble v252.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -18193,8 +18193,8 @@
 	<path name="true-native-mode-SPKR-vbat-mono" />
 	<ctl name="SLIM_2_TX Channels" value="Sevenhundredsixtyeight" />
 	<ctl name="SLIM_2_RX Channels" value="Sevenhundredsixtyeight" />
-	<ctl name="SLIM_2_TX SampleRate" value="KHZ_44.1" />
-	<ctl name="SLIM_2_RX SampleRate" value="KHZ_44.1" />
+	<ctl name="SLIM_2_TX SampleRate" value="KHZ_44P1" />
+	<ctl name="SLIM_2_RX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_2_TX Format" value="PACKED_16B" />
 	<ctl name="SLIM_2_RX Format" value="PACKED_16B" />
 	<ctl name="SPKRL LDAC Switch" value="1" />
@@ -18387,8 +18387,8 @@
 	<path name="true-native-mode-SPKR-vbat" />
 	<ctl name="SLIM_0_TX Channels" value="Sevenhundredsixtyeight" />
 	<ctl name="SLIM_0_RX Channels" value="Sevenhundredsixtyeight" />
-	<ctl name="SLIM_0_TX SampleRate" value="KHZ_44.1" />
-	<ctl name="SLIM_0_RX SampleRate" value="KHZ_44.1" />
+	<ctl name="SLIM_0_TX SampleRate" value="KHZ_44P1" />
+	<ctl name="SLIM_0_RX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_0_TX Format" value="PACKED_24B" />
 	<ctl name="SLIM_0_RX Format" value="PACKED_24B" />
 	<ctl name="SPKRL LDAC Switch" value="2" />
@@ -19004,8 +19004,8 @@
 	<path name="true-native-mode-SPKR-vbat-mono" />
 	<ctl name="SLIM_2_TX Channels" value="Sevenhundredsixtyeight" />
 	<ctl name="SLIM_2_RX Channels" value="Sevenhundredsixtyeight" />
-	<ctl name="SLIM_2_TX SampleRate" value="KHZ_44.1" />
-	<ctl name="SLIM_2_RX SampleRate" value="KHZ_44.1" />
+	<ctl name="SLIM_2_TX SampleRate" value="KHZ_44P1" />
+	<ctl name="SLIM_2_RX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_2_TX Format" value="PACKED_16B" />
 	<ctl name="SLIM_2_RX Format" value="PACKED_16B" />
 	<ctl name="SPKRL LDAC Switch" value="1" />
@@ -19196,8 +19196,8 @@
 	<path name="true-native-mode-SPKR-vbat" />
 	<ctl name="SLIM_0_TX Channels" value="Sevenhundredsixtyeight" />
 	<ctl name="SLIM_0_RX Channels" value="Sevenhundredsixtyeight" />
-	<ctl name="SLIM_0_TX SampleRate" value="KHZ_44.1" />
-	<ctl name="SLIM_0_RX SampleRate" value="KHZ_44.1" />
+	<ctl name="SLIM_0_TX SampleRate" value="KHZ_44P1" />
+	<ctl name="SLIM_0_RX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_0_TX Format" value="PACKED_24B" />
 	<ctl name="SLIM_0_RX Format" value="PACKED_24B" />
 	<ctl name="SPKRL LDAC Switch" value="2" />
