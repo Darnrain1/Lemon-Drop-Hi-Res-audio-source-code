@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble v253.1 -->
+	<!-- Lemon Drop Hi-Res treble v254.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -18190,13 +18190,13 @@
 	<ctl name="SpkrRight WSA PA Mute" value="0" />
 	<ctl name="SpkrLeft SWR DAC_Port Switch" value="2" />
 	<ctl name="SpkrRight SWR DAC_Port Switch" value="2" />
+	<path name="speaker_liquid" />
 	<path name="speaker-16bit" />
 	<path name="speaker-24bit" />
-	<path name="speaker_liquid" />
 	<path name="fake_speaker" />
+	<path name="vbat_speaker_liquid" />
 	<path name="vbat_speaker-16bit" />
 	<path name="vbat_speaker-24bit" />
-	<path name="vbat_speaker_liquid" />
 	<path name="vbat_fake_speaker" />
 	</path>
 	
@@ -22374,11 +22374,15 @@
 	<ctl name="HPHR RDAC Switch" value="2" />
 	<ctl name="TX HPHR RDAC" value="2" />
 	<ctl name="RX HPHR RDAC" value="2" />
+	<path name="headphone_fluid" />
+	<path name="headphone_liquid" />
 	<path name="bluetooth-16bit" />
 	<path name="bluetooth-24bit" />
 	<path name="headphone-16bit" />
 	<path name="headphone-24bit" />
 	<path name="fake_headphone" />
+	<path name="vbat_headphone_fluid" />
+	<path name="vbat_headphone_liquid" />
 	<path name="vbat_bluetooth-16bit" />
 	<path name="vbat_bluetooth-24bit" />
 	<path name="vbat_headphone-16bit" />

@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v253.1 -->
+> 	<!-- Lemon Drop Hi-Res treble v254.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -20567,13 +20567,13 @@
 > 	<ctl name="SpkrRight WSA PA Mute" value="0" />
 > 	<ctl name="SpkrLeft SWR DAC_Port Switch" value="2" />
 > 	<ctl name="SpkrRight SWR DAC_Port Switch" value="2" />
+> 	<path name="speaker_liquid" />
 > 	<path name="speaker-16bit" />
 > 	<path name="speaker-24bit" />
-> 	<path name="speaker_liquid" />
 > 	<path name="fake_speaker" />
+> 	<path name="vbat_speaker_liquid" />
 > 	<path name="vbat_speaker-16bit" />
 > 	<path name="vbat_speaker-24bit" />
-> 	<path name="vbat_speaker_liquid" />
 > 	<path name="vbat_fake_speaker" />
 > 	</path>
 > 	
@@ -22745,7 +22745,7 @@
 > 	</path>
 > 	
 > 	<path name="anc-headphones">
-2467,3898c20340,27108
+2467,3898c20340,27112
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="1" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -26216,11 +26216,15 @@
 > 	<ctl name="HPHR RDAC Switch" value="2" />
 > 	<ctl name="TX HPHR RDAC" value="2" />
 > 	<ctl name="RX HPHR RDAC" value="2" />
+> 	<path name="headphone_fluid" />
+> 	<path name="headphone_liquid" />
 > 	<path name="bluetooth-16bit" />
 > 	<path name="bluetooth-24bit" />
 > 	<path name="headphone-16bit" />
 > 	<path name="headphone-24bit" />
 > 	<path name="fake_headphone" />
+> 	<path name="vbat_headphone_fluid" />
+> 	<path name="vbat_headphone_liquid" />
 > 	<path name="vbat_bluetooth-16bit" />
 > 	<path name="vbat_bluetooth-24bit" />
 > 	<path name="vbat_headphone-16bit" />
@@ -30948,7 +30952,7 @@
 > 	<path name="speaker-protected" />
 > 	</path>
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
-3899a27110,27112
+3899a27114,27116
 > 	
 > 	
 > 	<!-- Bottom of page -->
