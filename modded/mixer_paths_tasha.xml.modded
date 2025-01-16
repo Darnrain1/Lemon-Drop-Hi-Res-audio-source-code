@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble v255.1 -->
+	<!-- Lemon Drop Hi-Res treble v256.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -4898,9 +4898,9 @@
 	<ctl name="0 True Expand Switch" value="0" />
 	<ctl name="TX0 True Expand" value="ZERO" />
 	<ctl name="RX0 True Expand" value="ZERO" />
-	<ctl name="0 True Audio Normalization Switch" value="0" />
-	<ctl name="TX0 True Audio Normalization" value="ZERO" />
-	<ctl name="RX0 True Audio Normalization" value="ZERO" />
+	<ctl name="0 True Normalization Switch" value="0" />
+	<ctl name="TX0 True Normalization" value="ZERO" />
+	<ctl name="RX0 True Normalization" value="ZERO" />
 	<ctl name="0 True Level Switch" value="0" />
 	<ctl name="TX0 True Level" value="ZERO" />
 	<ctl name="RX0 True Level" value="ZERO" />
@@ -4940,9 +4940,9 @@
 	<ctl name="1 True Expand Switch" value="0" />
 	<ctl name="TX1 True Expand" value="ZERO" />
 	<ctl name="RX1 True Expand" value="ZERO" />
-	<ctl name="1 True Audio Normalization Switch" value="0" />
-	<ctl name="TX1 True Audio Normalization" value="ZERO" />
-	<ctl name="RX1 True Audio Normalization" value="ZERO" />
+	<ctl name="1 True Normalization Switch" value="0" />
+	<ctl name="TX1 True Normalization" value="ZERO" />
+	<ctl name="RX1 True Normalization" value="ZERO" />
 	<ctl name="1 True Level Switch" value="0" />
 	<ctl name="TX1 True Level" value="ZERO" />
 	<ctl name="RX1 True Level" value="ZERO" />
@@ -4982,9 +4982,9 @@
 	<ctl name="2 True Expand Switch" value="0" />
 	<ctl name="TX2 True Expand" value="ZERO" />
 	<ctl name="RX2 True Expand" value="ZERO" />
-	<ctl name="2 True Audio Normalization Switch" value="0" />
-	<ctl name="TX2 True Audio Normalization" value="ZERO" />
-	<ctl name="RX2 True Audio Normalization" value="ZERO" />
+	<ctl name="2 True Normalization Switch" value="0" />
+	<ctl name="TX2 True Normalization" value="ZERO" />
+	<ctl name="RX2 True Normalization" value="ZERO" />
 	<ctl name="2 True Level Switch" value="0" />
 	<ctl name="TX2 True Level" value="ZERO" />
 	<ctl name="RX2 True Level" value="ZERO" />
@@ -5024,9 +5024,9 @@
 	<ctl name="3 True Expand Switch" value="0" />
 	<ctl name="TX3 True Expand" value="ZERO" />
 	<ctl name="RX3 True Expand" value="ZERO" />
-	<ctl name="3 True Audio Normalization Switch" value="0" />
-	<ctl name="TX3 True Audio Normalization" value="ZERO" />
-	<ctl name="RX3 True Audio Normalization" value="ZERO" />
+	<ctl name="3 True Normalization Switch" value="0" />
+	<ctl name="TX3 True Normalization" value="ZERO" />
+	<ctl name="RX3 True Normalization" value="ZERO" />
 	<ctl name="3 True Level Switch" value="0" />
 	<ctl name="TX3 True Level" value="ZERO" />
 	<ctl name="RX3 True Level" value="ZERO" />
@@ -5066,9 +5066,9 @@
 	<ctl name="4 True Expand Switch" value="0" />
 	<ctl name="TX4 True Expand" value="ZERO" />
 	<ctl name="RX4 True Expand" value="ZERO" />
-	<ctl name="4 True Audio Normalization Switch" value="0" />
-	<ctl name="TX4 True Audio Normalization" value="ZERO" />
-	<ctl name="RX4 True Audio Normalization" value="ZERO" />
+	<ctl name="4 True Normalization Switch" value="0" />
+	<ctl name="TX4 True Normalization" value="ZERO" />
+	<ctl name="RX4 True Normalization" value="ZERO" />
 	<ctl name="4 True Level Switch" value="0" />
 	<ctl name="TX4 True Level" value="ZERO" />
 	<ctl name="RX4 True Level" value="ZERO" />
@@ -5108,9 +5108,9 @@
 	<ctl name="5 True Expand Switch" value="0" />
 	<ctl name="TX5 True Expand" value="ZERO" />
 	<ctl name="RX5 True Expand" value="ZERO" />
-	<ctl name="5 True Audio Normalization Switch" value="0" />
-	<ctl name="TX5 True Audio Normalization" value="ZERO" />
-	<ctl name="RX5 True Audio Normalization" value="ZERO" />
+	<ctl name="5 True Normalization Switch" value="0" />
+	<ctl name="TX5 True Normalization" value="ZERO" />
+	<ctl name="RX5 True Normalization" value="ZERO" />
 	<ctl name="5 True Level Switch" value="0" />
 	<ctl name="TX5 True Level" value="ZERO" />
 	<ctl name="RX5 True Level" value="ZERO" />
@@ -5150,9 +5150,9 @@
 	<ctl name="6 True Expand Switch" value="0" />
 	<ctl name="TX6 True Expand" value="ZERO" />
 	<ctl name="RX6 True Expand" value="ZERO" />
-	<ctl name="6 True Audio Normalization Switch" value="0" />
-	<ctl name="TX6 True Audio Normalization" value="ZERO" />
-	<ctl name="RX6 True Audio Normalization" value="ZERO" />
+	<ctl name="6 True Normalization Switch" value="0" />
+	<ctl name="TX6 True Normalization" value="ZERO" />
+	<ctl name="RX6 True Normalization" value="ZERO" />
 	<ctl name="6 True Level Switch" value="0" />
 	<ctl name="TX6 True Level" value="ZERO" />
 	<ctl name="RX6 True Level" value="ZERO" />
@@ -5192,9 +5192,9 @@
 	<ctl name="7 True Expand Switch" value="0" />
 	<ctl name="TX7 True Expand" value="ZERO" />
 	<ctl name="RX7 True Expand" value="ZERO" />
-	<ctl name="7 True Audio Normalization Switch" value="0" />
-	<ctl name="TX7 True Audio Normalization" value="ZERO" />
-	<ctl name="RX7 True Audio Normalization" value="ZERO" />
+	<ctl name="7 True Normalization Switch" value="0" />
+	<ctl name="TX7 True Normalization" value="ZERO" />
+	<ctl name="RX7 True Normalization" value="ZERO" />
 	<ctl name="7 True Level Switch" value="0" />
 	<ctl name="TX7 True Level" value="ZERO" />
 	<ctl name="RX7 True Level" value="ZERO" />
@@ -5234,9 +5234,9 @@
 	<ctl name="8 True Expand Switch" value="0" />
 	<ctl name="TX8 True Expand" value="ZERO" />
 	<ctl name="RX8 True Expand" value="ZERO" />
-	<ctl name="8 True Audio Normalization Switch" value="0" />
-	<ctl name="TX8 True Audio Normalization" value="ZERO" />
-	<ctl name="RX8 True Audio Normalization" value="ZERO" />
+	<ctl name="8 True Normalization Switch" value="0" />
+	<ctl name="TX8 True Normalization" value="ZERO" />
+	<ctl name="RX8 True Normalization" value="ZERO" />
 	<ctl name="8 True Level Switch" value="0" />
 	<ctl name="TX8 True Level" value="ZERO" />
 	<ctl name="RX8 True Level" value="ZERO" />
@@ -5276,9 +5276,9 @@
 	<ctl name="HPHL True Expand Switch" value="0" />
 	<ctl name="TX HPHL True Expand" value="ZERO" />
 	<ctl name="RX HPHL True Expand" value="ZERO" />
-	<ctl name="HPHL True Audio Normalization Switch" value="0" />
-	<ctl name="TX HPHL True Audio Normalization" value="ZERO" />
-	<ctl name="RX HPHL True Audio Normalization" value="ZERO" />
+	<ctl name="HPHL True Normalization Switch" value="0" />
+	<ctl name="TX HPHL True Normalization" value="ZERO" />
+	<ctl name="RX HPHL True Normalization" value="ZERO" />
 	<ctl name="HPHL True Level Switch" value="0" />
 	<ctl name="TX HPHL True Level" value="ZERO" />
 	<ctl name="RX HPHL True Level" value="ZERO" />
@@ -5315,9 +5315,9 @@
 	<ctl name="HPHR True Expand Switch" value="0" />
 	<ctl name="TX HPHR True Expand" value="ZERO" />
 	<ctl name="RX HPHR True Expand" value="ZERO" />
-	<ctl name="HPHR True Audio Normalization Switch" value="0" />
-	<ctl name="TX HPHR True Audio Normalization" value="ZERO" />
-	<ctl name="RX HPHR True Audio Normalization" value="ZERO" />
+	<ctl name="HPHR True Normalization Switch" value="0" />
+	<ctl name="TX HPHR True Normalization" value="ZERO" />
+	<ctl name="RX HPHR True Normalization" value="ZERO" />
 	<ctl name="HPHR True Level Switch" value="0" />
 	<ctl name="TX HPHR True Level" value="ZERO" />
 	<ctl name="RX HPHR True Level" value="ZERO" />
@@ -5354,9 +5354,9 @@
 	<ctl name="SPKRL True Expand Switch" value="0" />
 	<ctl name="TX SPKRL True Expand" value="ZERO" />
 	<ctl name="RX SPKRL True Expand" value="ZERO" />
-	<ctl name="SPKRL True Audio Normalization Switch" value="0" />
-	<ctl name="TX SPKRL True Audio Normalization" value="ZERO" />
-	<ctl name="RX SPKRL True Audio Normalization" value="ZERO" />
+	<ctl name="SPKRL True Normalization Switch" value="0" />
+	<ctl name="TX SPKRL True Normalization" value="ZERO" />
+	<ctl name="RX SPKRL True Normalization" value="ZERO" />
 	<ctl name="SPKRL True Level Switch" value="0" />
 	<ctl name="TX SPKRL True Level" value="ZERO" />
 	<ctl name="RX SPKRL True Level" value="ZERO" />
@@ -5393,9 +5393,9 @@
 	<ctl name="SPKRR True Expand Switch" value="0" />
 	<ctl name="TX SPKRR True Expand" value="ZERO" />
 	<ctl name="RX SPKRR True Expand" value="ZERO" />
-	<ctl name="SPKRR True Audio Normalization Switch" value="0" />
-	<ctl name="TX SPKRR True Audio Normalization" value="ZERO" />
-	<ctl name="RX SPKRR True Audio Normalization" value="ZERO" />
+	<ctl name="SPKRR True Normalization Switch" value="0" />
+	<ctl name="TX SPKRR True Normalization" value="ZERO" />
+	<ctl name="RX SPKRR True Normalization" value="ZERO" />
 	<ctl name="SPKRR True Level Switch" value="0" />
 	<ctl name="TX SPKRR True Level" value="ZERO" />
 	<ctl name="RX SPKRR True Level" value="ZERO" />
@@ -18253,9 +18253,9 @@
 	<ctl name="7 True Expand Switch" value="1" />
 	<ctl name="TX7 True Expand" value="AUTO" />
 	<ctl name="RX7 True Expand" value="AUTO" />
-	<ctl name="7 True Audio Normalization Switch" value="1" />
-	<ctl name="TX7 True Audio Normalization" value="AUTO" />
-	<ctl name="RX7 True Audio Normalization" value="AUTO" />
+	<ctl name="7 True Normalization Switch" value="1" />
+	<ctl name="TX7 True Normalization" value="AUTO" />
+	<ctl name="RX7 True Normalization" value="AUTO" />
 	<ctl name="7 True Level Switch" value="1" />
 	<ctl name="TX7 True Level" value="AUTO" />
 	<ctl name="RX7 True Level" value="AUTO" />
@@ -18295,9 +18295,9 @@
 	<ctl name="8 True Expand Switch" value="0" />
 	<ctl name="TX8 True Expand" value="ZERO" />
 	<ctl name="RX8 True Expand" value="ZERO" />
-	<ctl name="8 True Audio Normalization Switch" value="0" />
-	<ctl name="TX8 True Audio Normalization" value="ZERO" />
-	<ctl name="RX8 True Audio Normalization" value="ZERO" />
+	<ctl name="8 True Normalization Switch" value="0" />
+	<ctl name="TX8 True Normalization" value="ZERO" />
+	<ctl name="RX8 True Normalization" value="ZERO" />
 	<ctl name="8 True Level Switch" value="0" />
 	<ctl name="TX8 True Level" value="ZERO" />
 	<ctl name="RX8 True Level" value="ZERO" />
@@ -18337,9 +18337,9 @@
 	<ctl name="SPKRL True Expand Switch" value="1" />
 	<ctl name="TX SPKRL True Expand" value="AUTO" />
 	<ctl name="RX SPKRL True Expand" value="AUTO" />
-	<ctl name="SPKRL True Audio Normalization Switch" value="1" />
-	<ctl name="TX SPKRL True Audio Normalization" value="AUTO" />
-	<ctl name="RX SPKRL True Audio Normalization" value="AUTO" />
+	<ctl name="SPKRL True Normalization Switch" value="1" />
+	<ctl name="TX SPKRL True Normalization" value="AUTO" />
+	<ctl name="RX SPKRL True Normalization" value="AUTO" />
 	<ctl name="SPKRL True Level Switch" value="1" />
 	<ctl name="TX SPKRL True Level" value="AUTO" />
 	<ctl name="RX SPKRL True Level" value="AUTO" />
@@ -18376,9 +18376,9 @@
 	<ctl name="SPKRR True Expand Switch" value="0" />
 	<ctl name="TX SPKRR True Expand" value="ZERO" />
 	<ctl name="RX SPKRR True Expand" value="ZERO" />
-	<ctl name="SPKRR True Audio Normalization Switch" value="0" />
-	<ctl name="TX SPKRR True Audio Normalization" value="ZERO" />
-	<ctl name="RX SPKRR True Audio Normalization" value="ZERO" />
+	<ctl name="SPKRR True Normalization Switch" value="0" />
+	<ctl name="TX SPKRR True Normalization" value="ZERO" />
+	<ctl name="RX SPKRR True Normalization" value="ZERO" />
 	<ctl name="SPKRR True Level Switch" value="0" />
 	<ctl name="TX SPKRR True Level" value="ZERO" />
 	<ctl name="RX SPKRR True Level" value="ZERO" />
@@ -18447,9 +18447,9 @@
 	<ctl name="7 True Expand Switch" value="2" />
 	<ctl name="TX7 True Expand" value="AUTO" />
 	<ctl name="RX7 True Expand" value="AUTO" />
-	<ctl name="7 True Audio Normalization Switch" value="2" />
-	<ctl name="TX7 True Audio Normalization" value="AUTO" />
-	<ctl name="RX7 True Audio Normalization" value="AUTO" />
+	<ctl name="7 True Normalization Switch" value="2" />
+	<ctl name="TX7 True Normalization" value="AUTO" />
+	<ctl name="RX7 True Normalization" value="AUTO" />
 	<ctl name="7 True Level Switch" value="2" />
 	<ctl name="TX7 True Level" value="AUTO" />
 	<ctl name="RX7 True Level" value="AUTO" />
@@ -18489,9 +18489,9 @@
 	<ctl name="8 True Expand Switch" value="2" />
 	<ctl name="TX8 True Expand" value="AUTO" />
 	<ctl name="RX8 True Expand" value="AUTO" />
-	<ctl name="8 True Audio Normalization Switch" value="2" />
-	<ctl name="TX8 True Audio Normalization" value="AUTO" />
-	<ctl name="RX8 True Audio Normalization" value="AUTO" />
+	<ctl name="8 True Normalization Switch" value="2" />
+	<ctl name="TX8 True Normalization" value="AUTO" />
+	<ctl name="RX8 True Normalization" value="AUTO" />
 	<ctl name="8 True Level Switch" value="2" />
 	<ctl name="TX8 True Level" value="AUTO" />
 	<ctl name="RX8 True Level" value="AUTO" />
@@ -18531,9 +18531,9 @@
 	<ctl name="SPKRL True Expand Switch" value="2" />
 	<ctl name="TX SPKRL True Expand" value="AUTO" />
 	<ctl name="RX SPKRL True Expand" value="AUTO" />
-	<ctl name="SPKRL True Audio Normalization Switch" value="2" />
-	<ctl name="TX SPKRL True Audio Normalization" value="AUTO" />
-	<ctl name="RX SPKRL True Audio Normalization" value="AUTO" />
+	<ctl name="SPKRL True Normalization Switch" value="2" />
+	<ctl name="TX SPKRL True Normalization" value="AUTO" />
+	<ctl name="RX SPKRL True Normalization" value="AUTO" />
 	<ctl name="SPKRL True Level Switch" value="2" />
 	<ctl name="TX SPKRL True Level" value="AUTO" />
 	<ctl name="RX SPKRL True Level" value="AUTO" />
@@ -18570,9 +18570,9 @@
 	<ctl name="SPKRR True Expand Switch" value="2" />
 	<ctl name="TX SPKRR True Expand" value="AUTO" />
 	<ctl name="RX SPKRR True Expand" value="AUTO" />
-	<ctl name="SPKRR True Audio Normalization Switch" value="2" />
-	<ctl name="TX SPKRR True Audio Normalization" value="AUTO" />
-	<ctl name="RX SPKRR True Audio Normalization" value="AUTO" />
+	<ctl name="SPKRR True Normalization Switch" value="2" />
+	<ctl name="TX SPKRR True Normalization" value="AUTO" />
+	<ctl name="RX SPKRR True Normalization" value="AUTO" />
 	<ctl name="SPKRR True Level Switch" value="2" />
 	<ctl name="TX SPKRR True Level" value="AUTO" />
 	<ctl name="RX SPKRR True Level" value="AUTO" />
@@ -18641,9 +18641,9 @@
 	<ctl name="7 True Expand Switch" value="2" />
 	<ctl name="TX7 True Expand" value="AUTO" />
 	<ctl name="RX7 True Expand" value="AUTO" />
-	<ctl name="7 True Audio Normalization Switch" value="2" />
-	<ctl name="TX7 True Audio Normalization" value="AUTO" />
-	<ctl name="RX7 True Audio Normalization" value="AUTO" />
+	<ctl name="7 True Normalization Switch" value="2" />
+	<ctl name="TX7 True Normalization" value="AUTO" />
+	<ctl name="RX7 True Normalization" value="AUTO" />
 	<ctl name="7 True Level Switch" value="2" />
 	<ctl name="TX7 True Level" value="AUTO" />
 	<ctl name="RX7 True Level" value="AUTO" />
@@ -18683,9 +18683,9 @@
 	<ctl name="8 True Expand Switch" value="2" />
 	<ctl name="TX8 True Expand" value="AUTO" />
 	<ctl name="RX8 True Expand" value="AUTO" />
-	<ctl name="8 True Audio Normalization Switch" value="2" />
-	<ctl name="TX8 True Audio Normalization" value="AUTO" />
-	<ctl name="RX8 True Audio Normalization" value="AUTO" />
+	<ctl name="8 True Normalization Switch" value="2" />
+	<ctl name="TX8 True Normalization" value="AUTO" />
+	<ctl name="RX8 True Normalization" value="AUTO" />
 	<ctl name="8 True Level Switch" value="2" />
 	<ctl name="TX8 True Level" value="AUTO" />
 	<ctl name="RX8 True Level" value="AUTO" />
@@ -18725,9 +18725,9 @@
 	<ctl name="SPKRL True Expand Switch" value="2" />
 	<ctl name="TX SPKRL True Expand" value="AUTO" />
 	<ctl name="RX SPKRL True Expand" value="AUTO" />
-	<ctl name="SPKRL True Audio Normalization Switch" value="2" />
-	<ctl name="TX SPKRL True Audio Normalization" value="AUTO" />
-	<ctl name="RX SPKRL True Audio Normalization" value="AUTO" />
+	<ctl name="SPKRL True Normalization Switch" value="2" />
+	<ctl name="TX SPKRL True Normalization" value="AUTO" />
+	<ctl name="RX SPKRL True Normalization" value="AUTO" />
 	<ctl name="SPKRL True Level Switch" value="2" />
 	<ctl name="TX SPKRL True Level" value="AUTO" />
 	<ctl name="RX SPKRL True Level" value="AUTO" />
@@ -18764,9 +18764,9 @@
 	<ctl name="SPKRR True Expand Switch" value="2" />
 	<ctl name="TX SPKRR True Expand" value="AUTO" />
 	<ctl name="RX SPKRR True Expand" value="AUTO" />
-	<ctl name="SPKRR True Audio Normalization Switch" value="2" />
-	<ctl name="TX SPKRR True Audio Normalization" value="AUTO" />
-	<ctl name="RX SPKRR True Audio Normalization" value="AUTO" />
+	<ctl name="SPKRR True Normalization Switch" value="2" />
+	<ctl name="TX SPKRR True Normalization" value="AUTO" />
+	<ctl name="RX SPKRR True Normalization" value="AUTO" />
 	<ctl name="SPKRR True Level Switch" value="2" />
 	<ctl name="TX SPKRR True Level" value="AUTO" />
 	<ctl name="RX SPKRR True Level" value="AUTO" />
@@ -18835,9 +18835,9 @@
 	<ctl name="7 True Expand Switch" value="2" />
 	<ctl name="TX7 True Expand" value="AUTO" />
 	<ctl name="RX7 True Expand" value="AUTO" />
-	<ctl name="7 True Audio Normalization Switch" value="2" />
-	<ctl name="TX7 True Audio Normalization" value="AUTO" />
-	<ctl name="RX7 True Audio Normalization" value="AUTO" />
+	<ctl name="7 True Normalization Switch" value="2" />
+	<ctl name="TX7 True Normalization" value="AUTO" />
+	<ctl name="RX7 True Normalization" value="AUTO" />
 	<ctl name="7 True Level Switch" value="2" />
 	<ctl name="TX7 True Level" value="AUTO" />
 	<ctl name="RX7 True Level" value="AUTO" />
@@ -18877,9 +18877,9 @@
 	<ctl name="8 True Expand Switch" value="2" />
 	<ctl name="TX8 True Expand" value="AUTO" />
 	<ctl name="RX8 True Expand" value="AUTO" />
-	<ctl name="8 True Audio Normalization Switch" value="2" />
-	<ctl name="TX8 True Audio Normalization" value="AUTO" />
-	<ctl name="RX8 True Audio Normalization" value="AUTO" />
+	<ctl name="8 True Normalization Switch" value="2" />
+	<ctl name="TX8 True Normalization" value="AUTO" />
+	<ctl name="RX8 True Normalization" value="AUTO" />
 	<ctl name="8 True Level Switch" value="2" />
 	<ctl name="TX8 True Level" value="AUTO" />
 	<ctl name="RX8 True Level" value="AUTO" />
@@ -18919,9 +18919,9 @@
 	<ctl name="SPKRL True Expand Switch" value="2" />
 	<ctl name="TX SPKRL True Expand" value="AUTO" />
 	<ctl name="RX SPKRL True Expand" value="AUTO" />
-	<ctl name="SPKRL True Audio Normalization Switch" value="2" />
-	<ctl name="TX SPKRL True Audio Normalization" value="AUTO" />
-	<ctl name="RX SPKRL True Audio Normalization" value="AUTO" />
+	<ctl name="SPKRL True Normalization Switch" value="2" />
+	<ctl name="TX SPKRL True Normalization" value="AUTO" />
+	<ctl name="RX SPKRL True Normalization" value="AUTO" />
 	<ctl name="SPKRL True Level Switch" value="2" />
 	<ctl name="TX SPKRL True Level" value="AUTO" />
 	<ctl name="RX SPKRL True Level" value="AUTO" />
@@ -18958,9 +18958,9 @@
 	<ctl name="SPKRR True Expand Switch" value="2" />
 	<ctl name="TX SPKRR True Expand" value="AUTO" />
 	<ctl name="RX SPKRR True Expand" value="AUTO" />
-	<ctl name="SPKRR True Audio Normalization Switch" value="2" />
-	<ctl name="TX SPKRR True Audio Normalization" value="AUTO" />
-	<ctl name="RX SPKRR True Audio Normalization" value="AUTO" />
+	<ctl name="SPKRR True Normalization Switch" value="2" />
+	<ctl name="TX SPKRR True Normalization" value="AUTO" />
+	<ctl name="RX SPKRR True Normalization" value="AUTO" />
 	<ctl name="SPKRR True Level Switch" value="2" />
 	<ctl name="TX SPKRR True Level" value="AUTO" />
 	<ctl name="RX SPKRR True Level" value="AUTO" />
@@ -19064,9 +19064,9 @@
 	<ctl name="7 True Expand Switch" value="1" />
 	<ctl name="TX7 True Expand" value="AUTO" />
 	<ctl name="RX7 True Expand" value="AUTO" />
-	<ctl name="7 True Audio Normalization Switch" value="1" />
-	<ctl name="TX7 True Audio Normalization" value="AUTO" />
-	<ctl name="RX7 True Audio Normalization" value="AUTO" />
+	<ctl name="7 True Normalization Switch" value="1" />
+	<ctl name="TX7 True Normalization" value="AUTO" />
+	<ctl name="RX7 True Normalization" value="AUTO" />
 	<ctl name="7 True Level Switch" value="1" />
 	<ctl name="TX7 True Level" value="AUTO" />
 	<ctl name="RX7 True Level" value="AUTO" />
@@ -19106,9 +19106,9 @@
 	<ctl name="8 True Expand Switch" value="0" />
 	<ctl name="TX8 True Expand" value="ZERO" />
 	<ctl name="RX8 True Expand" value="ZERO" />
-	<ctl name="8 True Audio Normalization Switch" value="0" />
-	<ctl name="TX8 True Audio Normalization" value="ZERO" />
-	<ctl name="RX8 True Audio Normalization" value="ZERO" />
+	<ctl name="8 True Normalization Switch" value="0" />
+	<ctl name="TX8 True Normalization" value="ZERO" />
+	<ctl name="RX8 True Normalization" value="ZERO" />
 	<ctl name="8 True Level Switch" value="0" />
 	<ctl name="TX8 True Level" value="ZERO" />
 	<ctl name="RX8 True Level" value="ZERO" />
@@ -19148,9 +19148,9 @@
 	<ctl name="SPKRL True Expand Switch" value="1" />
 	<ctl name="TX SPKRL True Expand" value="AUTO" />
 	<ctl name="RX SPKRL True Expand" value="AUTO" />
-	<ctl name="SPKRL True Audio Normalization Switch" value="1" />
-	<ctl name="TX SPKRL True Audio Normalization" value="AUTO" />
-	<ctl name="RX SPKRL True Audio Normalization" value="AUTO" />
+	<ctl name="SPKRL True Normalization Switch" value="1" />
+	<ctl name="TX SPKRL True Normalization" value="AUTO" />
+	<ctl name="RX SPKRL True Normalization" value="AUTO" />
 	<ctl name="SPKRL True Level Switch" value="1" />
 	<ctl name="TX SPKRL True Level" value="AUTO" />
 	<ctl name="RX SPKRL True Level" value="AUTO" />
@@ -19187,9 +19187,9 @@
 	<ctl name="SPKRR True Expand Switch" value="0" />
 	<ctl name="TX SPKRR True Expand" value="ZERO" />
 	<ctl name="RX SPKRR True Expand" value="ZERO" />
-	<ctl name="SPKRR True Audio Normalization Switch" value="0" />
-	<ctl name="TX SPKRR True Audio Normalization" value="ZERO" />
-	<ctl name="RX SPKRR True Audio Normalization" value="ZERO" />
+	<ctl name="SPKRR True Normalization Switch" value="0" />
+	<ctl name="TX SPKRR True Normalization" value="ZERO" />
+	<ctl name="RX SPKRR True Normalization" value="ZERO" />
 	<ctl name="SPKRR True Level Switch" value="0" />
 	<ctl name="TX SPKRR True Level" value="ZERO" />
 	<ctl name="RX SPKRR True Level" value="ZERO" />
@@ -19256,9 +19256,9 @@
 	<ctl name="7 True Expand Switch" value="2" />
 	<ctl name="TX7 True Expand" value="AUTO" />
 	<ctl name="RX7 True Expand" value="AUTO" />
-	<ctl name="7 True Audio Normalization Switch" value="2" />
-	<ctl name="TX7 True Audio Normalization" value="AUTO" />
-	<ctl name="RX7 True Audio Normalization" value="AUTO" />
+	<ctl name="7 True Normalization Switch" value="2" />
+	<ctl name="TX7 True Normalization" value="AUTO" />
+	<ctl name="RX7 True Normalization" value="AUTO" />
 	<ctl name="7 True Level Switch" value="2" />
 	<ctl name="TX7 True Level" value="AUTO" />
 	<ctl name="RX7 True Level" value="AUTO" />
@@ -19298,9 +19298,9 @@
 	<ctl name="8 True Expand Switch" value="2" />
 	<ctl name="TX8 True Expand" value="AUTO" />
 	<ctl name="RX8 True Expand" value="AUTO" />
-	<ctl name="8 True Audio Normalization Switch" value="2" />
-	<ctl name="TX8 True Audio Normalization" value="AUTO" />
-	<ctl name="RX8 True Audio Normalization" value="AUTO" />
+	<ctl name="8 True Normalization Switch" value="2" />
+	<ctl name="TX8 True Normalization" value="AUTO" />
+	<ctl name="RX8 True Normalization" value="AUTO" />
 	<ctl name="8 True Level Switch" value="2" />
 	<ctl name="TX8 True Level" value="AUTO" />
 	<ctl name="RX8 True Level" value="AUTO" />
@@ -19340,9 +19340,9 @@
 	<ctl name="SPKRL True Expand Switch" value="2" />
 	<ctl name="TX SPKRL True Expand" value="AUTO" />
 	<ctl name="RX SPKRL True Expand" value="AUTO" />
-	<ctl name="SPKRL True Audio Normalization Switch" value="2" />
-	<ctl name="TX SPKRL True Audio Normalization" value="AUTO" />
-	<ctl name="RX SPKRL True Audio Normalization" value="AUTO" />
+	<ctl name="SPKRL True Normalization Switch" value="2" />
+	<ctl name="TX SPKRL True Normalization" value="AUTO" />
+	<ctl name="RX SPKRL True Normalization" value="AUTO" />
 	<ctl name="SPKRL True Level Switch" value="2" />
 	<ctl name="TX SPKRL True Level" value="AUTO" />
 	<ctl name="RX SPKRL True Level" value="AUTO" />
@@ -19379,9 +19379,9 @@
 	<ctl name="SPKRR True Expand Switch" value="2" />
 	<ctl name="TX SPKRR True Expand" value="AUTO" />
 	<ctl name="RX SPKRR True Expand" value="AUTO" />
-	<ctl name="SPKRR True Audio Normalization Switch" value="2" />
-	<ctl name="TX SPKRR True Audio Normalization" value="AUTO" />
-	<ctl name="RX SPKRR True Audio Normalization" value="AUTO" />
+	<ctl name="SPKRR True Normalization Switch" value="2" />
+	<ctl name="TX SPKRR True Normalization" value="AUTO" />
+	<ctl name="RX SPKRR True Normalization" value="AUTO" />
 	<ctl name="SPKRR True Level Switch" value="2" />
 	<ctl name="TX SPKRR True Level" value="AUTO" />
 	<ctl name="RX SPKRR True Level" value="AUTO" />
@@ -19448,9 +19448,9 @@
 	<ctl name="7 True Expand Switch" value="2" />
 	<ctl name="TX7 True Expand" value="AUTO" />
 	<ctl name="RX7 True Expand" value="AUTO" />
-	<ctl name="7 True Audio Normalization Switch" value="2" />
-	<ctl name="TX7 True Audio Normalization" value="AUTO" />
-	<ctl name="RX7 True Audio Normalization" value="AUTO" />
+	<ctl name="7 True Normalization Switch" value="2" />
+	<ctl name="TX7 True Normalization" value="AUTO" />
+	<ctl name="RX7 True Normalization" value="AUTO" />
 	<ctl name="7 True Level Switch" value="2" />
 	<ctl name="TX7 True Level" value="AUTO" />
 	<ctl name="RX7 True Level" value="AUTO" />
@@ -19490,9 +19490,9 @@
 	<ctl name="8 True Expand Switch" value="2" />
 	<ctl name="TX8 True Expand" value="AUTO" />
 	<ctl name="RX8 True Expand" value="AUTO" />
-	<ctl name="8 True Audio Normalization Switch" value="2" />
-	<ctl name="TX8 True Audio Normalization" value="AUTO" />
-	<ctl name="RX8 True Audio Normalization" value="AUTO" />
+	<ctl name="8 True Normalization Switch" value="2" />
+	<ctl name="TX8 True Normalization" value="AUTO" />
+	<ctl name="RX8 True Normalization" value="AUTO" />
 	<ctl name="8 True Level Switch" value="2" />
 	<ctl name="TX8 True Level" value="AUTO" />
 	<ctl name="RX8 True Level" value="AUTO" />
@@ -19532,9 +19532,9 @@
 	<ctl name="SPKRL True Expand Switch" value="2" />
 	<ctl name="TX SPKRL True Expand" value="AUTO" />
 	<ctl name="RX SPKRL True Expand" value="AUTO" />
-	<ctl name="SPKRL True Audio Normalization Switch" value="2" />
-	<ctl name="TX SPKRL True Audio Normalization" value="AUTO" />
-	<ctl name="RX SPKRL True Audio Normalization" value="AUTO" />
+	<ctl name="SPKRL True Normalization Switch" value="2" />
+	<ctl name="TX SPKRL True Normalization" value="AUTO" />
+	<ctl name="RX SPKRL True Normalization" value="AUTO" />
 	<ctl name="SPKRL True Level Switch" value="2" />
 	<ctl name="TX SPKRL True Level" value="AUTO" />
 	<ctl name="RX SPKRL True Level" value="AUTO" />
@@ -19571,9 +19571,9 @@
 	<ctl name="SPKRR True Expand Switch" value="2" />
 	<ctl name="TX SPKRR True Expand" value="AUTO" />
 	<ctl name="RX SPKRR True Expand" value="AUTO" />
-	<ctl name="SPKRR True Audio Normalization Switch" value="2" />
-	<ctl name="TX SPKRR True Audio Normalization" value="AUTO" />
-	<ctl name="RX SPKRR True Audio Normalization" value="AUTO" />
+	<ctl name="SPKRR True Normalization Switch" value="2" />
+	<ctl name="TX SPKRR True Normalization" value="AUTO" />
+	<ctl name="RX SPKRR True Normalization" value="AUTO" />
 	<ctl name="SPKRR True Level Switch" value="2" />
 	<ctl name="TX SPKRR True Level" value="AUTO" />
 	<ctl name="RX SPKRR True Level" value="AUTO" />
@@ -19640,9 +19640,9 @@
 	<ctl name="7 True Expand Switch" value="2" />
 	<ctl name="TX7 True Expand" value="AUTO" />
 	<ctl name="RX7 True Expand" value="AUTO" />
-	<ctl name="7 True Audio Normalization Switch" value="2" />
-	<ctl name="TX7 True Audio Normalization" value="AUTO" />
-	<ctl name="RX7 True Audio Normalization" value="AUTO" />
+	<ctl name="7 True Normalization Switch" value="2" />
+	<ctl name="TX7 True Normalization" value="AUTO" />
+	<ctl name="RX7 True Normalization" value="AUTO" />
 	<ctl name="7 True Level Switch" value="2" />
 	<ctl name="TX7 True Level" value="AUTO" />
 	<ctl name="RX7 True Level" value="AUTO" />
@@ -19682,9 +19682,9 @@
 	<ctl name="8 True Expand Switch" value="2" />
 	<ctl name="TX8 True Expand" value="AUTO" />
 	<ctl name="RX8 True Expand" value="AUTO" />
-	<ctl name="8 True Audio Normalization Switch" value="2" />
-	<ctl name="TX8 True Audio Normalization" value="AUTO" />
-	<ctl name="RX8 True Audio Normalization" value="AUTO" />
+	<ctl name="8 True Normalization Switch" value="2" />
+	<ctl name="TX8 True Normalization" value="AUTO" />
+	<ctl name="RX8 True Normalization" value="AUTO" />
 	<ctl name="8 True Level Switch" value="2" />
 	<ctl name="TX8 True Level" value="AUTO" />
 	<ctl name="RX8 True Level" value="AUTO" />
@@ -19724,9 +19724,9 @@
 	<ctl name="SPKRL True Expand Switch" value="2" />
 	<ctl name="TX SPKRL True Expand" value="AUTO" />
 	<ctl name="RX SPKRL True Expand" value="AUTO" />
-	<ctl name="SPKRL True Audio Normalization Switch" value="2" />
-	<ctl name="TX SPKRL True Audio Normalization" value="AUTO" />
-	<ctl name="RX SPKRL True Audio Normalization" value="AUTO" />
+	<ctl name="SPKRL True Normalization Switch" value="2" />
+	<ctl name="TX SPKRL True Normalization" value="AUTO" />
+	<ctl name="RX SPKRL True Normalization" value="AUTO" />
 	<ctl name="SPKRL True Level Switch" value="2" />
 	<ctl name="TX SPKRL True Level" value="AUTO" />
 	<ctl name="RX SPKRL True Level" value="AUTO" />
@@ -19763,9 +19763,9 @@
 	<ctl name="SPKRR True Expand Switch" value="2" />
 	<ctl name="TX SPKRR True Expand" value="AUTO" />
 	<ctl name="RX SPKRR True Expand" value="AUTO" />
-	<ctl name="SPKRR True Audio Normalization Switch" value="2" />
-	<ctl name="TX SPKRR True Audio Normalization" value="AUTO" />
-	<ctl name="RX SPKRR True Audio Normalization" value="AUTO" />
+	<ctl name="SPKRR True Normalization Switch" value="2" />
+	<ctl name="TX SPKRR True Normalization" value="AUTO" />
+	<ctl name="RX SPKRR True Normalization" value="AUTO" />
 	<ctl name="SPKRR True Level Switch" value="2" />
 	<ctl name="TX SPKRR True Level" value="AUTO" />
 	<ctl name="RX SPKRR True Level" value="AUTO" />
@@ -21572,9 +21572,9 @@
 	<ctl name="7 True Expand Switch" value="1" />
 	<ctl name="TX7 True Expand" value="AUTO" />
 	<ctl name="RX7 True Expand" value="AUTO" />
-	<ctl name="7 True Audio Normalization Switch" value="1" />
-	<ctl name="TX7 True Audio Normalization" value="AUTO" />
-	<ctl name="RX7 True Audio Normalization" value="AUTO" />
+	<ctl name="7 True Normalization Switch" value="1" />
+	<ctl name="TX7 True Normalization" value="AUTO" />
+	<ctl name="RX7 True Normalization" value="AUTO" />
 	<ctl name="7 True Level Switch" value="1" />
 	<ctl name="TX7 True Level" value="AUTO" />
 	<ctl name="RX7 True Level" value="AUTO" />
@@ -21614,9 +21614,9 @@
 	<ctl name="8 True Expand Switch" value="0" />
 	<ctl name="TX8 True Expand" value="ZERO" />
 	<ctl name="RX8 True Expand" value="ZERO" />
-	<ctl name="8 True Audio Normalization Switch" value="0" />
-	<ctl name="TX8 True Audio Normalization" value="ZERO" />
-	<ctl name="RX8 True Audio Normalization" value="ZERO" />
+	<ctl name="8 True Normalization Switch" value="0" />
+	<ctl name="TX8 True Normalization" value="ZERO" />
+	<ctl name="RX8 True Normalization" value="ZERO" />
 	<ctl name="8 True Level Switch" value="0" />
 	<ctl name="TX8 True Level" value="ZERO" />
 	<ctl name="RX8 True Level" value="ZERO" />
@@ -21656,9 +21656,9 @@
 	<ctl name="SPKRL True Expand Switch" value="1" />
 	<ctl name="TX SPKRL True Expand" value="AUTO" />
 	<ctl name="RX SPKRL True Expand" value="AUTO" />
-	<ctl name="SPKRL True Audio Normalization Switch" value="1" />
-	<ctl name="TX SPKRL True Audio Normalization" value="AUTO" />
-	<ctl name="RX SPKRL True Audio Normalization" value="AUTO" />
+	<ctl name="SPKRL True Normalization Switch" value="1" />
+	<ctl name="TX SPKRL True Normalization" value="AUTO" />
+	<ctl name="RX SPKRL True Normalization" value="AUTO" />
 	<ctl name="SPKRL True Level Switch" value="1" />
 	<ctl name="TX SPKRL True Level" value="AUTO" />
 	<ctl name="RX SPKRL True Level" value="AUTO" />
@@ -21695,9 +21695,9 @@
 	<ctl name="SPKRR True Expand Switch" value="0" />
 	<ctl name="TX SPKRR True Expand" value="ZERO" />
 	<ctl name="RX SPKRR True Expand" value="ZERO" />
-	<ctl name="SPKRR True Audio Normalization Switch" value="0" />
-	<ctl name="TX SPKRR True Audio Normalization" value="ZERO" />
-	<ctl name="RX SPKRR True Audio Normalization" value="ZERO" />
+	<ctl name="SPKRR True Normalization Switch" value="0" />
+	<ctl name="TX SPKRR True Normalization" value="ZERO" />
+	<ctl name="RX SPKRR True Normalization" value="ZERO" />
 	<ctl name="SPKRR True Level Switch" value="0" />
 	<ctl name="TX SPKRR True Level" value="ZERO" />
 	<ctl name="RX SPKRR True Level" value="ZERO" />
@@ -21747,9 +21747,9 @@
 	<ctl name="7 True Expand Switch" value="2" />
 	<ctl name="TX7 True Expand" value="AUTO" />
 	<ctl name="RX7 True Expand" value="AUTO" />
-	<ctl name="7 True Audio Normalization Switch" value="2" />
-	<ctl name="TX7 True Audio Normalization" value="AUTO" />
-	<ctl name="RX7 True Audio Normalization" value="AUTO" />
+	<ctl name="7 True Normalization Switch" value="2" />
+	<ctl name="TX7 True Normalization" value="AUTO" />
+	<ctl name="RX7 True Normalization" value="AUTO" />
 	<ctl name="7 True Level Switch" value="2" />
 	<ctl name="TX7 True Level" value="AUTO" />
 	<ctl name="RX7 True Level" value="AUTO" />
@@ -21789,9 +21789,9 @@
 	<ctl name="8 True Expand Switch" value="2" />
 	<ctl name="TX8 True Expand" value="AUTO" />
 	<ctl name="RX8 True Expand" value="AUTO" />
-	<ctl name="8 True Audio Normalization Switch" value="2" />
-	<ctl name="TX8 True Audio Normalization" value="AUTO" />
-	<ctl name="RX8 True Audio Normalization" value="AUTO" />
+	<ctl name="8 True Normalization Switch" value="2" />
+	<ctl name="TX8 True Normalization" value="AUTO" />
+	<ctl name="RX8 True Normalization" value="AUTO" />
 	<ctl name="8 True Level Switch" value="2" />
 	<ctl name="TX8 True Level" value="AUTO" />
 	<ctl name="RX8 True Level" value="AUTO" />
@@ -21831,9 +21831,9 @@
 	<ctl name="SPKRL True Expand Switch" value="2" />
 	<ctl name="TX SPKRL True Expand" value="AUTO" />
 	<ctl name="RX SPKRL True Expand" value="AUTO" />
-	<ctl name="SPKRL True Audio Normalization Switch" value="2" />
-	<ctl name="TX SPKRL True Audio Normalization" value="AUTO" />
-	<ctl name="RX SPKRL True Audio Normalization" value="AUTO" />
+	<ctl name="SPKRL True Normalization Switch" value="2" />
+	<ctl name="TX SPKRL True Normalization" value="AUTO" />
+	<ctl name="RX SPKRL True Normalization" value="AUTO" />
 	<ctl name="SPKRL True Level Switch" value="2" />
 	<ctl name="TX SPKRL True Level" value="AUTO" />
 	<ctl name="RX SPKRL True Level" value="AUTO" />
@@ -21870,9 +21870,9 @@
 	<ctl name="SPKRR True Expand Switch" value="2" />
 	<ctl name="TX SPKRR True Expand" value="AUTO" />
 	<ctl name="RX SPKRR True Expand" value="AUTO" />
-	<ctl name="SPKRR True Audio Normalization Switch" value="2" />
-	<ctl name="TX SPKRR True Audio Normalization" value="AUTO" />
-	<ctl name="RX SPKRR True Audio Normalization" value="AUTO" />
+	<ctl name="SPKRR True Normalization Switch" value="2" />
+	<ctl name="TX SPKRR True Normalization" value="AUTO" />
+	<ctl name="RX SPKRR True Normalization" value="AUTO" />
 	<ctl name="SPKRR True Level Switch" value="2" />
 	<ctl name="TX SPKRR True Level" value="AUTO" />
 	<ctl name="RX SPKRR True Level" value="AUTO" />
@@ -21920,9 +21920,9 @@
 	<ctl name="7 True Expand Switch" value="1" />
 	<ctl name="TX7 True Expand" value="AUTO" />
 	<ctl name="RX7 True Expand" value="AUTO" />
-	<ctl name="7 True Audio Normalization Switch" value="1" />
-	<ctl name="TX7 True Audio Normalization" value="AUTO" />
-	<ctl name="RX7 True Audio Normalization" value="AUTO" />
+	<ctl name="7 True Normalization Switch" value="1" />
+	<ctl name="TX7 True Normalization" value="AUTO" />
+	<ctl name="RX7 True Normalization" value="AUTO" />
 	<ctl name="7 True Level Switch" value="1" />
 	<ctl name="TX7 True Level" value="AUTO" />
 	<ctl name="RX7 True Level" value="AUTO" />
@@ -21962,9 +21962,9 @@
 	<ctl name="8 True Expand Switch" value="0" />
 	<ctl name="TX8 True Expand" value="ZERO" />
 	<ctl name="RX8 True Expand" value="ZERO" />
-	<ctl name="8 True Audio Normalization Switch" value="0" />
-	<ctl name="TX8 True Audio Normalization" value="ZERO" />
-	<ctl name="RX8 True Audio Normalization" value="ZERO" />
+	<ctl name="8 True Normalization Switch" value="0" />
+	<ctl name="TX8 True Normalization" value="ZERO" />
+	<ctl name="RX8 True Normalization" value="ZERO" />
 	<ctl name="8 True Level Switch" value="0" />
 	<ctl name="TX8 True Level" value="ZERO" />
 	<ctl name="RX8 True Level" value="ZERO" />
@@ -22004,9 +22004,9 @@
 	<ctl name="SPKRL True Expand Switch" value="1" />
 	<ctl name="TX SPKRL True Expand" value="AUTO" />
 	<ctl name="RX SPKRL True Expand" value="AUTO" />
-	<ctl name="SPKRL True Audio Normalization Switch" value="1" />
-	<ctl name="TX SPKRL True Audio Normalization" value="AUTO" />
-	<ctl name="RX SPKRL True Audio Normalization" value="AUTO" />
+	<ctl name="SPKRL True Normalization Switch" value="1" />
+	<ctl name="TX SPKRL True Normalization" value="AUTO" />
+	<ctl name="RX SPKRL True Normalization" value="AUTO" />
 	<ctl name="SPKRL True Level Switch" value="1" />
 	<ctl name="TX SPKRL True Level" value="AUTO" />
 	<ctl name="RX SPKRL True Level" value="AUTO" />
@@ -22043,9 +22043,9 @@
 	<ctl name="SPKRR True Expand Switch" value="0" />
 	<ctl name="TX SPKRR True Expand" value="ZERO" />
 	<ctl name="RX SPKRR True Expand" value="ZERO" />
-	<ctl name="SPKRR True Audio Normalization Switch" value="0" />
-	<ctl name="TX SPKRR True Audio Normalization" value="ZERO" />
-	<ctl name="RX SPKRR True Audio Normalization" value="ZERO" />
+	<ctl name="SPKRR True Normalization Switch" value="0" />
+	<ctl name="TX SPKRR True Normalization" value="ZERO" />
+	<ctl name="RX SPKRR True Normalization" value="ZERO" />
 	<ctl name="SPKRR True Level Switch" value="0" />
 	<ctl name="TX SPKRR True Level" value="ZERO" />
 	<ctl name="RX SPKRR True Level" value="ZERO" />
@@ -22093,9 +22093,9 @@
 	<ctl name="7 True Expand Switch" value="2" />
 	<ctl name="TX7 True Expand" value="AUTO" />
 	<ctl name="RX7 True Expand" value="AUTO" />
-	<ctl name="7 True Audio Normalization Switch" value="2" />
-	<ctl name="TX7 True Audio Normalization" value="AUTO" />
-	<ctl name="RX7 True Audio Normalization" value="AUTO" />
+	<ctl name="7 True Normalization Switch" value="2" />
+	<ctl name="TX7 True Normalization" value="AUTO" />
+	<ctl name="RX7 True Normalization" value="AUTO" />
 	<ctl name="7 True Level Switch" value="2" />
 	<ctl name="TX7 True Level" value="AUTO" />
 	<ctl name="RX7 True Level" value="AUTO" />
@@ -22135,9 +22135,9 @@
 	<ctl name="8 True Expand Switch" value="2" />
 	<ctl name="TX8 True Expand" value="AUTO" />
 	<ctl name="RX8 True Expand" value="AUTO" />
-	<ctl name="8 True Audio Normalization Switch" value="2" />
-	<ctl name="TX8 True Audio Normalization" value="AUTO" />
-	<ctl name="RX8 True Audio Normalization" value="AUTO" />
+	<ctl name="8 True Normalization Switch" value="2" />
+	<ctl name="TX8 True Normalization" value="AUTO" />
+	<ctl name="RX8 True Normalization" value="AUTO" />
 	<ctl name="8 True Level Switch" value="2" />
 	<ctl name="TX8 True Level" value="AUTO" />
 	<ctl name="RX8 True Level" value="AUTO" />
@@ -22177,9 +22177,9 @@
 	<ctl name="SPKRL True Expand Switch" value="2" />
 	<ctl name="TX SPKRL True Expand" value="AUTO" />
 	<ctl name="RX SPKRL True Expand" value="AUTO" />
-	<ctl name="SPKRL True Audio Normalization Switch" value="2" />
-	<ctl name="TX SPKRL True Audio Normalization" value="AUTO" />
-	<ctl name="RX SPKRL True Audio Normalization" value="AUTO" />
+	<ctl name="SPKRL True Normalization Switch" value="2" />
+	<ctl name="TX SPKRL True Normalization" value="AUTO" />
+	<ctl name="RX SPKRL True Normalization" value="AUTO" />
 	<ctl name="SPKRL True Level Switch" value="2" />
 	<ctl name="TX SPKRL True Level" value="AUTO" />
 	<ctl name="RX SPKRL True Level" value="AUTO" />
@@ -22216,9 +22216,9 @@
 	<ctl name="SPKRR True Expand Switch" value="2" />
 	<ctl name="TX SPKRR True Expand" value="AUTO" />
 	<ctl name="RX SPKRR True Expand" value="AUTO" />
-	<ctl name="SPKRR True Audio Normalization Switch" value="2" />
-	<ctl name="TX SPKRR True Audio Normalization" value="AUTO" />
-	<ctl name="RX SPKRR True Audio Normalization" value="AUTO" />
+	<ctl name="SPKRR True Normalization Switch" value="2" />
+	<ctl name="TX SPKRR True Normalization" value="AUTO" />
+	<ctl name="RX SPKRR True Normalization" value="AUTO" />
 	<ctl name="SPKRR True Level Switch" value="2" />
 	<ctl name="TX SPKRR True Level" value="AUTO" />
 	<ctl name="RX SPKRR True Level" value="AUTO" />
@@ -22441,9 +22441,9 @@
 	<ctl name="1 True Expand Switch" value="2" />
 	<ctl name="TX1 True Expand" value="AUTO" />
 	<ctl name="RX1 True Expand" value="AUTO" />
-	<ctl name="1 True Audio Normalization Switch" value="2" />
-	<ctl name="TX1 True Audio Normalization" value="AUTO" />
-	<ctl name="RX1 True Audio Normalization" value="AUTO" />
+	<ctl name="1 True Normalization Switch" value="2" />
+	<ctl name="TX1 True Normalization" value="AUTO" />
+	<ctl name="RX1 True Normalization" value="AUTO" />
 	<ctl name="1 True Level Switch" value="2" />
 	<ctl name="TX1 True Level" value="AUTO" />
 	<ctl name="RX1 True Level" value="AUTO" />
@@ -22483,9 +22483,9 @@
 	<ctl name="2 True Expand Switch" value="2" />
 	<ctl name="TX2 True Expand" value="AUTO" />
 	<ctl name="RX2 True Expand" value="AUTO" />
-	<ctl name="2 True Audio Normalization Switch" value="2" />
-	<ctl name="TX2 True Audio Normalization" value="AUTO" />
-	<ctl name="RX2 True Audio Normalization" value="AUTO" />
+	<ctl name="2 True Normalization Switch" value="2" />
+	<ctl name="TX2 True Normalization" value="AUTO" />
+	<ctl name="RX2 True Normalization" value="AUTO" />
 	<ctl name="2 True Level Switch" value="2" />
 	<ctl name="TX2 True Level" value="AUTO" />
 	<ctl name="RX2 True Level" value="AUTO" />
@@ -22525,9 +22525,9 @@
 	<ctl name="HPHL True Expand Switch" value="2" />
 	<ctl name="TX HPHL True Expand" value="AUTO" />
 	<ctl name="RX HPHL True Expand" value="AUTO" />
-	<ctl name="HPHL True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHL True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHL True Audio Normalization" value="AUTO" />
+	<ctl name="HPHL True Normalization Switch" value="2" />
+	<ctl name="TX HPHL True Normalization" value="AUTO" />
+	<ctl name="RX HPHL True Normalization" value="AUTO" />
 	<ctl name="HPHL True Level Switch" value="2" />
 	<ctl name="TX HPHL True Level" value="AUTO" />
 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -22564,9 +22564,9 @@
 	<ctl name="HPHR True Expand Switch" value="2" />
 	<ctl name="TX HPHR True Expand" value="AUTO" />
 	<ctl name="RX HPHR True Expand" value="AUTO" />
-	<ctl name="HPHR True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHR True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHR True Audio Normalization" value="AUTO" />
+	<ctl name="HPHR True Normalization Switch" value="2" />
+	<ctl name="TX HPHR True Normalization" value="AUTO" />
+	<ctl name="RX HPHR True Normalization" value="AUTO" />
 	<ctl name="HPHR True Level Switch" value="2" />
 	<ctl name="TX HPHR True Level" value="AUTO" />
 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -22633,9 +22633,9 @@
 	<ctl name="1 True Expand Switch" value="2" />
 	<ctl name="TX1 True Expand" value="AUTO" />
 	<ctl name="RX1 True Expand" value="AUTO" />
-	<ctl name="1 True Audio Normalization Switch" value="2" />
-	<ctl name="TX1 True Audio Normalization" value="AUTO" />
-	<ctl name="RX1 True Audio Normalization" value="AUTO" />
+	<ctl name="1 True Normalization Switch" value="2" />
+	<ctl name="TX1 True Normalization" value="AUTO" />
+	<ctl name="RX1 True Normalization" value="AUTO" />
 	<ctl name="1 True Level Switch" value="2" />
 	<ctl name="TX1 True Level" value="AUTO" />
 	<ctl name="RX1 True Level" value="AUTO" />
@@ -22675,9 +22675,9 @@
 	<ctl name="2 True Expand Switch" value="2" />
 	<ctl name="TX2 True Expand" value="AUTO" />
 	<ctl name="RX2 True Expand" value="AUTO" />
-	<ctl name="2 True Audio Normalization Switch" value="2" />
-	<ctl name="TX2 True Audio Normalization" value="AUTO" />
-	<ctl name="RX2 True Audio Normalization" value="AUTO" />
+	<ctl name="2 True Normalization Switch" value="2" />
+	<ctl name="TX2 True Normalization" value="AUTO" />
+	<ctl name="RX2 True Normalization" value="AUTO" />
 	<ctl name="2 True Level Switch" value="2" />
 	<ctl name="TX2 True Level" value="AUTO" />
 	<ctl name="RX2 True Level" value="AUTO" />
@@ -22717,9 +22717,9 @@
 	<ctl name="HPHL True Expand Switch" value="2" />
 	<ctl name="TX HPHL True Expand" value="AUTO" />
 	<ctl name="RX HPHL True Expand" value="AUTO" />
-	<ctl name="HPHL True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHL True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHL True Audio Normalization" value="AUTO" />
+	<ctl name="HPHL True Normalization Switch" value="2" />
+	<ctl name="TX HPHL True Normalization" value="AUTO" />
+	<ctl name="RX HPHL True Normalization" value="AUTO" />
 	<ctl name="HPHL True Level Switch" value="2" />
 	<ctl name="TX HPHL True Level" value="AUTO" />
 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -22756,9 +22756,9 @@
 	<ctl name="HPHR True Expand Switch" value="2" />
 	<ctl name="TX HPHR True Expand" value="AUTO" />
 	<ctl name="RX HPHR True Expand" value="AUTO" />
-	<ctl name="HPHR True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHR True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHR True Audio Normalization" value="AUTO" />
+	<ctl name="HPHR True Normalization Switch" value="2" />
+	<ctl name="TX HPHR True Normalization" value="AUTO" />
+	<ctl name="RX HPHR True Normalization" value="AUTO" />
 	<ctl name="HPHR True Level Switch" value="2" />
 	<ctl name="TX HPHR True Level" value="AUTO" />
 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -22825,9 +22825,9 @@
 	<ctl name="1 True Expand Switch" value="2" />
 	<ctl name="TX1 True Expand" value="AUTO" />
 	<ctl name="RX1 True Expand" value="AUTO" />
-	<ctl name="1 True Audio Normalization Switch" value="2" />
-	<ctl name="TX1 True Audio Normalization" value="AUTO" />
-	<ctl name="RX1 True Audio Normalization" value="AUTO" />
+	<ctl name="1 True Normalization Switch" value="2" />
+	<ctl name="TX1 True Normalization" value="AUTO" />
+	<ctl name="RX1 True Normalization" value="AUTO" />
 	<ctl name="1 True Level Switch" value="2" />
 	<ctl name="TX1 True Level" value="AUTO" />
 	<ctl name="RX1 True Level" value="AUTO" />
@@ -22867,9 +22867,9 @@
 	<ctl name="2 True Expand Switch" value="2" />
 	<ctl name="TX2 True Expand" value="AUTO" />
 	<ctl name="RX2 True Expand" value="AUTO" />
-	<ctl name="2 True Audio Normalization Switch" value="2" />
-	<ctl name="TX2 True Audio Normalization" value="AUTO" />
-	<ctl name="RX2 True Audio Normalization" value="AUTO" />
+	<ctl name="2 True Normalization Switch" value="2" />
+	<ctl name="TX2 True Normalization" value="AUTO" />
+	<ctl name="RX2 True Normalization" value="AUTO" />
 	<ctl name="2 True Level Switch" value="2" />
 	<ctl name="TX2 True Level" value="AUTO" />
 	<ctl name="RX2 True Level" value="AUTO" />
@@ -22909,9 +22909,9 @@
 	<ctl name="HPHL True Expand Switch" value="2" />
 	<ctl name="TX HPHL True Expand" value="AUTO" />
 	<ctl name="RX HPHL True Expand" value="AUTO" />
-	<ctl name="HPHL True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHL True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHL True Audio Normalization" value="AUTO" />
+	<ctl name="HPHL True Normalization Switch" value="2" />
+	<ctl name="TX HPHL True Normalization" value="AUTO" />
+	<ctl name="RX HPHL True Normalization" value="AUTO" />
 	<ctl name="HPHL True Level Switch" value="2" />
 	<ctl name="TX HPHL True Level" value="AUTO" />
 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -22948,9 +22948,9 @@
 	<ctl name="HPHR True Expand Switch" value="2" />
 	<ctl name="TX HPHR True Expand" value="AUTO" />
 	<ctl name="RX HPHR True Expand" value="AUTO" />
-	<ctl name="HPHR True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHR True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHR True Audio Normalization" value="AUTO" />
+	<ctl name="HPHR True Normalization Switch" value="2" />
+	<ctl name="TX HPHR True Normalization" value="AUTO" />
+	<ctl name="RX HPHR True Normalization" value="AUTO" />
 	<ctl name="HPHR True Level Switch" value="2" />
 	<ctl name="TX HPHR True Level" value="AUTO" />
 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -23017,9 +23017,9 @@
 	<ctl name="1 True Expand Switch" value="2" />
 	<ctl name="TX1 True Expand" value="AUTO" />
 	<ctl name="RX1 True Expand" value="AUTO" />
-	<ctl name="1 True Audio Normalization Switch" value="2" />
-	<ctl name="TX1 True Audio Normalization" value="AUTO" />
-	<ctl name="RX1 True Audio Normalization" value="AUTO" />
+	<ctl name="1 True Normalization Switch" value="2" />
+	<ctl name="TX1 True Normalization" value="AUTO" />
+	<ctl name="RX1 True Normalization" value="AUTO" />
 	<ctl name="1 True Level Switch" value="2" />
 	<ctl name="TX1 True Level" value="AUTO" />
 	<ctl name="RX1 True Level" value="AUTO" />
@@ -23059,9 +23059,9 @@
 	<ctl name="2 True Expand Switch" value="2" />
 	<ctl name="TX2 True Expand" value="AUTO" />
 	<ctl name="RX2 True Expand" value="AUTO" />
-	<ctl name="2 True Audio Normalization Switch" value="2" />
-	<ctl name="TX2 True Audio Normalization" value="AUTO" />
-	<ctl name="RX2 True Audio Normalization" value="AUTO" />
+	<ctl name="2 True Normalization Switch" value="2" />
+	<ctl name="TX2 True Normalization" value="AUTO" />
+	<ctl name="RX2 True Normalization" value="AUTO" />
 	<ctl name="2 True Level Switch" value="2" />
 	<ctl name="TX2 True Level" value="AUTO" />
 	<ctl name="RX2 True Level" value="AUTO" />
@@ -23101,9 +23101,9 @@
 	<ctl name="HPHL True Expand Switch" value="2" />
 	<ctl name="TX HPHL True Expand" value="AUTO" />
 	<ctl name="RX HPHL True Expand" value="AUTO" />
-	<ctl name="HPHL True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHL True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHL True Audio Normalization" value="AUTO" />
+	<ctl name="HPHL True Normalization Switch" value="2" />
+	<ctl name="TX HPHL True Normalization" value="AUTO" />
+	<ctl name="RX HPHL True Normalization" value="AUTO" />
 	<ctl name="HPHL True Level Switch" value="2" />
 	<ctl name="TX HPHL True Level" value="AUTO" />
 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -23140,9 +23140,9 @@
 	<ctl name="HPHR True Expand Switch" value="2" />
 	<ctl name="TX HPHR True Expand" value="AUTO" />
 	<ctl name="RX HPHR True Expand" value="AUTO" />
-	<ctl name="HPHR True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHR True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHR True Audio Normalization" value="AUTO" />
+	<ctl name="HPHR True Normalization Switch" value="2" />
+	<ctl name="TX HPHR True Normalization" value="AUTO" />
+	<ctl name="RX HPHR True Normalization" value="AUTO" />
 	<ctl name="HPHR True Level Switch" value="2" />
 	<ctl name="TX HPHR True Level" value="AUTO" />
 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -23209,9 +23209,9 @@
 	<ctl name="1 True Expand Switch" value="2" />
 	<ctl name="TX1 True Expand" value="AUTO" />
 	<ctl name="RX1 True Expand" value="AUTO" />
-	<ctl name="1 True Audio Normalization Switch" value="2" />
-	<ctl name="TX1 True Audio Normalization" value="AUTO" />
-	<ctl name="RX1 True Audio Normalization" value="AUTO" />
+	<ctl name="1 True Normalization Switch" value="2" />
+	<ctl name="TX1 True Normalization" value="AUTO" />
+	<ctl name="RX1 True Normalization" value="AUTO" />
 	<ctl name="1 True Level Switch" value="2" />
 	<ctl name="TX1 True Level" value="AUTO" />
 	<ctl name="RX1 True Level" value="AUTO" />
@@ -23251,9 +23251,9 @@
 	<ctl name="2 True Expand Switch" value="2" />
 	<ctl name="TX2 True Expand" value="AUTO" />
 	<ctl name="RX2 True Expand" value="AUTO" />
-	<ctl name="2 True Audio Normalization Switch" value="2" />
-	<ctl name="TX2 True Audio Normalization" value="AUTO" />
-	<ctl name="RX2 True Audio Normalization" value="AUTO" />
+	<ctl name="2 True Normalization Switch" value="2" />
+	<ctl name="TX2 True Normalization" value="AUTO" />
+	<ctl name="RX2 True Normalization" value="AUTO" />
 	<ctl name="2 True Level Switch" value="2" />
 	<ctl name="TX2 True Level" value="AUTO" />
 	<ctl name="RX2 True Level" value="AUTO" />
@@ -23293,9 +23293,9 @@
 	<ctl name="HPHL True Expand Switch" value="2" />
 	<ctl name="TX HPHL True Expand" value="AUTO" />
 	<ctl name="RX HPHL True Expand" value="AUTO" />
-	<ctl name="HPHL True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHL True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHL True Audio Normalization" value="AUTO" />
+	<ctl name="HPHL True Normalization Switch" value="2" />
+	<ctl name="TX HPHL True Normalization" value="AUTO" />
+	<ctl name="RX HPHL True Normalization" value="AUTO" />
 	<ctl name="HPHL True Level Switch" value="2" />
 	<ctl name="TX HPHL True Level" value="AUTO" />
 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -23332,9 +23332,9 @@
 	<ctl name="HPHR True Expand Switch" value="2" />
 	<ctl name="TX HPHR True Expand" value="AUTO" />
 	<ctl name="RX HPHR True Expand" value="AUTO" />
-	<ctl name="HPHR True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHR True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHR True Audio Normalization" value="AUTO" />
+	<ctl name="HPHR True Normalization Switch" value="2" />
+	<ctl name="TX HPHR True Normalization" value="AUTO" />
+	<ctl name="RX HPHR True Normalization" value="AUTO" />
 	<ctl name="HPHR True Level Switch" value="2" />
 	<ctl name="TX HPHR True Level" value="AUTO" />
 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -23383,9 +23383,9 @@
 	<ctl name="1 True Expand Switch" value="2" />
 	<ctl name="TX1 True Expand" value="AUTO" />
 	<ctl name="RX1 True Expand" value="AUTO" />
-	<ctl name="1 True Audio Normalization Switch" value="2" />
-	<ctl name="TX1 True Audio Normalization" value="AUTO" />
-	<ctl name="RX1 True Audio Normalization" value="AUTO" />
+	<ctl name="1 True Normalization Switch" value="2" />
+	<ctl name="TX1 True Normalization" value="AUTO" />
+	<ctl name="RX1 True Normalization" value="AUTO" />
 	<ctl name="1 True Level Switch" value="2" />
 	<ctl name="TX1 True Level" value="AUTO" />
 	<ctl name="RX1 True Level" value="AUTO" />
@@ -23425,9 +23425,9 @@
 	<ctl name="2 True Expand Switch" value="2" />
 	<ctl name="TX2 True Expand" value="AUTO" />
 	<ctl name="RX2 True Expand" value="AUTO" />
-	<ctl name="2 True Audio Normalization Switch" value="2" />
-	<ctl name="TX2 True Audio Normalization" value="AUTO" />
-	<ctl name="RX2 True Audio Normalization" value="AUTO" />
+	<ctl name="2 True Normalization Switch" value="2" />
+	<ctl name="TX2 True Normalization" value="AUTO" />
+	<ctl name="RX2 True Normalization" value="AUTO" />
 	<ctl name="2 True Level Switch" value="2" />
 	<ctl name="TX2 True Level" value="AUTO" />
 	<ctl name="RX2 True Level" value="AUTO" />
@@ -23467,9 +23467,9 @@
 	<ctl name="HPHL True Expand Switch" value="2" />
 	<ctl name="TX HPHL True Expand" value="AUTO" />
 	<ctl name="RX HPHL True Expand" value="AUTO" />
-	<ctl name="HPHL True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHL True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHL True Audio Normalization" value="AUTO" />
+	<ctl name="HPHL True Normalization Switch" value="2" />
+	<ctl name="TX HPHL True Normalization" value="AUTO" />
+	<ctl name="RX HPHL True Normalization" value="AUTO" />
 	<ctl name="HPHL True Level Switch" value="2" />
 	<ctl name="TX HPHL True Level" value="AUTO" />
 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -23506,9 +23506,9 @@
 	<ctl name="HPHR True Expand Switch" value="2" />
 	<ctl name="TX HPHR True Expand" value="AUTO" />
 	<ctl name="RX HPHR True Expand" value="AUTO" />
-	<ctl name="HPHR True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHR True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHR True Audio Normalization" value="AUTO" />
+	<ctl name="HPHR True Normalization Switch" value="2" />
+	<ctl name="TX HPHR True Normalization" value="AUTO" />
+	<ctl name="RX HPHR True Normalization" value="AUTO" />
 	<ctl name="HPHR True Level Switch" value="2" />
 	<ctl name="TX HPHR True Level" value="AUTO" />
 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -23557,9 +23557,9 @@
 	<ctl name="1 True Expand Switch" value="2" />
 	<ctl name="TX1 True Expand" value="AUTO" />
 	<ctl name="RX1 True Expand" value="AUTO" />
-	<ctl name="1 True Audio Normalization Switch" value="2" />
-	<ctl name="TX1 True Audio Normalization" value="AUTO" />
-	<ctl name="RX1 True Audio Normalization" value="AUTO" />
+	<ctl name="1 True Normalization Switch" value="2" />
+	<ctl name="TX1 True Normalization" value="AUTO" />
+	<ctl name="RX1 True Normalization" value="AUTO" />
 	<ctl name="1 True Level Switch" value="2" />
 	<ctl name="TX1 True Level" value="AUTO" />
 	<ctl name="RX1 True Level" value="AUTO" />
@@ -23599,9 +23599,9 @@
 	<ctl name="2 True Expand Switch" value="2" />
 	<ctl name="TX2 True Expand" value="AUTO" />
 	<ctl name="RX2 True Expand" value="AUTO" />
-	<ctl name="2 True Audio Normalization Switch" value="2" />
-	<ctl name="TX2 True Audio Normalization" value="AUTO" />
-	<ctl name="RX2 True Audio Normalization" value="AUTO" />
+	<ctl name="2 True Normalization Switch" value="2" />
+	<ctl name="TX2 True Normalization" value="AUTO" />
+	<ctl name="RX2 True Normalization" value="AUTO" />
 	<ctl name="2 True Level Switch" value="2" />
 	<ctl name="TX2 True Level" value="AUTO" />
 	<ctl name="RX2 True Level" value="AUTO" />
@@ -23641,9 +23641,9 @@
 	<ctl name="HPHL True Expand Switch" value="2" />
 	<ctl name="TX HPHL True Expand" value="AUTO" />
 	<ctl name="RX HPHL True Expand" value="AUTO" />
-	<ctl name="HPHL True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHL True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHL True Audio Normalization" value="AUTO" />
+	<ctl name="HPHL True Normalization Switch" value="2" />
+	<ctl name="TX HPHL True Normalization" value="AUTO" />
+	<ctl name="RX HPHL True Normalization" value="AUTO" />
 	<ctl name="HPHL True Level Switch" value="2" />
 	<ctl name="TX HPHL True Level" value="AUTO" />
 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -23680,9 +23680,9 @@
 	<ctl name="HPHR True Expand Switch" value="2" />
 	<ctl name="TX HPHR True Expand" value="AUTO" />
 	<ctl name="RX HPHR True Expand" value="AUTO" />
-	<ctl name="HPHR True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHR True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHR True Audio Normalization" value="AUTO" />
+	<ctl name="HPHR True Normalization Switch" value="2" />
+	<ctl name="TX HPHR True Normalization" value="AUTO" />
+	<ctl name="RX HPHR True Normalization" value="AUTO" />
 	<ctl name="HPHR True Level Switch" value="2" />
 	<ctl name="TX HPHR True Level" value="AUTO" />
 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -23749,9 +23749,9 @@
 	<ctl name="1 True Expand Switch" value="2" />
 	<ctl name="TX1 True Expand" value="AUTO" />
 	<ctl name="RX1 True Expand" value="AUTO" />
-	<ctl name="1 True Audio Normalization Switch" value="2" />
-	<ctl name="TX1 True Audio Normalization" value="AUTO" />
-	<ctl name="RX1 True Audio Normalization" value="AUTO" />
+	<ctl name="1 True Normalization Switch" value="2" />
+	<ctl name="TX1 True Normalization" value="AUTO" />
+	<ctl name="RX1 True Normalization" value="AUTO" />
 	<ctl name="1 True Level Switch" value="2" />
 	<ctl name="TX1 True Level" value="AUTO" />
 	<ctl name="RX1 True Level" value="AUTO" />
@@ -23791,9 +23791,9 @@
 	<ctl name="2 True Expand Switch" value="2" />
 	<ctl name="TX2 True Expand" value="AUTO" />
 	<ctl name="RX2 True Expand" value="AUTO" />
-	<ctl name="2 True Audio Normalization Switch" value="2" />
-	<ctl name="TX2 True Audio Normalization" value="AUTO" />
-	<ctl name="RX2 True Audio Normalization" value="AUTO" />
+	<ctl name="2 True Normalization Switch" value="2" />
+	<ctl name="TX2 True Normalization" value="AUTO" />
+	<ctl name="RX2 True Normalization" value="AUTO" />
 	<ctl name="2 True Level Switch" value="2" />
 	<ctl name="TX2 True Level" value="AUTO" />
 	<ctl name="RX2 True Level" value="AUTO" />
@@ -23833,9 +23833,9 @@
 	<ctl name="HPHL True Expand Switch" value="2" />
 	<ctl name="TX HPHL True Expand" value="AUTO" />
 	<ctl name="RX HPHL True Expand" value="AUTO" />
-	<ctl name="HPHL True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHL True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHL True Audio Normalization" value="AUTO" />
+	<ctl name="HPHL True Normalization Switch" value="2" />
+	<ctl name="TX HPHL True Normalization" value="AUTO" />
+	<ctl name="RX HPHL True Normalization" value="AUTO" />
 	<ctl name="HPHL True Level Switch" value="2" />
 	<ctl name="TX HPHL True Level" value="AUTO" />
 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -23872,9 +23872,9 @@
 	<ctl name="HPHR True Expand Switch" value="2" />
 	<ctl name="TX HPHR True Expand" value="AUTO" />
 	<ctl name="RX HPHR True Expand" value="AUTO" />
-	<ctl name="HPHR True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHR True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHR True Audio Normalization" value="AUTO" />
+	<ctl name="HPHR True Normalization Switch" value="2" />
+	<ctl name="TX HPHR True Normalization" value="AUTO" />
+	<ctl name="RX HPHR True Normalization" value="AUTO" />
 	<ctl name="HPHR True Level Switch" value="2" />
 	<ctl name="TX HPHR True Level" value="AUTO" />
 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -23923,9 +23923,9 @@
 	<ctl name="1 True Expand Switch" value="2" />
 	<ctl name="TX1 True Expand" value="AUTO" />
 	<ctl name="RX1 True Expand" value="AUTO" />
-	<ctl name="1 True Audio Normalization Switch" value="2" />
-	<ctl name="TX1 True Audio Normalization" value="AUTO" />
-	<ctl name="RX1 True Audio Normalization" value="AUTO" />
+	<ctl name="1 True Normalization Switch" value="2" />
+	<ctl name="TX1 True Normalization" value="AUTO" />
+	<ctl name="RX1 True Normalization" value="AUTO" />
 	<ctl name="1 True Level Switch" value="2" />
 	<ctl name="TX1 True Level" value="AUTO" />
 	<ctl name="RX1 True Level" value="AUTO" />
@@ -23965,9 +23965,9 @@
 	<ctl name="2 True Expand Switch" value="2" />
 	<ctl name="TX2 True Expand" value="AUTO" />
 	<ctl name="RX2 True Expand" value="AUTO" />
-	<ctl name="2 True Audio Normalization Switch" value="2" />
-	<ctl name="TX2 True Audio Normalization" value="AUTO" />
-	<ctl name="RX2 True Audio Normalization" value="AUTO" />
+	<ctl name="2 True Normalization Switch" value="2" />
+	<ctl name="TX2 True Normalization" value="AUTO" />
+	<ctl name="RX2 True Normalization" value="AUTO" />
 	<ctl name="2 True Level Switch" value="2" />
 	<ctl name="TX2 True Level" value="AUTO" />
 	<ctl name="RX2 True Level" value="AUTO" />
@@ -24007,9 +24007,9 @@
 	<ctl name="HPHL True Expand Switch" value="2" />
 	<ctl name="TX HPHL True Expand" value="AUTO" />
 	<ctl name="RX HPHL True Expand" value="AUTO" />
-	<ctl name="HPHL True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHL True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHL True Audio Normalization" value="AUTO" />
+	<ctl name="HPHL True Normalization Switch" value="2" />
+	<ctl name="TX HPHL True Normalization" value="AUTO" />
+	<ctl name="RX HPHL True Normalization" value="AUTO" />
 	<ctl name="HPHL True Level Switch" value="2" />
 	<ctl name="TX HPHL True Level" value="AUTO" />
 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -24046,9 +24046,9 @@
 	<ctl name="HPHR True Expand Switch" value="2" />
 	<ctl name="TX HPHR True Expand" value="AUTO" />
 	<ctl name="RX HPHR True Expand" value="AUTO" />
-	<ctl name="HPHR True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHR True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHR True Audio Normalization" value="AUTO" />
+	<ctl name="HPHR True Normalization Switch" value="2" />
+	<ctl name="TX HPHR True Normalization" value="AUTO" />
+	<ctl name="RX HPHR True Normalization" value="AUTO" />
 	<ctl name="HPHR True Level Switch" value="2" />
 	<ctl name="TX HPHR True Level" value="AUTO" />
 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -24097,9 +24097,9 @@
 	<ctl name="1 True Expand Switch" value="2" />
 	<ctl name="TX1 True Expand" value="AUTO" />
 	<ctl name="RX1 True Expand" value="AUTO" />
-	<ctl name="1 True Audio Normalization Switch" value="2" />
-	<ctl name="TX1 True Audio Normalization" value="AUTO" />
-	<ctl name="RX1 True Audio Normalization" value="AUTO" />
+	<ctl name="1 True Normalization Switch" value="2" />
+	<ctl name="TX1 True Normalization" value="AUTO" />
+	<ctl name="RX1 True Normalization" value="AUTO" />
 	<ctl name="1 True Level Switch" value="2" />
 	<ctl name="TX1 True Level" value="AUTO" />
 	<ctl name="RX1 True Level" value="AUTO" />
@@ -24139,9 +24139,9 @@
 	<ctl name="2 True Expand Switch" value="2" />
 	<ctl name="TX2 True Expand" value="AUTO" />
 	<ctl name="RX2 True Expand" value="AUTO" />
-	<ctl name="2 True Audio Normalization Switch" value="2" />
-	<ctl name="TX2 True Audio Normalization" value="AUTO" />
-	<ctl name="RX2 True Audio Normalization" value="AUTO" />
+	<ctl name="2 True Normalization Switch" value="2" />
+	<ctl name="TX2 True Normalization" value="AUTO" />
+	<ctl name="RX2 True Normalization" value="AUTO" />
 	<ctl name="2 True Level Switch" value="2" />
 	<ctl name="TX2 True Level" value="AUTO" />
 	<ctl name="RX2 True Level" value="AUTO" />
@@ -24181,9 +24181,9 @@
 	<ctl name="HPHL True Expand Switch" value="2" />
 	<ctl name="TX HPHL True Expand" value="AUTO" />
 	<ctl name="RX HPHL True Expand" value="AUTO" />
-	<ctl name="HPHL True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHL True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHL True Audio Normalization" value="AUTO" />
+	<ctl name="HPHL True Normalization Switch" value="2" />
+	<ctl name="TX HPHL True Normalization" value="AUTO" />
+	<ctl name="RX HPHL True Normalization" value="AUTO" />
 	<ctl name="HPHL True Level Switch" value="2" />
 	<ctl name="TX HPHL True Level" value="AUTO" />
 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -24220,9 +24220,9 @@
 	<ctl name="HPHR True Expand Switch" value="2" />
 	<ctl name="TX HPHR True Expand" value="AUTO" />
 	<ctl name="RX HPHR True Expand" value="AUTO" />
-	<ctl name="HPHR True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHR True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHR True Audio Normalization" value="AUTO" />
+	<ctl name="HPHR True Normalization Switch" value="2" />
+	<ctl name="TX HPHR True Normalization" value="AUTO" />
+	<ctl name="RX HPHR True Normalization" value="AUTO" />
 	<ctl name="HPHR True Level Switch" value="2" />
 	<ctl name="TX HPHR True Level" value="AUTO" />
 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -24299,9 +24299,9 @@
 	<ctl name="1 True Expand Switch" value="2" />
 	<ctl name="TX1 True Expand" value="AUTO" />
 	<ctl name="RX1 True Expand" value="AUTO" />
-	<ctl name="1 True Audio Normalization Switch" value="2" />
-	<ctl name="TX1 True Audio Normalization" value="AUTO" />
-	<ctl name="RX1 True Audio Normalization" value="AUTO" />
+	<ctl name="1 True Normalization Switch" value="2" />
+	<ctl name="TX1 True Normalization" value="AUTO" />
+	<ctl name="RX1 True Normalization" value="AUTO" />
 	<ctl name="1 True Level Switch" value="2" />
 	<ctl name="TX1 True Level" value="AUTO" />
 	<ctl name="RX1 True Level" value="AUTO" />
@@ -24341,9 +24341,9 @@
 	<ctl name="2 True Expand Switch" value="2" />
 	<ctl name="TX2 True Expand" value="AUTO" />
 	<ctl name="RX2 True Expand" value="AUTO" />
-	<ctl name="2 True Audio Normalization Switch" value="2" />
-	<ctl name="TX2 True Audio Normalization" value="AUTO" />
-	<ctl name="RX2 True Audio Normalization" value="AUTO" />
+	<ctl name="2 True Normalization Switch" value="2" />
+	<ctl name="TX2 True Normalization" value="AUTO" />
+	<ctl name="RX2 True Normalization" value="AUTO" />
 	<ctl name="2 True Level Switch" value="2" />
 	<ctl name="TX2 True Level" value="AUTO" />
 	<ctl name="RX2 True Level" value="AUTO" />
@@ -24383,9 +24383,9 @@
 	<ctl name="HPHL True Expand Switch" value="2" />
 	<ctl name="TX HPHL True Expand" value="AUTO" />
 	<ctl name="RX HPHL True Expand" value="AUTO" />
-	<ctl name="HPHL True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHL True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHL True Audio Normalization" value="AUTO" />
+	<ctl name="HPHL True Normalization Switch" value="2" />
+	<ctl name="TX HPHL True Normalization" value="AUTO" />
+	<ctl name="RX HPHL True Normalization" value="AUTO" />
 	<ctl name="HPHL True Level Switch" value="2" />
 	<ctl name="TX HPHL True Level" value="AUTO" />
 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -24422,9 +24422,9 @@
 	<ctl name="HPHR True Expand Switch" value="2" />
 	<ctl name="TX HPHR True Expand" value="AUTO" />
 	<ctl name="RX HPHR True Expand" value="AUTO" />
-	<ctl name="HPHR True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHR True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHR True Audio Normalization" value="AUTO" />
+	<ctl name="HPHR True Normalization Switch" value="2" />
+	<ctl name="TX HPHR True Normalization" value="AUTO" />
+	<ctl name="RX HPHR True Normalization" value="AUTO" />
 	<ctl name="HPHR True Level Switch" value="2" />
 	<ctl name="TX HPHR True Level" value="AUTO" />
 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -24490,9 +24490,9 @@
 	<ctl name="1 True Expand Switch" value="2" />
 	<ctl name="TX1 True Expand" value="AUTO" />
 	<ctl name="RX1 True Expand" value="AUTO" />
-	<ctl name="1 True Audio Normalization Switch" value="2" />
-	<ctl name="TX1 True Audio Normalization" value="AUTO" />
-	<ctl name="RX1 True Audio Normalization" value="AUTO" />
+	<ctl name="1 True Normalization Switch" value="2" />
+	<ctl name="TX1 True Normalization" value="AUTO" />
+	<ctl name="RX1 True Normalization" value="AUTO" />
 	<ctl name="1 True Level Switch" value="2" />
 	<ctl name="TX1 True Level" value="AUTO" />
 	<ctl name="RX1 True Level" value="AUTO" />
@@ -24532,9 +24532,9 @@
 	<ctl name="2 True Expand Switch" value="2" />
 	<ctl name="TX2 True Expand" value="AUTO" />
 	<ctl name="RX2 True Expand" value="AUTO" />
-	<ctl name="2 True Audio Normalization Switch" value="2" />
-	<ctl name="TX2 True Audio Normalization" value="AUTO" />
-	<ctl name="RX2 True Audio Normalization" value="AUTO" />
+	<ctl name="2 True Normalization Switch" value="2" />
+	<ctl name="TX2 True Normalization" value="AUTO" />
+	<ctl name="RX2 True Normalization" value="AUTO" />
 	<ctl name="2 True Level Switch" value="2" />
 	<ctl name="TX2 True Level" value="AUTO" />
 	<ctl name="RX2 True Level" value="AUTO" />
@@ -24574,9 +24574,9 @@
 	<ctl name="HPHL True Expand Switch" value="2" />
 	<ctl name="TX HPHL True Expand" value="AUTO" />
 	<ctl name="RX HPHL True Expand" value="AUTO" />
-	<ctl name="HPHL True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHL True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHL True Audio Normalization" value="AUTO" />
+	<ctl name="HPHL True Normalization Switch" value="2" />
+	<ctl name="TX HPHL True Normalization" value="AUTO" />
+	<ctl name="RX HPHL True Normalization" value="AUTO" />
 	<ctl name="HPHL True Level Switch" value="2" />
 	<ctl name="TX HPHL True Level" value="AUTO" />
 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -24613,9 +24613,9 @@
 	<ctl name="HPHR True Expand Switch" value="2" />
 	<ctl name="TX HPHR True Expand" value="AUTO" />
 	<ctl name="RX HPHR True Expand" value="AUTO" />
-	<ctl name="HPHR True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHR True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHR True Audio Normalization" value="AUTO" />
+	<ctl name="HPHR True Normalization Switch" value="2" />
+	<ctl name="TX HPHR True Normalization" value="AUTO" />
+	<ctl name="RX HPHR True Normalization" value="AUTO" />
 	<ctl name="HPHR True Level Switch" value="2" />
 	<ctl name="TX HPHR True Level" value="AUTO" />
 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -24681,9 +24681,9 @@
 	<ctl name="1 True Expand Switch" value="2" />
 	<ctl name="TX1 True Expand" value="AUTO" />
 	<ctl name="RX1 True Expand" value="AUTO" />
-	<ctl name="1 True Audio Normalization Switch" value="2" />
-	<ctl name="TX1 True Audio Normalization" value="AUTO" />
-	<ctl name="RX1 True Audio Normalization" value="AUTO" />
+	<ctl name="1 True Normalization Switch" value="2" />
+	<ctl name="TX1 True Normalization" value="AUTO" />
+	<ctl name="RX1 True Normalization" value="AUTO" />
 	<ctl name="1 True Level Switch" value="2" />
 	<ctl name="TX1 True Level" value="AUTO" />
 	<ctl name="RX1 True Level" value="AUTO" />
@@ -24723,9 +24723,9 @@
 	<ctl name="2 True Expand Switch" value="2" />
 	<ctl name="TX2 True Expand" value="AUTO" />
 	<ctl name="RX2 True Expand" value="AUTO" />
-	<ctl name="2 True Audio Normalization Switch" value="2" />
-	<ctl name="TX2 True Audio Normalization" value="AUTO" />
-	<ctl name="RX2 True Audio Normalization" value="AUTO" />
+	<ctl name="2 True Normalization Switch" value="2" />
+	<ctl name="TX2 True Normalization" value="AUTO" />
+	<ctl name="RX2 True Normalization" value="AUTO" />
 	<ctl name="2 True Level Switch" value="2" />
 	<ctl name="TX2 True Level" value="AUTO" />
 	<ctl name="RX2 True Level" value="AUTO" />
@@ -24765,9 +24765,9 @@
 	<ctl name="HPHL True Expand Switch" value="2" />
 	<ctl name="TX HPHL True Expand" value="AUTO" />
 	<ctl name="RX HPHL True Expand" value="AUTO" />
-	<ctl name="HPHL True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHL True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHL True Audio Normalization" value="AUTO" />
+	<ctl name="HPHL True Normalization Switch" value="2" />
+	<ctl name="TX HPHL True Normalization" value="AUTO" />
+	<ctl name="RX HPHL True Normalization" value="AUTO" />
 	<ctl name="HPHL True Level Switch" value="2" />
 	<ctl name="TX HPHL True Level" value="AUTO" />
 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -24804,9 +24804,9 @@
 	<ctl name="HPHR True Expand Switch" value="2" />
 	<ctl name="TX HPHR True Expand" value="AUTO" />
 	<ctl name="RX HPHR True Expand" value="AUTO" />
-	<ctl name="HPHR True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHR True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHR True Audio Normalization" value="AUTO" />
+	<ctl name="HPHR True Normalization Switch" value="2" />
+	<ctl name="TX HPHR True Normalization" value="AUTO" />
+	<ctl name="RX HPHR True Normalization" value="AUTO" />
 	<ctl name="HPHR True Level Switch" value="2" />
 	<ctl name="TX HPHR True Level" value="AUTO" />
 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -24872,9 +24872,9 @@
 	<ctl name="1 True Expand Switch" value="2" />
 	<ctl name="TX1 True Expand" value="AUTO" />
 	<ctl name="RX1 True Expand" value="AUTO" />
-	<ctl name="1 True Audio Normalization Switch" value="2" />
-	<ctl name="TX1 True Audio Normalization" value="AUTO" />
-	<ctl name="RX1 True Audio Normalization" value="AUTO" />
+	<ctl name="1 True Normalization Switch" value="2" />
+	<ctl name="TX1 True Normalization" value="AUTO" />
+	<ctl name="RX1 True Normalization" value="AUTO" />
 	<ctl name="1 True Level Switch" value="2" />
 	<ctl name="TX1 True Level" value="AUTO" />
 	<ctl name="RX1 True Level" value="AUTO" />
@@ -24914,9 +24914,9 @@
 	<ctl name="2 True Expand Switch" value="2" />
 	<ctl name="TX2 True Expand" value="AUTO" />
 	<ctl name="RX2 True Expand" value="AUTO" />
-	<ctl name="2 True Audio Normalization Switch" value="2" />
-	<ctl name="TX2 True Audio Normalization" value="AUTO" />
-	<ctl name="RX2 True Audio Normalization" value="AUTO" />
+	<ctl name="2 True Normalization Switch" value="2" />
+	<ctl name="TX2 True Normalization" value="AUTO" />
+	<ctl name="RX2 True Normalization" value="AUTO" />
 	<ctl name="2 True Level Switch" value="2" />
 	<ctl name="TX2 True Level" value="AUTO" />
 	<ctl name="RX2 True Level" value="AUTO" />
@@ -24956,9 +24956,9 @@
 	<ctl name="HPHL True Expand Switch" value="2" />
 	<ctl name="TX HPHL True Expand" value="AUTO" />
 	<ctl name="RX HPHL True Expand" value="AUTO" />
-	<ctl name="HPHL True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHL True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHL True Audio Normalization" value="AUTO" />
+	<ctl name="HPHL True Normalization Switch" value="2" />
+	<ctl name="TX HPHL True Normalization" value="AUTO" />
+	<ctl name="RX HPHL True Normalization" value="AUTO" />
 	<ctl name="HPHL True Level Switch" value="2" />
 	<ctl name="TX HPHL True Level" value="AUTO" />
 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -24995,9 +24995,9 @@
 	<ctl name="HPHR True Expand Switch" value="2" />
 	<ctl name="TX HPHR True Expand" value="AUTO" />
 	<ctl name="RX HPHR True Expand" value="AUTO" />
-	<ctl name="HPHR True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHR True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHR True Audio Normalization" value="AUTO" />
+	<ctl name="HPHR True Normalization Switch" value="2" />
+	<ctl name="TX HPHR True Normalization" value="AUTO" />
+	<ctl name="RX HPHR True Normalization" value="AUTO" />
 	<ctl name="HPHR True Level Switch" value="2" />
 	<ctl name="TX HPHR True Level" value="AUTO" />
 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -25063,9 +25063,9 @@
 	<ctl name="1 True Expand Switch" value="2" />
 	<ctl name="TX1 True Expand" value="AUTO" />
 	<ctl name="RX1 True Expand" value="AUTO" />
-	<ctl name="1 True Audio Normalization Switch" value="2" />
-	<ctl name="TX1 True Audio Normalization" value="AUTO" />
-	<ctl name="RX1 True Audio Normalization" value="AUTO" />
+	<ctl name="1 True Normalization Switch" value="2" />
+	<ctl name="TX1 True Normalization" value="AUTO" />
+	<ctl name="RX1 True Normalization" value="AUTO" />
 	<ctl name="1 True Level Switch" value="2" />
 	<ctl name="TX1 True Level" value="AUTO" />
 	<ctl name="RX1 True Level" value="AUTO" />
@@ -25105,9 +25105,9 @@
 	<ctl name="2 True Expand Switch" value="2" />
 	<ctl name="TX2 True Expand" value="AUTO" />
 	<ctl name="RX2 True Expand" value="AUTO" />
-	<ctl name="2 True Audio Normalization Switch" value="2" />
-	<ctl name="TX2 True Audio Normalization" value="AUTO" />
-	<ctl name="RX2 True Audio Normalization" value="AUTO" />
+	<ctl name="2 True Normalization Switch" value="2" />
+	<ctl name="TX2 True Normalization" value="AUTO" />
+	<ctl name="RX2 True Normalization" value="AUTO" />
 	<ctl name="2 True Level Switch" value="2" />
 	<ctl name="TX2 True Level" value="AUTO" />
 	<ctl name="RX2 True Level" value="AUTO" />
@@ -25147,9 +25147,9 @@
 	<ctl name="HPHL True Expand Switch" value="2" />
 	<ctl name="TX HPHL True Expand" value="AUTO" />
 	<ctl name="RX HPHL True Expand" value="AUTO" />
-	<ctl name="HPHL True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHL True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHL True Audio Normalization" value="AUTO" />
+	<ctl name="HPHL True Normalization Switch" value="2" />
+	<ctl name="TX HPHL True Normalization" value="AUTO" />
+	<ctl name="RX HPHL True Normalization" value="AUTO" />
 	<ctl name="HPHL True Level Switch" value="2" />
 	<ctl name="TX HPHL True Level" value="AUTO" />
 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -25186,9 +25186,9 @@
 	<ctl name="HPHR True Expand Switch" value="2" />
 	<ctl name="TX HPHR True Expand" value="AUTO" />
 	<ctl name="RX HPHR True Expand" value="AUTO" />
-	<ctl name="HPHR True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHR True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHR True Audio Normalization" value="AUTO" />
+	<ctl name="HPHR True Normalization Switch" value="2" />
+	<ctl name="TX HPHR True Normalization" value="AUTO" />
+	<ctl name="RX HPHR True Normalization" value="AUTO" />
 	<ctl name="HPHR True Level Switch" value="2" />
 	<ctl name="TX HPHR True Level" value="AUTO" />
 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -25236,9 +25236,9 @@
 	<ctl name="1 True Expand Switch" value="2" />
 	<ctl name="TX1 True Expand" value="AUTO" />
 	<ctl name="RX1 True Expand" value="AUTO" />
-	<ctl name="1 True Audio Normalization Switch" value="2" />
-	<ctl name="TX1 True Audio Normalization" value="AUTO" />
-	<ctl name="RX1 True Audio Normalization" value="AUTO" />
+	<ctl name="1 True Normalization Switch" value="2" />
+	<ctl name="TX1 True Normalization" value="AUTO" />
+	<ctl name="RX1 True Normalization" value="AUTO" />
 	<ctl name="1 True Level Switch" value="2" />
 	<ctl name="TX1 True Level" value="AUTO" />
 	<ctl name="RX1 True Level" value="AUTO" />
@@ -25278,9 +25278,9 @@
 	<ctl name="2 True Expand Switch" value="2" />
 	<ctl name="TX2 True Expand" value="AUTO" />
 	<ctl name="RX2 True Expand" value="AUTO" />
-	<ctl name="2 True Audio Normalization Switch" value="2" />
-	<ctl name="TX2 True Audio Normalization" value="AUTO" />
-	<ctl name="RX2 True Audio Normalization" value="AUTO" />
+	<ctl name="2 True Normalization Switch" value="2" />
+	<ctl name="TX2 True Normalization" value="AUTO" />
+	<ctl name="RX2 True Normalization" value="AUTO" />
 	<ctl name="2 True Level Switch" value="2" />
 	<ctl name="TX2 True Level" value="AUTO" />
 	<ctl name="RX2 True Level" value="AUTO" />
@@ -25320,9 +25320,9 @@
 	<ctl name="HPHL True Expand Switch" value="2" />
 	<ctl name="TX HPHL True Expand" value="AUTO" />
 	<ctl name="RX HPHL True Expand" value="AUTO" />
-	<ctl name="HPHL True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHL True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHL True Audio Normalization" value="AUTO" />
+	<ctl name="HPHL True Normalization Switch" value="2" />
+	<ctl name="TX HPHL True Normalization" value="AUTO" />
+	<ctl name="RX HPHL True Normalization" value="AUTO" />
 	<ctl name="HPHL True Level Switch" value="2" />
 	<ctl name="TX HPHL True Level" value="AUTO" />
 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -25359,9 +25359,9 @@
 	<ctl name="HPHR True Expand Switch" value="2" />
 	<ctl name="TX HPHR True Expand" value="AUTO" />
 	<ctl name="RX HPHR True Expand" value="AUTO" />
-	<ctl name="HPHR True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHR True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHR True Audio Normalization" value="AUTO" />
+	<ctl name="HPHR True Normalization Switch" value="2" />
+	<ctl name="TX HPHR True Normalization" value="AUTO" />
+	<ctl name="RX HPHR True Normalization" value="AUTO" />
 	<ctl name="HPHR True Level Switch" value="2" />
 	<ctl name="TX HPHR True Level" value="AUTO" />
 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -25409,9 +25409,9 @@
 	<ctl name="1 True Expand Switch" value="2" />
 	<ctl name="TX1 True Expand" value="AUTO" />
 	<ctl name="RX1 True Expand" value="AUTO" />
-	<ctl name="1 True Audio Normalization Switch" value="2" />
-	<ctl name="TX1 True Audio Normalization" value="AUTO" />
-	<ctl name="RX1 True Audio Normalization" value="AUTO" />
+	<ctl name="1 True Normalization Switch" value="2" />
+	<ctl name="TX1 True Normalization" value="AUTO" />
+	<ctl name="RX1 True Normalization" value="AUTO" />
 	<ctl name="1 True Level Switch" value="2" />
 	<ctl name="TX1 True Level" value="AUTO" />
 	<ctl name="RX1 True Level" value="AUTO" />
@@ -25451,9 +25451,9 @@
 	<ctl name="2 True Expand Switch" value="2" />
 	<ctl name="TX2 True Expand" value="AUTO" />
 	<ctl name="RX2 True Expand" value="AUTO" />
-	<ctl name="2 True Audio Normalization Switch" value="2" />
-	<ctl name="TX2 True Audio Normalization" value="AUTO" />
-	<ctl name="RX2 True Audio Normalization" value="AUTO" />
+	<ctl name="2 True Normalization Switch" value="2" />
+	<ctl name="TX2 True Normalization" value="AUTO" />
+	<ctl name="RX2 True Normalization" value="AUTO" />
 	<ctl name="2 True Level Switch" value="2" />
 	<ctl name="TX2 True Level" value="AUTO" />
 	<ctl name="RX2 True Level" value="AUTO" />
@@ -25493,9 +25493,9 @@
 	<ctl name="HPHL True Expand Switch" value="2" />
 	<ctl name="TX HPHL True Expand" value="AUTO" />
 	<ctl name="RX HPHL True Expand" value="AUTO" />
-	<ctl name="HPHL True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHL True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHL True Audio Normalization" value="AUTO" />
+	<ctl name="HPHL True Normalization Switch" value="2" />
+	<ctl name="TX HPHL True Normalization" value="AUTO" />
+	<ctl name="RX HPHL True Normalization" value="AUTO" />
 	<ctl name="HPHL True Level Switch" value="2" />
 	<ctl name="TX HPHL True Level" value="AUTO" />
 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -25532,9 +25532,9 @@
 	<ctl name="HPHR True Expand Switch" value="2" />
 	<ctl name="TX HPHR True Expand" value="AUTO" />
 	<ctl name="RX HPHR True Expand" value="AUTO" />
-	<ctl name="HPHR True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHR True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHR True Audio Normalization" value="AUTO" />
+	<ctl name="HPHR True Normalization Switch" value="2" />
+	<ctl name="TX HPHR True Normalization" value="AUTO" />
+	<ctl name="RX HPHR True Normalization" value="AUTO" />
 	<ctl name="HPHR True Level Switch" value="2" />
 	<ctl name="TX HPHR True Level" value="AUTO" />
 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -25600,9 +25600,9 @@
 	<ctl name="1 True Expand Switch" value="2" />
 	<ctl name="TX1 True Expand" value="AUTO" />
 	<ctl name="RX1 True Expand" value="AUTO" />
-	<ctl name="1 True Audio Normalization Switch" value="2" />
-	<ctl name="TX1 True Audio Normalization" value="AUTO" />
-	<ctl name="RX1 True Audio Normalization" value="AUTO" />
+	<ctl name="1 True Normalization Switch" value="2" />
+	<ctl name="TX1 True Normalization" value="AUTO" />
+	<ctl name="RX1 True Normalization" value="AUTO" />
 	<ctl name="1 True Level Switch" value="2" />
 	<ctl name="TX1 True Level" value="AUTO" />
 	<ctl name="RX1 True Level" value="AUTO" />
@@ -25642,9 +25642,9 @@
 	<ctl name="2 True Expand Switch" value="2" />
 	<ctl name="TX2 True Expand" value="AUTO" />
 	<ctl name="RX2 True Expand" value="AUTO" />
-	<ctl name="2 True Audio Normalization Switch" value="2" />
-	<ctl name="TX2 True Audio Normalization" value="AUTO" />
-	<ctl name="RX2 True Audio Normalization" value="AUTO" />
+	<ctl name="2 True Normalization Switch" value="2" />
+	<ctl name="TX2 True Normalization" value="AUTO" />
+	<ctl name="RX2 True Normalization" value="AUTO" />
 	<ctl name="2 True Level Switch" value="2" />
 	<ctl name="TX2 True Level" value="AUTO" />
 	<ctl name="RX2 True Level" value="AUTO" />
@@ -25684,9 +25684,9 @@
 	<ctl name="HPHL True Expand Switch" value="2" />
 	<ctl name="TX HPHL True Expand" value="AUTO" />
 	<ctl name="RX HPHL True Expand" value="AUTO" />
-	<ctl name="HPHL True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHL True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHL True Audio Normalization" value="AUTO" />
+	<ctl name="HPHL True Normalization Switch" value="2" />
+	<ctl name="TX HPHL True Normalization" value="AUTO" />
+	<ctl name="RX HPHL True Normalization" value="AUTO" />
 	<ctl name="HPHL True Level Switch" value="2" />
 	<ctl name="TX HPHL True Level" value="AUTO" />
 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -25723,9 +25723,9 @@
 	<ctl name="HPHR True Expand Switch" value="2" />
 	<ctl name="TX HPHR True Expand" value="AUTO" />
 	<ctl name="RX HPHR True Expand" value="AUTO" />
-	<ctl name="HPHR True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHR True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHR True Audio Normalization" value="AUTO" />
+	<ctl name="HPHR True Normalization Switch" value="2" />
+	<ctl name="TX HPHR True Normalization" value="AUTO" />
+	<ctl name="RX HPHR True Normalization" value="AUTO" />
 	<ctl name="HPHR True Level Switch" value="2" />
 	<ctl name="TX HPHR True Level" value="AUTO" />
 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -25773,9 +25773,9 @@
 	<ctl name="1 True Expand Switch" value="2" />
 	<ctl name="TX1 True Expand" value="AUTO" />
 	<ctl name="RX1 True Expand" value="AUTO" />
-	<ctl name="1 True Audio Normalization Switch" value="2" />
-	<ctl name="TX1 True Audio Normalization" value="AUTO" />
-	<ctl name="RX1 True Audio Normalization" value="AUTO" />
+	<ctl name="1 True Normalization Switch" value="2" />
+	<ctl name="TX1 True Normalization" value="AUTO" />
+	<ctl name="RX1 True Normalization" value="AUTO" />
 	<ctl name="1 True Level Switch" value="2" />
 	<ctl name="TX1 True Level" value="AUTO" />
 	<ctl name="RX1 True Level" value="AUTO" />
@@ -25815,9 +25815,9 @@
 	<ctl name="2 True Expand Switch" value="2" />
 	<ctl name="TX2 True Expand" value="AUTO" />
 	<ctl name="RX2 True Expand" value="AUTO" />
-	<ctl name="2 True Audio Normalization Switch" value="2" />
-	<ctl name="TX2 True Audio Normalization" value="AUTO" />
-	<ctl name="RX2 True Audio Normalization" value="AUTO" />
+	<ctl name="2 True Normalization Switch" value="2" />
+	<ctl name="TX2 True Normalization" value="AUTO" />
+	<ctl name="RX2 True Normalization" value="AUTO" />
 	<ctl name="2 True Level Switch" value="2" />
 	<ctl name="TX2 True Level" value="AUTO" />
 	<ctl name="RX2 True Level" value="AUTO" />
@@ -25857,9 +25857,9 @@
 	<ctl name="HPHL True Expand Switch" value="2" />
 	<ctl name="TX HPHL True Expand" value="AUTO" />
 	<ctl name="RX HPHL True Expand" value="AUTO" />
-	<ctl name="HPHL True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHL True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHL True Audio Normalization" value="AUTO" />
+	<ctl name="HPHL True Normalization Switch" value="2" />
+	<ctl name="TX HPHL True Normalization" value="AUTO" />
+	<ctl name="RX HPHL True Normalization" value="AUTO" />
 	<ctl name="HPHL True Level Switch" value="2" />
 	<ctl name="TX HPHL True Level" value="AUTO" />
 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -25896,9 +25896,9 @@
 	<ctl name="HPHR True Expand Switch" value="2" />
 	<ctl name="TX HPHR True Expand" value="AUTO" />
 	<ctl name="RX HPHR True Expand" value="AUTO" />
-	<ctl name="HPHR True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHR True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHR True Audio Normalization" value="AUTO" />
+	<ctl name="HPHR True Normalization Switch" value="2" />
+	<ctl name="TX HPHR True Normalization" value="AUTO" />
+	<ctl name="RX HPHR True Normalization" value="AUTO" />
 	<ctl name="HPHR True Level Switch" value="2" />
 	<ctl name="TX HPHR True Level" value="AUTO" />
 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -25946,9 +25946,9 @@
 	<ctl name="1 True Expand Switch" value="2" />
 	<ctl name="TX1 True Expand" value="AUTO" />
 	<ctl name="RX1 True Expand" value="AUTO" />
-	<ctl name="1 True Audio Normalization Switch" value="2" />
-	<ctl name="TX1 True Audio Normalization" value="AUTO" />
-	<ctl name="RX1 True Audio Normalization" value="AUTO" />
+	<ctl name="1 True Normalization Switch" value="2" />
+	<ctl name="TX1 True Normalization" value="AUTO" />
+	<ctl name="RX1 True Normalization" value="AUTO" />
 	<ctl name="1 True Level Switch" value="2" />
 	<ctl name="TX1 True Level" value="AUTO" />
 	<ctl name="RX1 True Level" value="AUTO" />
@@ -25988,9 +25988,9 @@
 	<ctl name="2 True Expand Switch" value="2" />
 	<ctl name="TX2 True Expand" value="AUTO" />
 	<ctl name="RX2 True Expand" value="AUTO" />
-	<ctl name="2 True Audio Normalization Switch" value="2" />
-	<ctl name="TX2 True Audio Normalization" value="AUTO" />
-	<ctl name="RX2 True Audio Normalization" value="AUTO" />
+	<ctl name="2 True Normalization Switch" value="2" />
+	<ctl name="TX2 True Normalization" value="AUTO" />
+	<ctl name="RX2 True Normalization" value="AUTO" />
 	<ctl name="2 True Level Switch" value="2" />
 	<ctl name="TX2 True Level" value="AUTO" />
 	<ctl name="RX2 True Level" value="AUTO" />
@@ -26030,9 +26030,9 @@
 	<ctl name="HPHL True Expand Switch" value="2" />
 	<ctl name="TX HPHL True Expand" value="AUTO" />
 	<ctl name="RX HPHL True Expand" value="AUTO" />
-	<ctl name="HPHL True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHL True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHL True Audio Normalization" value="AUTO" />
+	<ctl name="HPHL True Normalization Switch" value="2" />
+	<ctl name="TX HPHL True Normalization" value="AUTO" />
+	<ctl name="RX HPHL True Normalization" value="AUTO" />
 	<ctl name="HPHL True Level Switch" value="2" />
 	<ctl name="TX HPHL True Level" value="AUTO" />
 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -26069,9 +26069,9 @@
 	<ctl name="HPHR True Expand Switch" value="2" />
 	<ctl name="TX HPHR True Expand" value="AUTO" />
 	<ctl name="RX HPHR True Expand" value="AUTO" />
-	<ctl name="HPHR True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHR True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHR True Audio Normalization" value="AUTO" />
+	<ctl name="HPHR True Normalization Switch" value="2" />
+	<ctl name="TX HPHR True Normalization" value="AUTO" />
+	<ctl name="RX HPHR True Normalization" value="AUTO" />
 	<ctl name="HPHR True Level Switch" value="2" />
 	<ctl name="TX HPHR True Level" value="AUTO" />
 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -26120,9 +26120,9 @@
 	<ctl name="1 True Expand Switch" value="2" />
 	<ctl name="TX1 True Expand" value="AUTO" />
 	<ctl name="RX1 True Expand" value="AUTO" />
-	<ctl name="1 True Audio Normalization Switch" value="2" />
-	<ctl name="TX1 True Audio Normalization" value="AUTO" />
-	<ctl name="RX1 True Audio Normalization" value="AUTO" />
+	<ctl name="1 True Normalization Switch" value="2" />
+	<ctl name="TX1 True Normalization" value="AUTO" />
+	<ctl name="RX1 True Normalization" value="AUTO" />
 	<ctl name="1 True Level Switch" value="2" />
 	<ctl name="TX1 True Level" value="AUTO" />
 	<ctl name="RX1 True Level" value="AUTO" />
@@ -26162,9 +26162,9 @@
 	<ctl name="2 True Expand Switch" value="2" />
 	<ctl name="TX2 True Expand" value="AUTO" />
 	<ctl name="RX2 True Expand" value="AUTO" />
-	<ctl name="2 True Audio Normalization Switch" value="2" />
-	<ctl name="TX2 True Audio Normalization" value="AUTO" />
-	<ctl name="RX2 True Audio Normalization" value="AUTO" />
+	<ctl name="2 True Normalization Switch" value="2" />
+	<ctl name="TX2 True Normalization" value="AUTO" />
+	<ctl name="RX2 True Normalization" value="AUTO" />
 	<ctl name="2 True Level Switch" value="2" />
 	<ctl name="TX2 True Level" value="AUTO" />
 	<ctl name="RX2 True Level" value="AUTO" />
@@ -26204,9 +26204,9 @@
 	<ctl name="HPHL True Expand Switch" value="2" />
 	<ctl name="TX HPHL True Expand" value="AUTO" />
 	<ctl name="RX HPHL True Expand" value="AUTO" />
-	<ctl name="HPHL True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHL True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHL True Audio Normalization" value="AUTO" />
+	<ctl name="HPHL True Normalization Switch" value="2" />
+	<ctl name="TX HPHL True Normalization" value="AUTO" />
+	<ctl name="RX HPHL True Normalization" value="AUTO" />
 	<ctl name="HPHL True Level Switch" value="2" />
 	<ctl name="TX HPHL True Level" value="AUTO" />
 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -26243,9 +26243,9 @@
 	<ctl name="HPHR True Expand Switch" value="2" />
 	<ctl name="TX HPHR True Expand" value="AUTO" />
 	<ctl name="RX HPHR True Expand" value="AUTO" />
-	<ctl name="HPHR True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHR True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHR True Audio Normalization" value="AUTO" />
+	<ctl name="HPHR True Normalization Switch" value="2" />
+	<ctl name="TX HPHR True Normalization" value="AUTO" />
+	<ctl name="RX HPHR True Normalization" value="AUTO" />
 	<ctl name="HPHR True Level Switch" value="2" />
 	<ctl name="TX HPHR True Level" value="AUTO" />
 	<ctl name="RX HPHR True Level" value="AUTO" />
@@ -26293,9 +26293,9 @@
 	<ctl name="1 True Expand Switch" value="2" />
 	<ctl name="TX1 True Expand" value="AUTO" />
 	<ctl name="RX1 True Expand" value="AUTO" />
-	<ctl name="1 True Audio Normalization Switch" value="2" />
-	<ctl name="TX1 True Audio Normalization" value="AUTO" />
-	<ctl name="RX1 True Audio Normalization" value="AUTO" />
+	<ctl name="1 True Normalization Switch" value="2" />
+	<ctl name="TX1 True Normalization" value="AUTO" />
+	<ctl name="RX1 True Normalization" value="AUTO" />
 	<ctl name="1 True Level Switch" value="2" />
 	<ctl name="TX1 True Level" value="AUTO" />
 	<ctl name="RX1 True Level" value="AUTO" />
@@ -26335,9 +26335,9 @@
 	<ctl name="2 True Expand Switch" value="2" />
 	<ctl name="TX2 True Expand" value="AUTO" />
 	<ctl name="RX2 True Expand" value="AUTO" />
-	<ctl name="2 True Audio Normalization Switch" value="2" />
-	<ctl name="TX2 True Audio Normalization" value="AUTO" />
-	<ctl name="RX2 True Audio Normalization" value="AUTO" />
+	<ctl name="2 True Normalization Switch" value="2" />
+	<ctl name="TX2 True Normalization" value="AUTO" />
+	<ctl name="RX2 True Normalization" value="AUTO" />
 	<ctl name="2 True Level Switch" value="2" />
 	<ctl name="TX2 True Level" value="AUTO" />
 	<ctl name="RX2 True Level" value="AUTO" />
@@ -26377,9 +26377,9 @@
 	<ctl name="HPHL True Expand Switch" value="2" />
 	<ctl name="TX HPHL True Expand" value="AUTO" />
 	<ctl name="RX HPHL True Expand" value="AUTO" />
-	<ctl name="HPHL True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHL True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHL True Audio Normalization" value="AUTO" />
+	<ctl name="HPHL True Normalization Switch" value="2" />
+	<ctl name="TX HPHL True Normalization" value="AUTO" />
+	<ctl name="RX HPHL True Normalization" value="AUTO" />
 	<ctl name="HPHL True Level Switch" value="2" />
 	<ctl name="TX HPHL True Level" value="AUTO" />
 	<ctl name="RX HPHL True Level" value="AUTO" />
@@ -26416,9 +26416,9 @@
 	<ctl name="HPHR True Expand Switch" value="2" />
 	<ctl name="TX HPHR True Expand" value="AUTO" />
 	<ctl name="RX HPHR True Expand" value="AUTO" />
-	<ctl name="HPHR True Audio Normalization Switch" value="2" />
-	<ctl name="TX HPHR True Audio Normalization" value="AUTO" />
-	<ctl name="RX HPHR True Audio Normalization" value="AUTO" />
+	<ctl name="HPHR True Normalization Switch" value="2" />
+	<ctl name="TX HPHR True Normalization" value="AUTO" />
+	<ctl name="RX HPHR True Normalization" value="AUTO" />
 	<ctl name="HPHR True Level Switch" value="2" />
 	<ctl name="TX HPHR True Level" value="AUTO" />
 	<ctl name="RX HPHR True Level" value="AUTO" />
