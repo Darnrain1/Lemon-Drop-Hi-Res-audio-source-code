@@ -1,9 +1,9 @@
-26a27,151
+26a27,165
 > 	
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v258.1 -->
+> 	<!-- Lemon Drop Hi-Res treble v259.2 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -16,11 +16,11 @@
 > 	<!-- I would imagine it should work as long as you have a QuadDAC in your phone -->
 > 	
 > 	<!-- First thing -->
-> 	<!-- Copy all lines of code line number 1 through 14720 paste in your mixer_paths file at very top -->
-> 	<!-- I added a note where to copy from at line 14720 -->
+> 	<!-- Copy all lines of code line number 1 through 13999 paste in your mixer_paths file at very top -->
+> 	<!-- I added a note where to copy from at line 13999 -->
 > 	
 > 	<!-- Second thing -->
-> 	<!-- Search for "lemon drop" after line 14720 to start -->
+> 	<!-- Search for "Lemon Drop Hi-Res end of code programed by: darnrain" after line 13999 to start -->
 > 	
 > 	<!-- Third thing -->
 > 	<!-- Duplicate all code from "Lemon Drop Hi-Res start of mods" to "Lemon Drop Hi-Res end of mods" -->
@@ -83,6 +83,18 @@
 > 	<!-- <ctl name="SpkrRight WSA PA Mute" value="0" /> -->
 > 	<!-- <ctl name="SpkrLeft SWR DAC_Port Switch" value="2" /> -->
 > 	<!-- <ctl name="SpkrRight SWR DAC_Port Switch" value="2" /> -->
+> 
+> 	<!-- The HPH initialization code -->
+> 	<!-- <ctl name="HphLeft COMP Switch" value="2" /> -->
+> 	<!-- <ctl name="HphRight COMP Switch" value="2" /> -->
+> 	<!-- <ctl name="HphLeft BOOST Switch" value="0" /> -->
+> 	<!-- <ctl name="HphRight BOOST Switch" value="0" /> -->
+> 	<!-- <ctl name="HphLeft VISENSE Switch" value="0" /> -->
+> 	<!-- <ctl name="HphRight VISENSE Switch" value="0" /> -->
+> 	<!-- <ctl name="HphLeft WSA PA Mute" value="0" /> -->
+> 	<!-- <ctl name="HphRight WSA PA Mute" value="0" /> -->
+> 	<!-- <ctl name="HphLeft SWR DAC_Port Switch" value="2" /> -->
+> 	<!-- <ctl name="HphRight SWR DAC_Port Switch" value="2" /> -->
 > 	
 > 	<!-- Search for: Lemon Drop -->
 > 	<!-- to view all mods -->
@@ -118,13 +130,15 @@
 > 	<!-- SLIM_11_RX SLIM_11_TX = headphone_fluid -->
 > 	<!-- SLIM_12_RX SLIM_12_TX = headphone_liquid -->
 > 
+> 	<!-- If your wondering what vbat stands for it's, visense and boost it's part of bass+ -->
+> 
 > 	<!-- Start of initial mixer settings -->
 > 	
 > 	<!-- Lemon Drop Hi-Res start of code programed by: darnrain  -->
 > 	
 > 	<!-- Start of True Native Mode code v3.0 & vbat initial mixer settings -->
 > 	
-28,2368c153,6373
+28,2368c167,6387
 <     <!-- These are the initial mixer settings -->
 <     <ctl name="Voice Rx Device Mute" id="0" value="0" />
 <     <ctl name="Voice Rx Device Mute" id="1" value="-1" />
@@ -8688,10 +8702,10 @@
 > 	
 > 	<!-- Start of Compander controls -->
 > 	
-2369a6375,6376
+2369a6389,6390
 > 	<ctl name="TX COMP1" value="0" />
 > 	<ctl name="RX COMP1" value="0" />
-2371,2429c6378,22092
+2371,2429c6392,22121
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -9367,6 +9381,21 @@
 > 	<ctl name="SpkrRight SWR DAC_Port Switch" value="0" />
 > 	
 > 	<!-- End DAC initialization code -->
+> 
+> 	<!-- Start HPH initialization code -->
+> 	
+> 	<ctl name="HphLeft COMP Switch" value="0" />
+> 	<ctl name="HphRight COMP Switch" value="0" />
+> 	<ctl name="HphLeft BOOST Switch" value="0" />
+> 	<ctl name="HphRight BOOST Switch" value="0" />
+> 	<ctl name="HphLeft VISENSE Switch" value="0" />
+> 	<ctl name="HphRight VISENSE Switch" value="0" />
+> 	<ctl name="HphLeft WSA PA Mute" value="0" />
+> 	<ctl name="HphRight WSA PA Mute" value="0" />
+> 	<ctl name="HphLeft SWR DAC_Port Switch" value="0" />
+> 	<ctl name="HphRight SWR DAC_Port Switch" value="0" />
+> 	
+> 	<!-- End HPH initialization code -->
 > 	
 > 	<!-- End of initial mixer settings -->
 > 	
@@ -24467,7 +24496,7 @@
 > 	
 > 	<path name="voice-headphones">
 > 	<path name="headphones" />
-2432,2464c22095,28424
+2432,2464c22124,28463
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -26626,6 +26655,16 @@
 > 	<ctl name="HPHR RDAC Switch" value="2" />
 > 	<ctl name="TX HPHR RDAC" value="2" />
 > 	<ctl name="RX HPHR RDAC" value="2" />
+> 	<ctl name="HphLeft COMP Switch" value="2" />
+> 	<ctl name="HphRight COMP Switch" value="2" />
+> 	<ctl name="HphLeft BOOST Switch" value="0" />
+> 	<ctl name="HphRight BOOST Switch" value="0" />
+> 	<ctl name="HphLeft VISENSE Switch" value="0" />
+> 	<ctl name="HphRight VISENSE Switch" value="0" />
+> 	<ctl name="HphLeft WSA PA Mute" value="0" />
+> 	<ctl name="HphRight WSA PA Mute" value="0" />
+> 	<ctl name="HphLeft SWR DAC_Port Switch" value="2" />
+> 	<ctl name="HphRight SWR DAC_Port Switch" value="2" />
 > 	</path>
 > 
 > 	<path name="headphone_fluid">
@@ -30832,7 +30871,7 @@
 > 	
 > 	<path name="voip-headphones-aux">
 > 	<path name="voice-headphones" />
-2467,3898c28427,28929
+2467,3898c28466,28968
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="1" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -32769,7 +32808,7 @@
 > 	<path name="speaker-protected" />
 > 	</path>
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
-3899a28931,28933
+3899a28970,28972
 > 	
 > 	
 > 	<!-- Bottom of page -->

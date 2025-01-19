@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble v258.1 -->
+	<!-- Lemon Drop Hi-Res treble v259.2 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -41,11 +41,11 @@
 	<!-- I would imagine it should work as long as you have a QuadDAC in your phone -->
 	
 	<!-- First thing -->
-	<!-- Copy all lines of code line number 1 through 14720 paste in your mixer_paths file at very top -->
-	<!-- I added a note where to copy from at line 14720 -->
+	<!-- Copy all lines of code line number 1 through 13999 paste in your mixer_paths file at very top -->
+	<!-- I added a note where to copy from at line 13999 -->
 	
 	<!-- Second thing -->
-	<!-- Search for "lemon drop" after line 14720 to start -->
+	<!-- Search for "Lemon Drop Hi-Res end of code programed by: darnrain" after line 13999 to start -->
 	
 	<!-- Third thing -->
 	<!-- Duplicate all code from "Lemon Drop Hi-Res start of mods" to "Lemon Drop Hi-Res end of mods" -->
@@ -108,6 +108,18 @@
 	<!-- <ctl name="SpkrRight WSA PA Mute" value="0" /> -->
 	<!-- <ctl name="SpkrLeft SWR DAC_Port Switch" value="2" /> -->
 	<!-- <ctl name="SpkrRight SWR DAC_Port Switch" value="2" /> -->
+
+	<!-- The HPH initialization code -->
+	<!-- <ctl name="HphLeft COMP Switch" value="2" /> -->
+	<!-- <ctl name="HphRight COMP Switch" value="2" /> -->
+	<!-- <ctl name="HphLeft BOOST Switch" value="0" /> -->
+	<!-- <ctl name="HphRight BOOST Switch" value="0" /> -->
+	<!-- <ctl name="HphLeft VISENSE Switch" value="0" /> -->
+	<!-- <ctl name="HphRight VISENSE Switch" value="0" /> -->
+	<!-- <ctl name="HphLeft WSA PA Mute" value="0" /> -->
+	<!-- <ctl name="HphRight WSA PA Mute" value="0" /> -->
+	<!-- <ctl name="HphLeft SWR DAC_Port Switch" value="2" /> -->
+	<!-- <ctl name="HphRight SWR DAC_Port Switch" value="2" /> -->
 	
 	<!-- Search for: Lemon Drop -->
 	<!-- to view all mods -->
@@ -142,6 +154,8 @@
 	<!-- SLIM_10_RX SLIM_10_TX = headphone-24bit aka wired headphones 24bit True Native Mode -->
 	<!-- SLIM_11_RX SLIM_11_TX = headphone_fluid -->
 	<!-- SLIM_12_RX SLIM_12_TX = headphone_liquid -->
+
+	<!-- If your wondering what vbat stands for it's, visense and boost it's part of bass+ -->
 
 	<!-- Start of initial mixer settings -->
 	
@@ -6990,6 +7004,21 @@
 	<ctl name="SpkrRight SWR DAC_Port Switch" value="0" />
 	
 	<!-- End DAC initialization code -->
+
+	<!-- Start HPH initialization code -->
+	
+	<ctl name="HphLeft COMP Switch" value="0" />
+	<ctl name="HphRight COMP Switch" value="0" />
+	<ctl name="HphLeft BOOST Switch" value="0" />
+	<ctl name="HphRight BOOST Switch" value="0" />
+	<ctl name="HphLeft VISENSE Switch" value="0" />
+	<ctl name="HphRight VISENSE Switch" value="0" />
+	<ctl name="HphLeft WSA PA Mute" value="0" />
+	<ctl name="HphRight WSA PA Mute" value="0" />
+	<ctl name="HphLeft SWR DAC_Port Switch" value="0" />
+	<ctl name="HphRight SWR DAC_Port Switch" value="0" />
+	
+	<!-- End HPH initialization code -->
 	
 	<!-- End of initial mixer settings -->
 	
@@ -24216,6 +24245,16 @@
 	<ctl name="HPHR RDAC Switch" value="2" />
 	<ctl name="TX HPHR RDAC" value="2" />
 	<ctl name="RX HPHR RDAC" value="2" />
+	<ctl name="HphLeft COMP Switch" value="2" />
+	<ctl name="HphRight COMP Switch" value="2" />
+	<ctl name="HphLeft BOOST Switch" value="0" />
+	<ctl name="HphRight BOOST Switch" value="0" />
+	<ctl name="HphLeft VISENSE Switch" value="0" />
+	<ctl name="HphRight VISENSE Switch" value="0" />
+	<ctl name="HphLeft WSA PA Mute" value="0" />
+	<ctl name="HphRight WSA PA Mute" value="0" />
+	<ctl name="HphLeft SWR DAC_Port Switch" value="2" />
+	<ctl name="HphRight SWR DAC_Port Switch" value="2" />
 	</path>
 
 	<path name="headphone_fluid">
