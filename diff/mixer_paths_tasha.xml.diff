@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v262.1 -->
+> 	<!-- Lemon Drop Hi-Res treble v263.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -22382,12 +22382,12 @@
 > 	
 > 	<path name="speaker_liquid">
 > 	<path name="true-native-mode-SPKR" />
-> 	<ctl name="SLIM_12_TX Channels" value="Sevenhundredsixtyeight" />
-> 	<ctl name="SLIM_12_RX Channels" value="Sevenhundredsixtyeight" />
-> 	<ctl name="SLIM_12_TX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_12_RX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_12_TX Format" value="PACKED_24B" />
-> 	<ctl name="SLIM_12_RX Format" value="PACKED_24B" />
+> 	<ctl name="SLIM_0_TX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_0_RX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_0_TX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_0_RX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_0_TX Format" value="PACKED_24B" />
+> 	<ctl name="SLIM_0_RX Format" value="PACKED_24B" />
 > 	<ctl name="SPKRL LDAC Switch" value="2" />
 > 	<ctl name="TX SPKRL LDAC" value="2" />
 > 	<ctl name="RX SPKRL LDAC" value="2" />
