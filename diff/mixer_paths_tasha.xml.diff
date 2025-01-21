@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v264.1 -->
+> 	<!-- Lemon Drop Hi-Res treble v265.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -124,10 +124,10 @@
 > 	<!-- SLIM_4_RX SLIM_4_TX = speaker-protected speaker-protected-voice -->
 > 	<!-- SLIM_5_RX SLIM_5_TX = not in use -->
 > 	<!-- SLIM_6_RX SLIM_6_TX = headphones aka wired headphones 16bit FM Radio & headphones-phone -->
-> 	<!-- SLIM_7_RX SLIM_7_TX = bluetooth-16bit True Native Mode -->
-> 	<!-- SLIM_8_RX SLIM_8_TX = bluetooth-24bit True Native Mode -->
-> 	<!-- SLIM_9_RX SLIM_9_TX = headphone-16bit aka wired headphones 16bit True Native Mode -->
-> 	<!-- SLIM_10_RX SLIM_10_TX = headphone-24bit aka wired headphones 24bit True Native Mode -->
+> 	<!-- SLIM_7_RX SLIM_7_TX = not in use -->
+> 	<!-- SLIM_8_RX SLIM_8_TX = not in use -->
+> 	<!-- SLIM_9_RX SLIM_9_TX = 16bit wired headphones and bluetooth -->
+> 	<!-- SLIM_10_RX SLIM_10_TX = 24bit wired headphones and bluetooth -->
 > 
 > 	<!-- If your wondering what vbat stands for it's, visense and boost it's part of bass+ -->
 > 
@@ -26772,12 +26772,12 @@
 > 	
 > 	<path name="bluetooth-16bit">
 > 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIM_7_TX Channels" value="Threethousandandseventytwo" />
-> 	<ctl name="SLIM_7_RX Channels" value="Threethousandandseventytwo" />
-> 	<ctl name="SLIM_7_TX SampleRate" value="KHZ_176P4" />
-> 	<ctl name="SLIM_7_RX SampleRate" value="KHZ_176P4" />
-> 	<ctl name="SLIM_7_TX Format" value="S64_LE" />
-> 	<ctl name="SLIM_7_RX Format" value="S64_LE" />
+> 	<ctl name="SLIM_9_TX Channels" value="Threethousandandseventytwo" />
+> 	<ctl name="SLIM_9_RX Channels" value="Threethousandandseventytwo" />
+> 	<ctl name="SLIM_9_TX SampleRate" value="KHZ_176P4" />
+> 	<ctl name="SLIM_9_RX SampleRate" value="KHZ_176P4" />
+> 	<ctl name="SLIM_9_TX Format" value="S64_LE" />
+> 	<ctl name="SLIM_9_RX Format" value="S64_LE" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
 > 	<ctl name="TX HPHL LDAC" value="2" />
 > 	<ctl name="RX HPHL LDAC" value="2" />
@@ -26963,12 +26963,12 @@
 > 	
 > 	<path name="bluetooth-24bit">
 > 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIM_8_TX Channels" value="Threethousandandseventytwo" />
-> 	<ctl name="SLIM_8_RX Channels" value="Threethousandandseventytwo" />
-> 	<ctl name="SLIM_8_TX SampleRate" value="KHZ_176P4" />
-> 	<ctl name="SLIM_8_RX SampleRate" value="KHZ_176P4" />
-> 	<ctl name="SLIM_8_TX Format" value="S96_LE" />
-> 	<ctl name="SLIM_8_RX Format" value="S96_LE" />
+> 	<ctl name="SLIM_10_TX Channels" value="Threethousandandseventytwo" />
+> 	<ctl name="SLIM_10_RX Channels" value="Threethousandandseventytwo" />
+> 	<ctl name="SLIM_10_TX SampleRate" value="KHZ_176P4" />
+> 	<ctl name="SLIM_10_RX SampleRate" value="KHZ_176P4" />
+> 	<ctl name="SLIM_10_TX Format" value="S96_LE" />
+> 	<ctl name="SLIM_10_RX Format" value="S96_LE" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
 > 	<ctl name="TX HPHL LDAC" value="2" />
 > 	<ctl name="RX HPHL LDAC" value="2" />
@@ -28621,12 +28621,12 @@
 > 	
 > 	<path name="vbat_bluetooth-16bit">
 > 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIM_7_TX Channels" value="Threethousandandseventytwo" />
-> 	<ctl name="SLIM_7_RX Channels" value="Threethousandandseventytwo" />
-> 	<ctl name="SLIM_7_TX SampleRate" value="KHZ_176P4" />
-> 	<ctl name="SLIM_7_RX SampleRate" value="KHZ_176P4" />
-> 	<ctl name="SLIM_7_TX Format" value="S64_LE" />
-> 	<ctl name="SLIM_7_RX Format" value="S64_LE" />
+> 	<ctl name="SLIM_9_TX Channels" value="Threethousandandseventytwo" />
+> 	<ctl name="SLIM_9_RX Channels" value="Threethousandandseventytwo" />
+> 	<ctl name="SLIM_9_TX SampleRate" value="KHZ_176P4" />
+> 	<ctl name="SLIM_9_RX SampleRate" value="KHZ_176P4" />
+> 	<ctl name="SLIM_9_TX Format" value="S64_LE" />
+> 	<ctl name="SLIM_9_RX Format" value="S64_LE" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
 > 	<ctl name="TX HPHL LDAC" value="2" />
 > 	<ctl name="RX HPHL LDAC" value="2" />
@@ -28812,12 +28812,12 @@
 > 	
 > 	<path name="vbat_bluetooth-24bit">
 > 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIM_8_TX Channels" value="Threethousandandseventytwo" />
-> 	<ctl name="SLIM_8_RX Channels" value="Threethousandandseventytwo" />
-> 	<ctl name="SLIM_8_TX SampleRate" value="KHZ_176P4" />
-> 	<ctl name="SLIM_8_RX SampleRate" value="KHZ_176P4" />
-> 	<ctl name="SLIM_8_TX Format" value="S96_LE" />
-> 	<ctl name="SLIM_8_RX Format" value="S96_LE" />
+> 	<ctl name="SLIM_10_TX Channels" value="Threethousandandseventytwo" />
+> 	<ctl name="SLIM_10_RX Channels" value="Threethousandandseventytwo" />
+> 	<ctl name="SLIM_10_TX SampleRate" value="KHZ_176P4" />
+> 	<ctl name="SLIM_10_RX SampleRate" value="KHZ_176P4" />
+> 	<ctl name="SLIM_10_TX Format" value="S96_LE" />
+> 	<ctl name="SLIM_10_RX Format" value="S96_LE" />
 > 	<ctl name="HPHL LDAC Switch" value="2" />
 > 	<ctl name="TX HPHL LDAC" value="2" />
 > 	<ctl name="RX HPHL LDAC" value="2" />
