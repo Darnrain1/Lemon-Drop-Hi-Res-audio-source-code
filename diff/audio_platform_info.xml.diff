@@ -1,97 +1,97 @@
-28,30d27
-< 
-< 	<!-- Lemon Drop Hi-Res start of mods -->
-< 
-32c29
-<         <device name="SND_DEVICE_IN_PROCESSED_HEADSET_MIC" acdb_id="63"/>
+27a28,30
+> 
+> 	<!-- Lemon Drop Hi-Res start of mods -->
+> 
+29c32
+<         <device name="SND_DEVICE_IN_UNPROCESSED_HEADSET_MIC" acdb_id="63"/>
 ---
->         <device name="SND_DEVICE_IN_UNPROCESSED_HEADSET_MIC" acdb_id="63"/>
-35,39c32,36
-<         <device name="SND_DEVICE_IN_PROCESSED_MIC" acdb_id="143"/>
-<         <device name="SND_DEVICE_IN_PROCESSED_STEREO_MIC" acdb_id="144"/>
-<         <device name="SND_DEVICE_IN_PROCESSED_THREE_MIC" acdb_id="145"/>
-<         <device name="SND_DEVICE_IN_PROCESSED_QUAD_MIC" acdb_id="146"/>
-<         <device name="SND_DEVICE_IN_PROCESSED_THREE_MIC" acdb_id="1110"/>
+>         <device name="SND_DEVICE_IN_PROCESSED_HEADSET_MIC" acdb_id="63"/>
+32,36c35,39
+<         <device name="SND_DEVICE_IN_UNPROCESSED_MIC" acdb_id="143"/>
+<         <device name="SND_DEVICE_IN_UNPROCESSED_STEREO_MIC" acdb_id="144"/>
+<         <device name="SND_DEVICE_IN_UNPROCESSED_THREE_MIC" acdb_id="145"/>
+<         <device name="SND_DEVICE_IN_UNPROCESSED_QUAD_MIC" acdb_id="146"/>
+<         <device name="SND_DEVICE_IN_THREE_MIC" acdb_id="1110"/>
 ---
->         <device name="SND_DEVICE_IN_UNPROCESSED_MIC" acdb_id="143"/>
->         <device name="SND_DEVICE_IN_UNPROCESSED_STEREO_MIC" acdb_id="144"/>
->         <device name="SND_DEVICE_IN_UNPROCESSED_THREE_MIC" acdb_id="145"/>
->         <device name="SND_DEVICE_IN_UNPROCESSED_QUAD_MIC" acdb_id="146"/>
->         <device name="SND_DEVICE_IN_THREE_MIC" acdb_id="1110"/>
-41,59c38,40
-< 
-< 	<!-- Lemon Drop Hi-Res end of mods -->
-< 
-< 	<!-- Lemon Drop Hi-Res start of mods -->
-< 
-< 	<!-- deleting these lines will allow the DAC -->
-< 	<!-- to output directly to headphones without -->
-< 	<!-- going through the mixer that will downsample the audio -->
-< 
-< 	<!-- Deleted -->
-<     	<!-- <bit_width_configs> -->
-<     	<!--     <device name="SND_DEVICE_OUT_SPEAKER" bit_width="24" /> -->
-<     	<!-- </bit_width_configs> -->
-< 
-< 	<!-- Lemon Drop Hi-Res end of mods -->
-< 
-< 	<!-- Lemon Drop Hi-Res start of mods -->
-< 
-< 	<!-- changed 0 to 1 -->
+>         <device name="SND_DEVICE_IN_PROCESSED_MIC" acdb_id="143"/>
+>         <device name="SND_DEVICE_IN_PROCESSED_STEREO_MIC" acdb_id="144"/>
+>         <device name="SND_DEVICE_IN_PROCESSED_THREE_MIC" acdb_id="145"/>
+>         <device name="SND_DEVICE_IN_PROCESSED_QUAD_MIC" acdb_id="146"/>
+>         <device name="SND_DEVICE_IN_PROCESSED_THREE_MIC" acdb_id="1110"/>
+38,40c41,59
+<     <bit_width_configs>
+<         <device name="SND_DEVICE_OUT_SPEAKER" bit_width="24"/>
+<     </bit_width_configs>
 ---
->     <bit_width_configs>
->         <device name="SND_DEVICE_OUT_SPEAKER" bit_width="24"/>
->     </bit_width_configs>
-61c42
-<         <feature name="NATIVE_AUDIO_44.1" codec_support="1" />
+> 
+> 	<!-- Lemon Drop Hi-Res end of mods -->
+> 
+> 	<!-- Lemon Drop Hi-Res start of mods -->
+> 
+> 	<!-- deleting these lines will allow the DAC -->
+> 	<!-- to output directly to headphones without -->
+> 	<!-- going through the mixer that will downsample the audio -->
+> 
+> 	<!-- Deleted -->
+>     	<!-- <bit_width_configs> -->
+>     	<!--     <device name="SND_DEVICE_OUT_SPEAKER" bit_width="24" /> -->
+>     	<!-- </bit_width_configs> -->
+> 
+> 	<!-- Lemon Drop Hi-Res end of mods -->
+> 
+> 	<!-- Lemon Drop Hi-Res start of mods -->
+> 
+> 	<!-- changed 0 to 1 -->
+42c61
+<         <feature name="NATIVE_AUDIO_44.1" codec_support="0"/>
 ---
->         <feature name="NATIVE_AUDIO_44.1" codec_support="0"/>
-64,67d44
-< 
-< 	<!-- Lemon Drop Hi-Res end of mods -->
-< 
-<     <config_params>
-75,89d51
-< 
-< 	<!-- Lemon Drop Hi-Res start of mods -->
-< 
-< 	<!-- added -->
-<         <device name="SND_DEVICE_LGE_OUT_BLUETOOTH_16BIT" backend="headphone" interface="SLIMBUS_7_RX" />
-<         <device name="SND_DEVICE_LGE_OUT_BLUETOOTH_24BIT" backend="headphone" interface="SLIMBUS_8_RX" />
-<         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_16BIT" backend="headphone" interface="SLIMBUS_9_RX" />
-<         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_16BIT_ADVANCED" backend="headphone-16bit" interface="SLIMBUS_9_RX" />
-<         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_16BIT_AUX" backend="headphone-16bit" interface="SLIMBUS_9_RX" />
-<         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT" backend="headphone" interface="SLIMBUS_10_RX" />
-<         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_ADVANCED" backend="headphone-24bit" interface="SLIMBUS_10_RX" />
-<         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_AUX" backend="headphone-24bit" interface="SLIMBUS_10_RX" />
-< 
-< 	<!-- Lemon Drop Hi-Res end of mods -->
-< 
-101,109c63,64
-< 
-< 	<!-- Lemon Drop Hi-Res start of mods -->
-< 
-< 	<!-- Deleted -->
-<         <!-- <device name="SND_DEVICE_LGE_OUT_HEADPHONES_ADVANCED_44_1" backend="headphones-44.1" interface="SLIMBUS_6_RX" /> -->
-<         <!-- <device name="SND_DEVICE_LGE_OUT_HEADPHONES_AUX_44_1" backend="headphones-44.1" interface="SLIMBUS_6_RX" /> -->
-< 
-< 	<!-- Lemon Drop Hi-Res end of mods -->
-< 
+>         <feature name="NATIVE_AUDIO_44.1" codec_support="1" />
+44a64,67
+> 
+> 	<!-- Lemon Drop Hi-Res end of mods -->
+> 
+>     <config_params>
+51a75,89
+> 
+> 	<!-- Lemon Drop Hi-Res start of mods -->
+> 
+> 	<!-- added -->
+>         <device name="SND_DEVICE_LGE_OUT_BLUETOOTH_16BIT" backend="headphone" interface="SLIMBUS_9_RX" />
+>         <device name="SND_DEVICE_LGE_OUT_BLUETOOTH_24BIT" backend="headphone" interface="SLIMBUS_10_RX" />
+>         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_16BIT" backend="headphone" interface="SLIMBUS_9_RX" />
+>         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_16BIT_ADVANCED" backend="headphone-16bit" interface="SLIMBUS_9_RX" />
+>         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_16BIT_AUX" backend="headphone-16bit" interface="SLIMBUS_9_RX" />
+>         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT" backend="headphone" interface="SLIMBUS_10_RX" />
+>         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_ADVANCED" backend="headphone-24bit" interface="SLIMBUS_10_RX" />
+>         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_AUX" backend="headphone-24bit" interface="SLIMBUS_10_RX" />
+> 
+> 	<!-- Lemon Drop Hi-Res end of mods -->
+> 
+63,64c101,109
+<         <device name="SND_DEVICE_LGE_OUT_HEADPHONES_ADVANCED_44_1" backend="headphones-44.1" interface="SLIMBUS_6_RX" />
+<         <device name="SND_DEVICE_LGE_OUT_HEADPHONES_AUX_44_1" backend="headphones-44.1" interface="SLIMBUS_6_RX" />
 ---
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONES_ADVANCED_44_1" backend="headphones-44.1" interface="SLIMBUS_6_RX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONES_AUX_44_1" backend="headphones-44.1" interface="SLIMBUS_6_RX" />
-114,123c69,71
-< 
-< 	<!-- Lemon Drop Hi-Res start of mods -->
-< 
-< 	<!-- Deleted -->
-<         <!-- <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT" backend="headphones" interface="SLIMBUS_6_RX" /> -->
-<         <!-- <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_ADVANCED" backend="headphones" interface="SLIMBUS_6_RX" /> -->
-<         <!-- <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_AUX" backend="headphones" interface="SLIMBUS_6_RX" /> -->
-< 
-< 	<!-- Lemon Drop Hi-Res end of mods -->
-< 
+> 
+> 	<!-- Lemon Drop Hi-Res start of mods -->
+> 
+> 	<!-- Deleted -->
+>         <!-- <device name="SND_DEVICE_LGE_OUT_HEADPHONES_ADVANCED_44_1" backend="headphones-44.1" interface="SLIMBUS_6_RX" /> -->
+>         <!-- <device name="SND_DEVICE_LGE_OUT_HEADPHONES_AUX_44_1" backend="headphones-44.1" interface="SLIMBUS_6_RX" /> -->
+> 
+> 	<!-- Lemon Drop Hi-Res end of mods -->
+> 
+69,71c114,123
+<         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT" backend="headphones" interface="SLIMBUS_6_RX" />
+<         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_ADVANCED" backend="headphones" interface="SLIMBUS_6_RX" />
+<         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_AUX" backend="headphones" interface="SLIMBUS_6_RX" />
 ---
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT" backend="headphones" interface="SLIMBUS_6_RX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_ADVANCED" backend="headphones" interface="SLIMBUS_6_RX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_AUX" backend="headphones" interface="SLIMBUS_6_RX" />
+> 
+> 	<!-- Lemon Drop Hi-Res start of mods -->
+> 
+> 	<!-- Deleted -->
+>         <!-- <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT" backend="headphones" interface="SLIMBUS_6_RX" /> -->
+>         <!-- <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_ADVANCED" backend="headphones" interface="SLIMBUS_6_RX" /> -->
+>         <!-- <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_AUX" backend="headphones" interface="SLIMBUS_6_RX" /> -->
+> 
+> 	<!-- Lemon Drop Hi-Res end of mods -->
+> 
