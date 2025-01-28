@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble v268.2 -->
+	<!-- Lemon Drop Hi-Res treble v269.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -19062,15 +19062,59 @@
 	</path>
 	
 	<path name="play-fm">
+	<ctl name="SLIM_0_TX Channels" value="Two" />
+	<ctl name="SLIM_0_RX Channels" value="Two" />
+	<ctl name="SLIM_0_TX SampleRate" value="KHZ_44P1" />
+	<ctl name="SLIM_0_RX SampleRate" value="KHZ_44P1" />
+	<ctl name="SLIM_0_TX Format" value="S16_LE" />
+	<ctl name="SLIM_0_RX Format" value="S16_LE" />
 	<ctl name="Tert MI2S LOOPBACK Volume" value="0" />
+	<ctl name="SLIMBUS_0_TX Port Mixer TERT_MI2S_TX" value="1" />
 	<ctl name="SLIMBUS_0_RX Port Mixer TERT_MI2S_TX" value="1" />
 	<ctl name="SLIMBUS_DL_HL Switch" value="1" />
+	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="RX1 Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="RX1 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="RX2 Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="RX2 Mix Digital Volume" value="84" />
+	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="TX HPHL Volume" value="16" />
+	<ctl name="RX HPHL Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="2" />
+	<ctl name="TX HPHR Volume" value="16" />
+	<ctl name="RX HPHR Volume" value="16" />
+	<path name="headphones" />
 	</path>
 	
 	<path name="play-fm headphones">
+	<ctl name="SLIM_6_TX Channels" value="Two" />
+	<ctl name="SLIM_6_RX Channels" value="Two" />
+	<ctl name="SLIM_6_TX SampleRate" value="KHZ_44P1" />
+	<ctl name="SLIM_6_RX SampleRate" value="KHZ_44P1" />
+	<ctl name="SLIM_6_TX Format" value="S16_LE" />
+	<ctl name="SLIM_6_RX Format" value="S16_LE" />
 	<ctl name="Tert MI2S LOOPBACK Volume" value="0" />
+	<ctl name="SLIMBUS_6_TX Port Mixer TERT_MI2S_TX" value="1" />
 	<ctl name="SLIMBUS_6_RX Port Mixer TERT_MI2S_TX" value="1" />
 	<ctl name="SLIMBUS6_DL_HL Switch" value="1" />
+	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="RX1 Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="RX1 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="RX2 Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="RX2 Mix Digital Volume" value="84" />
+	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="TX HPHL Volume" value="16" />
+	<ctl name="RX HPHL Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="2" />
+	<ctl name="TX HPHR Volume" value="16" />
+	<ctl name="RX HPHR Volume" value="16" />
+	<path name="headphones" />
 	</path>
 	
 	<path name="incall-rec-uplink">
@@ -21704,21 +21748,38 @@
 	<ctl name="ANC0 FB MUX" value="ANC_IN_EAR" />
 	<ctl name="ANC EAR Enable Switch" value="1" />
 	</path>
+
+	<!-- Lemon Drop Hi-Res start of mods -->
 	
 	<path name="headphones">
 	<ctl name="Es9218 Bypass" value="1" />
-	<ctl name="RX HPH Mode" value="CLS_H_LP" />
-	<ctl name="SLIM RX2 MUX" value="AIF4_PB" />
-	<ctl name="SLIM RX3 MUX" value="AIF4_PB" />
+	<path name="true-native-mode-HPH" />
+	<path name="true-native-mode-HPH-vbat" />
+	<ctl name="SLIM_6_TX Channels" value="Two" />
 	<ctl name="SLIM_6_RX Channels" value="Two" />
-	<ctl name="RX INT1_2 MUX" value="RX2" />
-	<ctl name="RX INT2_2 MUX" value="RX3" />
-	<ctl name="RX INT1 DEM MUX" value="CLSH_DSM_OUT" />
-	<ctl name="RX INT2 DEM MUX" value="CLSH_DSM_OUT" />
 	<ctl name="TX_HPH_PWR_MODE" value="TRUE" />
         <ctl name="TX HPH Mode" value="TRUE" />
         <ctl name="RX_HPH_PWR_MODE" value="TRUE" />
         <ctl name="RX HPH Mode" value="TRUE" />
+	<ctl name="HPHL_LDAC Switch" value="2" />
+	<ctl name="TX HPHL_LDAC" value="2" />
+	<ctl name="RX HPHL_LDAC" value="2" />
+	<ctl name="HPHR_RDAC Switch" value="2" />
+	<ctl name="TX HPHR_RDAC" value="2" />
+	<ctl name="RX HPHR_RDAC" value="2" />
+	<ctl name="RX HPH Mode" value="CLS_H_LP" />
+	<ctl name="SLIM TX2 MUX" value="AIF4_PB" />
+	<ctl name="SLIM RX2 MUX" value="AIF4_PB" />
+	<ctl name="SLIM TX3 MUX" value="AIF4_PB" />
+	<ctl name="SLIM RX3 MUX" value="AIF4_PB" />
+	<ctl name="TX INT1_2 MUX" value="RX2" />
+	<ctl name="RX INT1_2 MUX" value="RX2" />
+	<ctl name="TX INT2_2 MUX" value="RX3" />
+	<ctl name="RX INT2_2 MUX" value="RX3" />
+	<ctl name="TX INT1 DEM MUX" value="CLSH_DSM_OUT" />
+	<ctl name="RX INT1 DEM MUX" value="CLSH_DSM_OUT" />
+	<ctl name="TX INT2 DEM MUX" value="CLSH_DSM_OUT" />
+	<ctl name="RX INT2 DEM MUX" value="CLSH_DSM_OUT" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="84" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
@@ -21733,8 +21794,20 @@
 	<ctl name="HPHR Volume Switch" value="2" />
 	<ctl name="TX HPHR Volume" value="16" />
 	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HphLeft COMP Switch" value="2" />
+	<ctl name="HphRight COMP Switch" value="2" />
+	<ctl name="HphLeft BOOST Switch" value="0" />
+	<ctl name="HphRight BOOST Switch" value="0" />
+	<ctl name="HphLeft VISENSE Switch" value="0" />
+	<ctl name="HphRight VISENSE Switch" value="0" />
+	<ctl name="HphLeft WSA PA Mute" value="0" />
+	<ctl name="HphRight WSA PA Mute" value="0" />
+	<ctl name="HphLeft SWR DAC_Port Switch" value="2" />
+	<ctl name="HphRight SWR DAC_Port Switch" value="2" />
         <ctl name="HPH Idle Detect" value="ON" />
 	</path>
+
+	<!-- Lemon Drop Hi-Res end of mods -->
 	
 	<!-- Lemon Drop Hi-Res start of mods -->
 	
