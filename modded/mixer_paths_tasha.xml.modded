@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble v271.1 -->
+	<!-- Lemon Drop Hi-Res treble v272.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -6982,13 +6982,13 @@
 	<!-- Start of Power mode -->
 
         <ctl name="TX_HPH_PWR_MODE" value="ZERO" />
-        <ctl name="TX HPH Mode" value="ZERO" />
         <ctl name="RX_HPH_PWR_MODE" value="ZERO" />
+        <ctl name="TX HPH Mode" value="ZERO" />
         <ctl name="RX HPH Mode" value="ZERO" />
         <ctl name="HPH Idle Detect" value="ZERO" />
         <ctl name="TX_SPKR_PWR_MODE" value="ZERO" />
-        <ctl name="TX SPKR Mode" value="ZERO" />
         <ctl name="RX_SPKR_PWR_MODE" value="ZERO" />
+        <ctl name="TX SPKR Mode" value="ZERO" />
         <ctl name="RX SPKR Mode" value="ZERO" />
         <ctl name="SPKR Idle Detect" value="ZERO" />
 
@@ -20116,8 +20116,8 @@
 	<path name="true-native-mode-SPKR-mono" />
 	<path name="true-native-mode-SPKR-vbat-mono" />
         <ctl name="TX_SPKR_PWR_MODE" value="TRUE" />
-        <ctl name="TX SPKR Mode" value="TRUE" />
         <ctl name="RX_SPKR_PWR_MODE" value="TRUE" />
+        <ctl name="TX SPKR Mode" value="TRUE" />
         <ctl name="RX SPKR Mode" value="TRUE" />
 	<ctl name="TX INT7_1 MIX1 INP0" value="RX0" />
 	<ctl name="RX INT7_1 MIX1 INP0" value="RX0" />
@@ -20148,8 +20148,8 @@
 	<path name="true-native-mode-SPKR" />
 	<path name="true-native-mode-SPKR-vbat" />
         <ctl name="TX_SPKR_PWR_MODE" value="TRUE" />
-        <ctl name="TX SPKR Mode" value="TRUE" />
         <ctl name="RX_SPKR_PWR_MODE" value="TRUE" />
+        <ctl name="TX SPKR Mode" value="TRUE" />
         <ctl name="RX SPKR Mode" value="TRUE" />
 	<ctl name="SPKRL_LDAC Switch" value="2" />
 	<ctl name="TX SPKRL_LDAC" value="2" />
@@ -22065,8 +22065,8 @@
 	<ctl name="SLIM_6_TX Channels" value="Two" />
 	<ctl name="SLIM_6_RX Channels" value="Two" />
 	<ctl name="TX_HPH_PWR_MODE" value="TRUE" />
-        <ctl name="TX HPH Mode" value="TRUE" />
         <ctl name="RX_HPH_PWR_MODE" value="TRUE" />
+        <ctl name="TX HPH Mode" value="TRUE" />
         <ctl name="RX HPH Mode" value="TRUE" />
 	<ctl name="HPHL_LDAC Switch" value="2" />
 	<ctl name="TX HPHL_LDAC" value="2" />
@@ -24384,9 +24384,9 @@
 	<path name="headphone">
 	<path name="true-native-mode-HPH" />
 	<path name="true-native-mode-HPH-vbat" />
-	<ctl name="TX_HPH_PWR_MODE" value="TRUE" />
-        <ctl name="TX HPH Mode" value="TRUE" />
+        <ctl name="TX_HPH_PWR_MODE" value="TRUE" />
         <ctl name="RX_HPH_PWR_MODE" value="TRUE" />
+        <ctl name="TX HPH Mode" value="TRUE" />
         <ctl name="RX HPH Mode" value="TRUE" />
 	<ctl name="HPHL_LDAC Switch" value="2" />
 	<ctl name="TX HPHL_LDAC" value="2" />
