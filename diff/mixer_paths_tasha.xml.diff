@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v270.1 -->
+> 	<!-- Lemon Drop Hi-Res treble v271.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -8694,7 +8694,7 @@
 2369a6378,6379
 > 	<ctl name="TX COMP1" value="0" />
 > 	<ctl name="RX COMP1" value="0" />
-2371,2429c6381,21947
+2371,2429c6381,22252
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -18435,6 +18435,298 @@
 > 	</path>
 > 	
 > 	<!-- Lemon Drop Hi-Res end of mods -->
+> 
+> 	<!-- Lemon Drop Hi-Res start of mods -->
+> 	
+> 	<path name="compress-offload-playback1">
+> 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-SPKR" />
+> 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="HPHL_LDAC Switch" value="2" />
+> 	<ctl name="TX HPHL_LDAC" value="2" />
+> 	<ctl name="RX HPHL_LDAC" value="2" />
+> 	<ctl name="HPHR_RDAC Switch" value="2" />
+> 	<ctl name="TX HPHR_RDAC" value="2" />
+> 	<ctl name="RX HPHR_RDAC" value="2" />
+> 	<ctl name="SPKRL_LDAC Switch" value="2" />
+> 	<ctl name="TX SPKRL_LDAC" value="2" />
+> 	<ctl name="RX SPKRL_LDAC" value="2" />
+> 	<ctl name="SPKRR_RDAC Switch" value="2" />
+> 	<ctl name="TX SPKRR_RDAC" value="2" />
+> 	<ctl name="RX SPKRR_RDAC" value="2" />
+> 	<path name="speaker" />
+> 	</path>
+> 
+> 	<path name="compress-offload-playback1 headphone_fluid">
+> 	<path name="true-native-mode-HPH" />
+> 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="HPHL_LDAC Switch" value="2" />
+> 	<ctl name="TX HPHL_LDAC" value="2" />
+> 	<ctl name="RX HPHL_LDAC" value="2" />
+> 	<ctl name="HPHR_RDAC Switch" value="2" />
+> 	<ctl name="TX HPHR_RDAC" value="2" />
+> 	<ctl name="RX HPHR_RDAC" value="2" />
+> 	<ctl name="1 Digital Volume Switch" value="2" />
+> 	<ctl name="TX1 Digital Volume" value="84" />
+> 	<ctl name="RX1 Digital Volume" value="57" />
+> 	<ctl name="1 Mix Digital Volume Switch" value="2" />
+> 	<ctl name="TX1 Mix Digital Volume" value="84" />
+> 	<ctl name="RX1 Mix Digital Volume" value="57" />
+> 	<ctl name="2 Digital Volume Switch" value="2" />
+> 	<ctl name="TX2 Digital Volume" value="84" />
+> 	<ctl name="RX2 Digital Volume" value="57" />
+> 	<ctl name="2 Mix Digital Volume Switch" value="2" />
+> 	<ctl name="TX2 Mix Digital Volume" value="84" />
+> 	<ctl name="RX2 Mix Digital Volume" value="57" />
+> 	<ctl name="HPHL Volume Switch" value="2" />
+> 	<ctl name="TX HPHL Volume" value="16" />
+> 	<ctl name="RX HPHL Volume" value="16" />
+> 	<ctl name="HPHR Volume Switch" value="2" />
+> 	<ctl name="TX HPHR Volume" value="16" />
+> 	<ctl name="RX HPHR Volume" value="16" />
+> 	<path name="compress-offload-playback1" />
+> 	</path>
+> 	
+> 	<path name="compress-offload-playback1 headphone_liquid">
+> 	<path name="true-native-mode-HPH" />
+> 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="HPHL_LDAC Switch" value="2" />
+> 	<ctl name="TX HPHL_LDAC" value="2" />
+> 	<ctl name="RX HPHL_LDAC" value="2" />
+> 	<ctl name="HPHR_RDAC Switch" value="2" />
+> 	<ctl name="TX HPHR_RDAC" value="2" />
+> 	<ctl name="RX HPHR_RDAC" value="2" />
+> 	<ctl name="1 Digital Volume Switch" value="2" />
+> 	<ctl name="TX1 Digital Volume" value="84" />
+> 	<ctl name="RX1 Digital Volume" value="57" />
+> 	<ctl name="1 Mix Digital Volume Switch" value="2" />
+> 	<ctl name="TX1 Mix Digital Volume" value="84" />
+> 	<ctl name="RX1 Mix Digital Volume" value="57" />
+> 	<ctl name="2 Digital Volume Switch" value="2" />
+> 	<ctl name="TX2 Digital Volume" value="84" />
+> 	<ctl name="RX2 Digital Volume" value="57" />
+> 	<ctl name="2 Mix Digital Volume Switch" value="2" />
+> 	<ctl name="TX2 Mix Digital Volume" value="84" />
+> 	<ctl name="RX2 Mix Digital Volume" value="57" />
+> 	<ctl name="HPHL Volume Switch" value="2" />
+> 	<ctl name="TX HPHL Volume" value="16" />
+> 	<ctl name="RX HPHL Volume" value="16" />
+> 	<ctl name="HPHR Volume Switch" value="2" />
+> 	<ctl name="TX HPHR Volume" value="16" />
+> 	<ctl name="RX HPHR Volume" value="16" />
+> 	<path name="compress-offload-playback1" />
+> 	</path>
+> 	
+> 	<path name="compress-offload-playback1 headphone-16bit">
+> 	<path name="true-native-mode-HPH" />
+> 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="HPHL_LDAC Switch" value="2" />
+> 	<ctl name="TX HPHL_LDAC" value="2" />
+> 	<ctl name="RX HPHL_LDAC" value="2" />
+> 	<ctl name="HPHR_RDAC Switch" value="2" />
+> 	<ctl name="TX HPHR_RDAC" value="2" />
+> 	<ctl name="RX HPHR_RDAC" value="2" />
+> 	<ctl name="1 Digital Volume Switch" value="2" />
+> 	<ctl name="TX1 Digital Volume" value="84" />
+> 	<ctl name="RX1 Digital Volume" value="57" />
+> 	<ctl name="1 Mix Digital Volume Switch" value="2" />
+> 	<ctl name="TX1 Mix Digital Volume" value="84" />
+> 	<ctl name="RX1 Mix Digital Volume" value="57" />
+> 	<ctl name="2 Digital Volume Switch" value="2" />
+> 	<ctl name="TX2 Digital Volume" value="84" />
+> 	<ctl name="RX2 Digital Volume" value="57" />
+> 	<ctl name="2 Mix Digital Volume Switch" value="2" />
+> 	<ctl name="TX2 Mix Digital Volume" value="84" />
+> 	<ctl name="RX2 Mix Digital Volume" value="57" />
+> 	<ctl name="HPHL Volume Switch" value="2" />
+> 	<ctl name="TX HPHL Volume" value="16" />
+> 	<ctl name="RX HPHL Volume" value="16" />
+> 	<ctl name="HPHR Volume Switch" value="2" />
+> 	<ctl name="TX HPHR Volume" value="16" />
+> 	<ctl name="RX HPHR Volume" value="16" />
+> 	<path name="compress-offload-playback1" />
+> 	</path>
+> 	
+> 	<path name="compress-offload-playback1 headphone-24bit">
+> 	<path name="true-native-mode-HPH" />
+> 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="HPHL_LDAC Switch" value="2" />
+> 	<ctl name="TX HPHL_LDAC" value="2" />
+> 	<ctl name="RX HPHL_LDAC" value="2" />
+> 	<ctl name="HPHR_RDAC Switch" value="2" />
+> 	<ctl name="TX HPHR_RDAC" value="2" />
+> 	<ctl name="RX HPHR_RDAC" value="2" />
+> 	<ctl name="1 Digital Volume Switch" value="2" />
+> 	<ctl name="TX1 Digital Volume" value="84" />
+> 	<ctl name="RX1 Digital Volume" value="57" />
+> 	<ctl name="1 Mix Digital Volume Switch" value="2" />
+> 	<ctl name="TX1 Mix Digital Volume" value="84" />
+> 	<ctl name="RX1 Mix Digital Volume" value="57" />
+> 	<ctl name="2 Digital Volume Switch" value="2" />
+> 	<ctl name="TX2 Digital Volume" value="84" />
+> 	<ctl name="RX2 Digital Volume" value="57" />
+> 	<ctl name="2 Mix Digital Volume Switch" value="2" />
+> 	<ctl name="TX2 Mix Digital Volume" value="84" />
+> 	<ctl name="RX2 Mix Digital Volume" value="57" />
+> 	<ctl name="HPHL Volume Switch" value="2" />
+> 	<ctl name="TX HPHL Volume" value="16" />
+> 	<ctl name="RX HPHL Volume" value="16" />
+> 	<ctl name="HPHR Volume Switch" value="2" />
+> 	<ctl name="TX HPHR Volume" value="16" />
+> 	<ctl name="RX HPHR Volume" value="16" />
+> 	<path name="compress-offload-playback1" />
+> 	</path>
+> 
+> 	<path name="vbat_compress-offload-playback1">
+> 	<path name="true-native-mode-HPH-vbat" />
+> 	<path name="true-native-mode-SPKR-vbat" />
+> 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="HPHL_LDAC Switch" value="2" />
+> 	<ctl name="TX HPHL_LDAC" value="2" />
+> 	<ctl name="RX HPHL_LDAC" value="2" />
+> 	<ctl name="HPHR_RDAC Switch" value="2" />
+> 	<ctl name="TX HPHR_RDAC" value="2" />
+> 	<ctl name="RX HPHR_RDAC" value="2" />
+> 	<ctl name="SPKRL_LDAC Switch" value="2" />
+> 	<ctl name="TX SPKRL_LDAC" value="2" />
+> 	<ctl name="RX SPKRL_LDAC" value="2" />
+> 	<ctl name="SPKRR_RDAC Switch" value="2" />
+> 	<ctl name="TX SPKRR_RDAC" value="2" />
+> 	<ctl name="RX SPKRR_RDAC" value="2" />
+> 	<path name="vbat_speaker" />
+> 	</path>
+> 
+> 	<path name="vbat_compress-offload-playback1 headphone_fluid">
+> 	<path name="true-native-mode-HPH" />
+> 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="HPHL_LDAC Switch" value="2" />
+> 	<ctl name="TX HPHL_LDAC" value="2" />
+> 	<ctl name="RX HPHL_LDAC" value="2" />
+> 	<ctl name="HPHR_RDAC Switch" value="2" />
+> 	<ctl name="TX HPHR_RDAC" value="2" />
+> 	<ctl name="RX HPHR_RDAC" value="2" />
+> 	<ctl name="1 Digital Volume Switch" value="2" />
+> 	<ctl name="TX1 Digital Volume" value="84" />
+> 	<ctl name="RX1 Digital Volume" value="57" />
+> 	<ctl name="1 Mix Digital Volume Switch" value="2" />
+> 	<ctl name="TX1 Mix Digital Volume" value="84" />
+> 	<ctl name="RX1 Mix Digital Volume" value="57" />
+> 	<ctl name="2 Digital Volume Switch" value="2" />
+> 	<ctl name="TX2 Digital Volume" value="84" />
+> 	<ctl name="RX2 Digital Volume" value="57" />
+> 	<ctl name="2 Mix Digital Volume Switch" value="2" />
+> 	<ctl name="TX2 Mix Digital Volume" value="84" />
+> 	<ctl name="RX2 Mix Digital Volume" value="57" />
+> 	<ctl name="HPHL Volume Switch" value="2" />
+> 	<ctl name="TX HPHL Volume" value="16" />
+> 	<ctl name="RX HPHL Volume" value="16" />
+> 	<ctl name="HPHR Volume Switch" value="2" />
+> 	<ctl name="TX HPHR Volume" value="16" />
+> 	<ctl name="RX HPHR Volume" value="16" />
+> 	<path name="vbat_compress-offload-playback1" />
+> 	</path>
+> 	
+> 	<path name="vbat_compress-offload-playback1 headphone_liquid">
+> 	<path name="true-native-mode-HPH" />
+> 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="HPHL_LDAC Switch" value="2" />
+> 	<ctl name="TX HPHL_LDAC" value="2" />
+> 	<ctl name="RX HPHL_LDAC" value="2" />
+> 	<ctl name="HPHR_RDAC Switch" value="2" />
+> 	<ctl name="TX HPHR_RDAC" value="2" />
+> 	<ctl name="RX HPHR_RDAC" value="2" />
+> 	<ctl name="1 Digital Volume Switch" value="2" />
+> 	<ctl name="TX1 Digital Volume" value="84" />
+> 	<ctl name="RX1 Digital Volume" value="57" />
+> 	<ctl name="1 Mix Digital Volume Switch" value="2" />
+> 	<ctl name="TX1 Mix Digital Volume" value="84" />
+> 	<ctl name="RX1 Mix Digital Volume" value="57" />
+> 	<ctl name="2 Digital Volume Switch" value="2" />
+> 	<ctl name="TX2 Digital Volume" value="84" />
+> 	<ctl name="RX2 Digital Volume" value="57" />
+> 	<ctl name="2 Mix Digital Volume Switch" value="2" />
+> 	<ctl name="TX2 Mix Digital Volume" value="84" />
+> 	<ctl name="RX2 Mix Digital Volume" value="57" />
+> 	<ctl name="HPHL Volume Switch" value="2" />
+> 	<ctl name="TX HPHL Volume" value="16" />
+> 	<ctl name="RX HPHL Volume" value="16" />
+> 	<ctl name="HPHR Volume Switch" value="2" />
+> 	<ctl name="TX HPHR Volume" value="16" />
+> 	<ctl name="RX HPHR Volume" value="16" />
+> 	<path name="vbat_compress-offload-playback1" />
+> 	</path>
+> 	
+> 	<path name="vbat_compress-offload-playback1 headphone-16bit">
+> 	<path name="true-native-mode-HPH-vbat" />
+> 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="HPHL_LDAC Switch" value="2" />
+> 	<ctl name="TX HPHL_LDAC" value="2" />
+> 	<ctl name="RX HPHL_LDAC" value="2" />
+> 	<ctl name="HPHR_RDAC Switch" value="2" />
+> 	<ctl name="TX HPHR_RDAC" value="2" />
+> 	<ctl name="RX HPHR_RDAC" value="2" />
+> 	<ctl name="1 Digital Volume Switch" value="2" />
+> 	<ctl name="TX1 Digital Volume" value="84" />
+> 	<ctl name="RX1 Digital Volume" value="57" />
+> 	<ctl name="1 Mix Digital Volume Switch" value="2" />
+> 	<ctl name="TX1 Mix Digital Volume" value="84" />
+> 	<ctl name="RX1 Mix Digital Volume" value="57" />
+> 	<ctl name="2 Digital Volume Switch" value="2" />
+> 	<ctl name="TX2 Digital Volume" value="84" />
+> 	<ctl name="RX2 Digital Volume" value="57" />
+> 	<ctl name="2 Mix Digital Volume Switch" value="2" />
+> 	<ctl name="TX2 Mix Digital Volume" value="84" />
+> 	<ctl name="RX2 Mix Digital Volume" value="57" />
+> 	<ctl name="HPHL Volume Switch" value="2" />
+> 	<ctl name="TX HPHL Volume" value="16" />
+> 	<ctl name="RX HPHL Volume" value="16" />
+> 	<ctl name="HPHR Volume Switch" value="2" />
+> 	<ctl name="TX HPHR Volume" value="16" />
+> 	<ctl name="RX HPHR Volume" value="16" />
+> 	<path name="vbat_compress-offload-playback1" />
+> 	</path>
+> 	
+> 	<path name="vbat_compress-offload-playback1 headphone-24bit">
+> 	<path name="true-native-mode-HPH-vbat" />
+> 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="HPHL_LDAC Switch" value="2" />
+> 	<ctl name="TX HPHL_LDAC" value="2" />
+> 	<ctl name="RX HPHL_LDAC" value="2" />
+> 	<ctl name="HPHR_RDAC Switch" value="2" />
+> 	<ctl name="TX HPHR_RDAC" value="2" />
+> 	<ctl name="RX HPHR_RDAC" value="2" />
+> 	<ctl name="1 Digital Volume Switch" value="2" />
+> 	<ctl name="TX1 Digital Volume" value="84" />
+> 	<ctl name="RX1 Digital Volume" value="57" />
+> 	<ctl name="1 Mix Digital Volume Switch" value="2" />
+> 	<ctl name="TX1 Mix Digital Volume" value="84" />
+> 	<ctl name="RX1 Mix Digital Volume" value="57" />
+> 	<ctl name="2 Digital Volume Switch" value="2" />
+> 	<ctl name="TX2 Digital Volume" value="84" />
+> 	<ctl name="RX2 Digital Volume" value="57" />
+> 	<ctl name="2 Mix Digital Volume Switch" value="2" />
+> 	<ctl name="TX2 Mix Digital Volume" value="84" />
+> 	<ctl name="RX2 Mix Digital Volume" value="57" />
+> 	<ctl name="HPHL Volume Switch" value="2" />
+> 	<ctl name="TX HPHL Volume" value="16" />
+> 	<ctl name="RX HPHL Volume" value="16" />
+> 	<ctl name="HPHR Volume Switch" value="2" />
+> 	<ctl name="TX HPHR Volume" value="16" />
+> 	<ctl name="RX HPHR Volume" value="16" />
+> 	<path name="vbat_compress-offload-playback1" />
+> 	</path>
+> 	
+> 	<!-- Lemon Drop Hi-Res end of mods -->
 > 	
 > 	<path name="compress-offload-playback speaker-protected">
 > 	<path name="compress-offload-playback" />
@@ -21918,6 +22210,7 @@
 > 	<!-- Lemon Drop Hi-Res start of mods -->
 > 	<!-- Added TX to RX -->
 > 	<!-- Changed order should be 1 5 3 4 7 -->
+> 	<!-- Added compress-offload-playback1 -->
 > 	
 > 	<!-- TERT MI2S A2DP OFFLOAD start -->
 > 	
@@ -21939,6 +22232,11 @@
 > 	<path name="compress-offload-playback tert-mi2s-a2dp">
 > 	<ctl name="TERT_MI2S_TX Audio Mixer MultiMedia4" value="2" />
 > 	<ctl name="TERT_MI2S_RX Audio Mixer MultiMedia4" value="2" />
+> 	</path>
+> 
+> 	<path name="compress-offload-playback1 tert-mi2s-a2dp">
+> 	<ctl name="TERT_MI2S_TX Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="TERT_MI2S_RX Audio Mixer MultiMedia6" value="2" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback2 tert-mi2s-a2dp">
@@ -21980,12 +22278,14 @@
 > 	<ctl name="TERT_MI2S_TX Audio Mixer MultiMedia16" value="2" />
 > 	<ctl name="TERT_MI2S_RX Audio Mixer MultiMedia16" value="2" />
 > 	</path>
+> 
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
 > 	
 > 	<!-- Lemon Drop Hi-Res end of mods -->
 > 	
 > 	<!-- Lemon Drop Hi-Res start of mods -->
 > 	<!-- Changed order of top four -->
+> 	<!-- Added compress-offload-playback1 -->
 > 	
 > 	<!-- TERT MI2S A2DP OFFLOAD AND SPEAKER COMBO start -->
 > 	
@@ -22007,6 +22307,11 @@
 > 	<path name="compress-offload-playback tert-mi2s-a2dp-and-speaker">
 > 	<path name="compress-offload-playback tert-mi2s-a2dp" />
 > 	<path name="compress-offload-playback" />
+> 	</path>
+> 
+> 	<path name="compress-offload-playback1 tert-mi2s-a2dp-and-speaker">
+> 	<path name="compress-offload-playback1 tert-mi2s-a2dp" />
+> 	<path name="compress-offload-playback1" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback2 tert-mi2s-a2dp-and-speaker">
@@ -24322,7 +24627,7 @@
 > 	
 > 	<path name="voice-headphones">
 > 	<path name="headphones" />
-2432,2464c21950,27532
+2432,2464c22255,27851
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -25187,6 +25492,7 @@
 > 	<!-- Lot of code -->
 > 	<!-- Added TX to RX -->
 > 	<!-- Changed order should be 1 5 3 4 7 -->
+> 	<!-- Added compress-offload-playback1 -->
 > 	
 > 	<!-- SEC MI2S HEADPHONE begins -->
 > 	
@@ -25208,6 +25514,11 @@
 > 	<path name="compress-offload-playback headphones tert-mi2s-headphones">
 > 	<ctl name="SEC_MI2S_TX Audio Mixer MultiMedia4" value="2" />
 > 	<ctl name="SEC_MI2S_RX Audio Mixer MultiMedia4" value="2" />
+> 	</path>
+> 	
+> 	<path name="compress-offload-playback1 headphones tert-mi2s-headphones">
+> 	<ctl name="SEC_MI2S_TX Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="SEC_MI2S_RX Audio Mixer MultiMedia6" value="2" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback2 headphones tert-mi2s-headphones">
@@ -25301,6 +25612,8 @@
 > 	<ctl name="SEC_TDM_RX_3 Format" value="S64_LE" />
 > 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia4" value="2" />
 > 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia4" value="2" />
+> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia6" value="2" />
 > 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia7" value="2" />
 > 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia7" value="2" />
 > 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia10" value="2" />
@@ -25370,6 +25683,8 @@
 > 	<ctl name="SEC_TDM_RX_3 Format" value="S96_LE" />
 > 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia4" value="2" />
 > 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia4" value="2" />
+> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia6" value="2" />
 > 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia7" value="2" />
 > 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia7" value="2" />
 > 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia10" value="2" />
@@ -25439,6 +25754,8 @@
 > 	<ctl name="SEC_TDM_RX_3 Format" value="S4_LE" />
 > 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia4" value="1" />
 > 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia4" value="1" />
+> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia6" value="1" />
+> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia6" value="1" />
 > 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia7" value="1" />
 > 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia7" value="1" />
 > 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia10" value="1" />
@@ -25508,6 +25825,8 @@
 > 	<ctl name="SEC_TDM_RX_3 Format" value="S6_LE" />
 > 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia4" value="1" />
 > 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia4" value="1" />
+> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia6" value="1" />
+> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia6" value="1" />
 > 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia7" value="1" />
 > 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia7" value="1" />
 > 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia10" value="1" />
@@ -29940,7 +30259,7 @@
 > 	
 > 	<path name="voip-headphones-aux">
 > 	<path name="voice-headphones" />
-2467,3898c27535,28037
+2467,3898c27854,28356
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="1" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -31877,7 +32196,7 @@
 > 	<path name="speaker-protected" />
 > 	</path>
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
-3899a28039,28041
+3899a28358,28360
 > 	
 > 	
 > 	<!-- Bottom of page -->
