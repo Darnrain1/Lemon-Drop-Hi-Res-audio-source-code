@@ -28,8 +28,8 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble v276.1 -->
-	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
+	<!-- Lemon Drop Hi-Res treble v277.1 -->
+	<!-- The worlds best & first 24/32bit QuadDAC in True_Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
 	
@@ -4967,42 +4967,42 @@
 
 	<!-- Start of custom mods -->
 
-	<ctl name="True Offset1 Switch" value="0" />
-	<ctl name="TX True Offset1" value="ZERO" />
-	<ctl name="RX True Offset1" value="ZERO" />
-	<ctl name="True Offset2 Switch" value="0" />
-	<ctl name="TX True Offset2" value="ZERO" />
-	<ctl name="RX True Offset2" value="ZERO" />
-	<ctl name="True Offset3 Switch" value="0" />
-	<ctl name="TX True Offset3" value="ZERO" />
-	<ctl name="RX True Offset3" value="ZERO" />
-	<ctl name="True Low Switch" value="0" />
-	<ctl name="TX True Low" value="ZERO" />
-	<ctl name="RX True Low" value="ZERO" />
-	<ctl name="True High Switch" value="0" />
-	<ctl name="TX True High" value="ZERO" />
-	<ctl name="RX True High" value="ZERO" />
-	<ctl name="True Mid Switch" value="0" />
-	<ctl name="TX True Mid" value="ZERO" />
-	<ctl name="RX True Mid" value="ZERO" />
-	<ctl name="True Stereo Switch" value="0" />
-	<ctl name="TX True Stereo" value="ZERO" />
-	<ctl name="RX True Stereo" value="ZERO" />
-	<ctl name="True Expand Switch" value="0" />
-	<ctl name="TX True Expand" value="ZERO" />
-	<ctl name="RX True Expand" value="ZERO" />
-	<ctl name="True Normalization Switch" value="0" />
-	<ctl name="TX True Normalization" value="ZERO" />
-	<ctl name="RX True Normalization" value="ZERO" />
-	<ctl name="True Level Switch" value="0" />
-	<ctl name="TX True Level" value="ZERO" />
-	<ctl name="RX True Level" value="ZERO" />
-	<ctl name="True Center Switch" value="0" />
-	<ctl name="TX True Center" value="ZERO" />
-	<ctl name="RX True Center" value="ZERO" />
-	<ctl name="True Alignment Switch" value="0" />
-	<ctl name="TX True Alignment" value="ZERO" />
-	<ctl name="RX True Alignment" value="ZERO" />
+	<ctl name="True_Offset1 Switch" value="0" />
+	<ctl name="TX_True_Offset1" value="ZERO" />
+	<ctl name="RX_True_Offset1" value="ZERO" />
+	<ctl name="True_Offset2 Switch" value="0" />
+	<ctl name="TX_True_Offset2" value="ZERO" />
+	<ctl name="RX_True_Offset2" value="ZERO" />
+	<ctl name="True_Offset3 Switch" value="0" />
+	<ctl name="TX_True_Offset3" value="ZERO" />
+	<ctl name="RX_True_Offset3" value="ZERO" />
+	<ctl name="True_Low Switch" value="0" />
+	<ctl name="TX_True_Low" value="ZERO" />
+	<ctl name="RX_True_Low" value="ZERO" />
+	<ctl name="True_High Switch" value="0" />
+	<ctl name="TX_True_High" value="ZERO" />
+	<ctl name="RX_True_High" value="ZERO" />
+	<ctl name="True_Mid Switch" value="0" />
+	<ctl name="TX_True_Mid" value="ZERO" />
+	<ctl name="RX_True_Mid" value="ZERO" />
+	<ctl name="True_Stereo Switch" value="0" />
+	<ctl name="TX_True_Stereo" value="ZERO" />
+	<ctl name="RX_True_Stereo" value="ZERO" />
+	<ctl name="True_Expand Switch" value="0" />
+	<ctl name="TX_True_Expand" value="ZERO" />
+	<ctl name="RX_True_Expand" value="ZERO" />
+	<ctl name="True_Normalization Switch" value="0" />
+	<ctl name="TX_True_Normalization" value="ZERO" />
+	<ctl name="RX_True_Normalization" value="ZERO" />
+	<ctl name="True_Level Switch" value="0" />
+	<ctl name="TX_True_Level" value="ZERO" />
+	<ctl name="RX_True_Level" value="ZERO" />
+	<ctl name="True_Center Switch" value="0" />
+	<ctl name="TX_True_Center" value="ZERO" />
+	<ctl name="RX_True_Center" value="ZERO" />
+	<ctl name="True_Alignment Switch" value="0" />
+	<ctl name="TX_True_Alignment" value="ZERO" />
+	<ctl name="RX_True_Alignment" value="ZERO" />
 
 	<!-- End of custom mods -->
 	
@@ -5850,7 +5850,7 @@
 	
 	<!-- End of initial MultiMedia settings -->
 	
-	<!-- Start of True Stereo & Mono control -->
+	<!-- Start of True_Stereo & Mono control -->
 	
 	<ctl name="HPHL_LDAC Switch" value="0" />
 	<ctl name="TX HPHL_LDAC" value="0" />
@@ -5865,7 +5865,7 @@
 	<ctl name="TX SPKRR_RDAC" value="0" />
 	<ctl name="RX SPKRR_RDAC" value="0" />
 	
-	<!-- End of True Stereo & Mono control -->
+	<!-- End of True_Stereo & Mono control -->
 	
 	<!-- Start of Compander controls -->
 	
@@ -19867,42 +19867,42 @@
 	<ctl name="SPKRR_RDAC Switch" value="0" />
 	<ctl name="TX SPKRR_RDAC" value="0" />
 	<ctl name="RX SPKRR_RDAC" value="0" />
-	<ctl name="True Offset1 Switch" value="1" />
-	<ctl name="TX True Offset1" value="AUTO" />
-	<ctl name="RX True Offset1" value="AUTO" />
-	<ctl name="True Offset2 Switch" value="1" />
-	<ctl name="TX True Offset2" value="AUTO" />
-	<ctl name="RX True Offset2" value="AUTO" />
-	<ctl name="True Offset3 Switch" value="1" />
-	<ctl name="TX True Offset3" value="AUTO" />
-	<ctl name="RX True Offset3" value="AUTO" />
-	<ctl name="True Low Switch" value="1" />
-	<ctl name="TX True Low" value="AUTO" />
-	<ctl name="RX True Low" value="AUTO" />
-	<ctl name="True High Switch" value="1" />
-	<ctl name="TX True High" value="AUTO" />
-	<ctl name="RX True High" value="AUTO" />
-	<ctl name="True Mid Switch" value="1" />
-	<ctl name="TX True Mid" value="AUTO" />
-	<ctl name="RX True Mid" value="AUTO" />
-	<ctl name="True Stereo Switch" value="1" />
-	<ctl name="TX True Stereo" value="AUTO" />
-	<ctl name="RX True Stereo" value="AUTO" />
-	<ctl name="True Expand Switch" value="1" />
-	<ctl name="TX True Expand" value="AUTO" />
-	<ctl name="RX True Expand" value="AUTO" />
-	<ctl name="True Normalization Switch" value="1" />
-	<ctl name="TX True Normalization" value="AUTO" />
-	<ctl name="RX True Normalization" value="AUTO" />
-	<ctl name="True Level Switch" value="1" />
-	<ctl name="TX True Level" value="AUTO" />
-	<ctl name="RX True Level" value="AUTO" />
-	<ctl name="True Center Switch" value="1" />
-	<ctl name="TX True Center" value="AUTO" />
-	<ctl name="RX True Center" value="AUTO" />
-	<ctl name="True Alignment Switch" value="1" />
-	<ctl name="TX True Alignment" value="AUTO" />
-	<ctl name="RX True Alignment" value="AUTO" />
+	<ctl name="True_Offset1 Switch" value="1" />
+	<ctl name="TX_True_Offset1" value="AUTO" />
+	<ctl name="RX_True_Offset1" value="AUTO" />
+	<ctl name="True_Offset2 Switch" value="1" />
+	<ctl name="TX_True_Offset2" value="AUTO" />
+	<ctl name="RX_True_Offset2" value="AUTO" />
+	<ctl name="True_Offset3 Switch" value="1" />
+	<ctl name="TX_True_Offset3" value="AUTO" />
+	<ctl name="RX_True_Offset3" value="AUTO" />
+	<ctl name="True_Low Switch" value="1" />
+	<ctl name="TX_True_Low" value="AUTO" />
+	<ctl name="RX_True_Low" value="AUTO" />
+	<ctl name="True_High Switch" value="1" />
+	<ctl name="TX_True_High" value="AUTO" />
+	<ctl name="RX_True_High" value="AUTO" />
+	<ctl name="True_Mid Switch" value="1" />
+	<ctl name="TX_True_Mid" value="AUTO" />
+	<ctl name="RX_True_Mid" value="AUTO" />
+	<ctl name="True_Stereo Switch" value="1" />
+	<ctl name="TX_True_Stereo" value="AUTO" />
+	<ctl name="RX_True_Stereo" value="AUTO" />
+	<ctl name="True_Expand Switch" value="1" />
+	<ctl name="TX_True_Expand" value="AUTO" />
+	<ctl name="RX_True_Expand" value="AUTO" />
+	<ctl name="True_Normalization Switch" value="1" />
+	<ctl name="TX_True_Normalization" value="AUTO" />
+	<ctl name="RX_True_Normalization" value="AUTO" />
+	<ctl name="True_Level Switch" value="1" />
+	<ctl name="TX_True_Level" value="AUTO" />
+	<ctl name="RX_True_Level" value="AUTO" />
+	<ctl name="True_Center Switch" value="1" />
+	<ctl name="TX_True_Center" value="AUTO" />
+	<ctl name="RX_True_Center" value="AUTO" />
+	<ctl name="True_Alignment Switch" value="1" />
+	<ctl name="TX_True_Alignment" value="AUTO" />
+	<ctl name="RX_True_Alignment" value="AUTO" />
 	<ctl name="SpkrLeft COMP Switch" value="1" />
 	<ctl name="SpkrRight COMP Switch" value="0" />
 	<ctl name="SpkrLeft BOOST Switch" value="1" />
@@ -19933,42 +19933,42 @@
 	<ctl name="SPKRR_RDAC Switch" value="2" />
 	<ctl name="TX SPKRR_RDAC" value="2" />
 	<ctl name="RX SPKRR_RDAC" value="2" />
-	<ctl name="True Offset1 Switch" value="2" />
-	<ctl name="TX True Offset1" value="AUTO" />
-	<ctl name="RX True Offset1" value="AUTO" />
-	<ctl name="True Offset2 Switch" value="2" />
-	<ctl name="TX True Offset2" value="AUTO" />
-	<ctl name="RX True Offset2" value="AUTO" />
-	<ctl name="True Offset3 Switch" value="2" />
-	<ctl name="TX True Offset3" value="AUTO" />
-	<ctl name="RX True Offset3" value="AUTO" />
-	<ctl name="True Low Switch" value="2" />
-	<ctl name="TX True Low" value="AUTO" />
-	<ctl name="RX True Low" value="AUTO" />
-	<ctl name="True High Switch" value="2" />
-	<ctl name="TX True High" value="AUTO" />
-	<ctl name="RX True High" value="AUTO" />
-	<ctl name="True Mid Switch" value="2" />
-	<ctl name="TX True Mid" value="AUTO" />
-	<ctl name="RX True Mid" value="AUTO" />
-	<ctl name="True Stereo Switch" value="2" />
-	<ctl name="TX True Stereo" value="AUTO" />
-	<ctl name="RX True Stereo" value="AUTO" />
-	<ctl name="True Expand Switch" value="2" />
-	<ctl name="TX True Expand" value="AUTO" />
-	<ctl name="RX True Expand" value="AUTO" />
-	<ctl name="True Normalization Switch" value="2" />
-	<ctl name="TX True Normalization" value="AUTO" />
-	<ctl name="RX True Normalization" value="AUTO" />
-	<ctl name="True Level Switch" value="2" />
-	<ctl name="TX True Level" value="AUTO" />
-	<ctl name="RX True Level" value="AUTO" />
-	<ctl name="True Center Switch" value="2" />
-	<ctl name="TX True Center" value="AUTO" />
-	<ctl name="RX True Center" value="AUTO" />
-	<ctl name="True Alignment Switch" value="2" />
-	<ctl name="TX True Alignment" value="AUTO" />
-	<ctl name="RX True Alignment" value="AUTO" />
+	<ctl name="True_Offset1 Switch" value="2" />
+	<ctl name="TX_True_Offset1" value="AUTO" />
+	<ctl name="RX_True_Offset1" value="AUTO" />
+	<ctl name="True_Offset2 Switch" value="2" />
+	<ctl name="TX_True_Offset2" value="AUTO" />
+	<ctl name="RX_True_Offset2" value="AUTO" />
+	<ctl name="True_Offset3 Switch" value="2" />
+	<ctl name="TX_True_Offset3" value="AUTO" />
+	<ctl name="RX_True_Offset3" value="AUTO" />
+	<ctl name="True_Low Switch" value="2" />
+	<ctl name="TX_True_Low" value="AUTO" />
+	<ctl name="RX_True_Low" value="AUTO" />
+	<ctl name="True_High Switch" value="2" />
+	<ctl name="TX_True_High" value="AUTO" />
+	<ctl name="RX_True_High" value="AUTO" />
+	<ctl name="True_Mid Switch" value="2" />
+	<ctl name="TX_True_Mid" value="AUTO" />
+	<ctl name="RX_True_Mid" value="AUTO" />
+	<ctl name="True_Stereo Switch" value="2" />
+	<ctl name="TX_True_Stereo" value="AUTO" />
+	<ctl name="RX_True_Stereo" value="AUTO" />
+	<ctl name="True_Expand Switch" value="2" />
+	<ctl name="TX_True_Expand" value="AUTO" />
+	<ctl name="RX_True_Expand" value="AUTO" />
+	<ctl name="True_Normalization Switch" value="2" />
+	<ctl name="TX_True_Normalization" value="AUTO" />
+	<ctl name="RX_True_Normalization" value="AUTO" />
+	<ctl name="True_Level Switch" value="2" />
+	<ctl name="TX_True_Level" value="AUTO" />
+	<ctl name="RX_True_Level" value="AUTO" />
+	<ctl name="True_Center Switch" value="2" />
+	<ctl name="TX_True_Center" value="AUTO" />
+	<ctl name="RX_True_Center" value="AUTO" />
+	<ctl name="True_Alignment Switch" value="2" />
+	<ctl name="TX_True_Alignment" value="AUTO" />
+	<ctl name="RX_True_Alignment" value="AUTO" />
 	<ctl name="SpkrLeft COMP Switch" value="2" />
 	<ctl name="SpkrRight COMP Switch" value="2" />
 	<ctl name="SpkrLeft BOOST Switch" value="0" />
@@ -20204,42 +20204,42 @@
 	<ctl name="SPKRR_RDAC Switch" value="0" />
 	<ctl name="TX SPKRR_RDAC" value="0" />
 	<ctl name="RX SPKRR_RDAC" value="0" />
-	<ctl name="True Offset1 Switch" value="1" />
-	<ctl name="TX True Offset1" value="AUTO" />
-	<ctl name="RX True Offset1" value="AUTO" />
-	<ctl name="True Offset2 Switch" value="1" />
-	<ctl name="TX True Offset2" value="AUTO" />
-	<ctl name="RX True Offset2" value="AUTO" />
-	<ctl name="True Offset3 Switch" value="1" />
-	<ctl name="TX True Offset3" value="AUTO" />
-	<ctl name="RX True Offset3" value="AUTO" />
-	<ctl name="True Low Switch" value="1" />
-	<ctl name="TX True Low" value="AUTO" />
-	<ctl name="RX True Low" value="AUTO" />
-	<ctl name="True High Switch" value="1" />
-	<ctl name="TX True High" value="AUTO" />
-	<ctl name="RX True High" value="AUTO" />
-	<ctl name="True Mid Switch" value="1" />
-	<ctl name="TX True Mid" value="AUTO" />
-	<ctl name="RX True Mid" value="AUTO" />
-	<ctl name="True Stereo Switch" value="1" />
-	<ctl name="TX True Stereo" value="AUTO" />
-	<ctl name="RX True Stereo" value="AUTO" />
-	<ctl name="True Expand Switch" value="1" />
-	<ctl name="TX True Expand" value="AUTO" />
-	<ctl name="RX True Expand" value="AUTO" />
-	<ctl name="True Normalization Switch" value="1" />
-	<ctl name="TX True Normalization" value="AUTO" />
-	<ctl name="RX True Normalization" value="AUTO" />
-	<ctl name="True Level Switch" value="1" />
-	<ctl name="TX True Level" value="AUTO" />
-	<ctl name="RX True Level" value="AUTO" />
-	<ctl name="True Center Switch" value="1" />
-	<ctl name="TX True Center" value="AUTO" />
-	<ctl name="RX True Center" value="AUTO" />
-	<ctl name="True Alignment Switch" value="1" />
-	<ctl name="TX True Alignment" value="AUTO" />
-	<ctl name="RX True Alignment" value="AUTO" />
+	<ctl name="True_Offset1 Switch" value="1" />
+	<ctl name="TX_True_Offset1" value="AUTO" />
+	<ctl name="RX_True_Offset1" value="AUTO" />
+	<ctl name="True_Offset2 Switch" value="1" />
+	<ctl name="TX_True_Offset2" value="AUTO" />
+	<ctl name="RX_True_Offset2" value="AUTO" />
+	<ctl name="True_Offset3 Switch" value="1" />
+	<ctl name="TX_True_Offset3" value="AUTO" />
+	<ctl name="RX_True_Offset3" value="AUTO" />
+	<ctl name="True_Low Switch" value="1" />
+	<ctl name="TX_True_Low" value="AUTO" />
+	<ctl name="RX_True_Low" value="AUTO" />
+	<ctl name="True_High Switch" value="1" />
+	<ctl name="TX_True_High" value="AUTO" />
+	<ctl name="RX_True_High" value="AUTO" />
+	<ctl name="True_Mid Switch" value="1" />
+	<ctl name="TX_True_Mid" value="AUTO" />
+	<ctl name="RX_True_Mid" value="AUTO" />
+	<ctl name="True_Stereo Switch" value="1" />
+	<ctl name="TX_True_Stereo" value="AUTO" />
+	<ctl name="RX_True_Stereo" value="AUTO" />
+	<ctl name="True_Expand Switch" value="1" />
+	<ctl name="TX_True_Expand" value="AUTO" />
+	<ctl name="RX_True_Expand" value="AUTO" />
+	<ctl name="True_Normalization Switch" value="1" />
+	<ctl name="TX_True_Normalization" value="AUTO" />
+	<ctl name="RX_True_Normalization" value="AUTO" />
+	<ctl name="True_Level Switch" value="1" />
+	<ctl name="TX_True_Level" value="AUTO" />
+	<ctl name="RX_True_Level" value="AUTO" />
+	<ctl name="True_Center Switch" value="1" />
+	<ctl name="TX_True_Center" value="AUTO" />
+	<ctl name="RX_True_Center" value="AUTO" />
+	<ctl name="True_Alignment Switch" value="1" />
+	<ctl name="TX_True_Alignment" value="AUTO" />
+	<ctl name="RX_True_Alignment" value="AUTO" />
 	<path name="speaker-mono" />
 	</path>
 
@@ -20252,42 +20252,42 @@
 	<ctl name="SPKRR_RDAC Switch" value="2" />
 	<ctl name="TX SPKRR_RDAC" value="2" />
 	<ctl name="RX SPKRR_RDAC" value="2" />
-	<ctl name="True Offset1 Switch" value="2" />
-	<ctl name="TX True Offset1" value="AUTO" />
-	<ctl name="RX True Offset1" value="AUTO" />
-	<ctl name="True Offset2 Switch" value="2" />
-	<ctl name="TX True Offset2" value="AUTO" />
-	<ctl name="RX True Offset2" value="AUTO" />
-	<ctl name="True Offset3 Switch" value="2" />
-	<ctl name="TX True Offset3" value="AUTO" />
-	<ctl name="RX True Offset3" value="AUTO" />
-	<ctl name="True Low Switch" value="2" />
-	<ctl name="TX True Low" value="AUTO" />
-	<ctl name="RX True Low" value="AUTO" />
-	<ctl name="True High Switch" value="2" />
-	<ctl name="TX True High" value="AUTO" />
-	<ctl name="RX True High" value="AUTO" />
-	<ctl name="True Mid Switch" value="2" />
-	<ctl name="TX True Mid" value="AUTO" />
-	<ctl name="RX True Mid" value="AUTO" />
-	<ctl name="True Stereo Switch" value="2" />
-	<ctl name="TX True Stereo" value="AUTO" />
-	<ctl name="RX True Stereo" value="AUTO" />
-	<ctl name="True Expand Switch" value="2" />
-	<ctl name="TX True Expand" value="AUTO" />
-	<ctl name="RX True Expand" value="AUTO" />
-	<ctl name="True Normalization Switch" value="2" />
-	<ctl name="TX True Normalization" value="AUTO" />
-	<ctl name="RX True Normalization" value="AUTO" />
-	<ctl name="True Level Switch" value="2" />
-	<ctl name="TX True Level" value="AUTO" />
-	<ctl name="RX True Level" value="AUTO" />
-	<ctl name="True Center Switch" value="2" />
-	<ctl name="TX True Center" value="AUTO" />
-	<ctl name="RX True Center" value="AUTO" />
-	<ctl name="True Alignment Switch" value="2" />
-	<ctl name="TX True Alignment" value="AUTO" />
-	<ctl name="RX True Alignment" value="AUTO" />
+	<ctl name="True_Offset1 Switch" value="2" />
+	<ctl name="TX_True_Offset1" value="AUTO" />
+	<ctl name="RX_True_Offset1" value="AUTO" />
+	<ctl name="True_Offset2 Switch" value="2" />
+	<ctl name="TX_True_Offset2" value="AUTO" />
+	<ctl name="RX_True_Offset2" value="AUTO" />
+	<ctl name="True_Offset3 Switch" value="2" />
+	<ctl name="TX_True_Offset3" value="AUTO" />
+	<ctl name="RX_True_Offset3" value="AUTO" />
+	<ctl name="True_Low Switch" value="2" />
+	<ctl name="TX_True_Low" value="AUTO" />
+	<ctl name="RX_True_Low" value="AUTO" />
+	<ctl name="True_High Switch" value="2" />
+	<ctl name="TX_True_High" value="AUTO" />
+	<ctl name="RX_True_High" value="AUTO" />
+	<ctl name="True_Mid Switch" value="2" />
+	<ctl name="TX_True_Mid" value="AUTO" />
+	<ctl name="RX_True_Mid" value="AUTO" />
+	<ctl name="True_Stereo Switch" value="2" />
+	<ctl name="TX_True_Stereo" value="AUTO" />
+	<ctl name="RX_True_Stereo" value="AUTO" />
+	<ctl name="True_Expand Switch" value="2" />
+	<ctl name="TX_True_Expand" value="AUTO" />
+	<ctl name="RX_True_Expand" value="AUTO" />
+	<ctl name="True_Normalization Switch" value="2" />
+	<ctl name="TX_True_Normalization" value="AUTO" />
+	<ctl name="RX_True_Normalization" value="AUTO" />
+	<ctl name="True_Level Switch" value="2" />
+	<ctl name="TX_True_Level" value="AUTO" />
+	<ctl name="RX_True_Level" value="AUTO" />
+	<ctl name="True_Center Switch" value="2" />
+	<ctl name="TX_True_Center" value="AUTO" />
+	<ctl name="RX_True_Center" value="AUTO" />
+	<ctl name="True_Alignment Switch" value="2" />
+	<ctl name="TX_True_Alignment" value="AUTO" />
+	<ctl name="RX_True_Alignment" value="AUTO" />
 	<path name="speaker" />
 	</path>
 	
@@ -20821,42 +20821,42 @@
 	<ctl name="RX INT1 DEM MUX" value="CLSH_DSM_OUT" />
 	<ctl name="TX INT2 DEM MUX" value="CLSH_DSM_OUT" />
 	<ctl name="RX INT2 DEM MUX" value="CLSH_DSM_OUT" />
-	<ctl name="True Offset1 Switch" value="2" />
-	<ctl name="TX True Offset1" value="AUTO" />
-	<ctl name="RX True Offset1" value="AUTO" />
-	<ctl name="True Offset2 Switch" value="2" />
-	<ctl name="TX True Offset2" value="AUTO" />
-	<ctl name="RX True Offset2" value="AUTO" />
-	<ctl name="True Offset3 Switch" value="2" />
-	<ctl name="TX True Offset3" value="AUTO" />
-	<ctl name="RX True Offset3" value="AUTO" />
-	<ctl name="True Low Switch" value="2" />
-	<ctl name="TX True Low" value="AUTO" />
-	<ctl name="RX True Low" value="AUTO" />
-	<ctl name="True High Switch" value="2" />
-	<ctl name="TX True High" value="AUTO" />
-	<ctl name="RX True High" value="AUTO" />
-	<ctl name="True Mid Switch" value="2" />
-	<ctl name="TX True Mid" value="AUTO" />
-	<ctl name="RX True Mid" value="AUTO" />
-	<ctl name="True Stereo Switch" value="2" />
-	<ctl name="TX True Stereo" value="AUTO" />
-	<ctl name="RX True Stereo" value="AUTO" />
-	<ctl name="True Expand Switch" value="2" />
-	<ctl name="TX True Expand" value="AUTO" />
-	<ctl name="RX True Expand" value="AUTO" />
-	<ctl name="True Normalization Switch" value="2" />
-	<ctl name="TX True Normalization" value="AUTO" />
-	<ctl name="RX True Normalization" value="AUTO" />
-	<ctl name="True Level Switch" value="2" />
-	<ctl name="TX True Level" value="AUTO" />
-	<ctl name="RX True Level" value="AUTO" />
-	<ctl name="True Center Switch" value="2" />
-	<ctl name="TX True Center" value="AUTO" />
-	<ctl name="RX True Center" value="AUTO" />
-	<ctl name="True Alignment Switch" value="2" />
-	<ctl name="TX True Alignment" value="AUTO" />
-	<ctl name="RX True Alignment" value="AUTO" />
+	<ctl name="True_Offset1 Switch" value="2" />
+	<ctl name="TX_True_Offset1" value="AUTO" />
+	<ctl name="RX_True_Offset1" value="AUTO" />
+	<ctl name="True_Offset2 Switch" value="2" />
+	<ctl name="TX_True_Offset2" value="AUTO" />
+	<ctl name="RX_True_Offset2" value="AUTO" />
+	<ctl name="True_Offset3 Switch" value="2" />
+	<ctl name="TX_True_Offset3" value="AUTO" />
+	<ctl name="RX_True_Offset3" value="AUTO" />
+	<ctl name="True_Low Switch" value="2" />
+	<ctl name="TX_True_Low" value="AUTO" />
+	<ctl name="RX_True_Low" value="AUTO" />
+	<ctl name="True_High Switch" value="2" />
+	<ctl name="TX_True_High" value="AUTO" />
+	<ctl name="RX_True_High" value="AUTO" />
+	<ctl name="True_Mid Switch" value="2" />
+	<ctl name="TX_True_Mid" value="AUTO" />
+	<ctl name="RX_True_Mid" value="AUTO" />
+	<ctl name="True_Stereo Switch" value="2" />
+	<ctl name="TX_True_Stereo" value="AUTO" />
+	<ctl name="RX_True_Stereo" value="AUTO" />
+	<ctl name="True_Expand Switch" value="2" />
+	<ctl name="TX_True_Expand" value="AUTO" />
+	<ctl name="RX_True_Expand" value="AUTO" />
+	<ctl name="True_Normalization Switch" value="2" />
+	<ctl name="TX_True_Normalization" value="AUTO" />
+	<ctl name="RX_True_Normalization" value="AUTO" />
+	<ctl name="True_Level Switch" value="2" />
+	<ctl name="TX_True_Level" value="AUTO" />
+	<ctl name="RX_True_Level" value="AUTO" />
+	<ctl name="True_Center Switch" value="2" />
+	<ctl name="TX_True_Center" value="AUTO" />
+	<ctl name="RX_True_Center" value="AUTO" />
+	<ctl name="True_Alignment Switch" value="2" />
+	<ctl name="TX_True_Alignment" value="AUTO" />
+	<ctl name="RX_True_Alignment" value="AUTO" />
 	<ctl name="1 Digital Volume Switch" value="2" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="84" />
@@ -20912,42 +20912,42 @@
 	<ctl name="RX INT1 DEM MUX" value="CLSH_DSM_OUT" />
 	<ctl name="TX INT2 DEM MUX" value="CLSH_DSM_OUT" />
 	<ctl name="RX INT2 DEM MUX" value="CLSH_DSM_OUT" />
-	<ctl name="True Offset1 Switch" value="2" />
-	<ctl name="TX True Offset1" value="AUTO" />
-	<ctl name="RX True Offset1" value="AUTO" />
-	<ctl name="True Offset2 Switch" value="2" />
-	<ctl name="TX True Offset2" value="AUTO" />
-	<ctl name="RX True Offset2" value="AUTO" />
-	<ctl name="True Offset3 Switch" value="2" />
-	<ctl name="TX True Offset3" value="AUTO" />
-	<ctl name="RX True Offset3" value="AUTO" />
-	<ctl name="True Low Switch" value="2" />
-	<ctl name="TX True Low" value="AUTO" />
-	<ctl name="RX True Low" value="AUTO" />
-	<ctl name="True High Switch" value="2" />
-	<ctl name="TX True High" value="AUTO" />
-	<ctl name="RX True High" value="AUTO" />
-	<ctl name="True Mid Switch" value="2" />
-	<ctl name="TX True Mid" value="AUTO" />
-	<ctl name="RX True Mid" value="AUTO" />
-	<ctl name="True Stereo Switch" value="2" />
-	<ctl name="TX True Stereo" value="AUTO" />
-	<ctl name="RX True Stereo" value="AUTO" />
-	<ctl name="True Expand Switch" value="2" />
-	<ctl name="TX True Expand" value="AUTO" />
-	<ctl name="RX True Expand" value="AUTO" />
-	<ctl name="True Normalization Switch" value="2" />
-	<ctl name="TX True Normalization" value="AUTO" />
-	<ctl name="RX True Normalization" value="AUTO" />
-	<ctl name="True Level Switch" value="2" />
-	<ctl name="TX True Level" value="AUTO" />
-	<ctl name="RX True Level" value="AUTO" />
-	<ctl name="True Center Switch" value="2" />
-	<ctl name="TX True Center" value="AUTO" />
-	<ctl name="RX True Center" value="AUTO" />
-	<ctl name="True Alignment Switch" value="2" />
-	<ctl name="TX True Alignment" value="AUTO" />
-	<ctl name="RX True Alignment" value="AUTO" />
+	<ctl name="True_Offset1 Switch" value="2" />
+	<ctl name="TX_True_Offset1" value="AUTO" />
+	<ctl name="RX_True_Offset1" value="AUTO" />
+	<ctl name="True_Offset2 Switch" value="2" />
+	<ctl name="TX_True_Offset2" value="AUTO" />
+	<ctl name="RX_True_Offset2" value="AUTO" />
+	<ctl name="True_Offset3 Switch" value="2" />
+	<ctl name="TX_True_Offset3" value="AUTO" />
+	<ctl name="RX_True_Offset3" value="AUTO" />
+	<ctl name="True_Low Switch" value="2" />
+	<ctl name="TX_True_Low" value="AUTO" />
+	<ctl name="RX_True_Low" value="AUTO" />
+	<ctl name="True_High Switch" value="2" />
+	<ctl name="TX_True_High" value="AUTO" />
+	<ctl name="RX_True_High" value="AUTO" />
+	<ctl name="True_Mid Switch" value="2" />
+	<ctl name="TX_True_Mid" value="AUTO" />
+	<ctl name="RX_True_Mid" value="AUTO" />
+	<ctl name="True_Stereo Switch" value="2" />
+	<ctl name="TX_True_Stereo" value="AUTO" />
+	<ctl name="RX_True_Stereo" value="AUTO" />
+	<ctl name="True_Expand Switch" value="2" />
+	<ctl name="TX_True_Expand" value="AUTO" />
+	<ctl name="RX_True_Expand" value="AUTO" />
+	<ctl name="True_Normalization Switch" value="2" />
+	<ctl name="TX_True_Normalization" value="AUTO" />
+	<ctl name="RX_True_Normalization" value="AUTO" />
+	<ctl name="True_Level Switch" value="2" />
+	<ctl name="TX_True_Level" value="AUTO" />
+	<ctl name="RX_True_Level" value="AUTO" />
+	<ctl name="True_Center Switch" value="2" />
+	<ctl name="TX_True_Center" value="AUTO" />
+	<ctl name="RX_True_Center" value="AUTO" />
+	<ctl name="True_Alignment Switch" value="2" />
+	<ctl name="TX_True_Alignment" value="AUTO" />
+	<ctl name="RX_True_Alignment" value="AUTO" />
 	<ctl name="1 Digital Volume Switch" value="2" />
 	<ctl name="TX1 Digital Volume" value="0" />
 	<ctl name="RX1 Digital Volume" value="0" />
@@ -22419,42 +22419,42 @@
 	<ctl name="SPKRR_RDAC Switch" value="0" />
 	<ctl name="TX SPKRR_RDAC" value="0" />
 	<ctl name="RX SPKRR_RDAC" value="0" />
-	<ctl name="True Offset1 Switch" value="1" />
-	<ctl name="TX True Offset1" value="AUTO" />
-	<ctl name="RX True Offset1" value="AUTO" />
-	<ctl name="True Offset2 Switch" value="1" />
-	<ctl name="TX True Offset2" value="AUTO" />
-	<ctl name="RX True Offset2" value="AUTO" />
-	<ctl name="True Offset3 Switch" value="1" />
-	<ctl name="TX True Offset3" value="AUTO" />
-	<ctl name="RX True Offset3" value="AUTO" />
-	<ctl name="True Low Switch" value="1" />
-	<ctl name="TX True Low" value="AUTO" />
-	<ctl name="RX True Low" value="AUTO" />
-	<ctl name="True High Switch" value="1" />
-	<ctl name="TX True High" value="AUTO" />
-	<ctl name="RX True High" value="AUTO" />
-	<ctl name="True Mid Switch" value="1" />
-	<ctl name="TX True Mid" value="AUTO" />
-	<ctl name="RX True Mid" value="AUTO" />
-	<ctl name="True Stereo Switch" value="1" />
-	<ctl name="TX True Stereo" value="AUTO" />
-	<ctl name="RX True Stereo" value="AUTO" />
-	<ctl name="True Expand Switch" value="1" />
-	<ctl name="TX True Expand" value="AUTO" />
-	<ctl name="RX True Expand" value="AUTO" />
-	<ctl name="True Normalization Switch" value="1" />
-	<ctl name="TX True Normalization" value="AUTO" />
-	<ctl name="RX True Normalization" value="AUTO" />
-	<ctl name="True Level Switch" value="1" />
-	<ctl name="TX True Level" value="AUTO" />
-	<ctl name="RX True Level" value="AUTO" />
-	<ctl name="True Center Switch" value="1" />
-	<ctl name="TX True Center" value="AUTO" />
-	<ctl name="RX True Center" value="AUTO" />
-	<ctl name="True Alignment Switch" value="1" />
-	<ctl name="TX True Alignment" value="AUTO" />
-	<ctl name="RX True Alignment" value="AUTO" />
+	<ctl name="True_Offset1 Switch" value="1" />
+	<ctl name="TX_True_Offset1" value="AUTO" />
+	<ctl name="RX_True_Offset1" value="AUTO" />
+	<ctl name="True_Offset2 Switch" value="1" />
+	<ctl name="TX_True_Offset2" value="AUTO" />
+	<ctl name="RX_True_Offset2" value="AUTO" />
+	<ctl name="True_Offset3 Switch" value="1" />
+	<ctl name="TX_True_Offset3" value="AUTO" />
+	<ctl name="RX_True_Offset3" value="AUTO" />
+	<ctl name="True_Low Switch" value="1" />
+	<ctl name="TX_True_Low" value="AUTO" />
+	<ctl name="RX_True_Low" value="AUTO" />
+	<ctl name="True_High Switch" value="1" />
+	<ctl name="TX_True_High" value="AUTO" />
+	<ctl name="RX_True_High" value="AUTO" />
+	<ctl name="True_Mid Switch" value="1" />
+	<ctl name="TX_True_Mid" value="AUTO" />
+	<ctl name="RX_True_Mid" value="AUTO" />
+	<ctl name="True_Stereo Switch" value="1" />
+	<ctl name="TX_True_Stereo" value="AUTO" />
+	<ctl name="RX_True_Stereo" value="AUTO" />
+	<ctl name="True_Expand Switch" value="1" />
+	<ctl name="TX_True_Expand" value="AUTO" />
+	<ctl name="RX_True_Expand" value="AUTO" />
+	<ctl name="True_Normalization Switch" value="1" />
+	<ctl name="TX_True_Normalization" value="AUTO" />
+	<ctl name="RX_True_Normalization" value="AUTO" />
+	<ctl name="True_Level Switch" value="1" />
+	<ctl name="TX_True_Level" value="AUTO" />
+	<ctl name="RX_True_Level" value="AUTO" />
+	<ctl name="True_Center Switch" value="1" />
+	<ctl name="TX_True_Center" value="AUTO" />
+	<ctl name="RX_True_Center" value="AUTO" />
+	<ctl name="True_Alignment Switch" value="1" />
+	<ctl name="TX_True_Alignment" value="AUTO" />
+	<ctl name="RX_True_Alignment" value="AUTO" />
 	<ctl name="7 Digital Volume Switch" value="1" />
 	<ctl name="TX7 Digital Volume" value="0" />
 	<ctl name="RX7 Digital Volume" value="0" />
@@ -22485,42 +22485,42 @@
 	<ctl name="SPKRR_RDAC Switch" value="2" />
 	<ctl name="TX SPKRR_RDAC" value="2" />
 	<ctl name="RX SPKRR_RDAC" value="2" />
-	<ctl name="True Offset1 Switch" value="2" />
-	<ctl name="TX True Offset1" value="AUTO" />
-	<ctl name="RX True Offset1" value="AUTO" />
-	<ctl name="True Offset2 Switch" value="2" />
-	<ctl name="TX True Offset2" value="AUTO" />
-	<ctl name="RX True Offset2" value="AUTO" />
-	<ctl name="True Offset3 Switch" value="2" />
-	<ctl name="TX True Offset3" value="AUTO" />
-	<ctl name="RX True Offset3" value="AUTO" />
-	<ctl name="True Low Switch" value="2" />
-	<ctl name="TX True Low" value="AUTO" />
-	<ctl name="RX True Low" value="AUTO" />
-	<ctl name="True High Switch" value="2" />
-	<ctl name="TX True High" value="AUTO" />
-	<ctl name="RX True High" value="AUTO" />
-	<ctl name="True Mid Switch" value="2" />
-	<ctl name="TX True Mid" value="AUTO" />
-	<ctl name="RX True Mid" value="AUTO" />
-	<ctl name="True Stereo Switch" value="2" />
-	<ctl name="TX True Stereo" value="AUTO" />
-	<ctl name="RX True Stereo" value="AUTO" />
-	<ctl name="True Expand Switch" value="2" />
-	<ctl name="TX True Expand" value="AUTO" />
-	<ctl name="RX True Expand" value="AUTO" />
-	<ctl name="True Normalization Switch" value="2" />
-	<ctl name="TX True Normalization" value="AUTO" />
-	<ctl name="RX True Normalization" value="AUTO" />
-	<ctl name="True Level Switch" value="2" />
-	<ctl name="TX True Level" value="AUTO" />
-	<ctl name="RX True Level" value="AUTO" />
-	<ctl name="True Center Switch" value="2" />
-	<ctl name="TX True Center" value="AUTO" />
-	<ctl name="RX True Center" value="AUTO" />
-	<ctl name="True Alignment Switch" value="2" />
-	<ctl name="TX True Alignment" value="AUTO" />
-	<ctl name="RX True Alignment" value="AUTO" />
+	<ctl name="True_Offset1 Switch" value="2" />
+	<ctl name="TX_True_Offset1" value="AUTO" />
+	<ctl name="RX_True_Offset1" value="AUTO" />
+	<ctl name="True_Offset2 Switch" value="2" />
+	<ctl name="TX_True_Offset2" value="AUTO" />
+	<ctl name="RX_True_Offset2" value="AUTO" />
+	<ctl name="True_Offset3 Switch" value="2" />
+	<ctl name="TX_True_Offset3" value="AUTO" />
+	<ctl name="RX_True_Offset3" value="AUTO" />
+	<ctl name="True_Low Switch" value="2" />
+	<ctl name="TX_True_Low" value="AUTO" />
+	<ctl name="RX_True_Low" value="AUTO" />
+	<ctl name="True_High Switch" value="2" />
+	<ctl name="TX_True_High" value="AUTO" />
+	<ctl name="RX_True_High" value="AUTO" />
+	<ctl name="True_Mid Switch" value="2" />
+	<ctl name="TX_True_Mid" value="AUTO" />
+	<ctl name="RX_True_Mid" value="AUTO" />
+	<ctl name="True_Stereo Switch" value="2" />
+	<ctl name="TX_True_Stereo" value="AUTO" />
+	<ctl name="RX_True_Stereo" value="AUTO" />
+	<ctl name="True_Expand Switch" value="2" />
+	<ctl name="TX_True_Expand" value="AUTO" />
+	<ctl name="RX_True_Expand" value="AUTO" />
+	<ctl name="True_Normalization Switch" value="2" />
+	<ctl name="TX_True_Normalization" value="AUTO" />
+	<ctl name="RX_True_Normalization" value="AUTO" />
+	<ctl name="True_Level Switch" value="2" />
+	<ctl name="TX_True_Level" value="AUTO" />
+	<ctl name="RX_True_Level" value="AUTO" />
+	<ctl name="True_Center Switch" value="2" />
+	<ctl name="TX_True_Center" value="AUTO" />
+	<ctl name="RX_True_Center" value="AUTO" />
+	<ctl name="True_Alignment Switch" value="2" />
+	<ctl name="TX_True_Alignment" value="AUTO" />
+	<ctl name="RX_True_Alignment" value="AUTO" />
 	<ctl name="7 Digital Volume Switch" value="2" />
 	<ctl name="TX7 Digital Volume" value="0" />
 	<ctl name="RX7 Digital Volume" value="0" />
@@ -22746,42 +22746,42 @@
 	<ctl name="HPHR_RDAC Switch" value="2" />
 	<ctl name="TX HPHR_RDAC" value="2" />
 	<ctl name="RX HPHR_RDAC" value="2" />
-	<ctl name="True Offset1 Switch" value="2" />
-	<ctl name="TX True Offset1" value="AUTO" />
-	<ctl name="RX True Offset1" value="AUTO" />
-	<ctl name="True Offset2 Switch" value="2" />
-	<ctl name="TX True Offset2" value="AUTO" />
-	<ctl name="RX True Offset2" value="AUTO" />
-	<ctl name="True Offset3 Switch" value="2" />
-	<ctl name="TX True Offset3" value="AUTO" />
-	<ctl name="RX True Offset3" value="AUTO" />
-	<ctl name="True Low Switch" value="2" />
-	<ctl name="TX True Low" value="AUTO" />
-	<ctl name="RX True Low" value="AUTO" />
-	<ctl name="True High Switch" value="2" />
-	<ctl name="TX True High" value="AUTO" />
-	<ctl name="RX True High" value="AUTO" />
-	<ctl name="True Mid Switch" value="2" />
-	<ctl name="TX True Mid" value="AUTO" />
-	<ctl name="RX True Mid" value="AUTO" />
-	<ctl name="True Stereo Switch" value="2" />
-	<ctl name="TX True Stereo" value="AUTO" />
-	<ctl name="RX True Stereo" value="AUTO" />
-	<ctl name="True Expand Switch" value="2" />
-	<ctl name="TX True Expand" value="AUTO" />
-	<ctl name="RX True Expand" value="AUTO" />
-	<ctl name="True Normalization Switch" value="2" />
-	<ctl name="TX True Normalization" value="AUTO" />
-	<ctl name="RX True Normalization" value="AUTO" />
-	<ctl name="True Level Switch" value="2" />
-	<ctl name="TX True Level" value="AUTO" />
-	<ctl name="RX True Level" value="AUTO" />
-	<ctl name="True Center Switch" value="2" />
-	<ctl name="TX True Center" value="AUTO" />
-	<ctl name="RX True Center" value="AUTO" />
-	<ctl name="True Alignment Switch" value="2" />
-	<ctl name="TX True Alignment" value="AUTO" />
-	<ctl name="RX True Alignment" value="AUTO" />
+	<ctl name="True_Offset1 Switch" value="2" />
+	<ctl name="TX_True_Offset1" value="AUTO" />
+	<ctl name="RX_True_Offset1" value="AUTO" />
+	<ctl name="True_Offset2 Switch" value="2" />
+	<ctl name="TX_True_Offset2" value="AUTO" />
+	<ctl name="RX_True_Offset2" value="AUTO" />
+	<ctl name="True_Offset3 Switch" value="2" />
+	<ctl name="TX_True_Offset3" value="AUTO" />
+	<ctl name="RX_True_Offset3" value="AUTO" />
+	<ctl name="True_Low Switch" value="2" />
+	<ctl name="TX_True_Low" value="AUTO" />
+	<ctl name="RX_True_Low" value="AUTO" />
+	<ctl name="True_High Switch" value="2" />
+	<ctl name="TX_True_High" value="AUTO" />
+	<ctl name="RX_True_High" value="AUTO" />
+	<ctl name="True_Mid Switch" value="2" />
+	<ctl name="TX_True_Mid" value="AUTO" />
+	<ctl name="RX_True_Mid" value="AUTO" />
+	<ctl name="True_Stereo Switch" value="2" />
+	<ctl name="TX_True_Stereo" value="AUTO" />
+	<ctl name="RX_True_Stereo" value="AUTO" />
+	<ctl name="True_Expand Switch" value="2" />
+	<ctl name="TX_True_Expand" value="AUTO" />
+	<ctl name="RX_True_Expand" value="AUTO" />
+	<ctl name="True_Normalization Switch" value="2" />
+	<ctl name="TX_True_Normalization" value="AUTO" />
+	<ctl name="RX_True_Normalization" value="AUTO" />
+	<ctl name="True_Level Switch" value="2" />
+	<ctl name="TX_True_Level" value="AUTO" />
+	<ctl name="RX_True_Level" value="AUTO" />
+	<ctl name="True_Center Switch" value="2" />
+	<ctl name="TX_True_Center" value="AUTO" />
+	<ctl name="RX_True_Center" value="AUTO" />
+	<ctl name="True_Alignment Switch" value="2" />
+	<ctl name="TX_True_Alignment" value="AUTO" />
+	<ctl name="RX_True_Alignment" value="AUTO" />
 	<ctl name="HphLeft COMP Switch" value="2" />
 	<ctl name="HphRight COMP Switch" value="2" />
 	<ctl name="HphLeft BOOST Switch" value="0" />
@@ -23107,42 +23107,42 @@
 	<ctl name="HPHR_RDAC Switch" value="2" />
 	<ctl name="TX HPHR_RDAC" value="2" />
 	<ctl name="RX HPHR_RDAC" value="2" />
-	<ctl name="True Offset1 Switch" value="2" />
-	<ctl name="TX True Offset1" value="AUTO" />
-	<ctl name="RX True Offset1" value="AUTO" />
-	<ctl name="True Offset2 Switch" value="2" />
-	<ctl name="TX True Offset2" value="AUTO" />
-	<ctl name="RX True Offset2" value="AUTO" />
-	<ctl name="True Offset3 Switch" value="2" />
-	<ctl name="TX True Offset3" value="AUTO" />
-	<ctl name="RX True Offset3" value="AUTO" />
-	<ctl name="True Low Switch" value="2" />
-	<ctl name="TX True Low" value="AUTO" />
-	<ctl name="RX True Low" value="AUTO" />
-	<ctl name="True High Switch" value="2" />
-	<ctl name="TX True High" value="AUTO" />
-	<ctl name="RX True High" value="AUTO" />
-	<ctl name="True Mid Switch" value="2" />
-	<ctl name="TX True Mid" value="AUTO" />
-	<ctl name="RX True Mid" value="AUTO" />
-	<ctl name="True Stereo Switch" value="2" />
-	<ctl name="TX True Stereo" value="AUTO" />
-	<ctl name="RX True Stereo" value="AUTO" />
-	<ctl name="True Expand Switch" value="2" />
-	<ctl name="TX True Expand" value="AUTO" />
-	<ctl name="RX True Expand" value="AUTO" />
-	<ctl name="True Normalization Switch" value="2" />
-	<ctl name="TX True Normalization" value="AUTO" />
-	<ctl name="RX True Normalization" value="AUTO" />
-	<ctl name="True Level Switch" value="2" />
-	<ctl name="TX True Level" value="AUTO" />
-	<ctl name="RX True Level" value="AUTO" />
-	<ctl name="True Center Switch" value="2" />
-	<ctl name="TX True Center" value="AUTO" />
-	<ctl name="RX True Center" value="AUTO" />
-	<ctl name="True Alignment Switch" value="2" />
-	<ctl name="TX True Alignment" value="AUTO" />
-	<ctl name="RX True Alignment" value="AUTO" />
+	<ctl name="True_Offset1 Switch" value="2" />
+	<ctl name="TX_True_Offset1" value="AUTO" />
+	<ctl name="RX_True_Offset1" value="AUTO" />
+	<ctl name="True_Offset2 Switch" value="2" />
+	<ctl name="TX_True_Offset2" value="AUTO" />
+	<ctl name="RX_True_Offset2" value="AUTO" />
+	<ctl name="True_Offset3 Switch" value="2" />
+	<ctl name="TX_True_Offset3" value="AUTO" />
+	<ctl name="RX_True_Offset3" value="AUTO" />
+	<ctl name="True_Low Switch" value="2" />
+	<ctl name="TX_True_Low" value="AUTO" />
+	<ctl name="RX_True_Low" value="AUTO" />
+	<ctl name="True_High Switch" value="2" />
+	<ctl name="TX_True_High" value="AUTO" />
+	<ctl name="RX_True_High" value="AUTO" />
+	<ctl name="True_Mid Switch" value="2" />
+	<ctl name="TX_True_Mid" value="AUTO" />
+	<ctl name="RX_True_Mid" value="AUTO" />
+	<ctl name="True_Stereo Switch" value="2" />
+	<ctl name="TX_True_Stereo" value="AUTO" />
+	<ctl name="RX_True_Stereo" value="AUTO" />
+	<ctl name="True_Expand Switch" value="2" />
+	<ctl name="TX_True_Expand" value="AUTO" />
+	<ctl name="RX_True_Expand" value="AUTO" />
+	<ctl name="True_Normalization Switch" value="2" />
+	<ctl name="TX_True_Normalization" value="AUTO" />
+	<ctl name="RX_True_Normalization" value="AUTO" />
+	<ctl name="True_Level Switch" value="2" />
+	<ctl name="TX_True_Level" value="AUTO" />
+	<ctl name="RX_True_Level" value="AUTO" />
+	<ctl name="True_Center Switch" value="2" />
+	<ctl name="TX_True_Center" value="AUTO" />
+	<ctl name="RX_True_Center" value="AUTO" />
+	<ctl name="True_Alignment Switch" value="2" />
+	<ctl name="TX_True_Alignment" value="AUTO" />
+	<ctl name="RX_True_Alignment" value="AUTO" />
 	<path name="headphone" />
 	</path>
 
@@ -23458,42 +23458,42 @@
 	<ctl name="HPHR_RDAC Switch" value="2" />
 	<ctl name="TX HPHR_RDAC" value="2" />
 	<ctl name="RX HPHR_RDAC" value="2" />
-	<ctl name="True Offset1 Switch" value="2" />
-	<ctl name="TX True Offset1" value="AUTO" />
-	<ctl name="RX True Offset1" value="AUTO" />
-	<ctl name="True Offset2 Switch" value="2" />
-	<ctl name="TX True Offset2" value="AUTO" />
-	<ctl name="RX True Offset2" value="AUTO" />
-	<ctl name="True Offset3 Switch" value="2" />
-	<ctl name="TX True Offset3" value="AUTO" />
-	<ctl name="RX True Offset3" value="AUTO" />
-	<ctl name="True Low Switch" value="2" />
-	<ctl name="TX True Low" value="AUTO" />
-	<ctl name="RX True Low" value="AUTO" />
-	<ctl name="True High Switch" value="2" />
-	<ctl name="TX True High" value="AUTO" />
-	<ctl name="RX True High" value="AUTO" />
-	<ctl name="True Mid Switch" value="2" />
-	<ctl name="TX True Mid" value="AUTO" />
-	<ctl name="RX True Mid" value="AUTO" />
-	<ctl name="True Stereo Switch" value="2" />
-	<ctl name="TX True Stereo" value="AUTO" />
-	<ctl name="RX True Stereo" value="AUTO" />
-	<ctl name="True Expand Switch" value="2" />
-	<ctl name="TX True Expand" value="AUTO" />
-	<ctl name="RX True Expand" value="AUTO" />
-	<ctl name="True Normalization Switch" value="2" />
-	<ctl name="TX True Normalization" value="AUTO" />
-	<ctl name="RX True Normalization" value="AUTO" />
-	<ctl name="True Level Switch" value="2" />
-	<ctl name="TX True Level" value="AUTO" />
-	<ctl name="RX True Level" value="AUTO" />
-	<ctl name="True Center Switch" value="2" />
-	<ctl name="TX True Center" value="AUTO" />
-	<ctl name="RX True Center" value="AUTO" />
-	<ctl name="True Alignment Switch" value="2" />
-	<ctl name="TX True Alignment" value="AUTO" />
-	<ctl name="RX True Alignment" value="AUTO" />
+	<ctl name="True_Offset1 Switch" value="2" />
+	<ctl name="TX_True_Offset1" value="AUTO" />
+	<ctl name="RX_True_Offset1" value="AUTO" />
+	<ctl name="True_Offset2 Switch" value="2" />
+	<ctl name="TX_True_Offset2" value="AUTO" />
+	<ctl name="RX_True_Offset2" value="AUTO" />
+	<ctl name="True_Offset3 Switch" value="2" />
+	<ctl name="TX_True_Offset3" value="AUTO" />
+	<ctl name="RX_True_Offset3" value="AUTO" />
+	<ctl name="True_Low Switch" value="2" />
+	<ctl name="TX_True_Low" value="AUTO" />
+	<ctl name="RX_True_Low" value="AUTO" />
+	<ctl name="True_High Switch" value="2" />
+	<ctl name="TX_True_High" value="AUTO" />
+	<ctl name="RX_True_High" value="AUTO" />
+	<ctl name="True_Mid Switch" value="2" />
+	<ctl name="TX_True_Mid" value="AUTO" />
+	<ctl name="RX_True_Mid" value="AUTO" />
+	<ctl name="True_Stereo Switch" value="2" />
+	<ctl name="TX_True_Stereo" value="AUTO" />
+	<ctl name="RX_True_Stereo" value="AUTO" />
+	<ctl name="True_Expand Switch" value="2" />
+	<ctl name="TX_True_Expand" value="AUTO" />
+	<ctl name="RX_True_Expand" value="AUTO" />
+	<ctl name="True_Normalization Switch" value="2" />
+	<ctl name="TX_True_Normalization" value="AUTO" />
+	<ctl name="RX_True_Normalization" value="AUTO" />
+	<ctl name="True_Level Switch" value="2" />
+	<ctl name="TX_True_Level" value="AUTO" />
+	<ctl name="RX_True_Level" value="AUTO" />
+	<ctl name="True_Center Switch" value="2" />
+	<ctl name="TX_True_Center" value="AUTO" />
+	<ctl name="RX_True_Center" value="AUTO" />
+	<ctl name="True_Alignment Switch" value="2" />
+	<ctl name="TX_True_Alignment" value="AUTO" />
+	<ctl name="RX_True_Alignment" value="AUTO" />
 	<ctl name="1 Digital Volume Switch" value="2" />
 	<ctl name="TX1 Digital Volume" value="0" />
 	<ctl name="RX1 Digital Volume" value="0" />
