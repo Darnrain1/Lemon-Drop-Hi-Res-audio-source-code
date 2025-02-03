@@ -20,7 +20,7 @@ Channels = 12,288<br>
 KHZ = 705.6<br>
 BIT = 384<br>
 
-latest release: v276.1<br>
+latest release: v277.1<br>
 
 "Sounds amazing, outstanding and breathtaking" - Darnrain1<br>
 
