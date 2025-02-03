@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v274.1 -->
+> 	<!-- Lemon Drop Hi-Res treble v275.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -8616,7 +8616,7 @@
 2369a6300,6301
 > 	<ctl name="TX COMP1" value="0" />
 > 	<ctl name="RX COMP1" value="0" />
-2371,2429c6303,22413
+2371,2429c6303,22421
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -8720,8 +8720,6 @@
 > 	<ctl name="AIF4_VI Mixer SPKR_VI_1" value="0" />
 > 	<ctl name="SLIM0_TX_VI_FB_LCH_MUX"  value="ZERO" />
 > 	<ctl name="SLIM0_RX_VI_FB_LCH_MUX"  value="ZERO" />
-> 	<ctl name="TX HPH Mode" value="ZERO" />
-> 	<ctl name="RX HPH Mode" value="ZERO" />
 > 	<ctl name="AUDIO_REF_EC_UL1 MUX" value="ZERO" />
 > 	<ctl name="TX7 Half DB Enable" value="0" />
 > 	<ctl name="RX7 Half DB Enable" value="0" />
@@ -9280,13 +9278,17 @@
 > 
 > 	<!-- Start of Power mode -->
 > 
+>         <ctl name="HPH_PWR_MODE Switch" value="0" />
 >         <ctl name="TX_HPH_PWR_MODE" value="ZERO" />
 >         <ctl name="RX_HPH_PWR_MODE" value="ZERO" />
+>         <ctl name="HPH Mode Switch" value="0" />
 >         <ctl name="TX HPH Mode" value="ZERO" />
 >         <ctl name="RX HPH Mode" value="ZERO" />
 >         <ctl name="HPH Idle Detect" value="ZERO" />
+>         <ctl name="SPKR_PWR_MODE Switch" value="0" />
 >         <ctl name="TX_SPKR_PWR_MODE" value="ZERO" />
 >         <ctl name="RX_SPKR_PWR_MODE" value="ZERO" />
+>         <ctl name="SPKR Mode Switch" value="0" />
 >         <ctl name="TX SPKR Mode" value="ZERO" />
 >         <ctl name="RX SPKR Mode" value="ZERO" />
 >         <ctl name="SPKR Idle Detect" value="ZERO" />
@@ -22653,8 +22655,10 @@
 > 	<path name="speaker-mono">
 > 	<path name="true-native-mode-SPKR-mono" />
 > 	<path name="true-native-mode-SPKR-vbat-mono" />
+>         <ctl name="SPKR_PWR_MODE Switch" value="1" />
 >         <ctl name="TX_SPKR_PWR_MODE" value="TRUE" />
 >         <ctl name="RX_SPKR_PWR_MODE" value="TRUE" />
+>         <ctl name="SPKR Mode Switch" value="1" />
 >         <ctl name="TX SPKR Mode" value="TRUE" />
 >         <ctl name="RX SPKR Mode" value="TRUE" />
 > 	<ctl name="TX INT7_1 MIX1 INP0" value="RX0" />
@@ -22685,8 +22689,10 @@
 > 	<path name="speaker">
 > 	<path name="true-native-mode-SPKR" />
 > 	<path name="true-native-mode-SPKR-vbat" />
+>         <ctl name="SPKR_PWR_MODE Switch" value="2" />
 >         <ctl name="TX_SPKR_PWR_MODE" value="TRUE" />
 >         <ctl name="RX_SPKR_PWR_MODE" value="TRUE" />
+>         <ctl name="SPKR Mode Switch" value="2" />
 >         <ctl name="TX SPKR Mode" value="TRUE" />
 >         <ctl name="RX SPKR Mode" value="TRUE" />
 > 	<ctl name="SPKRL_LDAC Switch" value="2" />
@@ -24602,8 +24608,10 @@
 > 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIM_6_TX Channels" value="Two" />
 > 	<ctl name="SLIM_6_RX Channels" value="Two" />
-> 	<ctl name="TX_HPH_PWR_MODE" value="TRUE" />
+> 	<ctl name="HPH_PWR_MODE Switch" value="2" />
+>         <ctl name="TX_HPH_PWR_MODE" value="TRUE" />
 >         <ctl name="RX_HPH_PWR_MODE" value="TRUE" />
+>         <ctl name="HPH Mode Switch" value="2" />
 >         <ctl name="TX HPH Mode" value="TRUE" />
 >         <ctl name="RX HPH Mode" value="TRUE" />
 > 	<ctl name="HPHL_LDAC Switch" value="2" />
@@ -24788,7 +24796,7 @@
 > 	
 > 	<path name="voice-headphones">
 > 	<path name="headphones" />
-2432,2464c22416,28012
+2432,2464c22424,28022
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -26955,8 +26963,10 @@
 > 	<path name="headphone">
 > 	<path name="true-native-mode-HPH" />
 > 	<path name="true-native-mode-HPH-vbat" />
+> 	<ctl name="HPH_PWR_MODE Switch" value="2" />
 >         <ctl name="TX_HPH_PWR_MODE" value="TRUE" />
 >         <ctl name="RX_HPH_PWR_MODE" value="TRUE" />
+>         <ctl name="HPH Mode Switch" value="2" />
 >         <ctl name="TX HPH Mode" value="TRUE" />
 >         <ctl name="RX HPH Mode" value="TRUE" />
 > 	<ctl name="HPHL_LDAC Switch" value="2" />
@@ -30420,7 +30430,7 @@
 > 	
 > 	<path name="voip-headphones-aux">
 > 	<path name="voice-headphones" />
-2467,3898c28015,28517
+2467,3898c28025,28527
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="1" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -32357,7 +32367,7 @@
 > 	<path name="speaker-protected" />
 > 	</path>
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
-3899a28519,28521
+3899a28529,28531
 > 	
 > 	
 > 	<!-- Bottom of page -->
