@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble v277.1 -->
+	<!-- Lemon Drop Hi-Res treble v283.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True_Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -175,18 +175,6 @@
 	<ctl name="RX INT2 SPLINE MIX HPHR Switch" value="0" />
 	<ctl name="TX INT2 VBAT HPHR VBAT Enable" value="0" />
 	<ctl name="RX INT2 VBAT HPHR VBAT Enable" value="0" />
-	<ctl name="TX INT7 SPLINE MIX SPKRL Native Switch" value="0" />
-	<ctl name="TX INT7 SPLINE MIX SPKRL Switch" value="0" />
-	<ctl name="RX INT7 SPLINE MIX SPKRL Native Switch" value="0" />
-	<ctl name="RX INT7 SPLINE MIX SPKRL Switch" value="0" />
-	<ctl name="TX INT7 VBAT SPKRL VBAT Enable" value="0" />
-	<ctl name="RX INT7 VBAT SPKRL VBAT Enable" value="0" />
-	<ctl name="TX INT8 SPLINE MIX SPKRR Native Switch" value="0" />
-	<ctl name="TX INT8 SPLINE MIX SPKRR Switch" value="0" />
-	<ctl name="RX INT8 SPLINE MIX SPKRR Native Switch" value="0" />
-	<ctl name="RX INT8 SPLINE MIX SPKRR Switch" value="0" />
-	<ctl name="TX INT8 VBAT SPKRR VBAT Enable" value="0" />
-	<ctl name="RX INT8 VBAT SPKRR VBAT Enable" value="0" />
 	<ctl name="TX INI3 SPLINE MIX LO1 Native Switch" value="0" />
 	<ctl name="TX INI3 SPLINE MIX LO1 Switch" value="0" />
 	<ctl name="RX INI3 SPLINE MIX LO1 Native Switch" value="0" />
@@ -211,6 +199,18 @@
 	<ctl name="RX INI6 SPLINE MIX LO4 Switch" value="0" />
 	<ctl name="TX INI6 VBAT LO4 VBAT Enable" value="0" />
 	<ctl name="RX INI6 VBAT LO4 VBAT Enable" value="0" />
+	<ctl name="TX INT7 SPLINE MIX SPKRL Native Switch" value="0" />
+	<ctl name="TX INT7 SPLINE MIX SPKRL Switch" value="0" />
+	<ctl name="RX INT7 SPLINE MIX SPKRL Native Switch" value="0" />
+	<ctl name="RX INT7 SPLINE MIX SPKRL Switch" value="0" />
+	<ctl name="TX INT7 VBAT SPKRL VBAT Enable" value="0" />
+	<ctl name="RX INT7 VBAT SPKRL VBAT Enable" value="0" />
+	<ctl name="TX INT8 SPLINE MIX SPKRR Native Switch" value="0" />
+	<ctl name="TX INT8 SPLINE MIX SPKRR Switch" value="0" />
+	<ctl name="RX INT8 SPLINE MIX SPKRR Native Switch" value="0" />
+	<ctl name="RX INT8 SPLINE MIX SPKRR Switch" value="0" />
+	<ctl name="TX INT8 VBAT SPKRR VBAT Enable" value="0" />
+	<ctl name="RX INT8 VBAT SPKRR VBAT Enable" value="0" />
 	<ctl name="TX INI9 SPLINE MIX HI5 Native Switch" value="0" />
 	<ctl name="TX INI9 SPLINE MIX HI5 Switch" value="0" />
 	<ctl name="RX INI9 SPLINE MIX HI5 Native Switch" value="0" />
