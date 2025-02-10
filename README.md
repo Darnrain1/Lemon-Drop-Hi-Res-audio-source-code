@@ -50,8 +50,8 @@ One. Standard music. aka free.<br>
 Two. Medium. aka paid.<br>
 Three. True Native Mode. aka $5000+ dollar Hi-Res music player..<br>
 
-Check out my other project perfect for downloading music.
-https://github.com/Darnrain1/yt-playlist
+Check out my other project perfect for downloading music..<br>
+https://github.com/Darnrain1/yt-playlist.<br>
 
 Don't forget to power off your phone after your flash Lemon Drop HI-Res for settings to take affect.
  
