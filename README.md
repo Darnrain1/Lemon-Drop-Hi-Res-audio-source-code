@@ -45,10 +45,13 @@ It is my understanding that the two files responsible for making this all happen
 You need to choose 24bit 44.1kHz as the source, that's how I programed the DAC, it takes a 44.1kHz audio signal and upsamples the audio eight times to 32bit 352.8kHz. On wired headphones the output is 32bit 352.8kHz, all other devices the output is 44.1kHz 24bit or 16bit. If set to anything other than, 44.1kHz the audio does not get upsampled eight times or it does not multiply evenly into 352.8kHz. In other words, your not going to get the absolute best audio quality.<br>
 
 ### There is three different kinda of recordings of music out there. 
-My 24/32bit QuadDAC will play all three, but you will know when you have music recorded in True Native Mode because it's amazing and mind blowing. All the newer music should be in True Native Mode, older music is not unless it's remastered. I know Elephunk - Black Eyed Peas opus format, on YouTube Music is in True Native Mode. Get opus format over mp4 it's so much better. Newer technology..<br>
+My 24/32bit QuadDAC will play all three at the maximum quality, but you will know when you have music recorded in True Native Mode because it's amazing and mind blowing. All the newer music should be in True Native Mode, older music is not unless it's remastered. I know Elephunk - Black Eyed Peas opus format, on YouTube Music is in True Native Mode. Get opus format over mp4 it's so much better. Newer technology.<br>
 One. Low. aka free.<br>
 Two. Medium. aka paid.<br>
-Three. High True Native Mode. aka $5000+ dollar Hi-Res music player..<br>
+Three. High True Native Mode. aka $5000+ dollar Hi-Res music player.<br>
+
+Check out my other project perfect for downloading music.
+https://github.com/Darnrain1/yt-playlist
 
 ### FAQ.
 How did you program a QuadDAC?<br>
