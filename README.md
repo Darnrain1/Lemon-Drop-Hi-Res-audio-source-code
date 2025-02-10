@@ -31,7 +31,11 @@ If your curious on how I found the True Native Mode code, I will show you. Someo
 "(1) The normal running mode of a computer, executing programs from its built-in instruction set. Contrast with emulation mode. See native language. (2) The highest performance state of a computer."<br>
 
 ### What is True Native Mode on the Saber ESS 9218 DAC?<br>
-Amazing audio quality, literally the best audio qualtiy the world.
+There is three different kinda of recordings of music out there.<br>
+My 24/32bit QuadDAC will play all three at the maximum quality, but you will know when you have music recorded in True Native Mode because it's amazing and mind blowing. All the newer music should be in True Native Mode, older music is not unless it's remastered. I know Elephunk - Black Eyed Peas opus format, on YouTube Music is in True Native Mode. Get opus format over mp4 it's so much better. Newer technology.<br>
+One. Low. aka free.<br>
+Two. Medium. aka paid.<br>
+Three. High True Native Mode. aka $5000+ dollar Hi-Res music player.<br>
 
 ### How did you program and tune the QuadDAC?
 When programing a QuadDAC you do not have visual gauges to view to see if you have done something wrong, its all done by the sound of the DAC. For example if you have increased the amount of channels way to high or messed up on your programing code, then the DACs volume will be decreased or the music will not sound like its full of life. The only way to accomplish that, is to lower the AVC volume. In other words it decreases the power to the DAC so you can program and tune the DAC. In v142.1 and higher the AVC volume is set to the maximum. I know with out a doute that the True Native Mode code is pristine, I had echo print out the numbers, then I cut and pasted 768 times. I used nano's macro feature to program True Native Mode.<br>
