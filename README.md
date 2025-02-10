@@ -64,7 +64,7 @@ What is Hardware-Audio Offloaded Processing?<br>
 All the music goes directly to the QuadDAC, bypassing Android.<br>
 
 Can I stream music on a 16bit music player and listen to True Native Mode?<br>
-Yes.<br>
+Yes. If the music was recored in True Native Mode then yes. Most newer music is but some is not.<br>
 
 Check out my other project perfect for downloading music..<br>
 https://github.com/Darnrain1/yt-playlist.<br>
