@@ -50,6 +50,22 @@ One. Low. aka free.<br>
 Two. Medium. aka paid.<br>
 Three. High True Native Mode. aka $5000+ dollar Hi-Res music player..<br>
 
+### FAQ.
+How did you program a QuadDAC?<br>
+Well it was not easy, and took over two years. Everything has to be perfect. That's why it has taken me so long. Also I wrote over 25,000 lines of code for the QuadDAC to run in True Native Mode.<br>
+
+Was it worth all the time you put into this project?<br>
+I now have a $5000+ 24bit Hi-Res Music Player. One word, yes.<br>
+
+Do I have to use a 24bit Music Player to listen to True Native Mode?<br>
+Nope, 16bit and 24bit music players work in True Native Mode.<br>
+
+What is Hardware-Audio Offloaded Processing?<br>
+All the music goes directly to the QuadDAC, bypassing Android.<br>
+
+Can I stream music on a 16bit music player and listen to True Native Mode?<br>
+Yes.<br>
+
 Check out my other project perfect for downloading music..<br>
 https://github.com/Darnrain1/yt-playlist.<br>
 
