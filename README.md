@@ -64,6 +64,9 @@ One. Low. aka free.<br>
 Two. Medium. aka paid.<br>
 Three. High True Native Mode. aka $5000+ dollar Hi-Res music player.<br>
 
+### When did audio True Native Mode come out?<br>
+That's a good question, I would only be speculating but I think it's the late 90s.<br>
+
 ### How did you program and tune the QuadDAC?
 When programing a QuadDAC you do not have visual gauges to view to see if you have done something wrong, its all done by the sound of the DAC. For example if you have increased the amount of channels way to high or messed up on your programing code, then the DACs volume will be decreased or the music will not sound like its full of life. The only way to accomplish that, is to lower the AVC volume. In other words it decreases the power to the DAC so you can program and tune the DAC. In v142.1 and higher the AVC volume is set to the maximum. I know with out a doute that the True Native Mode code is pristine, I had echo print out the numbers, then I cut and pasted 768 times. I used nano's macro feature to program True Native Mode.<br>
 
@@ -102,11 +105,6 @@ If the music was recorded in True Native Mode then yes. Most newer music is but 
 
 Does True Native Mode work on bluetooth?<br>
 Yes, but all bluetooth has limitations, wired is always going to give the best audio.<br>
- 
-Check out my other project perfect for downloading music..<br>
-https://github.com/Darnrain1/yt-playlist.<br>
-
-Don't forget to power off your phone after your flash Lemon Drop HI-Res for settings to take affect.
  
 ### A little backstory.
 I remember when I first found the True Native Mode code, I was like ooh what's that. They left about 0.5% of the True Native Mode code in the original mixer_paths_tasha.xml file, I put the other 99.5% of the True Native Mode code together myself. Just think if they would have never left that small peace of code in the original mixer_paths_tasha.xml file this would have never had happened. All I can say is that must have been a mistake, the Lgv60 does not have that small piece of code, only the Lgv20 does. I bet this is the same True Native Mode code as a $2000 Hi-Res music player. Most likely they have a computer program that programs the QuadDAC for True Native Mode, me on the other hand, this True Native Mode code was all hand made by me. So in other words, the Lgv20 will sound like no other Hi-Res music player in the world. A computer program cannot replace the very essence, of what a human is able to accomplish when programing a QuadDAC.<br>
