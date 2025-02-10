@@ -43,6 +43,17 @@ It is my understanding that the two files responsible for making this all happen
 
 ### What do I need to set my Hi-Res music player at?
 You need to choose 24bit 44.1kHz as the source, that's how I programed the DAC, it takes a 44.1kHz audio signal and upsamples the audio eight times to 32bit 352.8kHz. On wired headphones the output is 32bit 352.8kHz, all other devices the output is 44.1kHz 24bit or 16bit. If set to anything other than, 44.1kHz the audio does not get upsampled eight times or it does not multiply evenly into 352.8kHz. In other words, your not going to get the absolute best audio quality.<br>
+
+### There is three different kinda of recordings of music out there. 
+My 24/32bit QuadDAC will play all three, but you will know when you have music recorded in True Native Mode because it's amazing and mind blowing. All the newer music should be in True Native Mode, older music is not unless it's remastered. I know Elephunk - Black Eyed Peas opus format, on YouTube Music is in True Native Mode. Get opus format over mp4 it's so much better. Newer technology..<br>
+One. Standard music. aka free.<br>
+Two. Medium. aka paid.<br>
+Three. True Native Mode. aka $5000+ dollar Hi-Res music player..<br>
+
+Check out my other project perfect for downloading music.
+https://github.com/Darnrain1/yt-playlist
+
+Don't forget to power off your phone after your flash Lemon Drop HI-Res for settings to take affect.
  
 ### A little backstory.
 I remember when I first found the True Native Mode code, I was like ooh what's that. They left about 0.5% of the True Native Mode code in the original mixer_paths_tasha.xml file, I put the other 99.5% of the True Native Mode code together myself. Just think if they would have never left that small peace of code in the original mixer_paths_tasha.xml file this would have never had happened. All I can say is that must have been a mistake, the Lgv60 does not have that small piece of code, only the Lgv20 does. I bet this is the same True Native Mode code as a $2000 Hi-Res music player. Most likely they have a computer program that programs the QuadDAC for True Native Mode, me on the other hand, this True Native Mode code was all hand made by me. So in other words, the Lgv20 will sound like no other Hi-Res music player in the world. A computer program cannot replace the very essence, of what a human is able to accomplish when programing a QuadDAC.<br>
