@@ -10,15 +10,42 @@ DAC 1 = mid-range<br>
 DAC 2 = high-range<br>
 DAC 3 = offload<br>
 
-16BIT<br>
+16BIT wired<br>
 Channels = 12,288<br>
 KHZ = 705.6<br>
 BIT = 256<br>
+True Native Mode? Yes.<br>
 
-24BIT<br>
+24BIT wired<br>
 Channels = 12,288<br>
 KHZ = 705.6<br>
 BIT = 384<br>
+True Native Mode? Yes.<br>
+
+16BIT bluetooth<br>
+Channels = 12,288<br>
+KHZ = 44.1<br>
+BIT = 16<br>
+True Native Mode? Yes.<br>
+
+24BIT bluetooth<br>
+Channels = 12,288<br>
+KHZ = 44.1<br>
+BIT = 24<br>
+True Native Mode? Yes.<br>
+
+16bit Internal Speaker<br>
+Channels = 768<br>
+KHZ = 44.1<br>
+BIT = 16<br>
+True Native Mode? Yes.<br>
+
+24bit Internal Speaker<br>
+Channels = 768<br>
+KHZ = 44.1<br>
+BIT = 24<br>
+True Native Mode? Yes.<br>
+
 
 latest release: v285.1<br>
 
