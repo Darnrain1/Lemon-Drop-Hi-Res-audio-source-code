@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble v284.1 -->
+	<!-- Lemon Drop Hi-Res treble v285.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True_Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -4795,9 +4795,8 @@
 	<ctl name="RX INI772 SPLINE MIX MI768 Native" value="0" />
 	<ctl name="TX INI772 VBAT MI768 VBAT Enable" value="0" />
 	<ctl name="RX INI772 VBAT MI768 VBAT Enable" value="0" />
-
 	
-	<!-- End of True Native Mode code v3.0 & vbat initial mixer settings -->
+	<!-- End of True Native Mode code v4.0 & vbat initial mixer settings -->
 	
 	<!-- Start of SLIM settings -->
 	
@@ -20061,23 +20060,23 @@
 	<ctl name="TX SPKRR COMP" value="2" />
 	<ctl name="RX SPKRR COMP" value="2" />
 	<ctl name="7 Digital Volume Switch" value="2" />
-	<ctl name="TX7 Digital Volume" value="2" />
-	<ctl name="RX7 Digital Volume" value="2" />
+	<ctl name="TX7 Digital Volume" value="84" />
+	<ctl name="RX7 Digital Volume" value="84" />
 	<ctl name="7 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX7 Mix Digital Volume" value="2" />
-	<ctl name="RX7 Mix Digital Volume" value="2" />
+	<ctl name="TX7 Mix Digital Volume" value="84" />
+	<ctl name="RX7 Mix Digital Volume" value="84" />
 	<ctl name="8 Digital Volume Switch" value="2" />
-	<ctl name="TX8 Digital Volume" value="2" />
-	<ctl name="RX8 Digital Volume" value="2" />
+	<ctl name="TX8 Digital Volume" value="84" />
+	<ctl name="RX8 Digital Volume" value="84" />
 	<ctl name="8 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX8 Mix Digital Volume" value="2" />
-	<ctl name="RX8 Mix Digital Volume" value="2" />
+	<ctl name="TX8 Mix Digital Volume" value="84" />
+	<ctl name="RX8 Mix Digital Volume" value="84" />
 	<ctl name="SPKRL Volume Switch" value="2" />
-	<ctl name="TX SPKRL Volume" value="2" />
-	<ctl name="RX SPKRL Volume" value="2" />
+	<ctl name="TX SPKRL Volume" value="16" />
+	<ctl name="RX SPKRL Volume" value="16" />
 	<ctl name="SPKRR Volume Switch" value="2" />
-	<ctl name="TX SPKRR Volume" value="2" />
-	<ctl name="RX SPKRR Volume" value="2" />
+	<ctl name="TX SPKRR Volume" value="16" />
+	<ctl name="RX SPKRR Volume" value="16" />
 	<path name="speaker" />
 	</path>
 
