@@ -31,7 +31,7 @@ If your curious on how I found the True Native Mode code, I will show you. Someo
 "(1) The normal running mode of a computer, executing programs from its built-in instruction set. Contrast with emulation mode. See native language. (2) The highest performance state of a computer."<br>
 
 ### What is True Native Mode on the Saber ESS 9218 DAC?<br>
-There is three different kinda of recordings of music out there.<br>
+There are three different kinda of recordings of music out there.<br>
 My 24/32bit QuadDAC will play all three at the maximum quality, but you will know when you have music recorded in True Native Mode because it's amazing and mind blowing. All the newer music should be in True Native Mode, older music is not unless it's remastered. I know Elephunk - Black Eyed Peas opus format, on YouTube Music is in True Native Mode. Get opus format over mp4 it's so much better. Newer technology.<br>
 One. Low. aka free.<br>
 Two. Medium. aka paid.<br>
@@ -48,7 +48,7 @@ It is my understanding that the two files responsible for making this all happen
 ### What do I need to set my 24bit Hi-Res music player at?
 You need to choose 24bit Hi-Res at 44.1kHz as the source, that's how I programed the DAC, it takes a 44.1kHz audio signal and upsamples the audio.
 
-### There is three different kinda of recordings of music out there. 
+### There are three different kinda of recordings of music out there. 
 My 24/32bit QuadDAC will play all three at the maximum quality, but you will know when you have music recorded in True Native Mode because it's amazing and mind blowing. All the newer music should be in True Native Mode, older music is not unless it's remastered. I know Elephunk - Black Eyed Peas opus format, on YouTube Music is in True Native Mode. Get opus format over mp4 it's so much better. Newer technology.<br>
 One. Low. aka free.<br>
 Two. Medium. aka paid.<br>
