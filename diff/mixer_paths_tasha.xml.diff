@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v291.2 -->
+> 	<!-- Lemon Drop Hi-Res treble v292.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True_Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -23603,7 +23603,7 @@
 > 	</path>
 > 	
 > 	<path name="anc-headphones">
-2467,3898c21198,24224
+2467,3898c21198,24248
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="1" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -25866,6 +25866,12 @@
 > 	<!-- 256 divided by 4 = 64 -->
 > 	
 > 	<path name="dop-playback_speaker-16bit tert-mi2s-headphones">
+> 	<ctl name="SPKRL LDAC Switch" value="2" />
+> 	<ctl name="TX SPKRL LDAC" value="2" />
+> 	<ctl name="RX SPKRL LDAC" value="2" />
+> 	<ctl name="SPKRR RDAC Switch" value="2" />
+> 	<ctl name="TX SPKRR RDAC" value="2" />
+> 	<ctl name="RX SPKRR RDAC" value="2" />
 > 	<ctl name="SEC_TDM_TX_0 Channels" value="Threethousandandseventytwo" />
 > 	<ctl name="SEC_TDM_RX_0 Channels" value="Threethousandandseventytwo" />
 > 	<ctl name="SEC_TDM_TX_0 SampleRate" value="KHZ_176P4" />
@@ -25937,6 +25943,12 @@
 > 	<!-- 384 divided by 4 = 96 -->
 > 	
 > 	<path name="dop-playback_speaker-24bit tert-mi2s-headphones">
+> 	<ctl name="SPKRL LDAC Switch" value="2" />
+> 	<ctl name="TX SPKRL LDAC" value="2" />
+> 	<ctl name="RX SPKRL LDAC" value="2" />
+> 	<ctl name="SPKRR RDAC Switch" value="2" />
+> 	<ctl name="TX SPKRR RDAC" value="2" />
+> 	<ctl name="RX SPKRR RDAC" value="2" />
 > 	<ctl name="SEC_TDM_TX_0 Channels" value="Threethousandandseventytwo" />
 > 	<ctl name="SEC_TDM_RX_0 Channels" value="Threethousandandseventytwo" />
 > 	<ctl name="SEC_TDM_TX_0 SampleRate" value="KHZ_176P4" />
@@ -26008,6 +26020,12 @@
 > 	<!-- 16 divided by 4 = 4 -->
 > 	
 > 	<path name="dop-playback_speaker_fluid tert-mi2s-headphones">
+> 	<ctl name="SPKRL LDAC Switch" value="1" />
+> 	<ctl name="TX SPKRL LDAC" value="1" />
+> 	<ctl name="RX SPKRL LDAC" value="1" />
+> 	<ctl name="SPKRR RDAC Switch" value="0" />
+> 	<ctl name="TX SPKRR RDAC" value="0" />
+> 	<ctl name="RX SPKRR RDAC" value="0" />
 > 	<ctl name="SEC_TDM_TX_0 Channels" value="Onehundredninetytwo" />
 > 	<ctl name="SEC_TDM_RX_0 Channels" value="Onehundredninetytwo" />
 > 	<ctl name="SEC_TDM_TX_0 SampleRate" value="KHZ_11P025" />
@@ -26079,6 +26097,12 @@
 > 	<!-- 24 divided by 4 = 6 -->
 > 	
 > 	<path name="dop-playback_speaker_liquid tert-mi2s-headphones">
+> 	<ctl name="SPKRL LDAC Switch" value="2" />
+> 	<ctl name="TX SPKRL LDAC" value="2" />
+> 	<ctl name="RX SPKRL LDAC" value="2" />
+> 	<ctl name="SPKRR RDAC Switch" value="2" />
+> 	<ctl name="TX SPKRR RDAC" value="2" />
+> 	<ctl name="RX SPKRR RDAC" value="2" />
 > 	<ctl name="SEC_TDM_TX_0 Channels" value="Onehundredninetytwo" />
 > 	<ctl name="SEC_TDM_RX_0 Channels" value="Onehundredninetytwo" />
 > 	<ctl name="SEC_TDM_TX_0 SampleRate" value="KHZ_11P025" />
@@ -28064,7 +28088,7 @@
 > 	<path name="speaker-protected" />
 > 	</path>
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
-3899a24226,24228
+3899a24250,24252
 > 	
 > 	
 > 	<!-- Bottom of page -->
