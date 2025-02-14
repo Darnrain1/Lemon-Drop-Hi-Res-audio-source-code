@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble v293.1 -->
+	<!-- Lemon Drop Hi-Res treble v294.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True_Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -160,7 +160,7 @@
 	
 	<!-- Lemon Drop Hi-Res start of code programed by: darnrain  -->
 	
-	<!-- Start of True Native Mode code v8.0 & vbat initial mixer settings -->
+	<!-- Start of True Native Mode code v8.5 & vbat initial mixer settings -->
 	
 <mixer>
 	<ctl name="TX INT1 SPLINE MIXL HPHL MIXL HPHL Native Switch" value="0" />
@@ -6337,8 +6337,10 @@
 	<ctl name="TX INI772 SPLINE VBATL MI768 VBATR MI768 Native" value="0" />
 	<ctl name="RX INI772 SPLINE MIXL MI768 MIXR MI768 Native Switch" value="0" />
 	<ctl name="RX INI772 SPLINE MIXL MI768 MIXR MI768 Native" value="0" />
+	<ctl name="RX INI772 SPLINE VBATL MI768 VBATR MI768 Native Switch" value="0" />
+	<ctl name="RX INI772 SPLINE VBATL MI768 VBATR MI768 Native" value="0" />
 	
-	<!-- End of True Native Mode code v8.0 & vbat initial mixer settings -->
+	<!-- End of True Native Mode code v8.5 & vbat initial mixer settings -->
 	
 	<!-- Start of SLIM settings -->
 	
@@ -15799,6 +15801,8 @@
 	<ctl name="RX INI771 SPLINE VBATL HI767 VBATR HI767 Native" value="2" />
 	<ctl name="TX INI772 SPLINE VBATL MI768 VBATR MI768 Native Switch" value="2" />
 	<ctl name="TX INI772 SPLINE VBATL MI768 VBATR MI768 Native" value="2" />
+	<ctl name="RX INI772 SPLINE VBATL MI768 VBATR MI768 Native Switch" value="2" />
+	<ctl name="RX INI772 SPLINE VBATL MI768 VBATR MI768 Native" value="2" />
 	</path>
 	
 	<path name="true-native-mode-SPKR-vbat-mono">
@@ -17344,6 +17348,8 @@
 	<ctl name="RX INI771 SPLINE VBATL HI767 VBATR HI767 Native" value="1" />
 	<ctl name="TX INI772 SPLINE VBATL MI768 VBATR MI768 Native Switch" value="1" />
 	<ctl name="TX INI772 SPLINE VBATL MI768 VBATR MI768 Native" value="1" />
+	<ctl name="RX INI772 SPLINE VBATL MI768 VBATR MI768 Native Switch" value="1" />
+	<ctl name="RX INI772 SPLINE VBATL MI768 VBATR MI768 Native" value="1" />
 	</path>
 	
 	<!-- End of True Native Mode function -->

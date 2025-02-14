@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v293.1 -->
+> 	<!-- Lemon Drop Hi-Res treble v294.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True_Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -135,9 +135,9 @@
 > 	
 > 	<!-- Lemon Drop Hi-Res start of code programed by: darnrain  -->
 > 	
-> 	<!-- Start of True Native Mode code v8.0 & vbat initial mixer settings -->
+> 	<!-- Start of True Native Mode code v8.5 & vbat initial mixer settings -->
 > 	
-28,2368c166,7413
+28,2368c166,7415
 <     <!-- These are the initial mixer settings -->
 <     <ctl name="Voice Rx Device Mute" id="0" value="0" />
 <     <ctl name="Voice Rx Device Mute" id="1" value="-1" />
@@ -8654,8 +8654,10 @@
 > 	<ctl name="TX INI772 SPLINE VBATL MI768 VBATR MI768 Native" value="0" />
 > 	<ctl name="RX INI772 SPLINE MIXL MI768 MIXR MI768 Native Switch" value="0" />
 > 	<ctl name="RX INI772 SPLINE MIXL MI768 MIXR MI768 Native" value="0" />
+> 	<ctl name="RX INI772 SPLINE VBATL MI768 VBATR MI768 Native Switch" value="0" />
+> 	<ctl name="RX INI772 SPLINE VBATL MI768 VBATR MI768 Native" value="0" />
 > 	
-> 	<!-- End of True Native Mode code v8.0 & vbat initial mixer settings -->
+> 	<!-- End of True Native Mode code v8.5 & vbat initial mixer settings -->
 > 	
 > 	<!-- Start of SLIM settings -->
 > 	
@@ -9728,10 +9730,10 @@
 > 	
 > 	<!-- Start of Compander controls -->
 > 	
-2369a7415,7416
+2369a7417,7418
 > 	<ctl name="TX COMP1" value="0" />
 > 	<ctl name="RX COMP1" value="0" />
-2371,2429c7418,24961
+2371,2429c7420,24967
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -18176,6 +18178,8 @@
 > 	<ctl name="RX INI771 SPLINE VBATL HI767 VBATR HI767 Native" value="2" />
 > 	<ctl name="TX INI772 SPLINE VBATL MI768 VBATR MI768 Native Switch" value="2" />
 > 	<ctl name="TX INI772 SPLINE VBATL MI768 VBATR MI768 Native" value="2" />
+> 	<ctl name="RX INI772 SPLINE VBATL MI768 VBATR MI768 Native Switch" value="2" />
+> 	<ctl name="RX INI772 SPLINE VBATL MI768 VBATR MI768 Native" value="2" />
 > 	</path>
 > 	
 > 	<path name="true-native-mode-SPKR-vbat-mono">
@@ -19721,6 +19725,8 @@
 > 	<ctl name="RX INI771 SPLINE VBATL HI767 VBATR HI767 Native" value="1" />
 > 	<ctl name="TX INI772 SPLINE VBATL MI768 VBATR MI768 Native Switch" value="1" />
 > 	<ctl name="TX INI772 SPLINE VBATL MI768 VBATR MI768 Native" value="1" />
+> 	<ctl name="RX INI772 SPLINE VBATL MI768 VBATR MI768 Native Switch" value="1" />
+> 	<ctl name="RX INI772 SPLINE VBATL MI768 VBATR MI768 Native" value="1" />
 > 	</path>
 > 	
 > 	<!-- End of True Native Mode function -->
@@ -27336,7 +27342,7 @@
 > 	
 > 	<path name="voice-headphones">
 > 	<path name="headphones" />
-2432,2464c24964,25050
+2432,2464c24970,25056
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -27458,7 +27464,7 @@
 > 	</path>
 > 	
 > 	<path name="anc-headphones">
-2467,3898c25053,28103
+2467,3898c25059,28109
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="1" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -31943,7 +31949,7 @@
 > 	<path name="speaker-protected" />
 > 	</path>
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
-3899a28105,28107
+3899a28111,28113
 > 	
 > 	
 > 	<!-- Bottom of page -->
