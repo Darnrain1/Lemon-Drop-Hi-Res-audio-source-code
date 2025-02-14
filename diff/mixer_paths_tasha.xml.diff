@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v294.1 -->
+> 	<!-- Lemon Drop Hi-Res treble v295.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True_Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -16,11 +16,11 @@
 > 	<!-- I would imagine it should work as long as you have a QuadDAC in your phone -->
 > 	
 > 	<!-- First thing -->
-> 	<!-- Copy all lines of code line number 1 through 17535 paste in your mixer_paths file at very top -->
-> 	<!-- I added a note where to copy from at line 17535 -->
+> 	<!-- Copy all lines of code line number 1 through 17358 paste in your mixer_paths file at very top -->
+> 	<!-- I added a note where to copy from at line 17358 -->
 > 	
 > 	<!-- Second thing -->
-> 	<!-- Search for "Lemon Drop Hi-Res end of code programed by: darnrain" after line 17535 to start -->
+> 	<!-- Search for "Lemon Drop Hi-Res end of code programed by: darnrain" after line 17358 to start -->
 > 	
 > 	<!-- Third thing -->
 > 	<!-- Duplicate all code from "Lemon Drop Hi-Res start of mods" to "Lemon Drop Hi-Res end of mods" -->
@@ -9733,7 +9733,7 @@
 2369a7417,7418
 > 	<ctl name="TX COMP1" value="0" />
 > 	<ctl name="RX COMP1" value="0" />
-2371,2429c7420,24967
+2371,2429c7420,24966
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -13538,7 +13538,6 @@
 > 	<ctl name="TX INI772 SPLINE MIXL MI768 MIXR MI768 Native" value="2" />
 > 	<ctl name="RX INI772 SPLINE MIXL MI768 MIXR MI768 Native Switch" value="2" />
 > 	<ctl name="RX INI772 SPLINE MIXL MI768 MIXR MI768 Native" value="2" />
-> 	
 > 	</path>
 > 	
 > 	<path name="true-native-mode-SPKR-mono">
@@ -27342,7 +27341,7 @@
 > 	
 > 	<path name="voice-headphones">
 > 	<path name="headphones" />
-2432,2464c24970,25056
+2432,2464c24969,25055
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -27464,7 +27463,7 @@
 > 	</path>
 > 	
 > 	<path name="anc-headphones">
-2467,3898c25059,28109
+2467,3898c25058,28108
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="1" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -31949,7 +31948,7 @@
 > 	<path name="speaker-protected" />
 > 	</path>
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
-3899a28111,28113
+3899a28110,28112
 > 	
 > 	
 > 	<!-- Bottom of page -->
