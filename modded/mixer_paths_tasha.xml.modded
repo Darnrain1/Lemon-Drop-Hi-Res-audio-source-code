@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble v296.1 -->
+	<!-- Lemon Drop Hi-Res treble v297.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True_Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -160,25 +160,25 @@
 	
 	<!-- Lemon Drop Hi-Res start of code programed by: darnrain  -->
 	
-	<!-- Start of True Native Mode code v9.0 & vbat initial mixer settings -->
+	<!-- Start of True Native Mode code v9.5 & vbat initial mixer settings -->
 	
 <mixer>
-	<ctl name="TX INT1 SPLINE MIXL HPHL LDAC Native Switch" value="0" />
-	<ctl name="TX INT1 SPLINE MIXL HPHL LDAC Native" value="0" />
-	<ctl name="TX INT1 SPLINE VBATL HPHL LDAC Native Switch" value="0" />
-	<ctl name="TX INT1 SPLINE VBATL HPHL LDAC Native" value="0" />
-	<ctl name="RX INT1 SPLINE MIXL HPHL LDAC Native Switch" value="0" />
-	<ctl name="RX INT1 SPLINE MIXL HPHL LDAC Native" value="0" />
-	<ctl name="RX INT1 SPLINE VBATL HPHL LDAC Native Switch" value="0" />
-	<ctl name="RX INT1 SPLINE VBATL HPHL LDAC Native" value="0" />
-	<ctl name="TX INT2 SPLINE MIXR HPHR RDAC Native Switch" value="0" />
-	<ctl name="TX INT2 SPLINE MIXR HPHR RDAC Native" value="0" />
-	<ctl name="TX INT2 SPLINE VBATR HPHR RDAC Native Switch" value="0" />
-	<ctl name="TX INT2 SPLINE VBATR HPHR RDAC Native" value="0" />
-	<ctl name="RX INT2 SPLINE MIXR HPHR RDAC Native Switch" value="0" />
-	<ctl name="RX INT2 SPLINE MIXR HPHR RDAC Native" value="0" />
-	<ctl name="RX INT2 SPLINE VBATR HPHR RDAC Native Switch" value="0" />
-	<ctl name="RX INT2 SPLINE VBATR HPHR RDAC Native" value="0" />
+	<ctl name="TX INT1 SPLINE MIXL HPHL COMP LDAC Native Switch" value="0" />
+	<ctl name="TX INT1 SPLINE MIXL HPHL COMP LDAC Native" value="0" />
+	<ctl name="TX INT1 SPLINE VBATL HPHL COMP LDAC Native Switch" value="0" />
+	<ctl name="TX INT1 SPLINE VBATL HPHL COMP LDAC Native" value="0" />
+	<ctl name="RX INT1 SPLINE MIXL HPHL COMP LDAC Native Switch" value="0" />
+	<ctl name="RX INT1 SPLINE MIXL HPHL COMP LDAC Native" value="0" />
+	<ctl name="RX INT1 SPLINE VBATL HPHL COMP LDAC Native Switch" value="0" />
+	<ctl name="RX INT1 SPLINE VBATL HPHL COMP LDAC Native" value="0" />
+	<ctl name="TX INT2 SPLINE MIXR HPHR COMP RDAC Native Switch" value="0" />
+	<ctl name="TX INT2 SPLINE MIXR HPHR COMP RDAC Native" value="0" />
+	<ctl name="TX INT2 SPLINE VBATR HPHR COMP RDAC Native Switch" value="0" />
+	<ctl name="TX INT2 SPLINE VBATR HPHR COMP RDAC Native" value="0" />
+	<ctl name="RX INT2 SPLINE MIXR HPHR COMP RDAC Native Switch" value="0" />
+	<ctl name="RX INT2 SPLINE MIXR HPHR COMP RDAC Native" value="0" />
+	<ctl name="RX INT2 SPLINE VBATR HPHR COMP RDAC Native Switch" value="0" />
+	<ctl name="RX INT2 SPLINE VBATR HPHR COMP RDAC Native" value="0" />
 	<ctl name="TX INI3 SPLINE MIXL LO1 MIXR LO1 Native Switch" value="0" />
 	<ctl name="TX INI3 SPLINE MIXL LO1 MIXR LO1 Native" value="0" />
 	<ctl name="TX INI3 SPLINE VBATL LO1 VBATR LO1 Native Switch" value="0" />
@@ -211,22 +211,22 @@
 	<ctl name="RX INI6 SPLINE MIXL LO4 MIXR LO4 Native" value="0" />
 	<ctl name="RX INI6 SPLINE VBATL LO4 VBATR LO4 Native Switch" value="0" />
 	<ctl name="RX INI6 SPLINE VBATL LO4 VBATR LO4 Native" value="0" />
-	<ctl name="TX INT7 SPLINE MIXL SPKRL LDAC Native Switch" value="0" />
-	<ctl name="TX INT7 SPLINE MIXL SPKRL LDAC Native" value="0" />
-	<ctl name="TX INT7 SPLINE VBATL SPKRL LDAC Native Switch" value="0" />
-	<ctl name="TX INT7 SPLINE VBATL SPKRL LDAC Native" value="0" />
-	<ctl name="RX INT7 SPLINE MIXL SPKRL LDAC Native Switch" value="0" />
-	<ctl name="RX INT7 SPLINE MIXL SPKRL LDAC Native" value="0" />
-	<ctl name="RX INT7 SPLINE VBATL SPKRL LDAC Native Switch" value="0" />
-	<ctl name="RX INT7 SPLINE VBATL SPKRL LDAC Native" value="0" />
-	<ctl name="TX INT8 SPLINE MIXR SPKRR RDAC Native Switch" value="0" />
-	<ctl name="TX INT8 SPLINE MIXR SPKRR RDAC Native" value="0" />
-	<ctl name="TX INT8 SPLINE VBATR SPKRR RDAC Native Switch" value="0" />
-	<ctl name="TX INT8 SPLINE VBATR SPKRR RDAC Native" value="0" />
-	<ctl name="RX INT8 SPLINE MIXR SPKRR RDAC Native Switch" value="0" />
-	<ctl name="RX INT8 SPLINE MIXR SPKRR RDAC Native" value="0" />
-	<ctl name="RX INT8 SPLINE VBATR SPKRR RDAC Native Switch" value="0" />
-	<ctl name="RX INT8 SPLINE VBATR SPKRR RDAC Native" value="0" />
+	<ctl name="TX INT7 SPLINE MIXL SPKRL COMP LDAC Native Switch" value="0" />
+	<ctl name="TX INT7 SPLINE MIXL SPKRL COMP LDAC Native" value="0" />
+	<ctl name="TX INT7 SPLINE VBATL SPKRL COMP LDAC Native Switch" value="0" />
+	<ctl name="TX INT7 SPLINE VBATL SPKRL COMP LDAC Native" value="0" />
+	<ctl name="RX INT7 SPLINE MIXL SPKRL COMP LDAC Native Switch" value="0" />
+	<ctl name="RX INT7 SPLINE MIXL SPKRL COMP LDAC Native" value="0" />
+	<ctl name="RX INT7 SPLINE VBATL SPKRL COMP LDAC Native Switch" value="0" />
+	<ctl name="RX INT7 SPLINE VBATL SPKRL COMP LDAC Native" value="0" />
+	<ctl name="TX INT8 SPLINE MIXR SPKRR COMP RDAC Native Switch" value="0" />
+	<ctl name="TX INT8 SPLINE MIXR SPKRR COMP RDAC Native" value="0" />
+	<ctl name="TX INT8 SPLINE VBATR SPKRR COMP RDAC Native Switch" value="0" />
+	<ctl name="TX INT8 SPLINE VBATR SPKRR COMP RDAC Native" value="0" />
+	<ctl name="RX INT8 SPLINE MIXR SPKRR COMP RDAC Native Switch" value="0" />
+	<ctl name="RX INT8 SPLINE MIXR SPKRR COMP RDAC Native" value="0" />
+	<ctl name="RX INT8 SPLINE VBATR SPKRR COMP RDAC Native Switch" value="0" />
+	<ctl name="RX INT8 SPLINE VBATR SPKRR COMP RDAC Native" value="0" />
 	<ctl name="TX INI9 SPLINE MIXL HI5 MIXR HI5 Native Switch" value="0" />
 	<ctl name="TX INI9 SPLINE MIXL HI5 MIXR HI5 Native" value="0" />
 	<ctl name="TX INI9 SPLINE VBATL HI5 VBATR HI5 Native Switch" value="0" />
@@ -6340,7 +6340,7 @@
 	<ctl name="RX INI772 SPLINE VBATL MI768 VBATR MI768 Native Switch" value="0" />
 	<ctl name="RX INI772 SPLINE VBATL MI768 VBATR MI768 Native" value="0" />
 	
-	<!-- End of True Native Mode code v9.0 & vbat initial mixer settings -->
+	<!-- End of True Native Mode code v9.5 & vbat initial mixer settings -->
 	
 	<!-- Start of SLIM settings -->
 	
@@ -7394,47 +7394,6 @@
 	
 	<!-- End of initial MultiMedia settings -->
 	
-	<!-- Start of Compander controls -->
-	
-	<ctl name="COMP1 Switch" value="0" />
-	<ctl name="TX COMP1" value="0" />
-	<ctl name="RX COMP1" value="0" />
-	<ctl name="COMP2 Switch" value="0" />
-	<ctl name="TX COMP2" value="0" />
-	<ctl name="RX COMP2" value="0" />
-	<ctl name="COMP3 Switch" value="0" />
-	<ctl name="TX COMP3" value="0" />
-	<ctl name="RX COMP3" value="0" />
-	<ctl name="COMP4 Switch" value="0" />
-	<ctl name="TX COMP4" value="0" />
-	<ctl name="RX COMP4" value="0" />
-	<ctl name="COMP5 Switch" value="0" />
-	<ctl name="TX COMP5" value="0" />
-	<ctl name="RX COMP5" value="0" />
-	<ctl name="COMP6 Switch" value="0" />
-	<ctl name="TX COMP6" value="0" />
-	<ctl name="RX COMP6" value="0" />
-	<ctl name="COMP7 Switch" value="0" />
-	<ctl name="TX COMP7" value="0" />
-	<ctl name="RX COMP7" value="0" />
-	<ctl name="COMP8 Switch" value="0" />
-	<ctl name="TX COMP8" value="0" />
-	<ctl name="RX COMP8" value="0" />
-	<ctl name="HPHL COMP Switch" value="0" />
-	<ctl name="TX HPHL COMP" value="0" />
-	<ctl name="RX HPHL COMP" value="0" />
-	<ctl name="HPHR COMP Switch" value="0" />
-	<ctl name="TX HPHR COMP" value="0" />
-	<ctl name="RX HPHR COMP" value="0" />
-	<ctl name="SPKRL COMP Switch" value="0" />
-	<ctl name="TX SPKRL COMP" value="0" />
-	<ctl name="RX SPKRL COMP" value="0" />
-	<ctl name="SPKRR COMP Switch" value="0" />
-	<ctl name="TX SPKRR COMP" value="0" />
-	<ctl name="RX SPKRR COMP" value="0" />
-	
-	<!-- End of Compander controls -->
-	
 	<!-- Start of initial misc settings -->
 	
 	<ctl name="EAR PA Gain" value="ZERO" />
@@ -8053,14 +8012,14 @@
 	<!-- Start of True Native Mode function -->
 	
 	<path name="true-native-mode-HPH">
-	<ctl name="TX INT1 SPLINE MIXL HPHL LDAC Native Switch" value="2" />
-	<ctl name="TX INT1 SPLINE MIXL HPHL LDAC Native" value="2" />
-	<ctl name="RX INT1 SPLINE MIXL HPHL LDAC Native Switch" value="2" />
-	<ctl name="RX INT1 SPLINE MIXL HPHL LDAC Native" value="2" />
-	<ctl name="TX INT2 SPLINE MIXR HPHR RDAC Native Switch" value="2" />
-	<ctl name="TX INT2 SPLINE MIXR HPHR RDAC Native" value="2" />
-	<ctl name="RX INT2 SPLINE MIXR HPHR RDAC Native Switch" value="2" />
-	<ctl name="RX INT2 SPLINE MIXR HPHR RDAC Native" value="2" />
+	<ctl name="TX INT1 SPLINE MIXL HPHL COMP LDAC Native Switch" value="2" />
+	<ctl name="TX INT1 SPLINE MIXL HPHL COMP LDAC Native" value="2" />
+	<ctl name="RX INT1 SPLINE MIXL HPHL COMP LDAC Native Switch" value="2" />
+	<ctl name="RX INT1 SPLINE MIXL HPHL COMP LDAC Native" value="2" />
+	<ctl name="TX INT2 SPLINE MIXR HPHR COMP RDAC Native Switch" value="2" />
+	<ctl name="TX INT2 SPLINE MIXR HPHR COMP RDAC Native" value="2" />
+	<ctl name="RX INT2 SPLINE MIXR HPHR COMP RDAC Native Switch" value="2" />
+	<ctl name="RX INT2 SPLINE MIXR HPHR COMP RDAC Native" value="2" />
 	<ctl name="TX INI3 SPLINE MIXL LO1 MIXR LO1 Native Switch" value="2" />
 	<ctl name="TX INI3 SPLINE MIXL LO1 MIXR LO1 Native" value="2" />
 	<ctl name="RX INI3 SPLINE MIXL LO1 MIXR LO1 Native Switch" value="2" />
@@ -9600,14 +9559,14 @@
 	</path>
 	
 	<path name="true-native-mode-SPKR">
-	<ctl name="TX INT7 SPLINE MIXL SPKRL LDAC Native Switch" value="2" />
-	<ctl name="TX INT7 SPLINE MIXL SPKRL LDAC Native" value="2" />
-	<ctl name="RX INT7 SPLINE MIXL SPKRL LDAC Native Switch" value="2" />
-	<ctl name="RX INT7 SPLINE MIXL SPKRL LDAC Native" value="2" />
-	<ctl name="TX INT8 SPLINE MIXR SPKRR RDAC Native Switch" value="2" />
-	<ctl name="TX INT8 SPLINE MIXR SPKRR RDAC Native" value="2" />
-	<ctl name="RX INT8 SPLINE MIXR SPKRR RDAC Native Switch" value="2" />
-	<ctl name="RX INT8 SPLINE MIXR SPKRR RDAC Native" value="2" />
+	<ctl name="TX INT7 SPLINE MIXL SPKRL COMP LDAC Native Switch" value="2" />
+	<ctl name="TX INT7 SPLINE MIXL SPKRL COMP LDAC Native" value="2" />
+	<ctl name="RX INT7 SPLINE MIXL SPKRL COMP LDAC Native Switch" value="2" />
+	<ctl name="RX INT7 SPLINE MIXL SPKRL COMP LDAC Native" value="2" />
+	<ctl name="TX INT8 SPLINE MIXR SPKRR COMP RDAC Native Switch" value="2" />
+	<ctl name="TX INT8 SPLINE MIXR SPKRR COMP RDAC Native" value="2" />
+	<ctl name="RX INT8 SPLINE MIXR SPKRR COMP RDAC Native Switch" value="2" />
+	<ctl name="RX INT8 SPLINE MIXR SPKRR COMP RDAC Native" value="2" />
 	<ctl name="TX INI389 SPLINE MIXL LO385 MIXR LO385 Native Switch" value="2" />
 	<ctl name="TX INI389 SPLINE MIXL LO385 MIXR LO385 Native" value="2" />
 	<ctl name="RX INI389 SPLINE MIXL LO385 MIXR LO385 Native Switch" value="2" />
@@ -11147,14 +11106,14 @@
 	</path>
 	
 	<path name="true-native-mode-SPKR-mono">
-	<ctl name="TX INT7 SPLINE MIXL SPKRL LDAC Native Switch" value="1" />
-	<ctl name="TX INT7 SPLINE MIXL SPKRL LDAC Native" value="1" />
-	<ctl name="RX INT7 SPLINE MIXL SPKRL LDAC Native Switch" value="1" />
-	<ctl name="RX INT7 SPLINE MIXL SPKRL LDAC Native" value="1" />
-	<ctl name="TX INT8 SPLINE MIXR SPKRR RDAC Native Switch" value="0" />
-	<ctl name="TX INT8 SPLINE MIXR SPKRR RDAC Native" value="0" />
-	<ctl name="RX INT8 SPLINE MIXR SPKRR RDAC Native Switch" value="0" />
-	<ctl name="RX INT8 SPLINE MIXR SPKRR RDAC Native" value="0" />
+	<ctl name="TX INT7 SPLINE MIXL SPKRL COMP LDAC Native Switch" value="1" />
+	<ctl name="TX INT7 SPLINE MIXL SPKRL COMP LDAC Native" value="1" />
+	<ctl name="RX INT7 SPLINE MIXL SPKRL COMP LDAC Native Switch" value="1" />
+	<ctl name="RX INT7 SPLINE MIXL SPKRL COMP LDAC Native" value="1" />
+	<ctl name="TX INT8 SPLINE MIXR SPKRR COMP RDAC Native Switch" value="0" />
+	<ctl name="TX INT8 SPLINE MIXR SPKRR COMP RDAC Native" value="0" />
+	<ctl name="RX INT8 SPLINE MIXR SPKRR COMP RDAC Native Switch" value="0" />
+	<ctl name="RX INT8 SPLINE MIXR SPKRR COMP RDAC Native" value="0" />
 	<ctl name="TX INI389 SPLINE MIXL LO385 MIXR LO385 Native Switch" value="1" />
 	<ctl name="TX INI389 SPLINE MIXL LO385 MIXR LO385 Native" value="1" />
 	<ctl name="RX INI389 SPLINE MIXL LO385 MIXR LO385 Native Switch" value="1" />
@@ -12694,14 +12653,14 @@
 	</path>
 	
 	<path name="true-native-mode-HPH-vbat">
-	<ctl name="TX INT1 SPLINE VBATL HPHL LDAC Native Switch" value="2" />
-	<ctl name="TX INT1 SPLINE VBATL HPHL LDAC Native" value="2" />
-	<ctl name="RX INT1 SPLINE VBATL HPHL LDAC Native Switch" value="2" />
-	<ctl name="RX INT1 SPLINE VBATL HPHL LDAC Native" value="2" />
-	<ctl name="TX INT2 SPLINE VBATR HPHR RDAC Native Switch" value="2" />
-	<ctl name="TX INT2 SPLINE VBATR HPHR RDAC Native" value="2" />
-	<ctl name="RX INT2 SPLINE VBATR HPHR RDAC Native Switch" value="2" />
-	<ctl name="RX INT2 SPLINE VBATR HPHR RDAC Native" value="2" />
+	<ctl name="TX INT1 SPLINE VBATL HPHL COMP LDAC Native Switch" value="2" />
+	<ctl name="TX INT1 SPLINE VBATL HPHL COMP LDAC Native" value="2" />
+	<ctl name="RX INT1 SPLINE VBATL HPHL COMP LDAC Native Switch" value="2" />
+	<ctl name="RX INT1 SPLINE VBATL HPHL COMP LDAC Native" value="2" />
+	<ctl name="TX INT2 SPLINE VBATR HPHR COMP RDAC Native Switch" value="2" />
+	<ctl name="TX INT2 SPLINE VBATR HPHR COMP RDAC Native" value="2" />
+	<ctl name="RX INT2 SPLINE VBATR HPHR COMP RDAC Native Switch" value="2" />
+	<ctl name="RX INT2 SPLINE VBATR HPHR COMP RDAC Native" value="2" />
 	<ctl name="TX INI3 SPLINE VBATL LO1 VBATR LO1 Native Switch" value="2" />
 	<ctl name="TX INI3 SPLINE VBATL LO1 VBATR LO1 Native" value="2" />
 	<ctl name="RX INI3 SPLINE VBATL LO1 VBATR LO1 Native Switch" value="2" />
@@ -14241,14 +14200,14 @@
 	</path>
 	
 	<path name="true-native-mode-SPKR-vbat">
-	<ctl name="TX INT7 SPLINE VBATL SPKRL LDAC Native Switch" value="2" />
-	<ctl name="TX INT7 SPLINE VBATL SPKRL LDAC Native" value="2" />
-	<ctl name="RX INT7 SPLINE VBATL SPKRL LDAC Native Switch" value="2" />
-	<ctl name="RX INT7 SPLINE VBATL SPKRL LDAC Native" value="2" />
-	<ctl name="TX INT8 SPLINE VBATR SPKRR RDAC Native Switch" value="2" />
-	<ctl name="TX INT8 SPLINE VBATR SPKRR RDAC Native" value="2" />
-	<ctl name="RX INT8 SPLINE VBATR SPKRR RDAC Native Switch" value="2" />
-	<ctl name="RX INT8 SPLINE VBATR SPKRR RDAC Native" value="2" />
+	<ctl name="TX INT7 SPLINE VBATL SPKRL COMP LDAC Native Switch" value="2" />
+	<ctl name="TX INT7 SPLINE VBATL SPKRL COMP LDAC Native" value="2" />
+	<ctl name="RX INT7 SPLINE VBATL SPKRL COMP LDAC Native Switch" value="2" />
+	<ctl name="RX INT7 SPLINE VBATL SPKRL COMP LDAC Native" value="2" />
+	<ctl name="TX INT8 SPLINE VBATR SPKRR COMP RDAC Native Switch" value="2" />
+	<ctl name="TX INT8 SPLINE VBATR SPKRR COMP RDAC Native" value="2" />
+	<ctl name="RX INT8 SPLINE VBATR SPKRR COMP RDAC Native Switch" value="2" />
+	<ctl name="RX INT8 SPLINE VBATR SPKRR COMP RDAC Native" value="2" />
 	<ctl name="TX INI389 SPLINE VBATL LO385 VBATR LO385 Native Switch" value="2" />
 	<ctl name="TX INI389 SPLINE VBATL LO385 VBATR LO385 Native" value="2" />
 	<ctl name="RX INI389 SPLINE VBATL LO385 VBATR LO385 Native Switch" value="2" />
@@ -15788,14 +15747,14 @@
 	</path>
 	
 	<path name="true-native-mode-SPKR-vbat-mono">
-	<ctl name="TX INT7 SPLINE VBATL SPKRL LDAC Native Switch" value="1" />
-	<ctl name="TX INT7 SPLINE VBATL SPKRL LDAC Native" value="1" />
-	<ctl name="RX INT7 SPLINE VBATL SPKRL LDAC Native Switch" value="1" />
-	<ctl name="RX INT7 SPLINE VBATL SPKRL LDAC Native" value="1" />
-	<ctl name="TX INT8 SPLINE VBATR SPKRR RDAC Native Switch" value="0" />
-	<ctl name="TX INT8 SPLINE VBATR SPKRR RDAC Native" value="0" />
-	<ctl name="RX INT8 SPLINE VBATR SPKRR RDAC Native Switch" value="0" />
-	<ctl name="RX INT8 SPLINE VBATR SPKRR RDAC Native" value="0" />
+	<ctl name="TX INT7 SPLINE VBATL SPKRL COMP LDAC Native Switch" value="1" />
+	<ctl name="TX INT7 SPLINE VBATL SPKRL COMP LDAC Native" value="1" />
+	<ctl name="RX INT7 SPLINE VBATL SPKRL COMP LDAC Native Switch" value="1" />
+	<ctl name="RX INT7 SPLINE VBATL SPKRL COMP LDAC Native" value="1" />
+	<ctl name="TX INT8 SPLINE VBATR SPKRR COMP RDAC Native Switch" value="0" />
+	<ctl name="TX INT8 SPLINE VBATR SPKRR COMP RDAC Native" value="0" />
+	<ctl name="RX INT8 SPLINE VBATR SPKRR COMP RDAC Native Switch" value="0" />
+	<ctl name="RX INT8 SPLINE VBATR SPKRR COMP RDAC Native" value="0" />
 	<ctl name="TX INI389 SPLINE VBATL LO385 VBATR LO385 Native Switch" value="1" />
 	<ctl name="TX INI389 SPLINE VBATL LO385 VBATR LO385 Native" value="1" />
 	<ctl name="RX INI389 SPLINE VBATL LO385 VBATR LO385 Native Switch" value="1" />
@@ -23043,18 +23002,6 @@
 	<ctl name="SLIM_2_RX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_2_TX Format" value="PACKED_16B" />
 	<ctl name="SLIM_2_RX Format" value="PACKED_16B" />
-	<ctl name="COMP7 Switch" value="1" />
-	<ctl name="TX COMP7" value="1" />
-	<ctl name="RX COMP7" value="1" />
-	<ctl name="COMP8 Switch" value="0" />
-	<ctl name="TX COMP8" value="0" />
-	<ctl name="RX COMP8" value="0" />
-	<ctl name="SPKRL COMP Switch" value="1" />
-	<ctl name="TX SPKRL COMP" value="1" />
-	<ctl name="RX SPKRL COMP" value="1" />
-	<ctl name="SPKRR COMP Switch" value="0" />
-	<ctl name="TX SPKRR COMP" value="0" />
-	<ctl name="RX SPKRR COMP" value="0" />
 	<ctl name="7 Digital Volume Switch" value="1" />
 	<ctl name="TX7 Digital Volume" value="84" />
 	<ctl name="RX7 Digital Volume" value="84" />
@@ -23086,18 +23033,6 @@
 	<ctl name="SLIM_0_RX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_0_TX Format" value="PACKED_24B" />
 	<ctl name="SLIM_0_RX Format" value="PACKED_24B" />
-	<ctl name="COMP7 Switch" value="2" />
-	<ctl name="TX COMP7" value="2" />
-	<ctl name="RX COMP7" value="2" />
-	<ctl name="COMP8 Switch" value="2" />
-	<ctl name="TX COMP8" value="2" />
-	<ctl name="RX COMP8" value="2" />
-	<ctl name="SPKRL COMP Switch" value="2" />
-	<ctl name="TX SPKRL COMP" value="2" />
-	<ctl name="RX SPKRL COMP" value="2" />
-	<ctl name="SPKRR COMP Switch" value="2" />
-	<ctl name="TX SPKRR COMP" value="2" />
-	<ctl name="RX SPKRR COMP" value="2" />
 	<ctl name="7 Digital Volume Switch" value="2" />
 	<ctl name="TX7 Digital Volume" value="84" />
 	<ctl name="RX7 Digital Volume" value="84" />
@@ -23129,18 +23064,6 @@
 	<ctl name="SLIM_2_RX SampleRate" value="KHZ_705P6" />
 	<ctl name="SLIM_2_TX Format" value="PACKED_256B" />
 	<ctl name="SLIM_2_RX Format" value="PACKED_256B" />
-	<ctl name="COMP7 Switch" value="2" />
-	<ctl name="TX COMP7" value="2" />
-	<ctl name="RX COMP7" value="2" />
-	<ctl name="COMP8 Switch" value="2" />
-	<ctl name="TX COMP8" value="2" />
-	<ctl name="RX COMP8" value="2" />
-	<ctl name="SPKRL COMP Switch" value="2" />
-	<ctl name="TX SPKRL COMP" value="2" />
-	<ctl name="RX SPKRL COMP" value="2" />
-	<ctl name="SPKRR COMP Switch" value="2" />
-	<ctl name="TX SPKRR COMP" value="2" />
-	<ctl name="RX SPKRR COMP" value="2" />
 	<ctl name="7 Digital Volume Switch" value="2" />
 	<ctl name="TX7 Digital Volume" value="84" />
 	<ctl name="RX7 Digital Volume" value="84" />
@@ -23172,18 +23095,6 @@
 	<ctl name="SLIM_0_RX SampleRate" value="KHZ_705P6" />
 	<ctl name="SLIM_0_TX Format" value="PACKED_384B" />
 	<ctl name="SLIM_0_RX Format" value="PACKED_384B" />
-	<ctl name="COMP7 Switch" value="2" />
-	<ctl name="TX COMP7" value="2" />
-	<ctl name="RX COMP7" value="2" />
-	<ctl name="COMP8 Switch" value="2" />
-	<ctl name="TX COMP8" value="2" />
-	<ctl name="RX COMP8" value="2" />
-	<ctl name="SPKRL COMP Switch" value="2" />
-	<ctl name="TX SPKRL COMP" value="2" />
-	<ctl name="RX SPKRL COMP" value="2" />
-	<ctl name="SPKRR COMP Switch" value="2" />
-	<ctl name="TX SPKRR COMP" value="2" />
-	<ctl name="RX SPKRR COMP" value="2" />
 	<ctl name="7 Digital Volume Switch" value="2" />
 	<ctl name="TX7 Digital Volume" value="84" />
 	<ctl name="RX7 Digital Volume" value="84" />
@@ -23315,18 +23226,6 @@
 	<ctl name="SLIM_2_RX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_2_TX Format" value="PACKED_16B" />
 	<ctl name="SLIM_2_RX Format" value="PACKED_16B" />
-	<ctl name="COMP7 Switch" value="1" />
-	<ctl name="TX COMP7" value="1" />
-	<ctl name="RX COMP7" value="1" />
-	<ctl name="COMP8 Switch" value="0" />
-	<ctl name="TX COMP8" value="0" />
-	<ctl name="RX COMP8" value="0" />
-	<ctl name="SPKRL COMP Switch" value="1" />
-	<ctl name="TX SPKRL COMP" value="1" />
-	<ctl name="RX SPKRL COMP" value="1" />
-	<ctl name="SPKRR COMP Switch" value="0" />
-	<ctl name="TX SPKRR COMP" value="0" />
-	<ctl name="RX SPKRR COMP" value="0" />
 	<ctl name="7 Digital Volume Switch" value="1" />
 	<ctl name="TX7 Digital Volume" value="84" />
 	<ctl name="RX7 Digital Volume" value="84" />
@@ -23357,18 +23256,6 @@
 	<ctl name="SLIM_0_RX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_0_TX Format" value="PACKED_24B" />
 	<ctl name="SLIM_0_RX Format" value="PACKED_24B" />
-	<ctl name="COMP7 Switch" value="2" />
-	<ctl name="TX COMP7" value="2" />
-	<ctl name="RX COMP7" value="2" />
-	<ctl name="COMP8 Switch" value="2" />
-	<ctl name="TX COMP8" value="2" />
-	<ctl name="RX COMP8" value="2" />
-	<ctl name="SPKRL COMP Switch" value="2" />
-	<ctl name="TX SPKRL COMP" value="2" />
-	<ctl name="RX SPKRL COMP" value="2" />
-	<ctl name="SPKRR COMP Switch" value="2" />
-	<ctl name="TX SPKRR COMP" value="2" />
-	<ctl name="RX SPKRR COMP" value="2" />
 	<ctl name="7 Digital Volume Switch" value="2" />
 	<ctl name="TX7 Digital Volume" value="84" />
 	<ctl name="RX7 Digital Volume" value="84" />
@@ -23399,18 +23286,6 @@
 	<ctl name="SLIM_2_RX SampleRate" value="KHZ_705P6" />
 	<ctl name="SLIM_2_TX Format" value="PACKED_256B" />
 	<ctl name="SLIM_2_RX Format" value="PACKED_256B" />
-	<ctl name="COMP7 Switch" value="2" />
-	<ctl name="TX COMP7" value="2" />
-	<ctl name="RX COMP7" value="2" />
-	<ctl name="COMP8 Switch" value="2" />
-	<ctl name="TX COMP8" value="2" />
-	<ctl name="RX COMP8" value="2" />
-	<ctl name="SPKRL COMP Switch" value="2" />
-	<ctl name="TX SPKRL COMP" value="2" />
-	<ctl name="RX SPKRL COMP" value="2" />
-	<ctl name="SPKRR COMP Switch" value="2" />
-	<ctl name="TX SPKRR COMP" value="2" />
-	<ctl name="RX SPKRR COMP" value="2" />
 	<ctl name="7 Digital Volume Switch" value="2" />
 	<ctl name="TX7 Digital Volume" value="84" />
 	<ctl name="RX7 Digital Volume" value="84" />
@@ -23441,18 +23316,6 @@
 	<ctl name="SLIM_0_RX SampleRate" value="KHZ_705P6" />
 	<ctl name="SLIM_0_TX Format" value="PACKED_384B" />
 	<ctl name="SLIM_0_RX Format" value="PACKED_384B" />
-	<ctl name="COMP7 Switch" value="2" />
-	<ctl name="TX COMP7" value="2" />
-	<ctl name="RX COMP7" value="2" />
-	<ctl name="COMP8 Switch" value="2" />
-	<ctl name="TX COMP8" value="2" />
-	<ctl name="RX COMP8" value="2" />
-	<ctl name="SPKRL COMP Switch" value="2" />
-	<ctl name="TX SPKRL COMP" value="2" />
-	<ctl name="RX SPKRL COMP" value="2" />
-	<ctl name="SPKRR COMP Switch" value="2" />
-	<ctl name="TX SPKRR COMP" value="2" />
-	<ctl name="RX SPKRR COMP" value="2" />
 	<ctl name="7 Digital Volume Switch" value="2" />
 	<ctl name="TX7 Digital Volume" value="84" />
 	<ctl name="RX7 Digital Volume" value="84" />
@@ -25668,18 +25531,6 @@
 	<ctl name="SLIM_7_RX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_7_TX Format" value="S16_LE" />
 	<ctl name="SLIM_7_RX Format" value="S16_LE" />
-	<ctl name="COMP1 Switch" value="2" />
-	<ctl name="TX COMP1" value="2" />
-	<ctl name="RX COMP1" value="2" />
-	<ctl name="COMP2 Switch" value="2" />
-	<ctl name="TX COMP2" value="2" />
-	<ctl name="RX COMP2" value="2" />
-	<ctl name="HPHL COMP Switch" value="2" />
-	<ctl name="TX HPHL COMP" value="2" />
-	<ctl name="RX HPHL COMP" value="2" />
-	<ctl name="HPHR COMP Switch" value="2" />
-	<ctl name="TX HPHR COMP" value="2" />
-	<ctl name="RX HPHR COMP" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="84" />
@@ -25709,18 +25560,6 @@
 	<ctl name="SLIM_8_RX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_8_TX Format" value="S24_LE" />
 	<ctl name="SLIM_8_RX Format" value="S24_LE" />
-	<ctl name="COMP1 Switch" value="2" />
-	<ctl name="TX COMP1" value="2" />
-	<ctl name="RX COMP1" value="2" />
-	<ctl name="COMP2 Switch" value="2" />
-	<ctl name="TX COMP2" value="2" />
-	<ctl name="RX COMP2" value="2" />
-	<ctl name="HPHL COMP Switch" value="2" />
-	<ctl name="TX HPHL COMP" value="2" />
-	<ctl name="RX HPHL COMP" value="2" />
-	<ctl name="HPHR COMP Switch" value="2" />
-	<ctl name="TX HPHR COMP" value="2" />
-	<ctl name="RX HPHR COMP" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="84" />
@@ -25750,18 +25589,6 @@
 	<ctl name="SLIM_7_RX SampleRate" value="KHZ_176P4" />
 	<ctl name="SLIM_7_TX Format" value="S64_LE" />
 	<ctl name="SLIM_7_RX Format" value="S64_LE" />
-	<ctl name="COMP1 Switch" value="2" />
-	<ctl name="TX COMP1" value="2" />
-	<ctl name="RX COMP1" value="2" />
-	<ctl name="COMP2 Switch" value="2" />
-	<ctl name="TX COMP2" value="2" />
-	<ctl name="RX COMP2" value="2" />
-	<ctl name="HPHL COMP Switch" value="2" />
-	<ctl name="TX HPHL COMP" value="2" />
-	<ctl name="RX HPHL COMP" value="2" />
-	<ctl name="HPHR COMP Switch" value="2" />
-	<ctl name="TX HPHR COMP" value="2" />
-	<ctl name="RX HPHR COMP" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="84" />
@@ -25837,18 +25664,6 @@
 	<ctl name="SLIM_8_RX SampleRate" value="KHZ_176P4" />
 	<ctl name="SLIM_8_TX Format" value="S96_LE" />
 	<ctl name="SLIM_8_RX Format" value="S96_LE" />
-	<ctl name="COMP1 Switch" value="2" />
-	<ctl name="TX COMP1" value="2" />
-	<ctl name="RX COMP1" value="2" />
-	<ctl name="COMP2 Switch" value="2" />
-	<ctl name="TX COMP2" value="2" />
-	<ctl name="RX COMP2" value="2" />
-	<ctl name="HPHL COMP Switch" value="2" />
-	<ctl name="TX HPHL COMP" value="2" />
-	<ctl name="RX HPHL COMP" value="2" />
-	<ctl name="HPHR COMP Switch" value="2" />
-	<ctl name="TX HPHR COMP" value="2" />
-	<ctl name="RX HPHR COMP" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="84" />
@@ -25965,18 +25780,6 @@
 	<ctl name="SLIM_7_RX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_7_TX Format" value="S16_LE" />
 	<ctl name="SLIM_7_RX Format" value="S16_LE" />
-	<ctl name="COMP1 Switch" value="2" />
-	<ctl name="TX COMP1" value="2" />
-	<ctl name="RX COMP1" value="2" />
-	<ctl name="COMP2 Switch" value="2" />
-	<ctl name="TX COMP2" value="2" />
-	<ctl name="RX COMP2" value="2" />
-	<ctl name="HPHL COMP Switch" value="2" />
-	<ctl name="TX HPHL COMP" value="2" />
-	<ctl name="RX HPHL COMP" value="2" />
-	<ctl name="HPHR COMP Switch" value="2" />
-	<ctl name="TX HPHR COMP" value="2" />
-	<ctl name="RX HPHR COMP" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="84" />
@@ -26006,18 +25809,6 @@
 	<ctl name="SLIM_8_RX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_8_TX Format" value="S24_LE" />
 	<ctl name="SLIM_8_RX Format" value="S24_LE" />
-	<ctl name="COMP1 Switch" value="2" />
-	<ctl name="TX COMP1" value="2" />
-	<ctl name="RX COMP1" value="2" />
-	<ctl name="COMP2 Switch" value="2" />
-	<ctl name="TX COMP2" value="2" />
-	<ctl name="RX COMP2" value="2" />
-	<ctl name="HPHL COMP Switch" value="2" />
-	<ctl name="TX HPHL COMP" value="2" />
-	<ctl name="RX HPHL COMP" value="2" />
-	<ctl name="HPHR COMP Switch" value="2" />
-	<ctl name="TX HPHR COMP" value="2" />
-	<ctl name="RX HPHR COMP" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="84" />
@@ -26047,18 +25838,6 @@
 	<ctl name="SLIM_7_RX SampleRate" value="KHZ_176P4" />
 	<ctl name="SLIM_7_TX Format" value="S64_LE" />
 	<ctl name="SLIM_7_RX Format" value="S64_LE" />
-	<ctl name="COMP1 Switch" value="2" />
-	<ctl name="TX COMP1" value="2" />
-	<ctl name="RX COMP1" value="2" />
-	<ctl name="COMP2 Switch" value="2" />
-	<ctl name="TX COMP2" value="2" />
-	<ctl name="RX COMP2" value="2" />
-	<ctl name="HPHL COMP Switch" value="2" />
-	<ctl name="TX HPHL COMP" value="2" />
-	<ctl name="RX HPHL COMP" value="2" />
-	<ctl name="HPHR COMP Switch" value="2" />
-	<ctl name="TX HPHR COMP" value="2" />
-	<ctl name="RX HPHR COMP" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="84" />
@@ -26134,18 +25913,6 @@
 	<ctl name="SLIM_8_RX SampleRate" value="KHZ_176P4" />
 	<ctl name="SLIM_8_TX Format" value="S96_LE" />
 	<ctl name="SLIM_8_RX Format" value="S96_LE" />
-	<ctl name="COMP1 Switch" value="2" />
-	<ctl name="TX COMP1" value="2" />
-	<ctl name="RX COMP1" value="2" />
-	<ctl name="COMP2 Switch" value="2" />
-	<ctl name="TX COMP2" value="2" />
-	<ctl name="RX COMP2" value="2" />
-	<ctl name="HPHL COMP Switch" value="2" />
-	<ctl name="TX HPHL COMP" value="2" />
-	<ctl name="RX HPHL COMP" value="2" />
-	<ctl name="HPHR COMP Switch" value="2" />
-	<ctl name="TX HPHR COMP" value="2" />
-	<ctl name="RX HPHR COMP" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="84" />
