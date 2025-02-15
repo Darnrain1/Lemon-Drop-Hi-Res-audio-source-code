@@ -47,7 +47,7 @@ BIT = 24<br>
 True Native Mode? Yes.<br>
 
 
-latest release: v299.2<br>
+latest release: v300.2<br>
 
 "Sounds amazing, outstanding and breathtaking" - Darnrain1<br>
 
