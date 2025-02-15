@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble v299.2 -->
+	<!-- Lemon Drop Hi-Res treble v300.2 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True_Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -27509,12 +27509,6 @@
 	<!-- Start of loopback devices -->
 	
 	<path name="loopback_earpiece">
-	<ctl name="HPHL LDAC Switch" value="1" />
-	<ctl name="TX HPHL LDAC" value="1" />
-	<ctl name="RX HPHL LDAC" value="1" />
-	<ctl name="HPHR RDAC Switch" value="0" />
-	<ctl name="TX HPHR RDAC" value="0" />
-	<ctl name="RX HPHR RDAC" value="0" />
 	<path name="handset" />
 	</path>
 	
@@ -27535,13 +27529,50 @@
 	
 	<!-- Added -->
 	<path name="loopback_headphone">
-	<path name="true-native-mode-HPH" />
-	<path name="true-native-mode-HPH-vbat" />
-	<path name="headphone" />
+	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="RX1 Digital Volume" value="84" />
+	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="RX1 Mix Digital Volume" value="84" />
+	<ctl name="2 Digital Volume Switch" value="2" />
+	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="RX2 Digital Volume" value="84" />
+	<ctl name="2 Mix Digital Volume Switch" value="2" />
+	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="RX2 Mix Digital Volume" value="84" />
+	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="TX HPHL Volume" value="16" />
+	<ctl name="RX HPHL Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="2" />
+	<ctl name="TX HPHR Volume" value="16" />
+	<ctl name="RX HPHR Volume" value="16" />
+	<path name="bluetooth-16bit" />
+	<path name="bluetooth-24bit" />
+	<path name="headphone-16bit" />
+	<path name="headphone-24bit" />
 	</path>
 	
 	<!-- Added -->
 	<path name="loopback_headphones">
+	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="RX1 Digital Volume" value="84" />
+	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="RX1 Mix Digital Volume" value="84" />
+	<ctl name="2 Digital Volume Switch" value="2" />
+	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="RX2 Digital Volume" value="84" />
+	<ctl name="2 Mix Digital Volume Switch" value="2" />
+	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="RX2 Mix Digital Volume" value="84" />
+	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="TX HPHL Volume" value="16" />
+	<ctl name="RX HPHL Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="2" />
+	<ctl name="TX HPHR Volume" value="16" />
+	<ctl name="RX HPHR Volume" value="16" />
 	<path name="voice-headphones" />
 	</path>
 	
