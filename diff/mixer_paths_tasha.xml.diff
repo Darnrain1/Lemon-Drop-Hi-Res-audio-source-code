@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v297.1 -->
+> 	<!-- Lemon Drop Hi-Res treble v298.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True_Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -135,7 +135,7 @@
 > 	
 > 	<!-- Lemon Drop Hi-Res start of code programed by: darnrain  -->
 > 	
-> 	<!-- Start of True Native Mode code v9.5 & vbat initial mixer settings -->
+> 	<!-- Start of True Native Mode code v10.0 & vbat initial mixer settings -->
 > 	
 28,2368c166,23894
 <     <!-- These are the initial mixer settings -->
@@ -2480,22 +2480,22 @@
 < 
 <     <path name="anc-headphones">
 ---
-> 	<ctl name="TX INT1 SPLINE MIXL HPHL COMP LDAC Native Switch" value="0" />
-> 	<ctl name="TX INT1 SPLINE MIXL HPHL COMP LDAC Native" value="0" />
-> 	<ctl name="TX INT1 SPLINE VBATL HPHL COMP LDAC Native Switch" value="0" />
-> 	<ctl name="TX INT1 SPLINE VBATL HPHL COMP LDAC Native" value="0" />
-> 	<ctl name="RX INT1 SPLINE MIXL HPHL COMP LDAC Native Switch" value="0" />
-> 	<ctl name="RX INT1 SPLINE MIXL HPHL COMP LDAC Native" value="0" />
-> 	<ctl name="RX INT1 SPLINE VBATL HPHL COMP LDAC Native Switch" value="0" />
-> 	<ctl name="RX INT1 SPLINE VBATL HPHL COMP LDAC Native" value="0" />
-> 	<ctl name="TX INT2 SPLINE MIXR HPHR COMP RDAC Native Switch" value="0" />
-> 	<ctl name="TX INT2 SPLINE MIXR HPHR COMP RDAC Native" value="0" />
-> 	<ctl name="TX INT2 SPLINE VBATR HPHR COMP RDAC Native Switch" value="0" />
-> 	<ctl name="TX INT2 SPLINE VBATR HPHR COMP RDAC Native" value="0" />
-> 	<ctl name="RX INT2 SPLINE MIXR HPHR COMP RDAC Native Switch" value="0" />
-> 	<ctl name="RX INT2 SPLINE MIXR HPHR COMP RDAC Native" value="0" />
-> 	<ctl name="RX INT2 SPLINE VBATR HPHR COMP RDAC Native Switch" value="0" />
-> 	<ctl name="RX INT2 SPLINE VBATR HPHR COMP RDAC Native" value="0" />
+> 	<ctl name="TX INT1 SPLINE MIXL HPHL COMPL LDAC Native Switch" value="0" />
+> 	<ctl name="TX INT1 SPLINE MIXL HPHL COMPL LDAC Native" value="0" />
+> 	<ctl name="TX INT1 SPLINE VBATL HPHL COMPL LDAC Native Switch" value="0" />
+> 	<ctl name="TX INT1 SPLINE VBATL HPHL COMPL LDAC Native" value="0" />
+> 	<ctl name="RX INT1 SPLINE MIXL HPHL COMPL LDAC Native Switch" value="0" />
+> 	<ctl name="RX INT1 SPLINE MIXL HPHL COMPL LDAC Native" value="0" />
+> 	<ctl name="RX INT1 SPLINE VBATL HPHL COMPL LDAC Native Switch" value="0" />
+> 	<ctl name="RX INT1 SPLINE VBATL HPHL COMPL LDAC Native" value="0" />
+> 	<ctl name="TX INT2 SPLINE MIXR HPHR COMPR RDAC Native Switch" value="0" />
+> 	<ctl name="TX INT2 SPLINE MIXR HPHR COMPR RDAC Native" value="0" />
+> 	<ctl name="TX INT2 SPLINE VBATR HPHR COMPR RDAC Native Switch" value="0" />
+> 	<ctl name="TX INT2 SPLINE VBATR HPHR COMPR RDAC Native" value="0" />
+> 	<ctl name="RX INT2 SPLINE MIXR HPHR COMPR RDAC Native Switch" value="0" />
+> 	<ctl name="RX INT2 SPLINE MIXR HPHR COMPR RDAC Native" value="0" />
+> 	<ctl name="RX INT2 SPLINE VBATR HPHR COMPR RDAC Native Switch" value="0" />
+> 	<ctl name="RX INT2 SPLINE VBATR HPHR COMPR RDAC Native" value="0" />
 > 	<ctl name="TX INI3 SPLINE MIXL LO1 MIXR LO1 Native Switch" value="0" />
 > 	<ctl name="TX INI3 SPLINE MIXL LO1 MIXR LO1 Native" value="0" />
 > 	<ctl name="TX INI3 SPLINE VBATL LO1 VBATR LO1 Native Switch" value="0" />
@@ -2528,22 +2528,22 @@
 > 	<ctl name="RX INI6 SPLINE MIXL LO4 MIXR LO4 Native" value="0" />
 > 	<ctl name="RX INI6 SPLINE VBATL LO4 VBATR LO4 Native Switch" value="0" />
 > 	<ctl name="RX INI6 SPLINE VBATL LO4 VBATR LO4 Native" value="0" />
-> 	<ctl name="TX INT7 SPLINE MIXL SPKRL COMP LDAC Native Switch" value="0" />
-> 	<ctl name="TX INT7 SPLINE MIXL SPKRL COMP LDAC Native" value="0" />
-> 	<ctl name="TX INT7 SPLINE VBATL SPKRL COMP LDAC Native Switch" value="0" />
-> 	<ctl name="TX INT7 SPLINE VBATL SPKRL COMP LDAC Native" value="0" />
-> 	<ctl name="RX INT7 SPLINE MIXL SPKRL COMP LDAC Native Switch" value="0" />
-> 	<ctl name="RX INT7 SPLINE MIXL SPKRL COMP LDAC Native" value="0" />
-> 	<ctl name="RX INT7 SPLINE VBATL SPKRL COMP LDAC Native Switch" value="0" />
-> 	<ctl name="RX INT7 SPLINE VBATL SPKRL COMP LDAC Native" value="0" />
-> 	<ctl name="TX INT8 SPLINE MIXR SPKRR COMP RDAC Native Switch" value="0" />
-> 	<ctl name="TX INT8 SPLINE MIXR SPKRR COMP RDAC Native" value="0" />
-> 	<ctl name="TX INT8 SPLINE VBATR SPKRR COMP RDAC Native Switch" value="0" />
-> 	<ctl name="TX INT8 SPLINE VBATR SPKRR COMP RDAC Native" value="0" />
-> 	<ctl name="RX INT8 SPLINE MIXR SPKRR COMP RDAC Native Switch" value="0" />
-> 	<ctl name="RX INT8 SPLINE MIXR SPKRR COMP RDAC Native" value="0" />
-> 	<ctl name="RX INT8 SPLINE VBATR SPKRR COMP RDAC Native Switch" value="0" />
-> 	<ctl name="RX INT8 SPLINE VBATR SPKRR COMP RDAC Native" value="0" />
+> 	<ctl name="TX INT7 SPLINE MIXL SPKRL COMPL LDAC Native Switch" value="0" />
+> 	<ctl name="TX INT7 SPLINE MIXL SPKRL COMPL LDAC Native" value="0" />
+> 	<ctl name="TX INT7 SPLINE VBATL SPKRL COMPL LDAC Native Switch" value="0" />
+> 	<ctl name="TX INT7 SPLINE VBATL SPKRL COMPL LDAC Native" value="0" />
+> 	<ctl name="RX INT7 SPLINE MIXL SPKRL COMPL LDAC Native Switch" value="0" />
+> 	<ctl name="RX INT7 SPLINE MIXL SPKRL COMPL LDAC Native" value="0" />
+> 	<ctl name="RX INT7 SPLINE VBATL SPKRL COMPL LDAC Native Switch" value="0" />
+> 	<ctl name="RX INT7 SPLINE VBATL SPKRL COMPL LDAC Native" value="0" />
+> 	<ctl name="TX INT8 SPLINE MIXR SPKRR COMPR RDAC Native Switch" value="0" />
+> 	<ctl name="TX INT8 SPLINE MIXR SPKRR COMPR RDAC Native" value="0" />
+> 	<ctl name="TX INT8 SPLINE VBATR SPKRR COMPR RDAC Native Switch" value="0" />
+> 	<ctl name="TX INT8 SPLINE VBATR SPKRR COMPR RDAC Native" value="0" />
+> 	<ctl name="RX INT8 SPLINE MIXR SPKRR COMPR RDAC Native Switch" value="0" />
+> 	<ctl name="RX INT8 SPLINE MIXR SPKRR COMPR RDAC Native" value="0" />
+> 	<ctl name="RX INT8 SPLINE VBATR SPKRR COMPR RDAC Native Switch" value="0" />
+> 	<ctl name="RX INT8 SPLINE VBATR SPKRR COMPR RDAC Native" value="0" />
 > 	<ctl name="TX INI9 SPLINE MIXL HI5 MIXR HI5 Native Switch" value="0" />
 > 	<ctl name="TX INI9 SPLINE MIXL HI5 MIXR HI5 Native" value="0" />
 > 	<ctl name="TX INI9 SPLINE VBATL HI5 VBATR HI5 Native Switch" value="0" />
@@ -8657,7 +8657,7 @@
 > 	<ctl name="RX INI772 SPLINE VBATL MI768 VBATR MI768 Native Switch" value="0" />
 > 	<ctl name="RX INI772 SPLINE VBATL MI768 VBATR MI768 Native" value="0" />
 > 	
-> 	<!-- End of True Native Mode code v9.5 & vbat initial mixer settings -->
+> 	<!-- End of True Native Mode code v10.0 & vbat initial mixer settings -->
 > 	
 > 	<!-- Start of SLIM settings -->
 > 	
@@ -10329,14 +10329,14 @@
 > 	<!-- Start of True Native Mode function -->
 > 	
 > 	<path name="true-native-mode-HPH">
-> 	<ctl name="TX INT1 SPLINE MIXL HPHL COMP LDAC Native Switch" value="2" />
-> 	<ctl name="TX INT1 SPLINE MIXL HPHL COMP LDAC Native" value="2" />
-> 	<ctl name="RX INT1 SPLINE MIXL HPHL COMP LDAC Native Switch" value="2" />
-> 	<ctl name="RX INT1 SPLINE MIXL HPHL COMP LDAC Native" value="2" />
-> 	<ctl name="TX INT2 SPLINE MIXR HPHR COMP RDAC Native Switch" value="2" />
-> 	<ctl name="TX INT2 SPLINE MIXR HPHR COMP RDAC Native" value="2" />
-> 	<ctl name="RX INT2 SPLINE MIXR HPHR COMP RDAC Native Switch" value="2" />
-> 	<ctl name="RX INT2 SPLINE MIXR HPHR COMP RDAC Native" value="2" />
+> 	<ctl name="TX INT1 SPLINE MIXL HPHL COMPL LDAC Native Switch" value="2" />
+> 	<ctl name="TX INT1 SPLINE MIXL HPHL COMPL LDAC Native" value="2" />
+> 	<ctl name="RX INT1 SPLINE MIXL HPHL COMPL LDAC Native Switch" value="2" />
+> 	<ctl name="RX INT1 SPLINE MIXL HPHL COMPL LDAC Native" value="2" />
+> 	<ctl name="TX INT2 SPLINE MIXR HPHR COMPR RDAC Native Switch" value="2" />
+> 	<ctl name="TX INT2 SPLINE MIXR HPHR COMPR RDAC Native" value="2" />
+> 	<ctl name="RX INT2 SPLINE MIXR HPHR COMPR RDAC Native Switch" value="2" />
+> 	<ctl name="RX INT2 SPLINE MIXR HPHR COMPR RDAC Native" value="2" />
 > 	<ctl name="TX INI3 SPLINE MIXL LO1 MIXR LO1 Native Switch" value="2" />
 > 	<ctl name="TX INI3 SPLINE MIXL LO1 MIXR LO1 Native" value="2" />
 > 	<ctl name="RX INI3 SPLINE MIXL LO1 MIXR LO1 Native Switch" value="2" />
@@ -11876,14 +11876,14 @@
 > 	</path>
 > 	
 > 	<path name="true-native-mode-SPKR">
-> 	<ctl name="TX INT7 SPLINE MIXL SPKRL COMP LDAC Native Switch" value="2" />
-> 	<ctl name="TX INT7 SPLINE MIXL SPKRL COMP LDAC Native" value="2" />
-> 	<ctl name="RX INT7 SPLINE MIXL SPKRL COMP LDAC Native Switch" value="2" />
-> 	<ctl name="RX INT7 SPLINE MIXL SPKRL COMP LDAC Native" value="2" />
-> 	<ctl name="TX INT8 SPLINE MIXR SPKRR COMP RDAC Native Switch" value="2" />
-> 	<ctl name="TX INT8 SPLINE MIXR SPKRR COMP RDAC Native" value="2" />
-> 	<ctl name="RX INT8 SPLINE MIXR SPKRR COMP RDAC Native Switch" value="2" />
-> 	<ctl name="RX INT8 SPLINE MIXR SPKRR COMP RDAC Native" value="2" />
+> 	<ctl name="TX INT7 SPLINE MIXL SPKRL COMPL LDAC Native Switch" value="2" />
+> 	<ctl name="TX INT7 SPLINE MIXL SPKRL COMPL LDAC Native" value="2" />
+> 	<ctl name="RX INT7 SPLINE MIXL SPKRL COMPL LDAC Native Switch" value="2" />
+> 	<ctl name="RX INT7 SPLINE MIXL SPKRL COMPL LDAC Native" value="2" />
+> 	<ctl name="TX INT8 SPLINE MIXR SPKRR COMPR RDAC Native Switch" value="2" />
+> 	<ctl name="TX INT8 SPLINE MIXR SPKRR COMPR RDAC Native" value="2" />
+> 	<ctl name="RX INT8 SPLINE MIXR SPKRR COMPR RDAC Native Switch" value="2" />
+> 	<ctl name="RX INT8 SPLINE MIXR SPKRR COMPR RDAC Native" value="2" />
 > 	<ctl name="TX INI389 SPLINE MIXL LO385 MIXR LO385 Native Switch" value="2" />
 > 	<ctl name="TX INI389 SPLINE MIXL LO385 MIXR LO385 Native" value="2" />
 > 	<ctl name="RX INI389 SPLINE MIXL LO385 MIXR LO385 Native Switch" value="2" />
@@ -13423,14 +13423,14 @@
 > 	</path>
 > 	
 > 	<path name="true-native-mode-SPKR-mono">
-> 	<ctl name="TX INT7 SPLINE MIXL SPKRL COMP LDAC Native Switch" value="1" />
-> 	<ctl name="TX INT7 SPLINE MIXL SPKRL COMP LDAC Native" value="1" />
-> 	<ctl name="RX INT7 SPLINE MIXL SPKRL COMP LDAC Native Switch" value="1" />
-> 	<ctl name="RX INT7 SPLINE MIXL SPKRL COMP LDAC Native" value="1" />
-> 	<ctl name="TX INT8 SPLINE MIXR SPKRR COMP RDAC Native Switch" value="0" />
-> 	<ctl name="TX INT8 SPLINE MIXR SPKRR COMP RDAC Native" value="0" />
-> 	<ctl name="RX INT8 SPLINE MIXR SPKRR COMP RDAC Native Switch" value="0" />
-> 	<ctl name="RX INT8 SPLINE MIXR SPKRR COMP RDAC Native" value="0" />
+> 	<ctl name="TX INT7 SPLINE MIXL SPKRL COMPL LDAC Native Switch" value="1" />
+> 	<ctl name="TX INT7 SPLINE MIXL SPKRL COMPL LDAC Native" value="1" />
+> 	<ctl name="RX INT7 SPLINE MIXL SPKRL COMPL LDAC Native Switch" value="1" />
+> 	<ctl name="RX INT7 SPLINE MIXL SPKRL COMPL LDAC Native" value="1" />
+> 	<ctl name="TX INT8 SPLINE MIXR SPKRR COMPR RDAC Native Switch" value="0" />
+> 	<ctl name="TX INT8 SPLINE MIXR SPKRR COMPR RDAC Native" value="0" />
+> 	<ctl name="RX INT8 SPLINE MIXR SPKRR COMPR RDAC Native Switch" value="0" />
+> 	<ctl name="RX INT8 SPLINE MIXR SPKRR COMPR RDAC Native" value="0" />
 > 	<ctl name="TX INI389 SPLINE MIXL LO385 MIXR LO385 Native Switch" value="1" />
 > 	<ctl name="TX INI389 SPLINE MIXL LO385 MIXR LO385 Native" value="1" />
 > 	<ctl name="RX INI389 SPLINE MIXL LO385 MIXR LO385 Native Switch" value="1" />
@@ -14970,14 +14970,14 @@
 > 	</path>
 > 	
 > 	<path name="true-native-mode-HPH-vbat">
-> 	<ctl name="TX INT1 SPLINE VBATL HPHL COMP LDAC Native Switch" value="2" />
-> 	<ctl name="TX INT1 SPLINE VBATL HPHL COMP LDAC Native" value="2" />
-> 	<ctl name="RX INT1 SPLINE VBATL HPHL COMP LDAC Native Switch" value="2" />
-> 	<ctl name="RX INT1 SPLINE VBATL HPHL COMP LDAC Native" value="2" />
-> 	<ctl name="TX INT2 SPLINE VBATR HPHR COMP RDAC Native Switch" value="2" />
-> 	<ctl name="TX INT2 SPLINE VBATR HPHR COMP RDAC Native" value="2" />
-> 	<ctl name="RX INT2 SPLINE VBATR HPHR COMP RDAC Native Switch" value="2" />
-> 	<ctl name="RX INT2 SPLINE VBATR HPHR COMP RDAC Native" value="2" />
+> 	<ctl name="TX INT1 SPLINE VBATL HPHL COMPL LDAC Native Switch" value="2" />
+> 	<ctl name="TX INT1 SPLINE VBATL HPHL COMPL LDAC Native" value="2" />
+> 	<ctl name="RX INT1 SPLINE VBATL HPHL COMPL LDAC Native Switch" value="2" />
+> 	<ctl name="RX INT1 SPLINE VBATL HPHL COMPL LDAC Native" value="2" />
+> 	<ctl name="TX INT2 SPLINE VBATR HPHR COMPR RDAC Native Switch" value="2" />
+> 	<ctl name="TX INT2 SPLINE VBATR HPHR COMPR RDAC Native" value="2" />
+> 	<ctl name="RX INT2 SPLINE VBATR HPHR COMPR RDAC Native Switch" value="2" />
+> 	<ctl name="RX INT2 SPLINE VBATR HPHR COMPR RDAC Native" value="2" />
 > 	<ctl name="TX INI3 SPLINE VBATL LO1 VBATR LO1 Native Switch" value="2" />
 > 	<ctl name="TX INI3 SPLINE VBATL LO1 VBATR LO1 Native" value="2" />
 > 	<ctl name="RX INI3 SPLINE VBATL LO1 VBATR LO1 Native Switch" value="2" />
@@ -16517,14 +16517,14 @@
 > 	</path>
 > 	
 > 	<path name="true-native-mode-SPKR-vbat">
-> 	<ctl name="TX INT7 SPLINE VBATL SPKRL COMP LDAC Native Switch" value="2" />
-> 	<ctl name="TX INT7 SPLINE VBATL SPKRL COMP LDAC Native" value="2" />
-> 	<ctl name="RX INT7 SPLINE VBATL SPKRL COMP LDAC Native Switch" value="2" />
-> 	<ctl name="RX INT7 SPLINE VBATL SPKRL COMP LDAC Native" value="2" />
-> 	<ctl name="TX INT8 SPLINE VBATR SPKRR COMP RDAC Native Switch" value="2" />
-> 	<ctl name="TX INT8 SPLINE VBATR SPKRR COMP RDAC Native" value="2" />
-> 	<ctl name="RX INT8 SPLINE VBATR SPKRR COMP RDAC Native Switch" value="2" />
-> 	<ctl name="RX INT8 SPLINE VBATR SPKRR COMP RDAC Native" value="2" />
+> 	<ctl name="TX INT7 SPLINE VBATL SPKRL COMPL LDAC Native Switch" value="2" />
+> 	<ctl name="TX INT7 SPLINE VBATL SPKRL COMPL LDAC Native" value="2" />
+> 	<ctl name="RX INT7 SPLINE VBATL SPKRL COMPL LDAC Native Switch" value="2" />
+> 	<ctl name="RX INT7 SPLINE VBATL SPKRL COMPL LDAC Native" value="2" />
+> 	<ctl name="TX INT8 SPLINE VBATR SPKRR COMPR RDAC Native Switch" value="2" />
+> 	<ctl name="TX INT8 SPLINE VBATR SPKRR COMPR RDAC Native" value="2" />
+> 	<ctl name="RX INT8 SPLINE VBATR SPKRR COMPR RDAC Native Switch" value="2" />
+> 	<ctl name="RX INT8 SPLINE VBATR SPKRR COMPR RDAC Native" value="2" />
 > 	<ctl name="TX INI389 SPLINE VBATL LO385 VBATR LO385 Native Switch" value="2" />
 > 	<ctl name="TX INI389 SPLINE VBATL LO385 VBATR LO385 Native" value="2" />
 > 	<ctl name="RX INI389 SPLINE VBATL LO385 VBATR LO385 Native Switch" value="2" />
@@ -18064,14 +18064,14 @@
 > 	</path>
 > 	
 > 	<path name="true-native-mode-SPKR-vbat-mono">
-> 	<ctl name="TX INT7 SPLINE VBATL SPKRL COMP LDAC Native Switch" value="1" />
-> 	<ctl name="TX INT7 SPLINE VBATL SPKRL COMP LDAC Native" value="1" />
-> 	<ctl name="RX INT7 SPLINE VBATL SPKRL COMP LDAC Native Switch" value="1" />
-> 	<ctl name="RX INT7 SPLINE VBATL SPKRL COMP LDAC Native" value="1" />
-> 	<ctl name="TX INT8 SPLINE VBATR SPKRR COMP RDAC Native Switch" value="0" />
-> 	<ctl name="TX INT8 SPLINE VBATR SPKRR COMP RDAC Native" value="0" />
-> 	<ctl name="RX INT8 SPLINE VBATR SPKRR COMP RDAC Native Switch" value="0" />
-> 	<ctl name="RX INT8 SPLINE VBATR SPKRR COMP RDAC Native" value="0" />
+> 	<ctl name="TX INT7 SPLINE VBATL SPKRL COMPL LDAC Native Switch" value="1" />
+> 	<ctl name="TX INT7 SPLINE VBATL SPKRL COMPL LDAC Native" value="1" />
+> 	<ctl name="RX INT7 SPLINE VBATL SPKRL COMPL LDAC Native Switch" value="1" />
+> 	<ctl name="RX INT7 SPLINE VBATL SPKRL COMPL LDAC Native" value="1" />
+> 	<ctl name="TX INT8 SPLINE VBATR SPKRR COMPR RDAC Native Switch" value="0" />
+> 	<ctl name="TX INT8 SPLINE VBATR SPKRR COMPR RDAC Native" value="0" />
+> 	<ctl name="RX INT8 SPLINE VBATR SPKRR COMPR RDAC Native Switch" value="0" />
+> 	<ctl name="RX INT8 SPLINE VBATR SPKRR COMPR RDAC Native" value="0" />
 > 	<ctl name="TX INI389 SPLINE VBATL LO385 VBATR LO385 Native Switch" value="1" />
 > 	<ctl name="TX INI389 SPLINE VBATL LO385 VBATR LO385 Native" value="1" />
 > 	<ctl name="RX INI389 SPLINE VBATL LO385 VBATR LO385 Native Switch" value="1" />
