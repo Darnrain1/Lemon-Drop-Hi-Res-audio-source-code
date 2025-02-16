@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble v301.1 -->
+	<!-- Lemon Drop Hi-Res treble v302.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True_Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -27190,7 +27190,7 @@
 
 
 	<path name="vbat_bluetooth-16bit">
-	<path name="true-native-mode-HPH" />
+	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIM_7_TX Channels" value="Sevenhundredsixtyeight" />
 	<ctl name="SLIM_7_RX Channels" value="Sevenhundredsixtyeight" />
 	<ctl name="SLIM_7_TX SampleRate" value="KHZ_44P1" />
@@ -27219,7 +27219,7 @@
 	</path>
 
 	<path name="vbat_bluetooth-24bit">
-	<path name="true-native-mode-HPH" />
+	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIM_8_TX Channels" value="Sevenhundredsixtyeight" />
 	<ctl name="SLIM_8_RX Channels" value="Sevenhundredsixtyeight" />
 	<ctl name="SLIM_8_TX SampleRate" value="KHZ_44P1" />
