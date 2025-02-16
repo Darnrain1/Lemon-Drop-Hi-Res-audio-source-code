@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v303.1 -->
+> 	<!-- Lemon Drop Hi-Res treble v304.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True_Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -26468,22 +26468,22 @@
 > 	<!-- speaker-16bit & speaker-24bit are the QuadDAC 16bit & 24bit side -->
 > 	
 > 	<!-- This is how I calculated the amount of channels for speaker-16bit -->
-> 	<!-- 3072 X 4 = 12288 -->
+> 	<!-- 768 X 16 = 12288 -->
 > 	
 > 	<!-- This is how I calculated the kilohertz for speaker-16bit -->
-> 	<!-- 176.4 X 4 = 705.6 -->
+> 	<!-- 44.1 X 16 = 705.6 -->
 > 	
 > 	<!-- This is how I calculated the bit rate for speaker-16bit -->
-> 	<!-- 64 X 4 = 256 -->
+> 	<!-- 16 X 16 = 256 -->
 > 	
 > 	<!-- This is how I calculated the amount of channels for speaker-24bit -->
 > 	<!-- 3072 X 4 = 12288 -->
 > 	
 > 	<!-- This is how I calculated the kilohertz for speaker-24bit -->
-> 	<!-- 176.4 X 4 = 705.6 -->
+> 	<!-- 768 X 16 = 12288 -->
 > 	
 > 	<!-- This is how I calculated the bit rate for speaker-24bit -->
-> 	<!-- 96 X 4 = 384 -->
+> 	<!-- 24 X 16 = 384 -->
 > 	
 > 	<!-- Saber ESS DAC mono side -->
 > 	
@@ -27729,7 +27729,7 @@
 > 	</path>
 > 	
 > 	<path name="voice-anc-headphones">
-2467,3898c25325,28335
+2467,3898c25325,28315
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="1" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -30659,26 +30659,6 @@
 > 	
 > 	<!-- Welcome to the headphone control center -->
 > 	
-> 	<!-- This is how I calculated the amount of channels for 16bit side -->
-> 	<!-- There are 768 True Native Mode mixer paths -->
-> 	<!-- 768 X 4 = 3072 -->
-> 	
-> 	<!-- This is how I calculated the kilohertz 16bit side -->
-> 	<!-- 44.1 X 4 = 176.4 -->
-> 	
-> 	<!-- This is how I calculated the bit-rate 16bit side -->
-> 	<!-- 16 X 4 = 64 -->
-> 	
-> 	<!-- This is how I calculated the amount of channels for 24bit side -->
-> 	<!-- There are 384 True Native Mode mixer paths -->
-> 	<!-- 768 X 4 = 3072 -->
-> 	
-> 	<!-- This is how I calculated the kilohertz 24bit side -->
-> 	<!-- 44.1 X 4 = 176.4 -->
-> 	
-> 	<!-- This is how I calculated the bit-rate 24bit side -->
-> 	<!-- 24 X 4 = 96 -->
-> 	
 > 	<path name="headphone">
 > 	<path name="true-native-mode-HPH" />
 > 	<path name="true-native-mode-HPH-vbat" />
@@ -30855,12 +30835,12 @@
 > 	
 > 	<path name="headphone-16bit">
 > 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIM_7_TX Channels" value="Threethousandandseventytwo" />
-> 	<ctl name="SLIM_7_RX Channels" value="Threethousandandseventytwo" />
-> 	<ctl name="SLIM_7_TX SampleRate" value="KHZ_176P4" />
-> 	<ctl name="SLIM_7_RX SampleRate" value="KHZ_176P4" />
-> 	<ctl name="SLIM_7_TX Format" value="S64_LE" />
-> 	<ctl name="SLIM_7_RX Format" value="S64_LE" />
+> 	<ctl name="SLIM_7_TX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_7_RX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_7_TX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_7_RX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_7_TX Format" value="S16_LE" />
+> 	<ctl name="SLIM_7_RX Format" value="S16_LE" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -30930,12 +30910,12 @@
 > 	
 > 	<path name="headphone-24bit">
 > 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIM_8_TX Channels" value="Threethousandandseventytwo" />
-> 	<ctl name="SLIM_8_RX Channels" value="Threethousandandseventytwo" />
-> 	<ctl name="SLIM_8_TX SampleRate" value="KHZ_176P4" />
-> 	<ctl name="SLIM_8_RX SampleRate" value="KHZ_176P4" />
-> 	<ctl name="SLIM_8_TX Format" value="S96_LE" />
-> 	<ctl name="SLIM_8_RX Format" value="S96_LE" />
+> 	<ctl name="SLIM_8_TX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_8_RX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_8_TX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_8_RX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_8_TX Format" value="S24_LE" />
+> 	<ctl name="SLIM_8_RX Format" value="S24_LE" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -31163,12 +31143,12 @@
 > 	
 > 	<path name="vbat_headphone-16bit">
 > 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIM_7_TX Channels" value="Threethousandandseventytwo" />
-> 	<ctl name="SLIM_7_RX Channels" value="Threethousandandseventytwo" />
-> 	<ctl name="SLIM_7_TX SampleRate" value="KHZ_176P4" />
-> 	<ctl name="SLIM_7_RX SampleRate" value="KHZ_176P4" />
-> 	<ctl name="SLIM_7_TX Format" value="S64_LE" />
-> 	<ctl name="SLIM_7_RX Format" value="S64_LE" />
+> 	<ctl name="SLIM_7_TX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_7_RX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_7_TX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_7_RX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_7_TX Format" value="S16_LE" />
+> 	<ctl name="SLIM_7_RX Format" value="S16_LE" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -31238,12 +31218,12 @@
 > 	
 > 	<path name="vbat_headphone-24bit">
 > 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIM_8_TX Channels" value="Threethousandandseventytwo" />
-> 	<ctl name="SLIM_8_RX Channels" value="Threethousandandseventytwo" />
-> 	<ctl name="SLIM_8_TX SampleRate" value="KHZ_176P4" />
-> 	<ctl name="SLIM_8_RX SampleRate" value="KHZ_176P4" />
-> 	<ctl name="SLIM_8_TX Format" value="S96_LE" />
-> 	<ctl name="SLIM_8_RX Format" value="S96_LE" />
+> 	<ctl name="SLIM_8_TX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_8_RX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_8_TX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_8_RX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_8_TX Format" value="S24_LE" />
+> 	<ctl name="SLIM_8_RX Format" value="S24_LE" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -32174,7 +32154,7 @@
 > 	<path name="speaker-protected" />
 > 	</path>
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
-3899a28337,28339
+3899a28317,28319
 > 	
 > 	
 > 	<!-- Bottom of page -->
