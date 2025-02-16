@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v300.2 -->
+> 	<!-- Lemon Drop Hi-Res treble v301.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True_Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -27651,7 +27651,7 @@
 > 	</path>
 > 	
 > 	<path name="anc-headphones">
-2432,2464c25280,27620
+2432,2464c25280,27697
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -29596,6 +29596,65 @@
 > 	<ctl name="RX HPHR Volume" value="16" />
 > 	<path name="vbat_headphone" />
 > 	</path>
+> 
+> 
+> 	<path name="vbat_bluetooth-16bit">
+> 	<path name="true-native-mode-HPH" />
+> 	<ctl name="SLIM_7_TX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_7_RX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_7_TX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_7_RX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_7_TX Format" value="S16_LE" />
+> 	<ctl name="SLIM_7_RX Format" value="S16_LE" />
+> 	<ctl name="1 Digital Volume Switch" value="2" />
+> 	<ctl name="TX1 Digital Volume" value="84" />
+> 	<ctl name="RX1 Digital Volume" value="84" />
+> 	<ctl name="1 Mix Digital Volume Switch" value="2" />
+> 	<ctl name="TX1 Mix Digital Volume" value="84" />
+> 	<ctl name="RX1 Mix Digital Volume" value="84" />
+> 	<ctl name="2 Digital Volume Switch" value="2" />
+> 	<ctl name="TX2 Digital Volume" value="84" />
+> 	<ctl name="RX2 Digital Volume" value="84" />
+> 	<ctl name="2 Mix Digital Volume Switch" value="2" />
+> 	<ctl name="TX2 Mix Digital Volume" value="84" />
+> 	<ctl name="RX2 Mix Digital Volume" value="84" />
+> 	<ctl name="HPHL Volume Switch" value="2" />
+> 	<ctl name="TX HPHL Volume" value="16" />
+> 	<ctl name="RX HPHL Volume" value="16" />
+> 	<ctl name="HPHR Volume Switch" value="2" />
+> 	<ctl name="TX HPHR Volume" value="16" />
+> 	<ctl name="RX HPHR Volume" value="16" />
+> 	<path name="vbat_headphone" />
+> 	</path>
+> 
+> 	<path name="vbat_bluetooth-24bit">
+> 	<path name="true-native-mode-HPH" />
+> 	<ctl name="SLIM_8_TX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_8_RX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_8_TX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_8_RX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_8_TX Format" value="S24_LE" />
+> 	<ctl name="SLIM_8_RX Format" value="S24_LE" />
+> 	<ctl name="1 Digital Volume Switch" value="2" />
+> 	<ctl name="TX1 Digital Volume" value="84" />
+> 	<ctl name="RX1 Digital Volume" value="84" />
+> 	<ctl name="1 Mix Digital Volume Switch" value="2" />
+> 	<ctl name="TX1 Mix Digital Volume" value="84" />
+> 	<ctl name="RX1 Mix Digital Volume" value="84" />
+> 	<ctl name="2 Digital Volume Switch" value="2" />
+> 	<ctl name="TX2 Digital Volume" value="84" />
+> 	<ctl name="RX2 Digital Volume" value="84" />
+> 	<ctl name="2 Mix Digital Volume Switch" value="2" />
+> 	<ctl name="TX2 Mix Digital Volume" value="84" />
+> 	<ctl name="RX2 Mix Digital Volume" value="84" />
+> 	<ctl name="HPHL Volume Switch" value="2" />
+> 	<ctl name="TX HPHL Volume" value="16" />
+> 	<ctl name="RX HPHL Volume" value="16" />
+> 	<ctl name="HPHR Volume Switch" value="2" />
+> 	<ctl name="TX HPHR Volume" value="16" />
+> 	<ctl name="RX HPHR Volume" value="16" />
+> 	<path name="vbat_headphone" />
+> 	</path>
 > 	
 > 	<path name="vbat_headphone-16bit">
 > 	<path name="true-native-mode-HPH-vbat" />
@@ -29918,6 +29977,24 @@
 > 	<!-- Start of loopback devices -->
 > 	
 > 	<path name="loopback_earpiece">
+> 	<ctl name="7 Digital Volume Switch" value="1" />
+> 	<ctl name="TX7 Digital Volume" value="84" />
+> 	<ctl name="RX7 Digital Volume" value="84" />
+> 	<ctl name="7 Mix Digital Volume Switch" value="1" />
+> 	<ctl name="TX7 Mix Digital Volume" value="84" />
+> 	<ctl name="RX7 Mix Digital Volume" value="84" />
+> 	<ctl name="8 Digital Volume Switch" value="0" />
+> 	<ctl name="TX8 Digital Volume" value="0" />
+> 	<ctl name="RX8 Digital Volume" value="0" />
+> 	<ctl name="8 Mix Digital Volume Switch" value="0" />
+> 	<ctl name="TX8 Mix Digital Volume" value="0" />
+> 	<ctl name="RX8 Mix Digital Volume" value="0" />
+> 	<ctl name="SPKRL Volume Switch" value="1" />
+> 	<ctl name="TX SPKRL Volume" value="16" />
+> 	<ctl name="RX SPKRL Volume" value="16" />
+> 	<ctl name="SPKRR Volume Switch" value="0" />
+> 	<ctl name="TX SPKRR Volume" value="0" />
+> 	<ctl name="RX SPKRR Volume" value="0" />
 > 	<path name="handset" />
 > 	</path>
 > 	
@@ -30027,7 +30104,7 @@
 > 	
 > 	<path name="voip-headphones-aux">
 > 	<path name="voice-headphones" />
-2467,3898c27623,28125
+2467,3898c27700,28202
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="1" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -31964,7 +32041,7 @@
 > 	<path name="speaker-protected" />
 > 	</path>
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
-3899a28127,28129
+3899a28204,28206
 > 	
 > 	
 > 	<!-- Bottom of page -->
