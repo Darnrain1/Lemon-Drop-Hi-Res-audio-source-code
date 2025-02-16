@@ -136,6 +136,18 @@
         <!-- <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_ADVANCED" backend="headphones" interface="SLIMBUS_6_RX" /> -->
         <!-- <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_AUX" backend="headphones" interface="SLIMBUS_6_RX" /> -->
 
+	<!-- added -->
+        <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_BLUETOOTH-16bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_TX" />
+        <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_BLUETOOTH-16bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_RX" />
+        <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_BLUETOOTH-24bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_TX" />
+        <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_BLUETOOTH-24bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_RX" />
+        <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_HEADPHONE-16bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_TX" />
+        <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_HEADPHONE-16bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_RX" />
+		<device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_HEADPHONE-24bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_TX" />
+        <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_HEADPHONE-24bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_RX" />
+
+        <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_DAC" backend="headphones tert-mi2s-headphones" interface="SEC_MI2S_TX" />
+        <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_DAC" backend="headphones tert-mi2s-headphones" interface="SEC_MI2S_RX" />
         <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_DAC" backend="headphones tert-mi2s-headphones" interface="SEC_MI2S_TX" />
         <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_DAC" backend="headphones tert-mi2s-headphones" interface="SEC_MI2S_RX" />
         <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_DAC_ADVANCED" backend="headphones tert-mi2s-headphones" interface="SEC_MI2S_TX" />

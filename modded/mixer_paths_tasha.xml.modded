@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble v302.1 -->
+	<!-- Lemon Drop Hi-Res treble v303.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True_Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -18111,7 +18111,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="deep-buffer-playback" />
 	</path>
-
+	
 	<path name="deep-buffer-playback bluetooth-16bit">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia1" value="2" />
@@ -18286,7 +18286,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="vbat_deep-buffer-playback" />
 	</path>
-
+	
 	<path name="vbat_deep-buffer-playback bluetooth-16bit">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia1" value="2" />
@@ -18518,7 +18518,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="low-latency-playback" />
 	</path>
-
+	
 	<path name="low-latency-playback bluetooth-16bit">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia5" value="2" />
@@ -18690,7 +18690,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="vbat_low-latency-playback" />
 	</path>
-
+	
 	<path name="vbat_low-latency-playback bluetooth-16bit">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia5" value="2" />
@@ -18922,7 +18922,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="audio-ull-playback" />
 	</path>
-
+	
 	<path name="audio-ull-playback bluetooth-16bit">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia3" value="2" />
@@ -19097,7 +19097,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="vbat_audio-ull-playback" />
 	</path>
-
+	
 	<path name="vbat_audio-ull-playback bluetooth-16bit">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia3" value="2" />
@@ -19325,7 +19325,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="compress-offload-playback" />
 	</path>
-
+	
 	<path name="compress-offload-playback bluetooth-16bit">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia4" value="2" />
@@ -19500,7 +19500,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="vbat_compress-offload-playback" />
 	</path>
-
+	
 	<path name="vbat_compress-offload-playback bluetooth-16bit">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia4" value="2" />
@@ -19679,7 +19679,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="compress-offload-playback1" />
 	</path>
-
+	
 	<path name="compress-offload-playback1 bluetooth-16bit">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia6" value="2" />
@@ -19854,7 +19854,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="vbat_compress-offload-playback1" />
 	</path>
-
+	
 	<path name="vbat_compress-offload-playback1 bluetooth-16bit">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia6" value="2" />
@@ -20093,7 +20093,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="compress-offload-playback2" />
 	</path>
-
+	
 	<path name="compress-offload-playback2 bluetooth-16bit">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia7" value="2" />
@@ -20268,7 +20268,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="vbat_compress-offload-playback2" />
 	</path>
-
+	
 	<path name="vbat_compress-offload-playback2 bluetooth-16bit">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia7" value="2" />
@@ -20503,7 +20503,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="compress-offload-playback3" />
 	</path>
-
+	
 	<path name="compress-offload-playback3 bluetooth-16bit">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia10" value="2" />
@@ -20678,7 +20678,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="vbat_compress-offload-playback3" />
 	</path>
-
+	
 	<path name="vbat_compress-offload-playback3 bluetooth-16bit">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia10" value="2" />
@@ -20913,7 +20913,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="compress-offload-playback4" />
 	</path>
-
+	
 	<path name="compress-offload-playback4 bluetooth-16bit">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia11" value="2" />
@@ -21088,7 +21088,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="vbat_compress-offload-playback4" />
 	</path>
-
+	
 	<path name="vbat_compress-offload-playback4 bluetooth-16bit">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia11" value="2" />
@@ -21323,7 +21323,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="compress-offload-playback5" />
 	</path>
-
+	
 	<path name="compress-offload-playback5 bluetooth-16bit">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia12" value="2" />
@@ -21498,7 +21498,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="vbat_compress-offload-playback5" />
 	</path>
-
+	
 	<path name="vbat_compress-offload-playback5 bluetooth-16bit">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia12" value="2" />
@@ -21733,7 +21733,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="compress-offload-playback6" />
 	</path>
-
+	
 	<path name="compress-offload-playback6 bluetooth-16bit">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia13" value="2" />
@@ -21908,7 +21908,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="vbat_compress-offload-playback6" />
 	</path>
-
+	
 	<path name="vbat_compress-offload-playback6 bluetooth-16bit">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia13" value="2" />
@@ -22143,7 +22143,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="compress-offload-playback7" />
 	</path>
-
+	
 	<path name="compress-offload-playback7 bluetooth-16bit">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia14" value="2" />
@@ -22318,7 +22318,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="vbat_compress-offload-playback7" />
 	</path>
-
+	
 	<path name="vbat_compress-offload-playback7 bluetooth-16bit">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia14" value="2" />
@@ -22553,7 +22553,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="compress-offload-playback8" />
 	</path>
-
+	
 	<path name="compress-offload-playback8 bluetooth-16bit">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia15" value="2" />
@@ -22728,7 +22728,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="vbat_compress-offload-playback8" />
 	</path>
-
+	
 	<path name="vbat_compress-offload-playback8 bluetooth-16bit">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia15" value="2" />
@@ -22963,7 +22963,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="compress-offload-playback9" />
 	</path>
-
+	
 	<path name="compress-offload-playback9 bluetooth-16bit">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia16" value="2" />
@@ -23138,7 +23138,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="vbat_compress-offload-playback9" />
 	</path>
-
+	
 	<path name="vbat_compress-offload-playback9 bluetooth-16bit">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia16" value="2" />
@@ -26590,6 +26590,43 @@
 	
 	<path name="vbat_fake_speaker-mono">
 	<path name="true-native-mode-SPKR-vbat-mono" />
+	<ctl name="True_Offset1 Switch" value="1" />
+	<ctl name="TX_True_Offset1" value="AUTO" />
+	<ctl name="RX_True_Offset1" value="AUTO" />
+	<ctl name="True_Offset2 Switch" value="1" />
+	<ctl name="TX_True_Offset2" value="AUTO" />
+	<ctl name="RX_True_Offset2" value="AUTO" />
+	<ctl name="True_Offset3 Switch" value="1" />
+	<ctl name="TX_True_Offset3" value="AUTO" />
+	<ctl name="RX_True_Offset3" value="AUTO" />
+	<ctl name="True_Low Switch" value="1" />
+	<ctl name="TX_True_Low" value="AUTO" />
+	<ctl name="RX_True_Low" value="AUTO" />
+	<ctl name="True_High Switch" value="1" />
+	<ctl name="TX_True_High" value="AUTO" />
+	<ctl name="RX_True_High" value="AUTO" />
+	<ctl name="True_Mid Switch" value="1" />
+	<ctl name="TX_True_Mid" value="AUTO" />
+	<ctl name="RX_True_Mid" value="AUTO" />
+	<ctl name="True_Stereo Switch" value="1" />
+	<ctl name="TX_True_Stereo" value="AUTO" />
+	<ctl name="RX_True_Stereo" value="AUTO" />
+	<ctl name="True_Expand Switch" value="1" />
+	<ctl name="TX_True_Expand" value="AUTO" />
+	<ctl name="RX_True_Expand" value="AUTO" />
+	<ctl name="True_Normalization Switch" value="1" />
+	<ctl name="TX_True_Normalization" value="AUTO" />
+	<ctl name="RX_True_Normalization" value="AUTO" />
+	<ctl name="True_Level Switch" value="1" />
+	<ctl name="TX_True_Level" value="AUTO" />
+	<ctl name="RX_True_Level" value="AUTO" />
+	<ctl name="True_Center Switch" value="1" />
+	<ctl name="TX_True_Center" value="AUTO" />
+	<ctl name="RX_True_Center" value="AUTO" />
+	<ctl name="True_Alignment Switch" value="1" />
+	<ctl name="TX_True_Alignment" value="AUTO" />
+	<ctl name="RX_True_Alignment" value="AUTO" />
+	<ctl name="7 Digital Volume Switch" value="1" />
 	<ctl name="7 Digital Volume Switch" value="1" />
 	<ctl name="TX7 Digital Volume" value="0" />
 	<ctl name="RX7 Digital Volume" value="0" />
@@ -26614,6 +26651,42 @@
 	<path name="vbat_fake_speaker">
 	<path name="true-native-mode-SPKR-vbat" />
 	<ctl name="7 Digital Volume Switch" value="2" />
+	<ctl name="True_Offset1 Switch" value="2" />
+	<ctl name="TX_True_Offset1" value="AUTO" />
+	<ctl name="RX_True_Offset1" value="AUTO" />
+	<ctl name="True_Offset2 Switch" value="2" />
+	<ctl name="TX_True_Offset2" value="AUTO" />
+	<ctl name="RX_True_Offset2" value="AUTO" />
+	<ctl name="True_Offset3 Switch" value="2" />
+	<ctl name="TX_True_Offset3" value="AUTO" />
+	<ctl name="RX_True_Offset3" value="AUTO" />
+	<ctl name="True_Low Switch" value="2" />
+	<ctl name="TX_True_Low" value="AUTO" />
+	<ctl name="RX_True_Low" value="AUTO" />
+	<ctl name="True_High Switch" value="2" />
+	<ctl name="TX_True_High" value="AUTO" />
+	<ctl name="RX_True_High" value="AUTO" />
+	<ctl name="True_Mid Switch" value="2" />
+	<ctl name="TX_True_Mid" value="AUTO" />
+	<ctl name="RX_True_Mid" value="AUTO" />
+	<ctl name="True_Stereo Switch" value="2" />
+	<ctl name="TX_True_Stereo" value="AUTO" />
+	<ctl name="RX_True_Stereo" value="AUTO" />
+	<ctl name="True_Expand Switch" value="2" />
+	<ctl name="TX_True_Expand" value="AUTO" />
+	<ctl name="RX_True_Expand" value="AUTO" />
+	<ctl name="True_Normalization Switch" value="2" />
+	<ctl name="TX_True_Normalization" value="AUTO" />
+	<ctl name="RX_True_Normalization" value="AUTO" />
+	<ctl name="True_Level Switch" value="2" />
+	<ctl name="TX_True_Level" value="AUTO" />
+	<ctl name="RX_True_Level" value="AUTO" />
+	<ctl name="True_Center Switch" value="2" />
+	<ctl name="TX_True_Center" value="AUTO" />
+	<ctl name="RX_True_Center" value="AUTO" />
+	<ctl name="True_Alignment Switch" value="2" />
+	<ctl name="TX_True_Alignment" value="AUTO" />
+	<ctl name="RX_True_Alignment" value="AUTO" />
 	<ctl name="TX7 Digital Volume" value="0" />
 	<ctl name="RX7 Digital Volume" value="0" />
 	<ctl name="7 Mix Digital Volume Switch" value="2" />
@@ -26880,7 +26953,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="headphone" />
 	</path>
-
+	
 	<path name="bluetooth-16bit">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIM_7_TX Channels" value="Sevenhundredsixtyeight" />
@@ -26909,7 +26982,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="headphone" />
 	</path>
-
+	
 	<path name="bluetooth-24bit">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIM_8_TX Channels" value="Sevenhundredsixtyeight" />
@@ -27187,8 +27260,8 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="vbat_headphone" />
 	</path>
-
-
+	
+	
 	<path name="vbat_bluetooth-16bit">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIM_7_TX Channels" value="Sevenhundredsixtyeight" />
@@ -27217,7 +27290,7 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<path name="vbat_headphone" />
 	</path>
-
+	
 	<path name="vbat_bluetooth-24bit">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIM_8_TX Channels" value="Sevenhundredsixtyeight" />
@@ -27458,6 +27531,42 @@
 	
 	<path name="vbat_fake_headphone">
 	<path name="true-native-mode-HPH-vbat" />
+	<ctl name="True_Offset1 Switch" value="2" />
+	<ctl name="TX_True_Offset1" value="AUTO" />
+	<ctl name="RX_True_Offset1" value="AUTO" />
+	<ctl name="True_Offset2 Switch" value="2" />
+	<ctl name="TX_True_Offset2" value="AUTO" />
+	<ctl name="RX_True_Offset2" value="AUTO" />
+	<ctl name="True_Offset3 Switch" value="2" />
+	<ctl name="TX_True_Offset3" value="AUTO" />
+	<ctl name="RX_True_Offset3" value="AUTO" />
+	<ctl name="True_Low Switch" value="2" />
+	<ctl name="TX_True_Low" value="AUTO" />
+	<ctl name="RX_True_Low" value="AUTO" />
+	<ctl name="True_High Switch" value="2" />
+	<ctl name="TX_True_High" value="AUTO" />
+	<ctl name="RX_True_High" value="AUTO" />
+	<ctl name="True_Mid Switch" value="2" />
+	<ctl name="TX_True_Mid" value="AUTO" />
+	<ctl name="RX_True_Mid" value="AUTO" />
+	<ctl name="True_Stereo Switch" value="2" />
+	<ctl name="TX_True_Stereo" value="AUTO" />
+	<ctl name="RX_True_Stereo" value="AUTO" />
+	<ctl name="True_Expand Switch" value="2" />
+	<ctl name="TX_True_Expand" value="AUTO" />
+	<ctl name="RX_True_Expand" value="AUTO" />
+	<ctl name="True_Normalization Switch" value="2" />
+	<ctl name="TX_True_Normalization" value="AUTO" />
+	<ctl name="RX_True_Normalization" value="AUTO" />
+	<ctl name="True_Level Switch" value="2" />
+	<ctl name="TX_True_Level" value="AUTO" />
+	<ctl name="RX_True_Level" value="AUTO" />
+	<ctl name="True_Center Switch" value="2" />
+	<ctl name="TX_True_Center" value="AUTO" />
+	<ctl name="RX_True_Center" value="AUTO" />
+	<ctl name="True_Alignment Switch" value="2" />
+	<ctl name="TX_True_Alignment" value="AUTO" />
+	<ctl name="RX_True_Alignment" value="AUTO" />
 	<ctl name="1 Digital Volume Switch" value="2" />
 	<ctl name="TX1 Digital Volume" value="0" />
 	<ctl name="RX1 Digital Volume" value="0" />
@@ -27492,6 +27601,30 @@
 	<!-- headset type 2 = high impedance mode -->
 	
 	<path name="headphones-hifi-dac">
+	<ctl name="Es9018 Master Volume" value="0" />
+	<ctl name="Es9018 AVC Volume" value="4" />
+	<ctl name="Es9018 HEADSET TYPE" value="2" />
+	</path>
+	
+	<path name="headphones-hifi-bluetooth-16bit">
+	<ctl name="Es9018 Master Volume" value="0" />
+	<ctl name="Es9018 AVC Volume" value="4" />
+	<ctl name="Es9018 HEADSET TYPE" value="2" />
+	</path>
+	
+	<path name="headphones-hifi-bluetooth-24bit">
+	<ctl name="Es9018 Master Volume" value="0" />
+	<ctl name="Es9018 AVC Volume" value="4" />
+	<ctl name="Es9018 HEADSET TYPE" value="2" />
+	</path>
+	
+	<path name="headphones-hifi-headphone-16bit">
+	<ctl name="Es9018 Master Volume" value="0" />
+	<ctl name="Es9018 AVC Volume" value="4" />
+	<ctl name="Es9018 HEADSET TYPE" value="2" />
+	</path>
+	
+	<path name="headphones-hifi-headphone-24bit">
 	<ctl name="Es9018 Master Volume" value="0" />
 	<ctl name="Es9018 AVC Volume" value="4" />
 	<ctl name="Es9018 HEADSET TYPE" value="2" />
