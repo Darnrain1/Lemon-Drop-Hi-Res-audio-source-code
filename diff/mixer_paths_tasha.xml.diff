@@ -1,9 +1,9 @@
-26a27,164
+26a27,168
 > 	
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v305.1 -->
+> 	<!-- Lemon Drop Hi-Res treble v306.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True_Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -126,8 +126,12 @@
 > 	<!-- SLIM_4_RX SLIM_4_TX = speaker-protected speaker-protected-voice -->
 > 	<!-- SLIM_5_RX SLIM_5_TX = speaker-16bit -->
 > 	<!-- SLIM_6_RX SLIM_6_TX = headphones aka wired headphones 16bit FM Radio & headphones-phone -->
-> 	<!-- SLIM_7_RX SLIM_7_TX = 16bit wired headphones and bluetooth -->
-> 	<!-- SLIM_8_RX SLIM_8_TX = 24bit wired headphones and bluetooth -->
+> 	<!-- SLIM_7_RX SLIM_7_TX = bluetooth-16bit -->
+> 	<!-- SLIM_8_RX SLIM_8_TX = bluetooth-24bit -->
+> 	<!-- SLIM_9_RX SLIM_9_TX = headphone-16bit -->
+> 	<!-- SLIM_10_RX SLIM_10_TX = headphone-24bit -->
+> 	<!-- SLIM_11_RX SLIM_11_TX = headphone_fluid -->
+> 	<!-- SLIM_12_RX SLIM_12_TX = headphone_liquid -->
 > 	
 > 	<!-- If your wondering what vbat stands for it's, visense and boost it's part of bass+ -->
 > 	
@@ -137,7 +141,7 @@
 > 	
 > 	<!-- Start of True Native Mode code v10.0 & vbat initial mixer settings -->
 > 	
-28,2368c166,25194
+28,2368c170,25222
 <     <!-- These are the initial mixer settings -->
 <     <ctl name="Voice Rx Device Mute" id="0" value="0" />
 <     <ctl name="Voice Rx Device Mute" id="1" value="-1" />
@@ -8715,6 +8719,30 @@
 > 	<ctl name="SLIM_8_RX SampleRate" value="ZERO" />
 > 	<ctl name="SLIM_8_TX Format" value="ZERO" />
 > 	<ctl name="SLIM_8_RX Format" value="ZERO" />
+> 	<ctl name="SLIM_9_TX Channels" value="ZERO" />
+> 	<ctl name="SLIM_9_RX Channels" value="ZERO" />
+> 	<ctl name="SLIM_9_TX SampleRate" value="ZERO" />
+> 	<ctl name="SLIM_9_RX SampleRate" value="ZERO" />
+> 	<ctl name="SLIM_9_TX Format" value="ZERO" />
+> 	<ctl name="SLIM_9_RX Format" value="ZERO" />
+> 	<ctl name="SLIM_10_TX Channels" value="ZERO" />
+> 	<ctl name="SLIM_10_RX Channels" value="ZERO" />
+> 	<ctl name="SLIM_10_TX SampleRate" value="ZERO" />
+> 	<ctl name="SLIM_10_RX SampleRate" value="ZERO" />
+> 	<ctl name="SLIM_10_TX Format" value="ZERO" />
+> 	<ctl name="SLIM_10_RX Format" value="ZERO" />
+> 	<ctl name="SLIM_11_TX Channels" value="ZERO" />
+> 	<ctl name="SLIM_11_RX Channels" value="ZERO" />
+> 	<ctl name="SLIM_11_TX SampleRate" value="ZERO" />
+> 	<ctl name="SLIM_11_RX SampleRate" value="ZERO" />
+> 	<ctl name="SLIM_11_TX Format" value="ZERO" />
+> 	<ctl name="SLIM_11_RX Format" value="ZERO" />
+> 	<ctl name="SLIM_12_TX Channels" value="ZERO" />
+> 	<ctl name="SLIM_12_RX Channels" value="ZERO" />
+> 	<ctl name="SLIM_12_TX SampleRate" value="ZERO" />
+> 	<ctl name="SLIM_12_RX SampleRate" value="ZERO" />
+> 	<ctl name="SLIM_12_TX Format" value="ZERO" />
+> 	<ctl name="SLIM_12_RX Format" value="ZERO" />
 > 	
 > 	<!-- End of SLIM settings -->
 > 	
@@ -27509,7 +27537,7 @@
 > 	
 > 	<path name="voice-headphones">
 > 	<path name="headphones" />
-2371,2429c25197,25277
+2371,2429c25225,25305
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -27651,7 +27679,7 @@
 > 	</path>
 > 	
 > 	<path name="anc-headphones">
-2432,2464c25280,25322
+2432,2464c25308,25350
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -27729,7 +27757,7 @@
 > 	</path>
 > 	
 > 	<path name="voice-anc-headphones">
-2467,3898c25325,28315
+2467,3898c25353,28343
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="1" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -30719,12 +30747,12 @@
 > 	
 > 	<path name="headphone_fluid">
 > 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIM_7_TX Channels" value="Sevenhundredsixtyeight" />
-> 	<ctl name="SLIM_7_RX Channels" value="Sevenhundredsixtyeight" />
-> 	<ctl name="SLIM_7_TX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_7_RX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_7_TX Format" value="S16_LE" />
-> 	<ctl name="SLIM_7_RX Format" value="S16_LE" />
+> 	<ctl name="SLIM_11_TX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_11_RX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_11_TX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_11_RX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_11_TX Format" value="S16_LE" />
+> 	<ctl name="SLIM_11_RX Format" value="S16_LE" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -30748,12 +30776,12 @@
 > 	
 > 	<path name="headphone_liquid">
 > 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIM_8_TX Channels" value="Sevenhundredsixtyeight" />
-> 	<ctl name="SLIM_8_RX Channels" value="Sevenhundredsixtyeight" />
-> 	<ctl name="SLIM_8_TX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_8_RX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_8_TX Format" value="S24_LE" />
-> 	<ctl name="SLIM_8_RX Format" value="S24_LE" />
+> 	<ctl name="SLIM_12_TX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_12_RX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_12_TX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_12_RX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_12_TX Format" value="S24_LE" />
+> 	<ctl name="SLIM_12_RX Format" value="S24_LE" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -30835,12 +30863,12 @@
 > 	
 > 	<path name="headphone-16bit">
 > 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIM_7_TX Channels" value="Sevenhundredsixtyeight" />
-> 	<ctl name="SLIM_7_RX Channels" value="Sevenhundredsixtyeight" />
-> 	<ctl name="SLIM_7_TX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_7_RX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_7_TX Format" value="S16_LE" />
-> 	<ctl name="SLIM_7_RX Format" value="S16_LE" />
+> 	<ctl name="SLIM_9_TX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_9_RX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_9_TX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_9_RX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_9_TX Format" value="S16_LE" />
+> 	<ctl name="SLIM_9_RX Format" value="S16_LE" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -30910,12 +30938,12 @@
 > 	
 > 	<path name="headphone-24bit">
 > 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIM_8_TX Channels" value="Sevenhundredsixtyeight" />
-> 	<ctl name="SLIM_8_RX Channels" value="Sevenhundredsixtyeight" />
-> 	<ctl name="SLIM_8_TX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_8_RX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_8_TX Format" value="S24_LE" />
-> 	<ctl name="SLIM_8_RX Format" value="S24_LE" />
+> 	<ctl name="SLIM_10_TX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_10_RX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_10_TX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_10_RX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_10_TX Format" value="S24_LE" />
+> 	<ctl name="SLIM_10_RX Format" value="S24_LE" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -31026,12 +31054,12 @@
 > 	
 > 	<path name="vbat_headphone_fluid">
 > 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIM_7_TX Channels" value="Sevenhundredsixtyeight" />
-> 	<ctl name="SLIM_7_RX Channels" value="Sevenhundredsixtyeight" />
-> 	<ctl name="SLIM_7_TX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_7_RX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_7_TX Format" value="S16_LE" />
-> 	<ctl name="SLIM_7_RX Format" value="S16_LE" />
+> 	<ctl name="SLIM_11_TX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_11_RX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_11_TX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_11_RX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_11_TX Format" value="S16_LE" />
+> 	<ctl name="SLIM_11_RX Format" value="S16_LE" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -31055,12 +31083,12 @@
 > 	
 > 	<path name="vbat_headphone_liquid">
 > 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIM_8_TX Channels" value="Sevenhundredsixtyeight" />
-> 	<ctl name="SLIM_8_RX Channels" value="Sevenhundredsixtyeight" />
-> 	<ctl name="SLIM_8_TX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_8_RX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_8_TX Format" value="S24_LE" />
-> 	<ctl name="SLIM_8_RX Format" value="S24_LE" />
+> 	<ctl name="SLIM_12_TX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_12_RX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_12_TX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_12_RX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_12_TX Format" value="S24_LE" />
+> 	<ctl name="SLIM_12_RX Format" value="S24_LE" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -31143,12 +31171,12 @@
 > 	
 > 	<path name="vbat_headphone-16bit">
 > 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIM_7_TX Channels" value="Sevenhundredsixtyeight" />
-> 	<ctl name="SLIM_7_RX Channels" value="Sevenhundredsixtyeight" />
-> 	<ctl name="SLIM_7_TX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_7_RX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_7_TX Format" value="S16_LE" />
-> 	<ctl name="SLIM_7_RX Format" value="S16_LE" />
+> 	<ctl name="SLIM_9_TX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_9_RX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_9_TX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_9_RX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_9_TX Format" value="S16_LE" />
+> 	<ctl name="SLIM_9_RX Format" value="S16_LE" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -31218,12 +31246,12 @@
 > 	
 > 	<path name="vbat_headphone-24bit">
 > 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIM_8_TX Channels" value="Sevenhundredsixtyeight" />
-> 	<ctl name="SLIM_8_RX Channels" value="Sevenhundredsixtyeight" />
-> 	<ctl name="SLIM_8_TX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_8_RX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_8_TX Format" value="S24_LE" />
-> 	<ctl name="SLIM_8_RX Format" value="S24_LE" />
+> 	<ctl name="SLIM_10_TX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_10_RX Channels" value="Sevenhundredsixtyeight" />
+> 	<ctl name="SLIM_10_TX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_10_RX SampleRate" value="KHZ_44P1" />
+> 	<ctl name="SLIM_10_TX Format" value="S24_LE" />
+> 	<ctl name="SLIM_10_RX Format" value="S24_LE" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -32154,7 +32182,7 @@
 > 	<path name="speaker-protected" />
 > 	</path>
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
-3899a28317,28319
+3899a28345,28347
 > 	
 > 	
 > 	<!-- Bottom of page -->
