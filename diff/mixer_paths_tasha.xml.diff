@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v306.1 -->
+> 	<!-- Lemon Drop Hi-Res treble v307.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True_Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -27757,7 +27757,7 @@
 > 	</path>
 > 	
 > 	<path name="voice-anc-headphones">
-2467,3898c25353,28343
+2467,3898c25353,28347
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="1" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -31588,6 +31588,8 @@
 > 	
 > 	<!-- Added -->
 > 	<path name="loopback_headphone">
+> 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -31614,6 +31616,8 @@
 > 	
 > 	<!-- Added -->
 > 	<path name="loopback_headphones">
+> 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="1 Digital Volume Switch" value="2" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
 > 	<ctl name="RX1 Digital Volume" value="84" />
@@ -32182,7 +32186,7 @@
 > 	<path name="speaker-protected" />
 > 	</path>
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
-3899a28345,28347
+3899a28349,28351
 > 	
 > 	
 > 	<!-- Bottom of page -->

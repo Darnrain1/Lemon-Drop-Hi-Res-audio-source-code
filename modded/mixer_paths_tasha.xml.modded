@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble v306.1 -->
+	<!-- Lemon Drop Hi-Res treble v307.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True_Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -27747,6 +27747,8 @@
 	
 	<!-- Added -->
 	<path name="loopback_headphone">
+	<path name="true-native-mode-HPH" />
+	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="1 Digital Volume Switch" value="2" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="84" />
@@ -27773,6 +27775,8 @@
 	
 	<!-- Added -->
 	<path name="loopback_headphones">
+	<path name="true-native-mode-HPH" />
+	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="1 Digital Volume Switch" value="2" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="84" />
