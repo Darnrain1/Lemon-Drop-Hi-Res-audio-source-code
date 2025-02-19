@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble v310.1 -->
+	<!-- Lemon Drop Hi-Res treble v311.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -18179,26 +18179,26 @@
 	
 	<path name="deep-buffer-playback headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia1" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia1" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia1" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia1" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="51" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="51" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="51" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="51" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="deep-buffer-playback" />
 	</path>
 	
@@ -18354,26 +18354,26 @@
 	
 	<path name="vbat_deep-buffer-playback headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia1" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia1" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia1" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia1" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="51" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="51" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="51" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="51" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="vbat_deep-buffer-playback" />
 	</path>
 	
@@ -18586,26 +18586,26 @@
 	
 	<path name="low-latency-playback headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia5" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia5" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia5" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia5" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="55" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="55" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="55" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="55" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="low-latency-playback" />
 	</path>
 	
@@ -18758,26 +18758,26 @@
 	
 	<path name="vbat_low-latency-playback headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia5" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia5" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia5" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia5" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="55" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="55" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="55" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="55" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="vbat_low-latency-playback" />
 	</path>
 	
@@ -18990,26 +18990,26 @@
 	
 	<path name="audio-ull-playback headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia3" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia3" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia3" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia3" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="53" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="53" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="53" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="53" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="audio-ull-playback" />
 	</path>
 	
@@ -19165,26 +19165,26 @@
 	
 	<path name="vbat_audio-ull-playback headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia3" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia3" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia3" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia3" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="53" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="53" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="53" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="53" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="vbat_audio-ull-playback" />
 	</path>
 	
@@ -19393,26 +19393,26 @@
 	
 	<path name="compress-offload-playback headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia4" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia4" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia4" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia4" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="57" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="57" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="57" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="compress-offload-playback" />
 	</path>
 	
@@ -19568,26 +19568,26 @@
 	
 	<path name="vbat_compress-offload-playback headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia4" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia4" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia4" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia4" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="57" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="57" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="57" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="vbat_compress-offload-playback" />
 	</path>
 	
@@ -19747,26 +19747,26 @@
 	
 	<path name="compress-offload-playback1 headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia6" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia6" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia6" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia6" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="57" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="57" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="57" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="compress-offload-playback1" />
 	</path>
 	
@@ -19922,26 +19922,26 @@
 	
 	<path name="vbat_compress-offload-playback1 headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia6" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia6" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia6" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia6" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="57" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="57" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="57" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="vbat_compress-offload-playback1" />
 	</path>
 	
@@ -20161,26 +20161,26 @@
 	
 	<path name="compress-offload-playback2 headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia7" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia7" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia7" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia7" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="57" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="57" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="57" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="compress-offload-playback2" />
 	</path>
 	
@@ -20336,26 +20336,26 @@
 	
 	<path name="vbat_compress-offload-playback2 headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia7" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia7" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia7" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia7" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="57" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="57" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="57" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="vbat_compress-offload-playback2" />
 	</path>
 	
@@ -20571,26 +20571,26 @@
 	
 	<path name="compress-offload-playback3 headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia10" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia10" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia10" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia10" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="57" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="57" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="57" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="compress-offload-playback3" />
 	</path>
 	
@@ -20746,26 +20746,26 @@
 	
 	<path name="vbat_compress-offload-playback3 headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia10" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia10" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia10" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia10" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="57" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="57" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="57" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="vbat_compress-offload-playback3" />
 	</path>
 	
@@ -20981,26 +20981,26 @@
 	
 	<path name="compress-offload-playback4 headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia11" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia11" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia11" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia11" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="57" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="57" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="57" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="compress-offload-playback4" />
 	</path>
 	
@@ -21156,26 +21156,26 @@
 	
 	<path name="vbat_compress-offload-playback4 headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia11" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia11" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia11" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia11" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="57" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="57" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="57" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="vbat_compress-offload-playback4" />
 	</path>
 	
@@ -21391,26 +21391,26 @@
 	
 	<path name="compress-offload-playback5 headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia12" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia12" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia12" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia12" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="57" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="57" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="57" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="compress-offload-playback5" />
 	</path>
 	
@@ -21566,26 +21566,26 @@
 	
 	<path name="vbat_compress-offload-playback5 headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia12" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia12" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia12" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia12" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="57" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="57" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="57" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="vbat_compress-offload-playback5" />
 	</path>
 	
@@ -21801,26 +21801,26 @@
 	
 	<path name="compress-offload-playback6 headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia13" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia13" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia13" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia13" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="57" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="57" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="57" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="compress-offload-playback6" />
 	</path>
 	
@@ -21976,26 +21976,26 @@
 	
 	<path name="vbat_compress-offload-playback6 headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia13" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia13" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia13" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia13" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="57" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="57" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="57" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="vbat_compress-offload-playback6" />
 	</path>
 	
@@ -22211,26 +22211,26 @@
 	
 	<path name="compress-offload-playback7 headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia14" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia14" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia14" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia14" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="57" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="57" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="57" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="compress-offload-playback7" />
 	</path>
 	
@@ -22386,26 +22386,26 @@
 	
 	<path name="vbat_compress-offload-playback7 headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia14" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia14" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia14" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia14" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="57" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="57" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="57" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="vbat_compress-offload-playback7" />
 	</path>
 	
@@ -22621,26 +22621,26 @@
 	
 	<path name="compress-offload-playback8 headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia15" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia15" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia15" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia15" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="57" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="57" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="57" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="compress-offload-playback8" />
 	</path>
 	
@@ -22796,26 +22796,26 @@
 	
 	<path name="vbat_compress-offload-playback8 headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia15" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia15" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia15" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia15" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="57" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="57" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="57" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="vbat_compress-offload-playback8" />
 	</path>
 	
@@ -23031,26 +23031,26 @@
 	
 	<path name="compress-offload-playback9 headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia16" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia16" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia16" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia16" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="57" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="57" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="57" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="compress-offload-playback9" />
 	</path>
 	
@@ -23206,26 +23206,26 @@
 	
 	<path name="vbat_compress-offload-playback9 headphone_fluid">
 	<path name="true-native-mode-HPH" />
-	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia16" value="2" />
-	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia16" value="2" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia16" value="1" />
+	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia16" value="1" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="57" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="57" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="57" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="vbat_compress-offload-playback9" />
 	</path>
 	
@@ -24275,7 +24275,7 @@
 	<!-- 16 X 16 = 256 -->
 	
 	<!-- This is how I calculated the amount of channels for speaker-24bit -->
-	<!-- 3072 X 4 = 12288 -->
+	<!-- 768 X 16 = 12288 -->
 	
 	<!-- This is how I calculated the kilohertz for speaker-24bit -->
 	<!-- 768 X 16 = 12288 -->
@@ -26612,24 +26612,24 @@
 	<ctl name="SLIM_11_RX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_11_TX Format" value="S16_LE" />
 	<ctl name="SLIM_11_RX Format" value="S16_LE" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="84" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="84" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="84" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="84" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="headphone" />
 	</path>
 	
@@ -26883,24 +26883,24 @@
 	<ctl name="SLIM_11_RX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_11_TX Format" value="S16_LE" />
 	<ctl name="SLIM_11_RX Format" value="S16_LE" />
-	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="1 Digital Volume Switch" value="1" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="84" />
-	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="1 Mix Digital Volume Switch" value="1" />
 	<ctl name="TX1 Mix Digital Volume" value="84" />
 	<ctl name="RX1 Mix Digital Volume" value="84" />
-	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="84" />
-	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="84" />
-	<ctl name="HPHL Volume Switch" value="2" />
+	<ctl name="2 Digital Volume Switch" value="0" />
+	<ctl name="TX2 Digital Volume" value="0" />
+	<ctl name="RX2 Digital Volume" value="0" />
+	<ctl name="2 Mix Digital Volume Switch" value="0" />
+	<ctl name="TX2 Mix Digital Volume" value="0" />
+	<ctl name="RX2 Mix Digital Volume" value="0" />
+	<ctl name="HPHL Volume Switch" value="1" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="2" />
-	<ctl name="TX HPHR Volume" value="16" />
-	<ctl name="RX HPHR Volume" value="16" />
+	<ctl name="HPHR Volume Switch" value="0" />
+	<ctl name="TX HPHR Volume" value="0" />
+	<ctl name="RX HPHR Volume" value="0" />
 	<path name="vbat_headphone" />
 	</path>
 	
