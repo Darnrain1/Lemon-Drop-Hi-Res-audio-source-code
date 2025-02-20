@@ -23,13 +23,13 @@ BIT = 384<br>
 True Native Mode? Yes.<br>
 
 16BIT bluetooth<br>
-Channels = 12,288<br>
+Channels = 768<br>
 KHZ = 44.1<br>
 BIT = 16<br>
 True Native Mode? Yes.<br>
 
 24BIT bluetooth<br>
-Channels = 12,288<br>
+Channels = 768<br>
 KHZ = 44.1<br>
 BIT = 24<br>
 True Native Mode? Yes.<br>
@@ -47,7 +47,7 @@ BIT = 24<br>
 True Native Mode? Yes.<br>
 
 
-latest release: v315.1<br>
+latest release: v316.1<br>
 
 "Sounds amazing, outstanding and breathtaking" - Darnrain1<br>
 
