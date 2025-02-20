@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v315.1 -->
+> 	<!-- Lemon Drop Hi-Res treble v316.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -23585,7 +23585,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="deep-buffer-playback speaker" />
 > 	</path>
 > 	
 > 	<path name="deep-buffer-playback headphone_fluid">
@@ -23610,7 +23610,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="speaker-mono" />
+> 	<path name="deep-buffer-playback speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="deep-buffer-playback headphone_liquid">
@@ -23635,7 +23635,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="deep-buffer-playback speaker" />
 > 	</path>
 > 	
 > 	<path name="deep-buffer-playback bluetooth-16bit">
@@ -23660,7 +23660,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="deep-buffer-playback speaker" />
 > 	</path>
 > 	
 > 	<path name="deep-buffer-playback bluetooth-24bit">
@@ -23685,7 +23685,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="deep-buffer-playback speaker" />
 > 	</path>
 > 	
 > 	<path name="deep-buffer-playback headphone-16bit">
@@ -23710,7 +23710,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="deep-buffer-playback speaker" />
 > 	</path>
 > 	
 > 	<path name="deep-buffer-playback headphone-24bit">
@@ -23735,7 +23735,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="deep-buffer-playback speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_deep-buffer-playback">
@@ -23760,7 +23760,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_deep-buffer-playback vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_deep-buffer-playback headphone_fluid">
@@ -23785,7 +23785,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_speaker-mono" />
+> 	<path name="vbat_deep-buffer-playback vbat_speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="vbat_deep-buffer-playback headphone_liquid">
@@ -23810,7 +23810,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_deep-buffer-playback vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_deep-buffer-playback bluetooth-16bit">
@@ -23835,7 +23835,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_deep-buffer-playback vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_deep-buffer-playback bluetooth-24bit">
@@ -23860,7 +23860,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_deep-buffer-playback vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_deep-buffer-playback headphone-16bit">
@@ -23885,7 +23885,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_deep-buffer-playback vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_deep-buffer-playback headphone-24bit">
@@ -23910,7 +23910,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_deep-buffer-playback vbat_speaker" />
 > 	</path>
 > 	
 > 	<!-- Lemon Drop Hi-Res end of mods -->
@@ -23992,7 +23992,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="low-latency-playback speaker" />
 > 	</path>
 > 	
 > 	<path name="low-latency-playback headphone_fluid">
@@ -24017,7 +24017,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="speaker-mono" />
+> 	<path name="low-latency-playback speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="low-latency-playback headphone_liquid">
@@ -24042,7 +24042,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="low-latency-playback speaker" />
 > 	</path>
 > 	
 > 	<path name="low-latency-playback bluetooth-16bit">
@@ -24067,7 +24067,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="low-latency-playback speaker" />
 > 	</path>
 > 	
 > 	<path name="low-latency-playback bluetooth-24bit">
@@ -24092,7 +24092,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="low-latency-playback speaker" />
 > 	</path>
 > 	
 > 	<path name="low-latency-playback headphone-16bit">
@@ -24117,7 +24117,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="low-latency-playback speaker" />
 > 	</path>
 > 	
 > 	<path name="low-latency-playback headphone-24bit">
@@ -24142,7 +24142,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="low-latency-playback speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_low-latency-playback">
@@ -24164,7 +24164,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_low-latency-playback vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_low-latency-playback headphone_fluid">
@@ -24189,7 +24189,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_speaker-mono" />
+> 	<path name="vbat_low-latency-playback vbat_speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="vbat_low-latency-playback headphone_liquid">
@@ -24214,7 +24214,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_low-latency-playback vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_low-latency-playback bluetooth-16bit">
@@ -24239,7 +24239,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_low-latency-playback vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_low-latency-playback bluetooth-24bit">
@@ -24264,7 +24264,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_low-latency-playback vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_low-latency-playback headphone-16bit">
@@ -24289,7 +24289,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_low-latency-playback vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_low-latency-playback headphone-24bit">
@@ -24314,7 +24314,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_low-latency-playback vbat_speaker" />
 > 	</path>
 > 	
 > 	<!-- Lemon Drop Hi-Res end of mods -->
@@ -24396,7 +24396,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="audio-ull-playback speaker" />
 > 	</path>
 > 	
 > 	<path name="audio-ull-playback headphone_fluid">
@@ -24421,7 +24421,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="speaker-mono" />
+> 	<path name="audio-ull-playback speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="audio-ull-playback headphone_liquid">
@@ -24446,7 +24446,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="audio-ull-playback speaker" />
 > 	</path>
 > 	
 > 	<path name="audio-ull-playback bluetooth-16bit">
@@ -24471,7 +24471,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="audio-ull-playback speaker" />
 > 	</path>
 > 	
 > 	<path name="audio-ull-playback bluetooth-24bit">
@@ -24496,7 +24496,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="audio-ull-playback speaker" />
 > 	</path>
 > 	
 > 	<path name="audio-ull-playback headphone-16bit">
@@ -24521,7 +24521,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="audio-ull-playback speaker" />
 > 	</path>
 > 	
 > 	<path name="audio-ull-playback headphone-24bit">
@@ -24546,7 +24546,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="audio-ull-playback speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_audio-ull-playback">
@@ -24571,7 +24571,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_audio-ull-playback vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_audio-ull-playback headphone_fluid">
@@ -24596,7 +24596,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_speaker-mono" />
+> 	<path name="vbat_audio-ull-playback vbat_speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="vbat_audio-ull-playback headphone_liquid">
@@ -24621,7 +24621,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_audio-ull-playback vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_audio-ull-playback bluetooth-16bit">
@@ -24646,7 +24646,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_audio-ull-playback vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_audio-ull-playback bluetooth-24bit">
@@ -24671,7 +24671,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_audio-ull-playback vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_audio-ull-playback headphone-16bit">
@@ -24696,7 +24696,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_audio-ull-playback vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_audio-ull-playback headphone-24bit">
@@ -24721,7 +24721,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_audio-ull-playback vbat_speaker" />
 > 	</path>
 > 	
 > 	<!-- Lemon Drop Hi-Res end of mods -->
@@ -24799,7 +24799,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback headphone_fluid">
@@ -24824,7 +24824,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="speaker-mono" />
+> 	<path name="compress-offload-playback speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback headphone_liquid">
@@ -24849,7 +24849,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback bluetooth-16bit">
@@ -24874,7 +24874,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback bluetooth-24bit">
@@ -24899,7 +24899,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback headphone-16bit">
@@ -24924,7 +24924,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback headphone-24bit">
@@ -24949,7 +24949,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback">
@@ -24974,7 +24974,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback headphone_fluid">
@@ -24999,7 +24999,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_speaker-mono" />
+> 	<path name="vbat_compress-offload-playback vbat_speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback headphone_liquid">
@@ -25024,7 +25024,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback bluetooth-16bit">
@@ -25049,7 +25049,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback bluetooth-24bit">
@@ -25074,7 +25074,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback headphone-16bit">
@@ -25099,7 +25099,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback headphone-24bit">
@@ -25124,7 +25124,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback vbat_speaker" />
 > 	</path>
 > 	
 > 	<!-- Lemon Drop Hi-Res end of mods -->
@@ -25153,7 +25153,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback1 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback1 headphone_fluid">
@@ -25178,7 +25178,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="speaker-mono" />
+> 	<path name="compress-offload-playback1 speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback1 headphone_liquid">
@@ -25203,7 +25203,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback1 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback1 bluetooth-16bit">
@@ -25228,7 +25228,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback1 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback1 bluetooth-24bit">
@@ -25253,7 +25253,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback1 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback1 headphone-16bit">
@@ -25278,7 +25278,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback1 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback1 headphone-24bit">
@@ -25303,7 +25303,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback1 speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback1">
@@ -25328,7 +25328,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback1 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback1 headphone_fluid">
@@ -25353,7 +25353,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_speaker-mono" />
+> 	<path name="vbat_compress-offload-playback1 vbat_speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback1 headphone_liquid">
@@ -25378,7 +25378,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback1 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback1 bluetooth-16bit">
@@ -25403,7 +25403,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback1 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback1 bluetooth-24bit">
@@ -25428,7 +25428,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback1 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback1 headphone-16bit">
@@ -25453,7 +25453,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback1 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback1 headphone-24bit">
@@ -25478,7 +25478,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback1 vbat_speaker" />
 > 	</path>
 > 	
 > 	<!-- Lemon Drop Hi-Res end of mods -->
@@ -25567,7 +25567,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback2 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback2 headphone_fluid">
@@ -25592,7 +25592,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="speaker-mono" />
+> 	<path name="compress-offload-playback2 speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback2 headphone_liquid">
@@ -25617,7 +25617,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback2 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback2 bluetooth-16bit">
@@ -25642,7 +25642,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback2 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback2 bluetooth-24bit">
@@ -25667,7 +25667,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback2 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback2 headphone-16bit">
@@ -25692,7 +25692,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback2 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback2 headphone-24bit">
@@ -25717,7 +25717,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback2 speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback2">
@@ -25742,7 +25742,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback2 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback2 headphone_fluid">
@@ -25767,7 +25767,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_speaker-mono" />
+> 	<path name="vbat_compress-offload-playback2 vbat_speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback2 headphone_liquid">
@@ -25792,7 +25792,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback2 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback2 bluetooth-16bit">
@@ -25817,7 +25817,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback2 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback2 bluetooth-24bit">
@@ -25842,7 +25842,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback2 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback2 headphone-16bit">
@@ -25867,7 +25867,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback2 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback2 headphone-24bit">
@@ -25892,7 +25892,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback2 vbat_speaker" />
 > 	</path>
 > 	
 > 	<!-- Lemon Drop Hi-Res end of mods -->
@@ -25977,7 +25977,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback3 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback3 headphone_fluid">
@@ -26002,7 +26002,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="speaker-mono" />
+> 	<path name="compress-offload-playback3 speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback3 headphone_liquid">
@@ -26027,7 +26027,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback3 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback3 bluetooth-16bit">
@@ -26052,7 +26052,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback3 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback3 bluetooth-24bit">
@@ -26077,7 +26077,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback3 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback3 headphone-16bit">
@@ -26102,7 +26102,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback3 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback3 headphone-24bit">
@@ -26127,7 +26127,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback3 speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback3">
@@ -26152,7 +26152,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback3 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback3 headphone_fluid">
@@ -26177,7 +26177,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_speaker-mono" />
+> 	<path name="vbat_compress-offload-playback3 vbat_speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback3 headphone_liquid">
@@ -26202,7 +26202,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback3 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback3 bluetooth-16bit">
@@ -26227,7 +26227,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback3 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback3 bluetooth-24bit">
@@ -26252,7 +26252,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback3 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback3 headphone-16bit">
@@ -26277,7 +26277,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback3 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback3 headphone-24bit">
@@ -26302,7 +26302,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback3 vbat_speaker" />
 > 	</path>
 > 	
 > 	<!-- Lemon Drop Hi-Res end of mods -->
@@ -26387,7 +26387,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback4 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback4 headphone_fluid">
@@ -26412,7 +26412,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="speaker-mono" />
+> 	<path name="compress-offload-playback4 speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback4 headphone_liquid">
@@ -26437,7 +26437,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback4 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback4 bluetooth-16bit">
@@ -26462,7 +26462,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback4 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback4 bluetooth-24bit">
@@ -26487,7 +26487,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback4 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback4 headphone-16bit">
@@ -26512,7 +26512,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback4 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback4 headphone-24bit">
@@ -26537,7 +26537,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback4 speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback4">
@@ -26562,7 +26562,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback4 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback4 headphone_fluid">
@@ -26587,7 +26587,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_speaker-mono" />
+> 	<path name="vbat_compress-offload-playback4 vbat_speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback4 headphone_liquid">
@@ -26612,7 +26612,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback4 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback4 bluetooth-16bit">
@@ -26637,7 +26637,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback4 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback4 bluetooth-24bit">
@@ -26662,7 +26662,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback4 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback4 headphone-16bit">
@@ -26687,7 +26687,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback4 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback4 headphone-24bit">
@@ -26712,7 +26712,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback4 vbat_speaker" />
 > 	</path>
 > 	
 > 	<!-- Lemon Drop Hi-Res end of mods -->
@@ -26797,7 +26797,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback5 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback5 headphone_fluid">
@@ -26822,7 +26822,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="speaker-mono" />
+> 	<path name="compress-offload-playback5 speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback5 headphone_liquid">
@@ -26847,7 +26847,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback5 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback5 bluetooth-16bit">
@@ -26872,7 +26872,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback5 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback5 bluetooth-24bit">
@@ -26897,7 +26897,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback5 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback5 headphone-16bit">
@@ -26922,7 +26922,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback5 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback5 headphone-24bit">
@@ -26947,7 +26947,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback5 speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback5">
@@ -26972,7 +26972,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback5 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback5 headphone_fluid">
@@ -26997,7 +26997,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_speaker-mono" />
+> 	<path name="vbat_compress-offload-playback5 vbat_speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback5 headphone_liquid">
@@ -27022,7 +27022,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback5 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback5 bluetooth-16bit">
@@ -27047,7 +27047,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback5 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback5 bluetooth-24bit">
@@ -27072,7 +27072,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback5 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback5 headphone-16bit">
@@ -27097,7 +27097,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback5 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback5 headphone-24bit">
@@ -27122,7 +27122,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback5 vbat_speaker" />
 > 	</path>
 > 	
 > 	<!-- Lemon Drop Hi-Res end of mods -->
@@ -27207,7 +27207,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback6 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback6 headphone_fluid">
@@ -27232,7 +27232,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="speaker-mono" />
+> 	<path name="compress-offload-playback6 speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback6 headphone_liquid">
@@ -27257,7 +27257,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback6 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback6 bluetooth-16bit">
@@ -27282,7 +27282,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback6 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback6 bluetooth-24bit">
@@ -27307,7 +27307,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback6 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback6 headphone-16bit">
@@ -27332,7 +27332,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback6 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback6 headphone-24bit">
@@ -27357,7 +27357,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback6 speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback6">
@@ -27382,7 +27382,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback6 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback6 headphone_fluid">
@@ -27407,7 +27407,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_speaker-mono" />
+> 	<path name="vbat_compress-offload-playback6 vbat_speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback6 headphone_liquid">
@@ -27432,7 +27432,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback6 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback6 bluetooth-16bit">
@@ -27457,7 +27457,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback6 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback6 bluetooth-24bit">
@@ -27482,7 +27482,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback6 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback6 headphone-16bit">
@@ -27507,7 +27507,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback6 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback6 headphone-24bit">
@@ -27532,7 +27532,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback6 vbat_speaker" />
 > 	</path>
 > 	
 > 	<!-- Lemon Drop Hi-Res end of mods -->
@@ -27617,7 +27617,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback7 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback7 headphone_fluid">
@@ -27642,7 +27642,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="speaker-mono" />
+> 	<path name="compress-offload-playback7 speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback7 headphone_liquid">
@@ -27667,7 +27667,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback7 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback7 bluetooth-16bit">
@@ -27692,7 +27692,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback7 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback7 bluetooth-24bit">
@@ -27717,7 +27717,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback7 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback7 headphone-16bit">
@@ -27742,7 +27742,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback7 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback7 headphone-24bit">
@@ -27767,7 +27767,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback7 speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback7">
@@ -27792,7 +27792,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback7 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback7 headphone_fluid">
@@ -27817,7 +27817,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_speaker-mono" />
+> 	<path name="vbat_compress-offload-playback7 vbat_speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback7 headphone_liquid">
@@ -27842,7 +27842,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback7 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback7 bluetooth-16bit">
@@ -27867,7 +27867,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback7 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback7 bluetooth-24bit">
@@ -27892,7 +27892,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback7 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback7 headphone-16bit">
@@ -27917,7 +27917,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback7 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback7 headphone-24bit">
@@ -27942,7 +27942,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback7 vbat_speaker" />
 > 	</path>
 > 	
 > 	<!-- Lemon Drop Hi-Res end of mods -->
@@ -28027,7 +28027,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback8 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback8 headphone_fluid">
@@ -28052,7 +28052,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="speaker-mono" />
+> 	<path name="compress-offload-playback8 speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback8 headphone_liquid">
@@ -28077,7 +28077,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback8 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback8 bluetooth-16bit">
@@ -28102,7 +28102,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback8 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback8 bluetooth-24bit">
@@ -28127,7 +28127,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback8 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback8 headphone-16bit">
@@ -28152,7 +28152,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback8 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback8 headphone-24bit">
@@ -28177,7 +28177,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback8 speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback8">
@@ -28202,7 +28202,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback8 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback8 headphone_fluid">
@@ -28227,7 +28227,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_speaker-mono" />
+> 	<path name="vbat_compress-offload-playback8 vbat_speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback8 headphone_liquid">
@@ -28252,7 +28252,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback8 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback8 bluetooth-16bit">
@@ -28277,7 +28277,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback8 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback8 bluetooth-24bit">
@@ -28302,7 +28302,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback8 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback8 headphone-16bit">
@@ -28327,7 +28327,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback8 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback8 headphone-24bit">
@@ -28352,7 +28352,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback8 vbat_speaker" />
 > 	</path>
 > 	
 > 	<!-- Lemon Drop Hi-Res end of mods -->
@@ -28437,7 +28437,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback9 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback9 headphone_fluid">
@@ -28462,7 +28462,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="speaker-mono" />
+> 	<path name="compress-offload-playback9 speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback9 headphone_liquid">
@@ -28487,7 +28487,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback9 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback9 bluetooth-16bit">
@@ -28512,7 +28512,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback9 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback9 bluetooth-24bit">
@@ -28537,7 +28537,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback9 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback9 headphone-16bit">
@@ -28562,7 +28562,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback9 speaker" />
 > 	</path>
 > 	
 > 	<path name="compress-offload-playback9 headphone-24bit">
@@ -28587,7 +28587,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="speaker" />
+> 	<path name="compress-offload-playback9 speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback9">
@@ -28612,7 +28612,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback9 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback9 headphone_fluid">
@@ -28637,7 +28637,7 @@
 > 	<ctl name="HPHR Volume Switch" value="0" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_speaker-mono" />
+> 	<path name="vbat_compress-offload-playback9 vbat_speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback9 headphone_liquid">
@@ -28662,7 +28662,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback9 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback9 bluetooth-16bit">
@@ -28687,7 +28687,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback9 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback9 bluetooth-24bit">
@@ -28712,7 +28712,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback9 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback9 headphone-16bit">
@@ -28737,7 +28737,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback9 vbat_speaker" />
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback9 headphone-24bit">
@@ -28762,7 +28762,7 @@
 > 	<ctl name="HPHR Volume Switch" value="2" />
 > 	<ctl name="TX HPHR Volume" value="16" />
 > 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_speaker" />
+> 	<path name="vbat_compress-offload-playback9 vbat_speaker" />
 > 	</path>
 > 	
 > 	<!-- Lemon Drop Hi-Res end of mods -->
