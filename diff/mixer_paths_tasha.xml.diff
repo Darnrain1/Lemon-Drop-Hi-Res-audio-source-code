@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v316.1 -->
+> 	<!-- Lemon Drop Hi-Res treble v317.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -16,11 +16,11 @@
 > 	<!-- I would imagine it should work as long as you have a QuadDAC in your phone -->
 > 	
 > 	<!-- First thing -->
-> 	<!-- Copy all lines of code line number 1 through 17358 paste in your mixer_paths file at very top -->
-> 	<!-- I added a note where to copy from at line 17358 -->
+> 	<!-- Copy all lines of code line number 1 through 20509 paste in your mixer_paths file at very top -->
+> 	<!-- I added a note where to copy from at line 20509 -->
 > 	
 > 	<!-- Second thing -->
-> 	<!-- Search for "Lemon Drop Hi-Res end of code programed by: darnrain" after line 17358 to start -->
+> 	<!-- Search for "Lemon Drop Hi-Res end of code programed by: darnrain" after line 20509 to start -->
 > 	
 > 	<!-- Third thing -->
 > 	<!-- Duplicate all code from "Lemon Drop Hi-Res start of mods" to "Lemon Drop Hi-Res end of mods" -->
@@ -13536,7 +13536,7 @@
 > 	<ctl name="RX INI772 SPLINE MIXL MI768 MIXR MI768 Native Switch" value="2" />
 > 	<ctl name="RX INI772 SPLINE MIXL MI768 MIXR MI768 Native" value="2" />
 > 	</path>
-> 
+> 	
 > 	<path name="true-native-mode-HPH-mono">
 > 	<ctl name="TX INT1 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL COMPL HPHL LDAC Native Switch" value="1" />
 > 	<ctl name="TX INT1 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL COMPL HPHL LDAC Native" value="1" />
@@ -19724,7 +19724,7 @@
 > 	<ctl name="RX INI772 SPLINE VBATL MI768 VBATR MI768 Native Switch" value="2" />
 > 	<ctl name="RX INI772 SPLINE VBATL MI768 VBATR MI768 Native" value="2" />
 > 	</path>
-> 
+> 	
 > 	<path name="true-native-mode-HPH-vbat-mono">
 > 	<ctl name="TX INT1 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL COMPL HPHL LDAC Native Switch" value="1" />
 > 	<ctl name="TX INT1 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL COMPL HPHL LDAC Native" value="1" />
@@ -30731,7 +30731,7 @@
 > 	</path>
 > 	
 > 	<path name="voice-anc-headphones">
-2467,3898c28327,31033
+2467,3898c28327,31057
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="1" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -34158,8 +34158,32 @@
 > 	<ctl name="Es9018 AVC Volume" value="4" />
 > 	<ctl name="Es9018 HEADSET TYPE" value="2" />
 > 	</path>
+> 
+> 	<path name="headphones-hifi-headphone-16bit-ADVANCED">
+> 	<ctl name="Es9018 Master Volume" value="0" />
+> 	<ctl name="Es9018 AVC Volume" value="4" />
+> 	<ctl name="Es9018 HEADSET TYPE" value="2" />
+> 	</path>
+> 
+> 	<path name="headphones-hifi-headphone-16bit-AUX">
+> 	<ctl name="Es9018 Master Volume" value="0" />
+> 	<ctl name="Es9018 AVC Volume" value="4" />
+> 	<ctl name="Es9018 HEADSET TYPE" value="2" />
+> 	</path>
 > 	
 > 	<path name="headphones-hifi-headphone-24bit">
+> 	<ctl name="Es9018 Master Volume" value="0" />
+> 	<ctl name="Es9018 AVC Volume" value="4" />
+> 	<ctl name="Es9018 HEADSET TYPE" value="2" />
+> 	</path>
+> 
+> 	<path name="headphones-hifi-headphone-24bit-ADVANCED">
+> 	<ctl name="Es9018 Master Volume" value="0" />
+> 	<ctl name="Es9018 AVC Volume" value="4" />
+> 	<ctl name="Es9018 HEADSET TYPE" value="2" />
+> 	</path>
+> 
+> 	<path name="headphones-hifi-headphone-24bit-AUX">
 > 	<ctl name="Es9018 Master Volume" value="0" />
 > 	<ctl name="Es9018 AVC Volume" value="4" />
 > 	<ctl name="Es9018 HEADSET TYPE" value="2" />
@@ -34872,7 +34896,7 @@
 > 	<path name="speaker-protected" />
 > 	</path>
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
-3899a31035,31037
+3899a31059,31061
 > 	
 > 	
 > 	<!-- Bottom of page -->
