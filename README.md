@@ -3,7 +3,8 @@
 Welcome to the future of music...<br>
 The Lgv20 was first with the Android Nougat operating system.<br>
 Now it's the first running in True Native Mode.<br>
-With audio perfictly centered, ballanced, and normalized audio.<br>
+With audio perfictly centered, ballanced, and dynamic normalization.<br>
+16bit and 24bit file formats supported.<br>
 With all 4 DACs enabled.<br>
 DAC 0 = low-range<br>
 DAC 1 = mid-range<br>
