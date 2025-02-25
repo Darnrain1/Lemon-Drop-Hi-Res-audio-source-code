@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble v317.1 -->
+	<!-- Lemon Drop Hi-Res treble v321.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -21251,16 +21251,16 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="63" />
 	<ctl name="RX1 Digital Volume" value="63" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="63" />
 	<ctl name="RX1 Mix Digital Volume" value="63" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="63" />
 	<ctl name="RX2 Digital Volume" value="63" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="63" />
 	<ctl name="RX2 Mix Digital Volume" value="63" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -21276,10 +21276,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia1" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia1" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="51" />
 	<ctl name="RX1 Digital Volume" value="51" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="51" />
 	<ctl name="RX1 Mix Digital Volume" value="51" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -21301,16 +21301,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="51" />
 	<ctl name="RX1 Digital Volume" value="51" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="51" />
 	<ctl name="RX1 Mix Digital Volume" value="51" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="51" />
 	<ctl name="RX2 Digital Volume" value="51" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="51" />
 	<ctl name="RX2 Mix Digital Volume" value="51" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -21326,16 +21326,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="51" />
 	<ctl name="RX1 Digital Volume" value="51" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="51" />
 	<ctl name="RX1 Mix Digital Volume" value="51" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="51" />
 	<ctl name="RX2 Digital Volume" value="51" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="51" />
 	<ctl name="RX2 Mix Digital Volume" value="51" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -21351,16 +21351,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="51" />
 	<ctl name="RX1 Digital Volume" value="51" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="51" />
 	<ctl name="RX1 Mix Digital Volume" value="51" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="51" />
 	<ctl name="RX2 Digital Volume" value="51" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="51" />
 	<ctl name="RX2 Mix Digital Volume" value="51" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -21376,16 +21376,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="51" />
 	<ctl name="RX1 Digital Volume" value="51" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="51" />
 	<ctl name="RX1 Mix Digital Volume" value="51" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="51" />
 	<ctl name="RX2 Digital Volume" value="51" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="51" />
 	<ctl name="RX2 Mix Digital Volume" value="51" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -21401,16 +21401,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="51" />
 	<ctl name="RX1 Digital Volume" value="51" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="51" />
 	<ctl name="RX1 Mix Digital Volume" value="51" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="51" />
 	<ctl name="RX2 Digital Volume" value="51" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="51" />
 	<ctl name="RX2 Mix Digital Volume" value="51" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -21426,17 +21426,17 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
-	<ctl name="RX1 Digital Volume" value="63" />
+	<ctl name="TX1 Digital Volume" value="51" />
+	<ctl name="RX1 Digital Volume" value="51" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
-	<ctl name="RX1 Mix Digital Volume" value="63" />
+	<ctl name="TX1 Mix Digital Volume" value="51" />
+	<ctl name="RX1 Mix Digital Volume" value="51" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
-	<ctl name="RX2 Digital Volume" value="63" />
+	<ctl name="TX2 Digital Volume" value="51" />
+	<ctl name="RX2 Digital Volume" value="51" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
-	<ctl name="RX2 Mix Digital Volume" value="63" />
+	<ctl name="TX2 Mix Digital Volume" value="51" />
+	<ctl name="RX2 Mix Digital Volume" value="51" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
@@ -21450,24 +21450,24 @@
 	<path name="true-native-mode-HPH-vbat-mono" />
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia1" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia1" value="1" />
-	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="TX1 Digital Volume" value="51" />
 	<ctl name="RX1 Digital Volume" value="51" />
-	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="1 Mix Digital Volume Switch" value="2" />
+	<ctl name="TX1 Mix Digital Volume" value="51" />
 	<ctl name="RX1 Mix Digital Volume" value="51" />
-	<ctl name="2 Digital Volume Switch" value="0" />
-	<ctl name="TX2 Digital Volume" value="0" />
-	<ctl name="RX2 Digital Volume" value="0" />
-	<ctl name="2 Mix Digital Volume Switch" value="0" />
-	<ctl name="TX2 Mix Digital Volume" value="0" />
-	<ctl name="RX2 Mix Digital Volume" value="0" />
-	<ctl name="HPHL Volume Switch" value="1" />
+	<ctl name="2 Digital Volume Switch" value="2" />
+	<ctl name="TX2 Digital Volume" value="51" />
+	<ctl name="RX2 Digital Volume" value="51" />
+	<ctl name="2 Mix Digital Volume Switch" value="2" />
+	<ctl name="TX2 Mix Digital Volume" value="51" />
+	<ctl name="RX2 Mix Digital Volume" value="51" />
+	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
-	<ctl name="HPHR Volume Switch" value="0" />
-	<ctl name="TX HPHR Volume" value="0" />
-	<ctl name="RX HPHR Volume" value="0" />
+	<ctl name="HPHR Volume Switch" value="2" />
+	<ctl name="TX HPHR Volume" value="16" />
+	<ctl name="RX HPHR Volume" value="16" />
 	<path name="vbat_deep-buffer-playback vbat_speaker-mono" />
 	</path>
 	
@@ -21476,16 +21476,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="51" />
 	<ctl name="RX1 Digital Volume" value="51" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="51" />
 	<ctl name="RX1 Mix Digital Volume" value="51" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="51" />
 	<ctl name="RX2 Digital Volume" value="51" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="51" />
 	<ctl name="RX2 Mix Digital Volume" value="51" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -21501,16 +21501,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="51" />
 	<ctl name="RX1 Digital Volume" value="51" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="51" />
 	<ctl name="RX1 Mix Digital Volume" value="51" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="51" />
 	<ctl name="RX2 Digital Volume" value="51" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="51" />
 	<ctl name="RX2 Mix Digital Volume" value="51" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -21526,16 +21526,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="51" />
 	<ctl name="RX1 Digital Volume" value="51" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="51" />
 	<ctl name="RX1 Mix Digital Volume" value="51" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="51" />
 	<ctl name="RX2 Digital Volume" value="51" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="51" />
 	<ctl name="RX2 Mix Digital Volume" value="51" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -21551,16 +21551,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="51" />
 	<ctl name="RX1 Digital Volume" value="51" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="51" />
 	<ctl name="RX1 Mix Digital Volume" value="51" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="51" />
 	<ctl name="RX2 Digital Volume" value="51" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="51" />
 	<ctl name="RX2 Mix Digital Volume" value="51" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -21576,16 +21576,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="51" />
 	<ctl name="RX1 Digital Volume" value="51" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="51" />
 	<ctl name="RX1 Mix Digital Volume" value="51" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="51" />
 	<ctl name="RX2 Digital Volume" value="51" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="51" />
 	<ctl name="RX2 Mix Digital Volume" value="51" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -21658,16 +21658,16 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="67" />
 	<ctl name="RX1 Digital Volume" value="67" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="67" />
 	<ctl name="RX1 Mix Digital Volume" value="67" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="67" />
 	<ctl name="RX2 Digital Volume" value="67" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="67" />
 	<ctl name="RX2 Mix Digital Volume" value="67" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -21683,10 +21683,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia5" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia5" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="55" />
 	<ctl name="RX1 Digital Volume" value="55" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="55" />
 	<ctl name="RX1 Mix Digital Volume" value="55" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -21708,16 +21708,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="55" />
 	<ctl name="RX1 Digital Volume" value="55" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="55" />
 	<ctl name="RX1 Mix Digital Volume" value="55" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="55" />
 	<ctl name="RX2 Digital Volume" value="55" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="55" />
 	<ctl name="RX2 Mix Digital Volume" value="55" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -21733,16 +21733,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="55" />
 	<ctl name="RX1 Digital Volume" value="55" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="55" />
 	<ctl name="RX1 Mix Digital Volume" value="55" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="55" />
 	<ctl name="RX2 Digital Volume" value="55" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="55" />
 	<ctl name="RX2 Mix Digital Volume" value="55" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -21758,16 +21758,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="55" />
 	<ctl name="RX1 Digital Volume" value="55" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="55" />
 	<ctl name="RX1 Mix Digital Volume" value="55" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="55" />
 	<ctl name="RX2 Digital Volume" value="55" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="55" />
 	<ctl name="RX2 Mix Digital Volume" value="55" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -21783,16 +21783,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="55" />
 	<ctl name="RX1 Digital Volume" value="55" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="55" />
 	<ctl name="RX1 Mix Digital Volume" value="55" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="55" />
 	<ctl name="RX2 Digital Volume" value="55" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="55" />
 	<ctl name="RX2 Mix Digital Volume" value="55" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -21808,16 +21808,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="55" />
 	<ctl name="RX1 Digital Volume" value="55" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="55" />
 	<ctl name="RX1 Mix Digital Volume" value="55" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="55" />
 	<ctl name="RX2 Digital Volume" value="55" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="55" />
 	<ctl name="RX2 Mix Digital Volume" value="55" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -21832,14 +21832,17 @@
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia5" value="2" />
+	<ctl name="1 Digital Volume Switch" value="2" />
+	<ctl name="TX1 Digital Volume" value="67" />
+	<ctl name="RX1 Digital Volume" value="67" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="67" />
 	<ctl name="RX1 Mix Digital Volume" value="67" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="67" />
 	<ctl name="RX2 Digital Volume" value="67" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="67" />
 	<ctl name="RX2 Mix Digital Volume" value="67" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -21855,10 +21858,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia5" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia5" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="55" />
 	<ctl name="RX1 Digital Volume" value="55" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="55" />
 	<ctl name="RX1 Mix Digital Volume" value="55" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -21880,16 +21883,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="55" />
 	<ctl name="RX1 Digital Volume" value="55" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="55" />
 	<ctl name="RX1 Mix Digital Volume" value="55" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="55" />
 	<ctl name="RX2 Digital Volume" value="55" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="55" />
 	<ctl name="RX2 Mix Digital Volume" value="55" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -21905,16 +21908,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="55" />
 	<ctl name="RX1 Digital Volume" value="55" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="55" />
 	<ctl name="RX1 Mix Digital Volume" value="55" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="55" />
 	<ctl name="RX2 Digital Volume" value="55" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="55" />
 	<ctl name="RX2 Mix Digital Volume" value="55" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -21930,16 +21933,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="55" />
 	<ctl name="RX1 Digital Volume" value="55" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="55" />
 	<ctl name="RX1 Mix Digital Volume" value="55" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="55" />
 	<ctl name="RX2 Digital Volume" value="55" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="55" />
 	<ctl name="RX2 Mix Digital Volume" value="55" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -21955,16 +21958,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="55" />
 	<ctl name="RX1 Digital Volume" value="55" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="55" />
 	<ctl name="RX1 Mix Digital Volume" value="55" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="55" />
 	<ctl name="RX2 Digital Volume" value="55" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="55" />
 	<ctl name="RX2 Mix Digital Volume" value="55" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -21980,16 +21983,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="55" />
 	<ctl name="RX1 Digital Volume" value="55" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="55" />
 	<ctl name="RX1 Mix Digital Volume" value="55" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="55" />
 	<ctl name="RX2 Digital Volume" value="55" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="55" />
 	<ctl name="RX2 Mix Digital Volume" value="55" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22062,16 +22065,16 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="65" />
 	<ctl name="RX1 Digital Volume" value="65" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="65" />
 	<ctl name="RX1 Mix Digital Volume" value="65" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="65" />
 	<ctl name="RX2 Digital Volume" value="65" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="65" />
 	<ctl name="RX2 Mix Digital Volume" value="65" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22087,10 +22090,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia3" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia3" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="53" />
 	<ctl name="RX1 Digital Volume" value="53" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="53" />
 	<ctl name="RX1 Mix Digital Volume" value="53" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -22112,16 +22115,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="53" />
 	<ctl name="RX1 Digital Volume" value="53" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="53" />
 	<ctl name="RX1 Mix Digital Volume" value="53" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="53" />
 	<ctl name="RX2 Digital Volume" value="53" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="53" />
 	<ctl name="RX2 Mix Digital Volume" value="53" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22137,16 +22140,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="53" />
 	<ctl name="RX1 Digital Volume" value="53" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="53" />
 	<ctl name="RX1 Mix Digital Volume" value="53" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="53" />
 	<ctl name="RX2 Digital Volume" value="53" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="53" />
 	<ctl name="RX2 Mix Digital Volume" value="53" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22162,16 +22165,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="53" />
 	<ctl name="RX1 Digital Volume" value="53" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="53" />
 	<ctl name="RX1 Mix Digital Volume" value="53" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="53" />
 	<ctl name="RX2 Digital Volume" value="53" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="53" />
 	<ctl name="RX2 Mix Digital Volume" value="53" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22187,16 +22190,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="53" />
 	<ctl name="RX1 Digital Volume" value="53" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="53" />
 	<ctl name="RX1 Mix Digital Volume" value="53" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="53" />
 	<ctl name="RX2 Digital Volume" value="53" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="53" />
 	<ctl name="RX2 Mix Digital Volume" value="53" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22212,16 +22215,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="53" />
 	<ctl name="RX1 Digital Volume" value="53" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="53" />
 	<ctl name="RX1 Mix Digital Volume" value="53" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="53" />
 	<ctl name="RX2 Digital Volume" value="53" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="53" />
 	<ctl name="RX2 Mix Digital Volume" value="53" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22237,16 +22240,16 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="65" />
 	<ctl name="RX1 Digital Volume" value="65" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="65" />
 	<ctl name="RX1 Mix Digital Volume" value="65" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="65" />
 	<ctl name="RX2 Digital Volume" value="65" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="65" />
 	<ctl name="RX2 Mix Digital Volume" value="65" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22262,10 +22265,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia3" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia3" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="53" />
 	<ctl name="RX1 Digital Volume" value="53" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="53" />
 	<ctl name="RX1 Mix Digital Volume" value="53" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -22287,16 +22290,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="53" />
 	<ctl name="RX1 Digital Volume" value="53" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="53" />
 	<ctl name="RX1 Mix Digital Volume" value="53" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="53" />
 	<ctl name="RX2 Digital Volume" value="53" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="53" />
 	<ctl name="RX2 Mix Digital Volume" value="53" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22312,16 +22315,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="53" />
 	<ctl name="RX1 Digital Volume" value="53" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="53" />
 	<ctl name="RX1 Mix Digital Volume" value="53" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="53" />
 	<ctl name="RX2 Digital Volume" value="53" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="53" />
 	<ctl name="RX2 Mix Digital Volume" value="53" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22337,16 +22340,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="53" />
 	<ctl name="RX1 Digital Volume" value="53" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="53" />
 	<ctl name="RX1 Mix Digital Volume" value="53" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="53" />
 	<ctl name="RX2 Digital Volume" value="53" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="53" />
 	<ctl name="RX2 Mix Digital Volume" value="53" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22362,16 +22365,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="53" />
 	<ctl name="RX1 Digital Volume" value="53" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="53" />
 	<ctl name="RX1 Mix Digital Volume" value="53" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="53" />
 	<ctl name="RX2 Digital Volume" value="53" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="53" />
 	<ctl name="RX2 Mix Digital Volume" value="53" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22387,16 +22390,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="53" />
 	<ctl name="RX1 Digital Volume" value="53" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="53" />
 	<ctl name="RX1 Mix Digital Volume" value="53" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="53" />
 	<ctl name="RX2 Digital Volume" value="53" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="53" />
 	<ctl name="RX2 Mix Digital Volume" value="53" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22465,16 +22468,16 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="69" />
 	<ctl name="RX1 Digital Volume" value="69" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="69" />
 	<ctl name="RX1 Mix Digital Volume" value="69" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="69" />
 	<ctl name="RX2 Digital Volume" value="69" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="69" />
 	<ctl name="RX2 Mix Digital Volume" value="69" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22490,10 +22493,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia4" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia4" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -22515,16 +22518,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22540,16 +22543,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22565,16 +22568,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22590,16 +22593,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22615,16 +22618,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22640,16 +22643,16 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="69" />
 	<ctl name="RX1 Digital Volume" value="69" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="69" />
 	<ctl name="RX1 Mix Digital Volume" value="69" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="69" />
 	<ctl name="RX2 Digital Volume" value="69" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="69" />
 	<ctl name="RX2 Mix Digital Volume" value="69" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22665,10 +22668,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia4" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia4" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -22690,16 +22693,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22715,16 +22718,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22740,16 +22743,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22765,16 +22768,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22790,16 +22793,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22819,16 +22822,16 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="69" />
 	<ctl name="RX1 Digital Volume" value="69" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="69" />
 	<ctl name="RX1 Mix Digital Volume" value="69" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="69" />
 	<ctl name="RX2 Digital Volume" value="69" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="69" />
 	<ctl name="RX2 Mix Digital Volume" value="69" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22844,10 +22847,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia6" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia6" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -22869,16 +22872,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22894,16 +22897,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22919,16 +22922,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22944,16 +22947,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22969,16 +22972,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -22994,16 +22997,16 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="69" />
 	<ctl name="RX1 Digital Volume" value="69" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="69" />
 	<ctl name="RX1 Mix Digital Volume" value="69" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="69" />
 	<ctl name="RX2 Digital Volume" value="69" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="69" />
 	<ctl name="RX2 Mix Digital Volume" value="69" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23019,10 +23022,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia6" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia6" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -23044,16 +23047,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23069,16 +23072,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23094,16 +23097,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23119,16 +23122,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23144,16 +23147,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23233,16 +23236,16 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="69" />
 	<ctl name="RX1 Digital Volume" value="69" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="69" />
 	<ctl name="RX1 Mix Digital Volume" value="69" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="69" />
 	<ctl name="RX2 Digital Volume" value="69" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="69" />
 	<ctl name="RX2 Mix Digital Volume" value="69" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23258,10 +23261,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia7" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia7" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -23283,16 +23286,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23308,16 +23311,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23333,16 +23336,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23358,16 +23361,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23383,16 +23386,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23408,16 +23411,16 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="69" />
 	<ctl name="RX1 Digital Volume" value="69" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="69" />
 	<ctl name="RX1 Mix Digital Volume" value="69" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="69" />
 	<ctl name="RX2 Digital Volume" value="69" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="69" />
 	<ctl name="RX2 Mix Digital Volume" value="69" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23433,10 +23436,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia7" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia7" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -23458,16 +23461,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23483,16 +23486,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23508,16 +23511,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23533,16 +23536,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23558,16 +23561,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23643,16 +23646,16 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="69" />
 	<ctl name="RX1 Digital Volume" value="69" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="69" />
 	<ctl name="RX1 Mix Digital Volume" value="69" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="69" />
 	<ctl name="RX2 Digital Volume" value="69" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="69" />
 	<ctl name="RX2 Mix Digital Volume" value="69" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23668,10 +23671,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia10" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia10" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -23693,16 +23696,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23718,16 +23721,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23743,16 +23746,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23768,16 +23771,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23793,16 +23796,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23818,16 +23821,16 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="69" />
 	<ctl name="RX1 Digital Volume" value="69" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="69" />
 	<ctl name="RX1 Mix Digital Volume" value="69" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="69" />
 	<ctl name="RX2 Digital Volume" value="69" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="69" />
 	<ctl name="RX2 Mix Digital Volume" value="69" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23843,10 +23846,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia10" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia10" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -23868,16 +23871,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23893,16 +23896,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23918,16 +23921,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23943,16 +23946,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -23968,16 +23971,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24053,16 +24056,16 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="69" />
 	<ctl name="RX1 Digital Volume" value="69" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="69" />
 	<ctl name="RX1 Mix Digital Volume" value="69" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="69" />
 	<ctl name="RX2 Digital Volume" value="69" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="69" />
 	<ctl name="RX2 Mix Digital Volume" value="69" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24078,10 +24081,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia11" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia11" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -24103,16 +24106,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24128,16 +24131,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24153,16 +24156,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24178,16 +24181,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24203,16 +24206,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24228,16 +24231,16 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="69" />
 	<ctl name="RX1 Digital Volume" value="69" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="69" />
 	<ctl name="RX1 Mix Digital Volume" value="69" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="69" />
 	<ctl name="RX2 Digital Volume" value="69" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="69" />
 	<ctl name="RX2 Mix Digital Volume" value="69" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24253,10 +24256,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia11" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia11" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -24278,16 +24281,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24303,16 +24306,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24328,16 +24331,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24353,16 +24356,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24378,16 +24381,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24463,16 +24466,16 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="69" />
 	<ctl name="RX1 Digital Volume" value="69" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="69" />
 	<ctl name="RX1 Mix Digital Volume" value="69" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="69" />
 	<ctl name="RX2 Digital Volume" value="69" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="69" />
 	<ctl name="RX2 Mix Digital Volume" value="69" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24488,10 +24491,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia12" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia12" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -24513,16 +24516,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24538,16 +24541,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24563,16 +24566,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24588,16 +24591,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24613,16 +24616,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24638,16 +24641,16 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="69" />
 	<ctl name="RX1 Digital Volume" value="69" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="69" />
 	<ctl name="RX1 Mix Digital Volume" value="69" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="69" />
 	<ctl name="RX2 Digital Volume" value="69" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="69" />
 	<ctl name="RX2 Mix Digital Volume" value="69" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24663,10 +24666,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia12" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia12" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -24688,16 +24691,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24713,16 +24716,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24738,16 +24741,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24763,16 +24766,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24788,16 +24791,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24873,16 +24876,16 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="69" />
 	<ctl name="RX1 Digital Volume" value="69" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="69" />
 	<ctl name="RX1 Mix Digital Volume" value="69" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="69" />
 	<ctl name="RX2 Digital Volume" value="69" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="69" />
 	<ctl name="RX2 Mix Digital Volume" value="69" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24898,10 +24901,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia13" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia13" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -24923,16 +24926,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24948,16 +24951,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24973,16 +24976,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -24998,16 +25001,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25023,16 +25026,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25048,16 +25051,16 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="69" />
 	<ctl name="RX1 Digital Volume" value="69" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="69" />
 	<ctl name="RX1 Mix Digital Volume" value="69" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="69" />
 	<ctl name="RX2 Digital Volume" value="69" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="69" />
 	<ctl name="RX2 Mix Digital Volume" value="69" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25073,10 +25076,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia13" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia13" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -25098,16 +25101,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25123,16 +25126,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25148,16 +25151,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25173,16 +25176,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25198,16 +25201,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25283,16 +25286,16 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="69" />
 	<ctl name="RX1 Digital Volume" value="69" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="69" />
 	<ctl name="RX1 Mix Digital Volume" value="69" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="69" />
 	<ctl name="RX2 Digital Volume" value="69" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="69" />
 	<ctl name="RX2 Mix Digital Volume" value="69" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25308,10 +25311,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia14" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia14" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -25333,16 +25336,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25358,16 +25361,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25383,16 +25386,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25408,16 +25411,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25433,16 +25436,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25458,16 +25461,16 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="69" />
 	<ctl name="RX1 Digital Volume" value="69" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="69" />
 	<ctl name="RX1 Mix Digital Volume" value="69" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="69" />
 	<ctl name="RX2 Digital Volume" value="69" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="69" />
 	<ctl name="RX2 Mix Digital Volume" value="69" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25483,10 +25486,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia14" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia14" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -25508,16 +25511,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25533,16 +25536,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25558,16 +25561,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25583,16 +25586,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25608,16 +25611,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25693,16 +25696,16 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="69" />
 	<ctl name="RX1 Digital Volume" value="69" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="69" />
 	<ctl name="RX1 Mix Digital Volume" value="69" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="69" />
 	<ctl name="RX2 Digital Volume" value="69" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="69" />
 	<ctl name="RX2 Mix Digital Volume" value="69" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25718,10 +25721,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia15" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia15" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -25743,16 +25746,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25768,16 +25771,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25793,16 +25796,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25818,16 +25821,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25843,16 +25846,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25868,16 +25871,16 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="69" />
 	<ctl name="RX1 Digital Volume" value="69" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="69" />
 	<ctl name="RX1 Mix Digital Volume" value="69" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="69" />
 	<ctl name="RX2 Digital Volume" value="69" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="69" />
 	<ctl name="RX2 Mix Digital Volume" value="69" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25893,10 +25896,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia15" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia15" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -25918,16 +25921,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25943,16 +25946,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25968,16 +25971,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -25993,16 +25996,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -26018,16 +26021,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -26103,16 +26106,16 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="69" />
 	<ctl name="RX1 Digital Volume" value="69" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="69" />
 	<ctl name="RX1 Mix Digital Volume" value="69" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="69" />
 	<ctl name="RX2 Digital Volume" value="69" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="69" />
 	<ctl name="RX2 Mix Digital Volume" value="69" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -26128,10 +26131,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia16" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia16" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -26153,16 +26156,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -26178,16 +26181,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -26203,16 +26206,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -26228,16 +26231,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -26253,16 +26256,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -26278,16 +26281,16 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="69" />
 	<ctl name="RX1 Digital Volume" value="69" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="69" />
 	<ctl name="RX1 Mix Digital Volume" value="69" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="69" />
 	<ctl name="RX2 Digital Volume" value="69" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="69" />
 	<ctl name="RX2 Mix Digital Volume" value="69" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -26303,10 +26306,10 @@
 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia16" value="1" />
 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia16" value="1" />
 	<ctl name="1 Digital Volume Switch" value="1" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="1" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="0" />
 	<ctl name="TX2 Digital Volume" value="0" />
@@ -26328,16 +26331,16 @@
 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -26353,16 +26356,16 @@
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -26378,16 +26381,16 @@
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -26403,16 +26406,16 @@
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -26428,16 +26431,16 @@
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="84" />
+	<ctl name="TX1 Digital Volume" value="57" />
 	<ctl name="RX1 Digital Volume" value="57" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="84" />
+	<ctl name="TX1 Mix Digital Volume" value="57" />
 	<ctl name="RX1 Mix Digital Volume" value="57" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="84" />
+	<ctl name="TX2 Digital Volume" value="57" />
 	<ctl name="RX2 Digital Volume" value="57" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="84" />
+	<ctl name="TX2 Mix Digital Volume" value="57" />
 	<ctl name="RX2 Mix Digital Volume" value="57" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
@@ -30317,13 +30320,13 @@
 	<ctl name="Es9018 AVC Volume" value="4" />
 	<ctl name="Es9018 HEADSET TYPE" value="2" />
 	</path>
-
+	
 	<path name="headphones-hifi-headphone-16bit-ADVANCED">
 	<ctl name="Es9018 Master Volume" value="0" />
 	<ctl name="Es9018 AVC Volume" value="4" />
 	<ctl name="Es9018 HEADSET TYPE" value="2" />
 	</path>
-
+	
 	<path name="headphones-hifi-headphone-16bit-AUX">
 	<ctl name="Es9018 Master Volume" value="0" />
 	<ctl name="Es9018 AVC Volume" value="4" />
@@ -30335,13 +30338,13 @@
 	<ctl name="Es9018 AVC Volume" value="4" />
 	<ctl name="Es9018 HEADSET TYPE" value="2" />
 	</path>
-
+	
 	<path name="headphones-hifi-headphone-24bit-ADVANCED">
 	<ctl name="Es9018 Master Volume" value="0" />
 	<ctl name="Es9018 AVC Volume" value="4" />
 	<ctl name="Es9018 HEADSET TYPE" value="2" />
 	</path>
-
+	
 	<path name="headphones-hifi-headphone-24bit-AUX">
 	<ctl name="Es9018 Master Volume" value="0" />
 	<ctl name="Es9018 AVC Volume" value="4" />
