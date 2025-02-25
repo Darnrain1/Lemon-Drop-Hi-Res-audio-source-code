@@ -85,7 +85,7 @@ You need to choose 24bit Hi-Res at 44.1kHz as the source, that's how I programed
 My 24/32bit QuadDAC will play all three at the maximum quality, but you will know when you have music recorded in True Native Mode because it's amazing and mind blowing. All the newer music should be in True Native Mode, older music is not unless it's remastered. I know Elephunk - Black Eyed Peas opus format, on YouTube Music is in True Native Mode. Get opus format over mp4 it's so much better. Newer technology.<br>
 One. Low. aka free.<br>
 Two. Medium. aka paid.<br>
-Three. High True Native Mode. aka $5000+ dollar Hi-Res music player.<br>
+Three. High True Native Mode. aka Hi-Res Mode.<br>
 
 Check out my other project perfect for downloading music.
 https://github.com/Darnrain1/yt-playlist
