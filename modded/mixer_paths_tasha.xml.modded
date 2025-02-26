@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble v321.1 -->
+	<!-- Lemon Drop Hi-Res treble v322.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -21426,17 +21426,17 @@
 	<ctl name="SLIMBUS_0_TX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="1 Digital Volume Switch" value="2" />
-	<ctl name="TX1 Digital Volume" value="51" />
-	<ctl name="RX1 Digital Volume" value="51" />
+	<ctl name="TX1 Digital Volume" value="63" />
+	<ctl name="RX1 Digital Volume" value="63" />
 	<ctl name="1 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX1 Mix Digital Volume" value="51" />
-	<ctl name="RX1 Mix Digital Volume" value="51" />
+	<ctl name="TX1 Mix Digital Volume" value="63" />
+	<ctl name="RX1 Mix Digital Volume" value="63" />
 	<ctl name="2 Digital Volume Switch" value="2" />
-	<ctl name="TX2 Digital Volume" value="51" />
-	<ctl name="RX2 Digital Volume" value="51" />
+	<ctl name="TX2 Digital Volume" value="63" />
+	<ctl name="RX2 Digital Volume" value="63" />
 	<ctl name="2 Mix Digital Volume Switch" value="2" />
-	<ctl name="TX2 Mix Digital Volume" value="51" />
-	<ctl name="RX2 Mix Digital Volume" value="51" />
+	<ctl name="TX2 Mix Digital Volume" value="63" />
+	<ctl name="RX2 Mix Digital Volume" value="63" />
 	<ctl name="HPHL Volume Switch" value="2" />
 	<ctl name="TX HPHL Volume" value="16" />
 	<ctl name="RX HPHL Volume" value="16" />
