@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble v323.1 -->
+> 	<!-- Lemon Drop Hi-Res treble v324.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -29707,11 +29707,11 @@
 > 	<path name="true-native-mode-SPKR-mono" />
 > 	<path name="true-native-mode-SPKR-vbat-mono" />
 > 	<ctl name="SPKR_PWR_MODE Switch" value="ON" />
-> 	<ctl name="TX_SPKR_PWR_MODE" value="HIHIFI" />
-> 	<ctl name="RX_SPKR_PWR_MODE" value="HIHIFI" />
+> 	<ctl name="TX_SPKR_PWR_MODE" value="NATIVE" />
+> 	<ctl name="RX_SPKR_PWR_MODE" value="NATIVE" />
 > 	<ctl name="SPKR Mode Switch" value="ON" />
-> 	<ctl name="TX SPKR Mode" value="HIHIFI" />
-> 	<ctl name="RX SPKR Mode" value="HIHIFI" />
+> 	<ctl name="TX SPKR Mode" value="NATIVE" />
+> 	<ctl name="RX SPKR Mode" value="NATIVE" />
 > 	<ctl name="TX INT7_1 MIX1 INP0" value="RX0" />
 > 	<ctl name="RX INT7_1 MIX1 INP0" value="RX0" />
 > 	<ctl name="SLIM TX0 MUX" value="AIF_MIX1_PB" />
@@ -29737,11 +29737,11 @@
 > 	<path name="true-native-mode-SPKR" />
 > 	<path name="true-native-mode-SPKR-vbat" />
 > 	<ctl name="SPKR_PWR_MODE Switch" value="ON" />
-> 	<ctl name="TX_SPKR_PWR_MODE" value="HIHIFI" />
-> 	<ctl name="RX_SPKR_PWR_MODE" value="HIHIFI" />
+> 	<ctl name="TX_SPKR_PWR_MODE" value="NATIVE" />
+> 	<ctl name="RX_SPKR_PWR_MODE" value="NATIVE" />
 > 	<ctl name="SPKR Mode Switch" value="ON" />
-> 	<ctl name="TX SPKR Mode" value="HIHIFI" />
-> 	<ctl name="RX SPKR Mode" value="HIHIFI" />
+> 	<ctl name="TX SPKR Mode" value="NATIVE" />
+> 	<ctl name="RX SPKR Mode" value="NATIVE" />
 > 	<ctl name="SpkrLeft COMP Switch" value="2" />
 > 	<ctl name="SpkrRight COMP Switch" value="2" />
 > 	<ctl name="SpkrLeft BOOST Switch" value="0" />
@@ -30302,11 +30302,11 @@
 > 	<ctl name="SLIM_6_TX Channels" value="Two" />
 > 	<ctl name="SLIM_6_RX Channels" value="Two" />
 > 	<ctl name="HPH_PWR_MODE Switch" value="ON" />
-> 	<ctl name="TX_HPH_PWR_MODE" value="HIHIFI" />
-> 	<ctl name="RX_HPH_PWR_MODE" value="HIHIFI" />
+> 	<ctl name="TX_HPH_PWR_MODE" value="NATIVE" />
+> 	<ctl name="RX_HPH_PWR_MODE" value="NATIVE" />
 > 	<ctl name="HPH Mode Switch" value="ON" />
-> 	<ctl name="TX HPH Mode" value="HIHIFI" />
-> 	<ctl name="RX HPH Mode" value="HIHIFI" />
+> 	<ctl name="TX HPH Mode" value="NATIVE" />
+> 	<ctl name="RX HPH Mode" value="NATIVE" />
 > 	<ctl name="RX HPH Mode" value="CLS_H_LP" />
 > 	<ctl name="SLIM TX2 MUX" value="AIF4_PB" />
 > 	<ctl name="SLIM RX2 MUX" value="AIF4_PB" />
@@ -33534,11 +33534,11 @@
 > 	<path name="true-native-mode-HPH" />
 > 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="HPH_PWR_MODE Switch" value="ON" />
-> 	<ctl name="TX_HPH_PWR_MODE" value="HIHIFI" />
-> 	<ctl name="RX_HPH_PWR_MODE" value="HIHIFI" />
+> 	<ctl name="TX_HPH_PWR_MODE" value="NATIVE" />
+> 	<ctl name="RX_HPH_PWR_MODE" value="NATIVE" />
 > 	<ctl name="HPH Mode Switch" value="ON" />
-> 	<ctl name="TX HPH Mode" value="HIHIFI" />
-> 	<ctl name="RX HPH Mode" value="HIHIFI" />
+> 	<ctl name="TX HPH Mode" value="NATIVE" />
+> 	<ctl name="RX HPH Mode" value="NATIVE" />
 > 	<ctl name="HphLeft COMP Switch" value="2" />
 > 	<ctl name="HphRight COMP Switch" value="2" />
 > 	<ctl name="HphLeft BOOST Switch" value="0" />
