@@ -19,25 +19,25 @@
     <mixPorts>
         <mixPort name="usb_accessory output" role="source">
             <profile name="" format="AUDIO_FORMAT_PCM_16_BIT"
-                     samplingRates="44100" channelMasks="AUDIO_CHANNEL_OUT_STEREO" />
+                     samplingRates="44100" channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
         </mixPort>
-        <mixPort name="usb_device output" role="source" />
-        <mixPort name="usb_device input" role="sink" />
+        <mixPort name="usb_device output" role="source"/>
+        <mixPort name="usb_device input" role="sink"/>
     </mixPorts>
     <devicePorts>
         <devicePort tagName="USB Host Out" type="AUDIO_DEVICE_OUT_USB_ACCESSORY" role="sink">
             <profile name="" format="AUDIO_FORMAT_PCM_16_BIT"
-                     samplingRates="44100" channelMasks="AUDIO_CHANNEL_OUT_STEREO" />
+                     samplingRates="44100" channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
         </devicePort>
-        <devicePort tagName="USB Device Out" type="AUDIO_DEVICE_OUT_USB_DEVICE" role="sink" />
-        <devicePort tagName="USB Device In" type="AUDIO_DEVICE_IN_USB_DEVICE" role="source" />
+        <devicePort tagName="USB Device Out" type="AUDIO_DEVICE_OUT_USB_DEVICE" role="sink"/>
+        <devicePort tagName="USB Device In" type="AUDIO_DEVICE_IN_USB_DEVICE" role="source"/>
     </devicePorts>
     <routes>
         <route type="mix" sink="USB Host Out"
-               sources="usb_accessory output" />
+               sources="usb_accessory output"/>
         <route type="mix" sink="USB Device Out"
-               sources="usb_device output" />
+               sources="usb_device output"/>
         <route type="mix" sink="usb_device input"
-               sources="USB Device In" />
+               sources="USB Device In"/>
     </routes>
 </module>
