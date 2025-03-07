@@ -1,0 +1,24 @@
+26c26
+<         sampling_rates 44100|48000
+---
+>         sampling_rates 44100
+28c28
+<         formats AUDIO_FORMAT_PCM_16_BIT
+---
+>         formats AUDIO_FORMAT_PCM_24_BIT_PACKED
+33c33
+<         sampling_rates 48000
+---
+>         sampling_rates 44100
+35c35
+<         formats AUDIO_FORMAT_PCM_16_BIT
+---
+>         formats AUDIO_FORMAT_PCM_24_BIT_PACKED
+40c40
+<          sampling_rates 44100|48000
+---
+>          sampling_rates 44100
+42c42
+<          formats AUDIO_FORMAT_PCM_16_BIT
+---
+>          formats AUDIO_FORMAT_PCM_24_BIT_PACKED
