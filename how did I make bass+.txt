@@ -1,0 +1,21 @@
+For the bass+ version I changed all the following lines in the mixers_paths.xml file.
+<pre>
+	<ctl name="SpkrLeft BOOST Switch" value="0" />
+	<ctl name="SpkrRight BOOST Switch" value="0" />
+	<ctl name="SpkrLeft VISENSE Switch" value="0" />
+	<ctl name="SpkrRight VISENSE Switch" value="0" />
+	<ctl name="HphLeft BOOST Switch" value="0" />
+	<ctl name="HphRight BOOST Switch" value="0" />
+	<ctl name="HphLeft VISENSE Switch" value="0" />
+	<ctl name="HphRight VISENSE Switch" value="0" />
+
+to:
+	<ctl name="SpkrLeft BOOST Switch" value="2" />
+	<ctl name="SpkrRight BOOST Switch" value="2" />
+	<ctl name="SpkrLeft VISENSE Switch" value="2" />
+	<ctl name="SpkrRight VISENSE Switch" value="2" />
+	<ctl name="HphLeft BOOST Switch" value="2" />
+	<ctl name="HphRight BOOST Switch" value="2" />
+	<ctl name="HphLeft VISENSE Switch" value="2" />
+	<ctl name="HphRight VISENSE Switch" value="2" />
+</pre>
