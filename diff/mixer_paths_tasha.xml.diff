@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble 24bit v331.1 -->
+> 	<!-- Lemon Drop Hi-Res bass+ 24bit v331.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -29750,10 +29750,10 @@
 > 	<ctl name="RX SPKR Mode" value="NATIVE" />
 > 	<ctl name="SpkrLeft COMP Switch" value="2" />
 > 	<ctl name="SpkrRight COMP Switch" value="2" />
-> 	<ctl name="SpkrLeft BOOST Switch" value="0" />
-> 	<ctl name="SpkrRight BOOST Switch" value="0" />
-> 	<ctl name="SpkrLeft VISENSE Switch" value="0" />
-> 	<ctl name="SpkrRight VISENSE Switch" value="0" />
+> 	<ctl name="SpkrLeft BOOST Switch" value="2" />
+> 	<ctl name="SpkrRight BOOST Switch" value="2" />
+> 	<ctl name="SpkrLeft VISENSE Switch" value="2" />
+> 	<ctl name="SpkrRight VISENSE Switch" value="2" />
 > 	<ctl name="SpkrLeft NORM Switch" value="2" />
 > 	<ctl name="SpkrRight NORM Switch" value="2" />
 > 	<ctl name="SpkrLeft WSA PA Mute Switch" value="0" />
@@ -30348,10 +30348,10 @@
 > 	<ctl name="RX HPHR Volume" value="16" />
 > 	<ctl name="HphLeft COMP Switch" value="2" />
 > 	<ctl name="HphRight COMP Switch" value="2" />
-> 	<ctl name="HphLeft BOOST Switch" value="0" />
-> 	<ctl name="HphRight BOOST Switch" value="0" />
-> 	<ctl name="HphLeft VISENSE Switch" value="0" />
-> 	<ctl name="HphRight VISENSE Switch" value="0" />
+> 	<ctl name="HphLeft BOOST Switch" value="2" />
+> 	<ctl name="HphRight BOOST Switch" value="2" />
+> 	<ctl name="HphLeft VISENSE Switch" value="2" />
+> 	<ctl name="HphRight VISENSE Switch" value="2" />
 > 	<ctl name="HphLeft NORM Switch" value="0" />
 > 	<ctl name="HphRight NORM Switch" value="0" />
 > 	<ctl name="HphLeft WSA PA Mute Switch" value="0" />
@@ -33551,10 +33551,10 @@
 > 	<ctl name="RX HPH Mode" value="NATIVE" />
 > 	<ctl name="HphLeft COMP Switch" value="2" />
 > 	<ctl name="HphRight COMP Switch" value="2" />
-> 	<ctl name="HphLeft BOOST Switch" value="0" />
-> 	<ctl name="HphRight BOOST Switch" value="0" />
-> 	<ctl name="HphLeft VISENSE Switch" value="0" />
-> 	<ctl name="HphRight VISENSE Switch" value="0" />
+> 	<ctl name="HphLeft BOOST Switch" value="2" />
+> 	<ctl name="HphRight BOOST Switch" value="2" />
+> 	<ctl name="HphLeft VISENSE Switch" value="2" />
+> 	<ctl name="HphRight VISENSE Switch" value="2" />
 > 	<ctl name="HphLeft NORM Switch" value="0" />
 > 	<ctl name="HphRight NORM Switch" value="0" />
 > 	<ctl name="HphLeft WSA PA Mute Switch" value="0" />
