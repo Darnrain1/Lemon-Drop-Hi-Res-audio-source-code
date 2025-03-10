@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble 24bit v332.1 -->
+	<!-- Lemon Drop Hi-Res treble 24bit v333.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -8122,6 +8122,8 @@
 	<ctl name="SpkrRight CENTER Switch" value="0" />
 	<ctl name="SpkrLeft ALIGNMENT Switch" value="0" />
 	<ctl name="SpkrRight ALIGNMENT Switch" value="0" />
+	<ctl name="SpkrLeft LDAC Switch" value="0" />
+	<ctl name="SpkrRight RDAC Switch" value="0" />
 	<ctl name="SpkrLeft WSA PA Mute Switch" value="0" />
 	<ctl name="SpkrRight WSA PA Mute Switch" value="0" />
 	<ctl name="SpkrLeft SWR DAC_Port Switch" value="0" />
@@ -8155,6 +8157,8 @@
 	<ctl name="HphRight CENTER Switch" value="0" />
 	<ctl name="HphLeft ALIGNMENT Switch" value="0" />
 	<ctl name="HphRight ALIGNMENT Switch" value="0" />
+	<ctl name="HphLeft LDAC Switch" value="0" />
+	<ctl name="HphRight RDAC Switch" value="0" />
 	<ctl name="HphLeft WSA PA Mute Switch" value="0" />
 	<ctl name="HphRight WSA PA Mute Switch" value="0" />
 	<ctl name="HphLeft SWR DAC_Port Switch" value="0" />
@@ -27459,6 +27463,8 @@
 	<ctl name="SpkrRight CENTER Switch" value="0" />
 	<ctl name="SpkrLeft ALIGNMENT Switch" value="1" />
 	<ctl name="SpkrRight ALIGNMENT Switch" value="0" />
+	<ctl name="SpkrLeft LDAC Switch" value="1" />
+	<ctl name="SpkrRight RDAC Switch" value="0" />
 	<ctl name="SpkrLeft WSA PA Mute Switch" value="1" />
 	<ctl name="SpkrRight WSA PA Mute Switch" value="0" />
 	<ctl name="SpkrLeft SWR DAC_Port Switch" value="1" />
@@ -27503,6 +27509,8 @@
 	<ctl name="SpkrRight CENTER Switch" value="2" />
 	<ctl name="SpkrLeft ALIGNMENT Switch" value="2" />
 	<ctl name="SpkrRight ALIGNMENT Switch" value="2" />
+	<ctl name="SpkrLeft LDAC Switch" value="2" />
+	<ctl name="SpkrRight RDAC Switch" value="2" />
 	<ctl name="SpkrLeft WSA PA Mute Switch" value="0" />
 	<ctl name="SpkrRight WSA PA Mute Switch" value="0" />
 	<ctl name="SpkrLeft SWR DAC_Port Switch" value="2" />
@@ -28117,6 +28125,8 @@
 	<ctl name="HphRight CENTER Switch" value="2" />
 	<ctl name="HphLeft ALIGNMENT Switch" value="2" />
 	<ctl name="HphRight ALIGNMENT Switch" value="2" />
+	<ctl name="HphLeft LDAC Switch" value="2" />
+	<ctl name="HphRight RDAC Switch" value="2" />
 	<ctl name="HphLeft WSA PA Mute Switch" value="0" />
 	<ctl name="HphRight WSA PA Mute Switch" value="0" />
 	<ctl name="HphLeft SWR DAC_Port Switch" value="2" />
@@ -29812,6 +29822,8 @@
 	<ctl name="HphRight CENTER Switch" value="2" />
 	<ctl name="HphLeft ALIGNMENT Switch" value="2" />
 	<ctl name="HphRight ALIGNMENT Switch" value="2" />
+	<ctl name="HphLeft LDAC Switch" value="2" />
+	<ctl name="HphRight RDAC Switch" value="2" />
 	<ctl name="HphLeft WSA PA Mute Switch" value="0" />
 	<ctl name="HphRight WSA PA Mute Switch" value="0" />
 	<ctl name="HphLeft SWR DAC_Port Switch" value="2" />

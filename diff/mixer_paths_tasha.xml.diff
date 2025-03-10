@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble 24bit v332.1 -->
+> 	<!-- Lemon Drop Hi-Res treble 24bit v333.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -141,7 +141,7 @@
 > 	
 > 	<!-- Start of True Native Mode code v14.0 & vbat initial mixer settings -->
 > 	
-28,2368c170,28299
+28,2368c170,28309
 <     <!-- These are the initial mixer settings -->
 <     <ctl name="Voice Rx Device Mute" id="0" value="0" />
 <     <ctl name="Voice Rx Device Mute" id="1" value="-1" />
@@ -10439,6 +10439,8 @@
 > 	<ctl name="SpkrRight CENTER Switch" value="0" />
 > 	<ctl name="SpkrLeft ALIGNMENT Switch" value="0" />
 > 	<ctl name="SpkrRight ALIGNMENT Switch" value="0" />
+> 	<ctl name="SpkrLeft LDAC Switch" value="0" />
+> 	<ctl name="SpkrRight RDAC Switch" value="0" />
 > 	<ctl name="SpkrLeft WSA PA Mute Switch" value="0" />
 > 	<ctl name="SpkrRight WSA PA Mute Switch" value="0" />
 > 	<ctl name="SpkrLeft SWR DAC_Port Switch" value="0" />
@@ -10472,6 +10474,8 @@
 > 	<ctl name="HphRight CENTER Switch" value="0" />
 > 	<ctl name="HphLeft ALIGNMENT Switch" value="0" />
 > 	<ctl name="HphRight ALIGNMENT Switch" value="0" />
+> 	<ctl name="HphLeft LDAC Switch" value="0" />
+> 	<ctl name="HphRight RDAC Switch" value="0" />
 > 	<ctl name="HphLeft WSA PA Mute Switch" value="0" />
 > 	<ctl name="HphRight WSA PA Mute Switch" value="0" />
 > 	<ctl name="HphLeft SWR DAC_Port Switch" value="0" />
@@ -29776,6 +29780,8 @@
 > 	<ctl name="SpkrRight CENTER Switch" value="0" />
 > 	<ctl name="SpkrLeft ALIGNMENT Switch" value="1" />
 > 	<ctl name="SpkrRight ALIGNMENT Switch" value="0" />
+> 	<ctl name="SpkrLeft LDAC Switch" value="1" />
+> 	<ctl name="SpkrRight RDAC Switch" value="0" />
 > 	<ctl name="SpkrLeft WSA PA Mute Switch" value="1" />
 > 	<ctl name="SpkrRight WSA PA Mute Switch" value="0" />
 > 	<ctl name="SpkrLeft SWR DAC_Port Switch" value="1" />
@@ -29820,6 +29826,8 @@
 > 	<ctl name="SpkrRight CENTER Switch" value="2" />
 > 	<ctl name="SpkrLeft ALIGNMENT Switch" value="2" />
 > 	<ctl name="SpkrRight ALIGNMENT Switch" value="2" />
+> 	<ctl name="SpkrLeft LDAC Switch" value="2" />
+> 	<ctl name="SpkrRight RDAC Switch" value="2" />
 > 	<ctl name="SpkrLeft WSA PA Mute Switch" value="0" />
 > 	<ctl name="SpkrRight WSA PA Mute Switch" value="0" />
 > 	<ctl name="SpkrLeft SWR DAC_Port Switch" value="2" />
@@ -30434,6 +30442,8 @@
 > 	<ctl name="HphRight CENTER Switch" value="2" />
 > 	<ctl name="HphLeft ALIGNMENT Switch" value="2" />
 > 	<ctl name="HphRight ALIGNMENT Switch" value="2" />
+> 	<ctl name="HphLeft LDAC Switch" value="2" />
+> 	<ctl name="HphRight RDAC Switch" value="2" />
 > 	<ctl name="HphLeft WSA PA Mute Switch" value="0" />
 > 	<ctl name="HphRight WSA PA Mute Switch" value="0" />
 > 	<ctl name="HphLeft SWR DAC_Port Switch" value="2" />
@@ -30614,7 +30624,7 @@
 > 	
 > 	<path name="voice-headphones">
 > 	<path name="headphones" />
-2371,2429c28302,28382
+2371,2429c28312,28392
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -30756,7 +30766,7 @@
 > 	</path>
 > 	
 > 	<path name="anc-headphones">
-2432,2464c28385,28427
+2432,2464c28395,28437
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -30834,7 +30844,7 @@
 > 	</path>
 > 	
 > 	<path name="voice-anc-headphones">
-2467,3898c28430,31180
+2467,3898c28440,31192
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="1" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -33653,6 +33663,8 @@
 > 	<ctl name="HphRight CENTER Switch" value="2" />
 > 	<ctl name="HphLeft ALIGNMENT Switch" value="2" />
 > 	<ctl name="HphRight ALIGNMENT Switch" value="2" />
+> 	<ctl name="HphLeft LDAC Switch" value="2" />
+> 	<ctl name="HphRight RDAC Switch" value="2" />
 > 	<ctl name="HphLeft WSA PA Mute Switch" value="0" />
 > 	<ctl name="HphRight WSA PA Mute Switch" value="0" />
 > 	<ctl name="HphLeft SWR DAC_Port Switch" value="2" />
@@ -35019,7 +35031,7 @@
 > 	<path name="speaker-protected" />
 > 	</path>
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
-3899a31182,31184
+3899a31194,31196
 > 	
 > 	
 > 	<!-- Bottom of page -->
