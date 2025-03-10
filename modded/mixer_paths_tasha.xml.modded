@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res bass+ 24bit v331.1 -->
+	<!-- Lemon Drop Hi-Res treble 24bit v332.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -8104,8 +8104,24 @@
 	<ctl name="SpkrRight BOOST Switch" value="0" />
 	<ctl name="SpkrLeft VISENSE Switch" value="0" />
 	<ctl name="SpkrRight VISENSE Switch" value="0" />
+	<ctl name="SpkrLeft OFFSET1 Switch" value="0" />
+	<ctl name="SpkrRight OFFSET1 Switch" value="0" />
+	<ctl name="SpkrLeft OFFSET2 Switch" value="0" />
+	<ctl name="SpkrRight OFFSET2 Switch" value="0" />
+	<ctl name="SpkrLeft OFFSET3 Switch" value="0" />
+	<ctl name="SpkrRight OFFSET3 Switch" value="0" />
+	<ctl name="SpkrLeft STEREO Switch" value="0" />
+	<ctl name="SpkrRight STEREO Switch" value="0" />
+	<ctl name="SpkrLeft EXPAND Switch" value="0" />
+	<ctl name="SpkrRight EXPAND Switch" value="0" />
 	<ctl name="SpkrLeft NORM Switch" value="0" />
 	<ctl name="SpkrRight NORM Switch" value="0" />
+	<ctl name="SpkrLeft LEVEL Switch" value="0" />
+	<ctl name="SpkrRight LEVEL Switch" value="0" />
+	<ctl name="SpkrLeft CENTER Switch" value="0" />
+	<ctl name="SpkrRight CENTER Switch" value="0" />
+	<ctl name="SpkrLeft ALIGNMENT Switch" value="0" />
+	<ctl name="SpkrRight ALIGNMENT Switch" value="0" />
 	<ctl name="SpkrLeft WSA PA Mute Switch" value="0" />
 	<ctl name="SpkrRight WSA PA Mute Switch" value="0" />
 	<ctl name="SpkrLeft SWR DAC_Port Switch" value="0" />
@@ -8121,8 +8137,24 @@
 	<ctl name="HphRight BOOST Switch" value="0" />
 	<ctl name="HphLeft VISENSE Switch" value="0" />
 	<ctl name="HphRight VISENSE Switch" value="0" />
+	<ctl name="HphLeft OFFSET1 Switch" value="0" />
+	<ctl name="HphRight OFFSET1 Switch" value="0" />
+	<ctl name="HphLeft OFFSET2 Switch" value="0" />
+	<ctl name="HphRight OFFSET2 Switch" value="0" />
+	<ctl name="HphLeft OFFSET3 Switch" value="0" />
+	<ctl name="HphRight OFFSET3 Switch" value="0" />
+	<ctl name="HphLeft STEREO Switch" value="0" />
+	<ctl name="HphRight STEREO Switch" value="0" />
+	<ctl name="HphLeft EXPAND Switch" value="0" />
+	<ctl name="HphRight EXPAND Switch" value="0" />
 	<ctl name="HphLeft NORM Switch" value="0" />
 	<ctl name="HphRight NORM Switch" value="0" />
+	<ctl name="HphLeft LEVEL Switch" value="0" />
+	<ctl name="HphRight LEVEL Switch" value="0" />
+	<ctl name="HphLeft CENTER Switch" value="0" />
+	<ctl name="HphRight CENTER Switch" value="0" />
+	<ctl name="HphLeft ALIGNMENT Switch" value="0" />
+	<ctl name="HphRight ALIGNMENT Switch" value="0" />
 	<ctl name="HphLeft WSA PA Mute Switch" value="0" />
 	<ctl name="HphRight WSA PA Mute Switch" value="0" />
 	<ctl name="HphLeft SWR DAC_Port Switch" value="0" />
@@ -27409,8 +27441,24 @@
 	<ctl name="SpkrRight BOOST Switch" value="0" />
 	<ctl name="SpkrLeft VISENSE Switch" value="1" />
 	<ctl name="SpkrRight VISENSE Switch" value="0" />
+	<ctl name="SpkrLeft OFFSET1 Switch" value="1" />
+	<ctl name="SpkrRight OFFSET1 Switch" value="0" />
+	<ctl name="SpkrLeft OFFSET2 Switch" value="1" />
+	<ctl name="SpkrRight OFFSET2 Switch" value="0" />
+	<ctl name="SpkrLeft OFFSET3 Switch" value="1" />
+	<ctl name="SpkrRight OFFSET3 Switch" value="0" />
+	<ctl name="SpkrLeft STEREO Switch" value="1" />
+	<ctl name="SpkrRight STEREO Switch" value="0" />
+	<ctl name="SpkrLeft EXPAND Switch" value="1" />
+	<ctl name="SpkrRight EXPAND Switch" value="0" />
 	<ctl name="SpkrLeft NORM Switch" value="1" />
-	<ctl name="SpkrRight NORM Switch" value="1" />
+	<ctl name="SpkrRight NORM Switch" value="0" />
+	<ctl name="SpkrLeft LEVEL Switch" value="1" />
+	<ctl name="SpkrRight LEVEL Switch" value="0" />
+	<ctl name="SpkrLeft CENTER Switch" value="1" />
+	<ctl name="SpkrRight CENTER Switch" value="0" />
+	<ctl name="SpkrLeft ALIGNMENT Switch" value="1" />
+	<ctl name="SpkrRight ALIGNMENT Switch" value="0" />
 	<ctl name="SpkrLeft WSA PA Mute Switch" value="1" />
 	<ctl name="SpkrRight WSA PA Mute Switch" value="0" />
 	<ctl name="SpkrLeft SWR DAC_Port Switch" value="1" />
@@ -27433,12 +27481,28 @@
 	<ctl name="RX SPKR Mode" value="NATIVE" />
 	<ctl name="SpkrLeft COMP Switch" value="2" />
 	<ctl name="SpkrRight COMP Switch" value="2" />
-	<ctl name="SpkrLeft BOOST Switch" value="2" />
-	<ctl name="SpkrRight BOOST Switch" value="2" />
-	<ctl name="SpkrLeft VISENSE Switch" value="2" />
-	<ctl name="SpkrRight VISENSE Switch" value="2" />
+	<ctl name="SpkrLeft BOOST Switch" value="0" />
+	<ctl name="SpkrRight BOOST Switch" value="0" />
+	<ctl name="SpkrLeft VISENSE Switch" value="0" />
+	<ctl name="SpkrRight VISENSE Switch" value="0" />
+	<ctl name="SpkrLeft OFFSET1 Switch" value="2" />
+	<ctl name="SpkrRight OFFSET1 Switch" value="2" />
+	<ctl name="SpkrLeft OFFSET2 Switch" value="2" />
+	<ctl name="SpkrRight OFFSET2 Switch" value="2" />
+	<ctl name="SpkrLeft OFFSET3 Switch" value="2" />
+	<ctl name="SpkrRight OFFSET3 Switch" value="2" />
+	<ctl name="SpkrLeft STEREO Switch" value="2" />
+	<ctl name="SpkrRight STEREO Switch" value="2" />
+	<ctl name="SpkrLeft EXPAND Switch" value="2" />
+	<ctl name="SpkrRight EXPAND Switch" value="2" />
 	<ctl name="SpkrLeft NORM Switch" value="2" />
 	<ctl name="SpkrRight NORM Switch" value="2" />
+	<ctl name="SpkrLeft LEVEL Switch" value="2" />
+	<ctl name="SpkrRight LEVEL Switch" value="2" />
+	<ctl name="SpkrLeft CENTER Switch" value="2" />
+	<ctl name="SpkrRight CENTER Switch" value="2" />
+	<ctl name="SpkrLeft ALIGNMENT Switch" value="2" />
+	<ctl name="SpkrRight ALIGNMENT Switch" value="2" />
 	<ctl name="SpkrLeft WSA PA Mute Switch" value="0" />
 	<ctl name="SpkrRight WSA PA Mute Switch" value="0" />
 	<ctl name="SpkrLeft SWR DAC_Port Switch" value="2" />
@@ -28031,12 +28095,28 @@
 	<ctl name="RX HPHR Volume" value="16" />
 	<ctl name="HphLeft COMP Switch" value="2" />
 	<ctl name="HphRight COMP Switch" value="2" />
-	<ctl name="HphLeft BOOST Switch" value="2" />
-	<ctl name="HphRight BOOST Switch" value="2" />
-	<ctl name="HphLeft VISENSE Switch" value="2" />
-	<ctl name="HphRight VISENSE Switch" value="2" />
-	<ctl name="HphLeft NORM Switch" value="0" />
-	<ctl name="HphRight NORM Switch" value="0" />
+	<ctl name="HphLeft BOOST Switch" value="0" />
+	<ctl name="HphRight BOOST Switch" value="0" />
+	<ctl name="HphLeft VISENSE Switch" value="0" />
+	<ctl name="HphRight VISENSE Switch" value="0" />
+	<ctl name="HphLeft OFFSET1 Switch" value="2" />
+	<ctl name="HphRight OFFSET1 Switch" value="2" />
+	<ctl name="HphLeft OFFSET2 Switch" value="2" />
+	<ctl name="HphRight OFFSET2 Switch" value="2" />
+	<ctl name="HphLeft OFFSET3 Switch" value="2" />
+	<ctl name="HphRight OFFSET3 Switch" value="2" />
+	<ctl name="HphLeft STEREO Switch" value="2" />
+	<ctl name="HphRight STEREO Switch" value="2" />
+	<ctl name="HphLeft EXPAND Switch" value="2" />
+	<ctl name="HphRight EXPAND Switch" value="2" />
+	<ctl name="HphLeft NORM Switch" value="2" />
+	<ctl name="HphRight NORM Switch" value="2" />
+	<ctl name="HphLeft LEVEL Switch" value="2" />
+	<ctl name="HphRight LEVEL Switch" value="2" />
+	<ctl name="HphLeft CENTER Switch" value="2" />
+	<ctl name="HphRight CENTER Switch" value="2" />
+	<ctl name="HphLeft ALIGNMENT Switch" value="2" />
+	<ctl name="HphRight ALIGNMENT Switch" value="2" />
 	<ctl name="HphLeft WSA PA Mute Switch" value="0" />
 	<ctl name="HphRight WSA PA Mute Switch" value="0" />
 	<ctl name="HphLeft SWR DAC_Port Switch" value="2" />
@@ -29710,12 +29790,28 @@
 	<ctl name="RX HPH Mode" value="NATIVE" />
 	<ctl name="HphLeft COMP Switch" value="2" />
 	<ctl name="HphRight COMP Switch" value="2" />
-	<ctl name="HphLeft BOOST Switch" value="2" />
-	<ctl name="HphRight BOOST Switch" value="2" />
-	<ctl name="HphLeft VISENSE Switch" value="2" />
-	<ctl name="HphRight VISENSE Switch" value="2" />
-	<ctl name="HphLeft NORM Switch" value="0" />
-	<ctl name="HphRight NORM Switch" value="0" />
+	<ctl name="HphLeft BOOST Switch" value="0" />
+	<ctl name="HphRight BOOST Switch" value="0" />
+	<ctl name="HphLeft VISENSE Switch" value="0" />
+	<ctl name="HphRight VISENSE Switch" value="0" />
+	<ctl name="HphLeft OFFSET1 Switch" value="2" />
+	<ctl name="HphRight OFFSET1 Switch" value="2" />
+	<ctl name="HphLeft OFFSET2 Switch" value="2" />
+	<ctl name="HphRight OFFSET2 Switch" value="2" />
+	<ctl name="HphLeft OFFSET3 Switch" value="2" />
+	<ctl name="HphRight OFFSET3 Switch" value="2" />
+	<ctl name="HphLeft STEREO Switch" value="2" />
+	<ctl name="HphRight STEREO Switch" value="2" />
+	<ctl name="HphLeft EXPAND Switch" value="2" />
+	<ctl name="HphRight EXPAND Switch" value="2" />
+	<ctl name="HphLeft NORM Switch" value="2" />
+	<ctl name="HphRight NORM Switch" value="2" />
+	<ctl name="HphLeft LEVEL Switch" value="2" />
+	<ctl name="HphRight LEVEL Switch" value="2" />
+	<ctl name="HphLeft CENTER Switch" value="2" />
+	<ctl name="HphRight CENTER Switch" value="2" />
+	<ctl name="HphLeft ALIGNMENT Switch" value="2" />
+	<ctl name="HphRight ALIGNMENT Switch" value="2" />
 	<ctl name="HphLeft WSA PA Mute Switch" value="0" />
 	<ctl name="HphRight WSA PA Mute Switch" value="0" />
 	<ctl name="HphLeft SWR DAC_Port Switch" value="2" />
