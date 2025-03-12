@@ -85,7 +85,7 @@ Files modded:<br>
 /system/vendor/audio/audio_policy_configuration.xml<br>
 /system/vendor/audio_policy.conf<br>
 
-Programing the QuadDAC.<br>
+Programing the 24/32bit QuadDAC.<br>
 Files modded:<br>
 /system/vendor/mixer_paths_tasha.xml<br>
 /system/vendor/audio_platform_info.xml<br>
