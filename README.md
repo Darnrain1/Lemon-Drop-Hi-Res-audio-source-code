@@ -82,13 +82,13 @@ I guess you could say I have a gift that allows me to think outside of the box. 
 ### What files were modded?
 The 24bit mod.<br>
 Files modded:<br>
-/audio/audio_policy_configuration.xml<br>
-audio_policy.conf<br>
+/system/vendor/audio/audio_policy_configuration.xml<br>
+/system/vendor/audio_policy.conf<br>
 
 Programing the QuadDAC.<br>
 Files modded:<br>
-mixer_paths_tasha.xml<br>
-audio_platform_info.xml<br>
+/system/vendor/mixer_paths_tasha.xml<br>
+/system/vendor/audio_platform_info.xml<br>
 
 All the other files are stock.<br>
 
