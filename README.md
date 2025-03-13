@@ -92,8 +92,6 @@ I left notes in both files.<br>
 /system/vendor/mixer_paths_tasha.xml<br>
 /system/vendor/audio_platform_info.xml<br>
 
-All the other files are stock.<br>
-
 ### What do I need to set my 24bit Hi-Res music player at?
 You need to choose 24bit Hi-Res at 44.1kHz as the source, that's how I programed the DAC, it takes a 44.1kHz audio signal and upsamples the audio.
 
