@@ -80,13 +80,15 @@ When programing a QuadDAC you do not have visual gauges to view to see if you ha
 I guess you could say I have a gift that allows me to think outside of the box. I was always seeing LO in the True Native Mode code. I was like what is LO??? Then it hit me it's the bass. I came up with MI and HI for mid-range and treble myself and it worked!!! Also I was always seeing RX everywhere I looked, I was like well if there is an RX there has to be a TX. I guess you could say it was trial, error, logic and my advanced Linux computer skills, is how I programed the Saber ESS 9218 DAC. The devs that programed the Saber ESS DAC chip are professionals, you need to think like how they think. They would not make it to complicated to program the QuadDAC. To me it was the ultimate puzzle that needed to be solved and I did solve it. It feels good.<br>
 
 ### What files were modded?
-The 24bit mod.<br>
+The 24bit mod. The files I changed are under.<br>
+You will need to look at the diff files to see what I changed in theses files. No notes were left as there can no be no spaces.<br>
 Files modded:<br>
 /system/vendor/audio/audio_policy_configuration.xml<br>
 /system/vendor/audio_policy.conf<br>
 
-Programing the 24/32bit QuadDAC.<br>
+Programing the QuadDAC.<br>
 Files modded:<br>
+I left notes in both files.<br>
 /system/vendor/mixer_paths_tasha.xml<br>
 /system/vendor/audio_platform_info.xml<br>
 
