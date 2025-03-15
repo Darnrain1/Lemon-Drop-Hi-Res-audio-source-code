@@ -83,7 +83,7 @@ I left notes in both files.<br>
 You need to have a ESS QuadDAC installed in your phone. So like the lg v series. But this mod was custom made for the Lgv20. However the Enable System Wide QuadDAC Support build.prop tweaks should work on any phone with a DAC. It will enable Hardware-Offloaded Audio Processing. In other words all the audio will be directed to the DAC.<br>
 
 ### How long did it take you to program the QuadDAC?
-About two years, it was a very large project. The Mixers_paths file is over 30,000 lines.<br>
+About two years, it was a very large project. The mixer_paths_tasha.xml file is over 30,000 lines.<br>
 
 MIT License<br>
 
