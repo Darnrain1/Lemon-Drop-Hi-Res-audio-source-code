@@ -65,6 +65,9 @@ If your curious on how I found the True Native Mode code, I will show you. Someo
 ### What is True Native Mode on the Saber ESS 9218 DAC?<br>
 The highest performance state of a of the QuadDAC, or the best audio the QuadDAC can produce.<br>
 
+### What do I need to set my 24bit Hi-Res music player at?
+You need to choose 24bit Hi-Res at 44.1kHz as the source, that's how I programed the DAC, it takes a 44.1kHz audio and up-samplese the audio.<br>
+
 ### What files were modded?
 The 24bit mod. The files I changed are under.<br>
 You will need to look at the diff files to see what I changed in the files. No notes were left as there can no be no spaces.<br>
@@ -77,12 +80,6 @@ Files modded:<br>
 I left notes in both files.<br>
 /system/vendor/mixer_paths_tasha.xml<br>
 /system/vendor/audio_platform_info.xml<br>
-
-### What do I need to set my 24bit Hi-Res music player at?
-You need to choose 24bit Hi-Res at 44.1kHz as the source, that's how I programed the DAC, it takes a 44.1kHz audio and up-samplese the audio.
- 
-### A little backstory.
-I remember when I first found the True Native Mode code, I was like ooh what's that. They left about 0.5% of the True Native Mode code in the original mixer_paths_tasha.xml file, I put the other 99.5% of the True Native Mode code together myself. Just think if they would have never left that small peace of code in the original mixer_paths_tasha.xml file this would have never had happened. All I can say is that must have been a mistake, the Lgv60 does not have that small piece of code, only the Lgv20 does. I bet this is the same True Native Mode code as a $2000 Hi-Res music player. Most likely they have a computer program that programs the QuadDAC for True Native Mode, me on the other hand, this True Native Mode code was all hand made by me. So in other words, the Lgv20 will sound like no other Hi-Res music player in the world. A computer program cannot replace the very essence, of what a human is able to accomplish when programing a QuadDAC.<br>
 
 MIT License<br>
 
