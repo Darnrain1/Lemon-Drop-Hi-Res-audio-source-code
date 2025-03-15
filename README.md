@@ -79,7 +79,7 @@ I left notes in both files.<br>
 /system/vendor/audio_platform_info.xml<br>
 
 ### What do I need to set my 24bit Hi-Res music player at?
-You need to choose 24bit Hi-Res at 44.1kHz as the source, that's how I programed the DAC, it takes a 44.1kHz audio signal and upsamples the audio.
+You need to choose 24bit Hi-Res at 44.1kHz as the source, that's how I programed the DAC, it takes a 44.1kHz audio and up-samplese the audio.
 
 Check out my other project perfect for downloading music.
 https://github.com/Darnrain1/yt-playlist
