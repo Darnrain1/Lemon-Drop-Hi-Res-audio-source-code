@@ -67,7 +67,7 @@ The highest performance state of a of the QuadDAC, or the best audio the QuadDAC
 
 ### What files were modded?
 The 24bit mod. The files I changed are under.<br>
-You will need to look at the diff files to see what I changed in theses files. No notes were left as there can no be no spaces.<br>
+You will need to look at the diff files to see what I changed in the files. No notes were left as there can no be no spaces.<br>
 Files modded:<br>
 /system/vendor/audio/audio_policy_configuration.xml<br>
 /system/vendor/audio_policy.conf<br>
