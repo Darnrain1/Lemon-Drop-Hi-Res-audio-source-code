@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble 24bit v334.1 -->
+	<!-- Lemon Drop Hi-Res treble 24bit v335.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -8077,18 +8077,18 @@
 	<ctl name="HPH Mode Switch" value="ZERO" />
 	<ctl name="TX HPH Mode" value="ZERO" />
 	<ctl name="RX HPH Mode" value="ZERO" />
+	<ctl name="HPH Idle Detect Switch" value="ZERO" />
+	<ctl name="TX HPH Idle Detect" value="0" />
+	<ctl name="RX HPH Idle Detect" value="0" />
 	<ctl name="SPKR_PWR_MODE Switch" value="ZERO" />
 	<ctl name="TX_SPKR_PWR_MODE" value="ZERO" />
 	<ctl name="RX_SPKR_PWR_MODE" value="ZERO" />
 	<ctl name="SPKR Mode Switch" value="ZERO" />
 	<ctl name="TX SPKR Mode" value="ZERO" />
 	<ctl name="RX SPKR Mode" value="ZERO" />
-	<ctl name="HPH Idle Detect Switch" value="ZERO" />
-	<ctl name="TX HPH Idle Detect" value="ZERO" />
-	<ctl name="RX HPH Idle Detect" value="ZERO" />
 	<ctl name="SPKR Idle Detect Switch" value="ZERO" />
-	<ctl name="TX SPKR Idle Detect" value="ZERO" />
-	<ctl name="RX SPKR Idle Detect" value="ZERO" />
+	<ctl name="TX SPKR Idle Detect" value="0" />
+	<ctl name="RX SPKR Idle Detect" value="0" />
 	
 	<!-- End of Power mode -->
 	
