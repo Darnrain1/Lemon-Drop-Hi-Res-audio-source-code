@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble 24bit v336.1 -->
+	<!-- Lemon Drop Hi-Res treble 24bit v337.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -27828,12 +27828,16 @@
 	<ctl name="SLIM_4_RX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_4_TX Format" value="PACKED_16B" />
 	<ctl name="SLIM_4_RX Format" value="PACKED_16B" />
-	<ctl name="TX7 Digital Volume" value="84" />
-	<ctl name="RX7 Digital Volume" value="86" />
-	<ctl name="TX7 Mix Digital Volume" value="84" />
-	<ctl name="RX7 Mix Digital Volume" value="86" />
+	<ctl name="7 Digital Volume Switch" value="ON" />
+	<ctl name="TX7 Digital Volume" value="88" />
+	<ctl name="RX7 Digital Volume" value="88" />
+	<ctl name="7 Mix Digital Volume Switch" value="ON" />
+	<ctl name="TX7 Mix Digital Volume" value="88" />
+	<ctl name="RX7 Mix Digital Volume" value="88" />
+	<ctl name="8 Digital Volume Switch" value="OFF" />
 	<ctl name="TX8 Digital Volume" value="0" />
 	<ctl name="RX8 Digital Volume" value="0" />
+	<ctl name="8 Mix Digital Volume Switch" value="OFF" />
 	<ctl name="TX8 Mix Digital Volume" value="0" />
 	<ctl name="RX8 Mix Digital Volume" value="0" />
 	<ctl name="SPKRL Volume Switch" value="ON" />
@@ -27854,12 +27858,16 @@
 	<ctl name="SLIM_4_RX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_4_TX Format" value="PACKED_16B" />
 	<ctl name="SLIM_4_RX Format" value="PACKED_16B" />
-	<ctl name="TX7 Digital Volume" value="84" />
-	<ctl name="RX7 Digital Volume" value="68" />
-	<ctl name="TX7 Mix Digital Volume" value="84" />
-	<ctl name="RX7 Mix Digital Volume" value="68" />
+	<ctl name="7 Digital Volume Switch" value="ON" />
+	<ctl name="TX7 Digital Volume" value="88" />
+	<ctl name="RX7 Digital Volume" value="88" />
+	<ctl name="7 Mix Digital Volume Switch" value="ON" />
+	<ctl name="TX7 Mix Digital Volume" value="88" />
+	<ctl name="RX7 Mix Digital Volume" value="88" />
+	<ctl name="8 Digital Volume Switch" value="OFF" />
 	<ctl name="TX8 Digital Volume" value="0" />
 	<ctl name="RX8 Digital Volume" value="0" />
+	<ctl name="8 Mix Digital Volume Switch" value="OFF" />
 	<ctl name="TX8 Mix Digital Volume" value="0" />
 	<ctl name="RX8 Mix Digital Volume" value="0" />
 	<ctl name="SPKRL Volume Switch" value="ON" />
@@ -27890,62 +27898,6 @@
 	<!-- <path name="voice-speaker-protected" /> -->
 	<!-- <ctl name="RX INT7 VBAT SPKRL VBAT Enable" value="1" /> -->
 	<!-- </path> -->
-	
-	<!-- Added -->
-	<path name="vbat_speaker-protected">
-	<ctl name="TX INT7 VBAT SPKRL VBAT Enable" value="1" />
-	<ctl name="RX INT7 VBAT SPKRL VBAT Enable" value="1" />
-	<ctl name="TX INT8 VBAT SPKRR VBAT Enable" value="0" />
-	<ctl name="RX INT8 VBAT SPKRR VBAT Enable" value="0" />
-	<ctl name="VI_FEED_TX Channels" value="One" />
-	<ctl name="VI_FEED_RX Channels" value="One" />
-	<ctl name="SLIM_4_TX SampleRate" value="KHZ_44P1" />
-	<ctl name="SLIM_4_RX SampleRate" value="KHZ_44P1" />
-	<ctl name="SLIM_4_TX Format" value="PACKED_16B" />
-	<ctl name="SLIM_4_RX Format" value="PACKED_16B" />
-	<ctl name="TX7 Digital Volume" value="84" />
-	<ctl name="RX7 Digital Volume" value="86" />
-	<ctl name="TX7 Mix Digital Volume" value="84" />
-	<ctl name="RX7 Mix Digital Volume" value="86" />
-	<ctl name="TX8 Digital Volume" value="0" />
-	<ctl name="RX8 Digital Volume" value="0" />
-	<ctl name="TX8 Mix Digital Volume" value="0" />
-	<ctl name="RX8 Mix Digital Volume" value="0" />
-	<ctl name="SPKRL Volume Switch" value="ON" />
-	<ctl name="TX SPKRL Volume" value="16" />
-	<ctl name="RX SPKRL Volume" value="16" />
-	<ctl name="SPKRR Volume Switch" value="OFF" />
-	<ctl name="TX SPKRR Volume" value="0" />
-	<ctl name="RX SPKRR Volume" value="0" />
-	</path>
-	
-	<!-- Added -->
-	<path name="vbat_speaker-protected-voice">
-	<ctl name="TX INT7 VBAT SPKRL VBAT Enable" value="1" />
-	<ctl name="RX INT7 VBAT SPKRL VBAT Enable" value="1" />
-	<ctl name="TX INT8 VBAT SPKRR VBAT Enable" value="0" />
-	<ctl name="RX INT8 VBAT SPKRR VBAT Enable" value="0" />
-	<ctl name="VI_FEED_TX Channels" value="One" />
-	<ctl name="VI_FEED_RX Channels" value="One" />
-	<ctl name="SLIM_4_TX SampleRate" value="KHZ_44P1" />
-	<ctl name="SLIM_4_RX SampleRate" value="KHZ_44P1" />
-	<ctl name="SLIM_4_TX Format" value="PACKED_16B" />
-	<ctl name="SLIM_4_RX Format" value="PACKED_16B" />
-	<ctl name="TX7 Digital Volume" value="84" />
-	<ctl name="RX7 Digital Volume" value="86" />
-	<ctl name="TX7 Mix Digital Volume" value="84" />
-	<ctl name="RX7 Mix Digital Volume" value="86" />
-	<ctl name="TX8 Digital Volume" value="0" />
-	<ctl name="RX8 Digital Volume" value="0" />
-	<ctl name="TX8 Mix Digital Volume" value="0" />
-	<ctl name="RX8 Mix Digital Volume" value="0" />
-	<ctl name="SPKRL Volume Switch" value="ON" />
-	<ctl name="TX SPKRL Volume" value="16" />
-	<ctl name="RX SPKRL Volume" value="16" />
-	<ctl name="SPKRR Volume Switch" value="OFF" />
-	<ctl name="TX SPKRR Volume" value="0" />
-	<ctl name="RX SPKRR Volume" value="0" />
-	</path>
 	
 	<!-- Lemon Drop Hi-Res end of mods -->
 	
@@ -30551,11 +30503,11 @@
 	
 	<path name="loopback_earpiece">
 	<ctl name="7 Digital Volume Switch" value="ON" />
-	<ctl name="TX7 Digital Volume" value="84" />
-	<ctl name="RX7 Digital Volume" value="84" />
+	<ctl name="TX7 Digital Volume" value="88" />
+	<ctl name="RX7 Digital Volume" value="88" />
 	<ctl name="7 Mix Digital Volume Switch" value="ON" />
-	<ctl name="TX7 Mix Digital Volume" value="84" />
-	<ctl name="RX7 Mix Digital Volume" value="84" />
+	<ctl name="TX7 Mix Digital Volume" value="88" />
+	<ctl name="RX7 Mix Digital Volume" value="88" />
 	<ctl name="8 Digital Volume Switch" value="OFF" />
 	<ctl name="TX8 Digital Volume" value="0" />
 	<ctl name="RX8 Digital Volume" value="0" />
