@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble 24bit v337.1 -->
+> 	<!-- Lemon Drop Hi-Res treble 24bit v338.2 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -135,9 +135,9 @@
 > 	
 > 	<!-- Lemon Drop Hi-Res start of code programed by: darnrain  -->
 > 	
-> 	<!-- Start of True Native Mode code v14.0 & vbat initial mixer settings -->
+> 	<!-- Start of True Native Mode code v14.5 & vbat initial mixer settings -->
 > 	
-28,2368c166,28257
+28,2368c166,28160
 <     <!-- These are the initial mixer settings -->
 <     <ctl name="Voice Rx Device Mute" id="0" value="0" />
 <     <ctl name="Voice Rx Device Mute" id="1" value="-1" />
@@ -2480,22 +2480,22 @@
 < 
 <     <path name="anc-headphones">
 ---
-> 	<ctl name="TX INT1 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL HPHL LDAC Native Switch" value="ZERO" />
-> 	<ctl name="TX INT1 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL HPHL LDAC Native" value="0" />
-> 	<ctl name="TX INT1 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL HPHL LDAC Native Switch" value="ZERO" />
-> 	<ctl name="TX INT1 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL HPHL LDAC Native" value="0" />
-> 	<ctl name="RX INT1 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL HPHL LDAC Native Switch" value="ZERO" />
-> 	<ctl name="RX INT1 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL HPHL LDAC Native" value="0" />
-> 	<ctl name="RX INT1 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL HPHL LDAC Native Switch" value="ZERO" />
-> 	<ctl name="RX INT1 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL HPHL LDAC Native" value="0" />
-> 	<ctl name="TX INT2 SPLINE MIXR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR HPHR RDAC Native Switch" value="ZERO" />
-> 	<ctl name="TX INT2 SPLINE MIXR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR HPHR RDAC Native" value="0" />
-> 	<ctl name="TX INT2 SPLINE VBATR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR HPHR RDAC Native Switch" value="ZERO" />
-> 	<ctl name="TX INT2 SPLINE VBATR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR HPHR RDAC Native" value="0" />
-> 	<ctl name="RX INT2 SPLINE MIXR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR HPHR RDAC Native Switch" value="ZERO" />
-> 	<ctl name="RX INT2 SPLINE MIXR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR HPHR RDAC Native" value="0" />
-> 	<ctl name="RX INT2 SPLINE VBATR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR HPHR RDAC Native Switch" value="ZERO" />
-> 	<ctl name="RX INT2 SPLINE VBATR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR HPHR RDAC Native" value="0" />
+> 	<ctl name="TX INT1 SPLINE MIXL NORML COMPL HPHL LDAC Native Switch" value="ZERO" />
+> 	<ctl name="TX INT1 SPLINE MIXL NORML COMPL HPHL LDAC Native" value="0" />
+> 	<ctl name="TX INT1 SPLINE VBATL NORML COMPL HPHL LDAC Native Switch" value="ZERO" />
+> 	<ctl name="TX INT1 SPLINE VBATL NORML COMPL HPHL LDAC Native" value="0" />
+> 	<ctl name="RX INT1 SPLINE MIXL NORML COMPL HPHL LDAC Native Switch" value="ZERO" />
+> 	<ctl name="RX INT1 SPLINE MIXL NORML COMPL HPHL LDAC Native" value="0" />
+> 	<ctl name="RX INT1 SPLINE VBATL NORML COMPL HPHL LDAC Native Switch" value="ZERO" />
+> 	<ctl name="RX INT1 SPLINE VBATL NORML COMPL HPHL LDAC Native" value="0" />
+> 	<ctl name="TX INT2 SPLINE MIXR NORMR COMPR HPHR RDAC Native Switch" value="ZERO" />
+> 	<ctl name="TX INT2 SPLINE MIXR NORMR COMPR HPHR RDAC Native" value="0" />
+> 	<ctl name="TX INT2 SPLINE VBATR NORMR COMPR HPHR RDAC Native Switch" value="ZERO" />
+> 	<ctl name="TX INT2 SPLINE VBATR NORMR COMPR HPHR RDAC Native" value="0" />
+> 	<ctl name="RX INT2 SPLINE MIXR NORMR COMPR HPHR RDAC Native Switch" value="ZERO" />
+> 	<ctl name="RX INT2 SPLINE MIXR NORMR COMPR HPHR RDAC Native" value="0" />
+> 	<ctl name="RX INT2 SPLINE VBATR NORMR COMPR HPHR RDAC Native Switch" value="ZERO" />
+> 	<ctl name="RX INT2 SPLINE VBATR NORMR COMPR HPHR RDAC Native" value="0" />
 > 	<ctl name="TX INI3 SPLINE MIXL LO1 Native Switch" value="ZERO" />
 > 	<ctl name="TX INI3 SPLINE MIXL LO1 Native" value="0" />
 > 	<ctl name="TX INI3 SPLINE VBATL LO1 Native Switch" value="ZERO" />
@@ -2528,22 +2528,22 @@
 > 	<ctl name="RX INI6 SPLINE MIXR LO4 Native" value="0" />
 > 	<ctl name="RX INI6 SPLINE VBATR LO4 Native Switch" value="ZERO" />
 > 	<ctl name="RX INI6 SPLINE VBATR LO4 Native" value="0" />
-> 	<ctl name="TX INT7 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL SPKRL LDAC Native Switch" value="ZERO" />
-> 	<ctl name="TX INT7 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL SPKRL LDAC Native" value="0" />
-> 	<ctl name="TX INT7 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL SPKRL LDAC Native Switch" value="ZERO" />
-> 	<ctl name="TX INT7 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL SPKRL LDAC Native" value="0" />
-> 	<ctl name="RX INT7 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL SPKRL LDAC Native Switch" value="ZERO" />
-> 	<ctl name="RX INT7 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL SPKRL LDAC Native" value="0" />
-> 	<ctl name="RX INT7 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL SPKRL LDAC Native Switch" value="ZERO" />
-> 	<ctl name="RX INT7 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL SPKRL LDAC Native" value="0" />
-> 	<ctl name="TX INT8 SPLINE MIXR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR SPKRR RDAC Native Switch" value="ZERO" />
-> 	<ctl name="TX INT8 SPLINE MIXR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR SPKRR RDAC Native" value="0" />
-> 	<ctl name="TX INT8 SPLINE VBATR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR SPKRR RDAC Native Switch" value="ZERO" />
-> 	<ctl name="TX INT8 SPLINE VBATR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR SPKRR RDAC Native" value="0" />
-> 	<ctl name="RX INT8 SPLINE MIXR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR SPKRR RDAC Native Switch" value="ZERO" />
-> 	<ctl name="RX INT8 SPLINE MIXR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR SPKRR RDAC Native" value="0" />
-> 	<ctl name="RX INT8 SPLINE VBATR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR SPKRR RDAC Native Switch" value="ZERO" />
-> 	<ctl name="RX INT8 SPLINE VBATR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR SPKRR RDAC Native" value="0" />
+> 	<ctl name="TX INT7 SPLINE MIXL NORML COMPL SPKRL LDAC Native Switch" value="ZERO" />
+> 	<ctl name="TX INT7 SPLINE MIXL NORML COMPL SPKRL LDAC Native" value="0" />
+> 	<ctl name="TX INT7 SPLINE VBATL NORML COMPL SPKRL LDAC Native Switch" value="ZERO" />
+> 	<ctl name="TX INT7 SPLINE VBATL NORML COMPL SPKRL LDAC Native" value="0" />
+> 	<ctl name="RX INT7 SPLINE MIXL NORML COMPL SPKRL LDAC Native Switch" value="ZERO" />
+> 	<ctl name="RX INT7 SPLINE MIXL NORML COMPL SPKRL LDAC Native" value="0" />
+> 	<ctl name="RX INT7 SPLINE VBATL NORML COMPL SPKRL LDAC Native Switch" value="ZERO" />
+> 	<ctl name="RX INT7 SPLINE VBATL NORML COMPL SPKRL LDAC Native" value="0" />
+> 	<ctl name="TX INT8 SPLINE MIXR NORMR COMPR SPKRR RDAC Native Switch" value="ZERO" />
+> 	<ctl name="TX INT8 SPLINE MIXR NORMR COMPR SPKRR RDAC Native" value="0" />
+> 	<ctl name="TX INT8 SPLINE VBATR NORMR COMPR SPKRR RDAC Native Switch" value="ZERO" />
+> 	<ctl name="TX INT8 SPLINE VBATR NORMR COMPR SPKRR RDAC Native" value="0" />
+> 	<ctl name="RX INT8 SPLINE MIXR NORMR COMPR SPKRR RDAC Native Switch" value="ZERO" />
+> 	<ctl name="RX INT8 SPLINE MIXR NORMR COMPR SPKRR RDAC Native" value="0" />
+> 	<ctl name="RX INT8 SPLINE VBATR NORMR COMPR SPKRR RDAC Native Switch" value="ZERO" />
+> 	<ctl name="RX INT8 SPLINE VBATR NORMR COMPR SPKRR RDAC Native" value="0" />
 > 	<ctl name="TX INI9 SPLINE MIXL HI5 Native Switch" value="ZERO" />
 > 	<ctl name="TX INI9 SPLINE MIXL HI5 Native" value="0" />
 > 	<ctl name="TX INI9 SPLINE VBATL HI5 Native Switch" value="ZERO" />
@@ -8657,7 +8657,7 @@
 > 	<ctl name="RX INI772 SPLINE VBATR MI768 Native Switch" value="ZERO" />
 > 	<ctl name="RX INI772 SPLINE VBATR MI768 Native" value="0" />
 > 	
-> 	<!-- End of True Native Mode code v14.0 & vbat initial mixer settings -->
+> 	<!-- End of True Native Mode code v14.5 & vbat initial mixer settings -->
 > 	
 > 	<!-- Start of SLIM settings -->
 > 	
@@ -10388,21 +10388,15 @@
 > 	
 > 	<!-- Start of Power mode -->
 > 	
-> 	<ctl name="HPH_PWR_MODE Switch" value="ZERO" />
-> 	<ctl name="TX_HPH_PWR_MODE" value="ZERO" />
-> 	<ctl name="RX_HPH_PWR_MODE" value="ZERO" />
-> 	<ctl name="HPH Mode Switch" value="ZERO" />
-> 	<ctl name="TX HPH Mode" value="ZERO" />
-> 	<ctl name="RX HPH Mode" value="ZERO" />
+> 	<ctl name="HPH PWR MODE Switch" value="ZERO" />
+> 	<ctl name="TX HPH PWR MODE" value="ZERO" />
+> 	<ctl name="RX HPH PWR MODE" value="ZERO" />
 > 	<ctl name="HPH Idle Detect Switch" value="ZERO" />
 > 	<ctl name="TX HPH Idle Detect" value="0" />
 > 	<ctl name="RX HPH Idle Detect" value="0" />
-> 	<ctl name="SPKR_PWR_MODE Switch" value="ZERO" />
-> 	<ctl name="TX_SPKR_PWR_MODE" value="ZERO" />
-> 	<ctl name="RX_SPKR_PWR_MODE" value="ZERO" />
-> 	<ctl name="SPKR Mode Switch" value="ZERO" />
-> 	<ctl name="TX SPKR Mode" value="ZERO" />
-> 	<ctl name="RX SPKR Mode" value="ZERO" />
+> 	<ctl name="SPKR PWR MODE Switch" value="ZERO" />
+> 	<ctl name="TX SPKR PWR MODE" value="ZERO" />
+> 	<ctl name="RX SPKR PWR MODE" value="ZERO" />
 > 	<ctl name="SPKR Idle Detect Switch" value="ZERO" />
 > 	<ctl name="TX SPKR Idle Detect" value="0" />
 > 	<ctl name="RX SPKR Idle Detect" value="0" />
@@ -10417,24 +10411,8 @@
 > 	<ctl name="SpkrRight BOOST Switch" value="0" />
 > 	<ctl name="SpkrLeft VISENSE Switch" value="0" />
 > 	<ctl name="SpkrRight VISENSE Switch" value="0" />
-> 	<ctl name="SpkrLeft OFFSET1 Switch" value="0" />
-> 	<ctl name="SpkrRight OFFSET1 Switch" value="0" />
-> 	<ctl name="SpkrLeft OFFSET2 Switch" value="0" />
-> 	<ctl name="SpkrRight OFFSET2 Switch" value="0" />
-> 	<ctl name="SpkrLeft OFFSET3 Switch" value="0" />
-> 	<ctl name="SpkrRight OFFSET3 Switch" value="0" />
-> 	<ctl name="SpkrLeft STEREO Switch" value="0" />
-> 	<ctl name="SpkrRight STEREO Switch" value="0" />
-> 	<ctl name="SpkrLeft EXPAND Switch" value="0" />
-> 	<ctl name="SpkrRight EXPAND Switch" value="0" />
 > 	<ctl name="SpkrLeft NORM Switch" value="0" />
 > 	<ctl name="SpkrRight NORM Switch" value="0" />
-> 	<ctl name="SpkrLeft LEVEL Switch" value="0" />
-> 	<ctl name="SpkrRight LEVEL Switch" value="0" />
-> 	<ctl name="SpkrLeft CENTER Switch" value="0" />
-> 	<ctl name="SpkrRight CENTER Switch" value="0" />
-> 	<ctl name="SpkrLeft ALIGNMENT Switch" value="0" />
-> 	<ctl name="SpkrRight ALIGNMENT Switch" value="0" />
 > 	<ctl name="SpkrLeft LDAC Switch" value="0" />
 > 	<ctl name="SpkrRight RDAC Switch" value="0" />
 > 	<ctl name="SpkrLeft WSA PA Mute Switch" value="0" />
@@ -10452,24 +10430,8 @@
 > 	<ctl name="HphRight BOOST Switch" value="0" />
 > 	<ctl name="HphLeft VISENSE Switch" value="0" />
 > 	<ctl name="HphRight VISENSE Switch" value="0" />
-> 	<ctl name="HphLeft OFFSET1 Switch" value="0" />
-> 	<ctl name="HphRight OFFSET1 Switch" value="0" />
-> 	<ctl name="HphLeft OFFSET2 Switch" value="0" />
-> 	<ctl name="HphRight OFFSET2 Switch" value="0" />
-> 	<ctl name="HphLeft OFFSET3 Switch" value="0" />
-> 	<ctl name="HphRight OFFSET3 Switch" value="0" />
-> 	<ctl name="HphLeft STEREO Switch" value="0" />
-> 	<ctl name="HphRight STEREO Switch" value="0" />
-> 	<ctl name="HphLeft EXPAND Switch" value="0" />
-> 	<ctl name="HphRight EXPAND Switch" value="0" />
 > 	<ctl name="HphLeft NORM Switch" value="0" />
 > 	<ctl name="HphRight NORM Switch" value="0" />
-> 	<ctl name="HphLeft LEVEL Switch" value="0" />
-> 	<ctl name="HphRight LEVEL Switch" value="0" />
-> 	<ctl name="HphLeft CENTER Switch" value="0" />
-> 	<ctl name="HphRight CENTER Switch" value="0" />
-> 	<ctl name="HphLeft ALIGNMENT Switch" value="0" />
-> 	<ctl name="HphRight ALIGNMENT Switch" value="0" />
 > 	<ctl name="HphLeft LDAC Switch" value="0" />
 > 	<ctl name="HphRight RDAC Switch" value="0" />
 > 	<ctl name="HphLeft WSA PA Mute Switch" value="0" />
@@ -10484,14 +10446,14 @@
 > 	<!-- Start of True Native Mode function -->
 > 	
 > 	<path name="true-native-mode-HPH">
-> 	<ctl name="TX INT1 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL HPHL LDAC Native Switch" value="ON" />
-> 	<ctl name="TX INT1 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL HPHL LDAC Native" value="2" />
-> 	<ctl name="RX INT1 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL HPHL LDAC Native Switch" value="ON" />
-> 	<ctl name="RX INT1 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL HPHL LDAC Native" value="2" />
-> 	<ctl name="TX INT2 SPLINE MIXR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR HPHR RDAC Native Switch" value="ON" />
-> 	<ctl name="TX INT2 SPLINE MIXR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR HPHR RDAC Native" value="2" />
-> 	<ctl name="RX INT2 SPLINE MIXR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR HPHR RDAC Native Switch" value="ON" />
-> 	<ctl name="RX INT2 SPLINE MIXR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR HPHR RDAC Native" value="2" />
+> 	<ctl name="TX INT1 SPLINE MIXL NORML COMPL HPHL LDAC Native Switch" value="ON" />
+> 	<ctl name="TX INT1 SPLINE MIXL NORML COMPL HPHL LDAC Native" value="2" />
+> 	<ctl name="RX INT1 SPLINE MIXL NORML COMPL HPHL LDAC Native Switch" value="ON" />
+> 	<ctl name="RX INT1 SPLINE MIXL NORML COMPL HPHL LDAC Native" value="2" />
+> 	<ctl name="TX INT2 SPLINE MIXR NORMR COMPR HPHR RDAC Native Switch" value="ON" />
+> 	<ctl name="TX INT2 SPLINE MIXR NORMR COMPR HPHR RDAC Native" value="2" />
+> 	<ctl name="RX INT2 SPLINE MIXR NORMR COMPR HPHR RDAC Native Switch" value="ON" />
+> 	<ctl name="RX INT2 SPLINE MIXR NORMR COMPR HPHR RDAC Native" value="2" />
 > 	<ctl name="TX INI3 SPLINE MIXL LO1 Native Switch" value="ON" />
 > 	<ctl name="TX INI3 SPLINE MIXL LO1 Native" value="2" />
 > 	<ctl name="RX INI3 SPLINE MIXR LO1 Native Switch" value="ON" />
@@ -12031,14 +11993,14 @@
 > 	</path>
 > 	
 > 	<path name="true-native-mode-SPKR">
-> 	<ctl name="TX INT7 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL SPKRL LDAC Native Switch" value="ON" />
-> 	<ctl name="TX INT7 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL SPKRL LDAC Native" value="2" />
-> 	<ctl name="RX INT7 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL SPKRL LDAC Native Switch" value="ON" />
-> 	<ctl name="RX INT7 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL SPKRL LDAC Native" value="2" />
-> 	<ctl name="TX INT8 SPLINE MIXR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR SPKRR RDAC Native Switch" value="ON" />
-> 	<ctl name="TX INT8 SPLINE MIXR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR SPKRR RDAC Native" value="2" />
-> 	<ctl name="RX INT8 SPLINE MIXR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR SPKRR RDAC Native Switch" value="ON" />
-> 	<ctl name="RX INT8 SPLINE MIXR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR SPKRR RDAC Native" value="2" />
+> 	<ctl name="TX INT7 SPLINE MIXL NORML COMPL SPKRL LDAC Native Switch" value="ON" />
+> 	<ctl name="TX INT7 SPLINE MIXL NORML COMPL SPKRL LDAC Native" value="2" />
+> 	<ctl name="RX INT7 SPLINE MIXL NORML COMPL SPKRL LDAC Native Switch" value="ON" />
+> 	<ctl name="RX INT7 SPLINE MIXL NORML COMPL SPKRL LDAC Native" value="2" />
+> 	<ctl name="TX INT8 SPLINE MIXR NORMR COMPR SPKRR RDAC Native Switch" value="ON" />
+> 	<ctl name="TX INT8 SPLINE MIXR NORMR COMPR SPKRR RDAC Native" value="2" />
+> 	<ctl name="RX INT8 SPLINE MIXR NORMR COMPR SPKRR RDAC Native Switch" value="ON" />
+> 	<ctl name="RX INT8 SPLINE MIXR NORMR COMPR SPKRR RDAC Native" value="2" />
 > 	<ctl name="TX INI389 SPLINE MIXL LO385 Native Switch" value="ON" />
 > 	<ctl name="TX INI389 SPLINE MIXL LO385 Native" value="2" />
 > 	<ctl name="RX INI389 SPLINE MIXR LO385 Native Switch" value="ON" />
@@ -13578,14 +13540,14 @@
 > 	</path>
 > 	
 > 	<path name="true-native-mode-HPH-mono">
-> 	<ctl name="TX INT1 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL HPHL LDAC Native Switch" value="ON" />
-> 	<ctl name="TX INT1 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL HPHL LDAC Native" value="1" />
-> 	<ctl name="RX INT1 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL HPHL LDAC Native Switch" value="ON" />
-> 	<ctl name="RX INT1 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL HPHL LDAC Native" value="1" />
-> 	<ctl name="TX INT2 SPLINE MIXR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR HPHR RDAC Native Switch" value="OFF" />
-> 	<ctl name="TX INT2 SPLINE MIXR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR HPHR RDAC Native" value="0" />
-> 	<ctl name="RX INT2 SPLINE MIXR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR HPHR RDAC Native Switch" value="OFF" />
-> 	<ctl name="RX INT2 SPLINE MIXR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR HPHR RDAC Native" value="0" />
+> 	<ctl name="TX INT1 SPLINE MIXL NORML COMPL HPHL LDAC Native Switch" value="ON" />
+> 	<ctl name="TX INT1 SPLINE MIXL NORML COMPL HPHL LDAC Native" value="1" />
+> 	<ctl name="RX INT1 SPLINE MIXL NORML COMPL HPHL LDAC Native Switch" value="ON" />
+> 	<ctl name="RX INT1 SPLINE MIXL NORML COMPL HPHL LDAC Native" value="1" />
+> 	<ctl name="TX INT2 SPLINE MIXR NORMR COMPR HPHR RDAC Native Switch" value="OFF" />
+> 	<ctl name="TX INT2 SPLINE MIXR NORMR COMPR HPHR RDAC Native" value="0" />
+> 	<ctl name="RX INT2 SPLINE MIXR NORMR COMPR HPHR RDAC Native Switch" value="OFF" />
+> 	<ctl name="RX INT2 SPLINE MIXR NORMR COMPR HPHR RDAC Native" value="0" />
 > 	<ctl name="TX INI3 SPLINE MIXL LO1 Native Switch" value="ON" />
 > 	<ctl name="TX INI3 SPLINE MIXL LO1 Native" value="1" />
 > 	<ctl name="RX INI3 SPLINE MIXR LO1 Native Switch" value="ON" />
@@ -15125,14 +15087,14 @@
 > 	</path>
 > 	
 > 	<path name="true-native-mode-SPKR-mono">
-> 	<ctl name="TX INT7 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL SPKRL LDAC Native Switch" value="ON" />
-> 	<ctl name="TX INT7 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL SPKRL LDAC Native" value="1" />
-> 	<ctl name="RX INT7 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL SPKRL LDAC Native Switch" value="ON" />
-> 	<ctl name="RX INT7 SPLINE MIXL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL SPKRL LDAC Native" value="1" />
-> 	<ctl name="TX INT8 SPLINE MIXR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR SPKRR RDAC Native Switch" value="OFF" />
-> 	<ctl name="TX INT8 SPLINE MIXR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR SPKRR RDAC Native" value="0" />
-> 	<ctl name="RX INT8 SPLINE MIXR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR SPKRR RDAC Native Switch" value="OFF" />
-> 	<ctl name="RX INT8 SPLINE MIXR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR SPKRR RDAC Native" value="0" />
+> 	<ctl name="TX INT7 SPLINE MIXL NORML COMPL SPKRL LDAC Native Switch" value="ON" />
+> 	<ctl name="TX INT7 SPLINE MIXL NORML COMPL SPKRL LDAC Native" value="1" />
+> 	<ctl name="RX INT7 SPLINE MIXL NORML COMPL SPKRL LDAC Native Switch" value="ON" />
+> 	<ctl name="RX INT7 SPLINE MIXL NORML COMPL SPKRL LDAC Native" value="1" />
+> 	<ctl name="TX INT8 SPLINE MIXR NORMR COMPR SPKRR RDAC Native Switch" value="OFF" />
+> 	<ctl name="TX INT8 SPLINE MIXR NORMR COMPR SPKRR RDAC Native" value="0" />
+> 	<ctl name="RX INT8 SPLINE MIXR NORMR COMPR SPKRR RDAC Native Switch" value="OFF" />
+> 	<ctl name="RX INT8 SPLINE MIXR NORMR COMPR SPKRR RDAC Native" value="0" />
 > 	<ctl name="TX INI389 SPLINE MIXL LO385 Native Switch" value="ON" />
 > 	<ctl name="TX INI389 SPLINE MIXL LO385 Native" value="1" />
 > 	<ctl name="RX INI389 SPLINE MIXR LO385 Native Switch" value="ON" />
@@ -16672,14 +16634,14 @@
 > 	</path>
 > 	
 > 	<path name="true-native-mode-HPH-vbat">
-> 	<ctl name="TX INT1 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL HPHL LDAC Native Switch" value="ON" />
-> 	<ctl name="TX INT1 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL HPHL LDAC Native" value="2" />
-> 	<ctl name="RX INT1 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL HPHL LDAC Native Switch" value="ON" />
-> 	<ctl name="RX INT1 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL HPHL LDAC Native" value="2" />
-> 	<ctl name="TX INT2 SPLINE VBATR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR HPHR RDAC Native Switch" value="ON" />
-> 	<ctl name="TX INT2 SPLINE VBATR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR HPHR RDAC Native" value="2" />
-> 	<ctl name="RX INT2 SPLINE VBATR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR HPHR RDAC Native Switch" value="ON" />
-> 	<ctl name="RX INT2 SPLINE VBATR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR HPHR RDAC Native" value="2" />
+> 	<ctl name="TX INT1 SPLINE VBATL NORML COMPL HPHL LDAC Native Switch" value="ON" />
+> 	<ctl name="TX INT1 SPLINE VBATL NORML COMPL HPHL LDAC Native" value="2" />
+> 	<ctl name="RX INT1 SPLINE VBATL NORML COMPL HPHL LDAC Native Switch" value="ON" />
+> 	<ctl name="RX INT1 SPLINE VBATL NORML COMPL HPHL LDAC Native" value="2" />
+> 	<ctl name="TX INT2 SPLINE VBATR NORMR COMPR HPHR RDAC Native Switch" value="ON" />
+> 	<ctl name="TX INT2 SPLINE VBATR NORMR COMPR HPHR RDAC Native" value="2" />
+> 	<ctl name="RX INT2 SPLINE VBATR NORMR COMPR HPHR RDAC Native Switch" value="ON" />
+> 	<ctl name="RX INT2 SPLINE VBATR NORMR COMPR HPHR RDAC Native" value="2" />
 > 	<ctl name="TX INI3 SPLINE VBATL LO1 Native Switch" value="ON" />
 > 	<ctl name="TX INI3 SPLINE VBATL LO1 Native" value="2" />
 > 	<ctl name="RX INI3 SPLINE VBATR LO1 Native Switch" value="ON" />
@@ -18219,14 +18181,14 @@
 > 	</path>
 > 	
 > 	<path name="true-native-mode-SPKR-vbat">
-> 	<ctl name="TX INT7 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL SPKRL LDAC Native Switch" value="ON" />
-> 	<ctl name="TX INT7 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL SPKRL LDAC Native" value="2" />
-> 	<ctl name="RX INT7 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL SPKRL LDAC Native Switch" value="ON" />
-> 	<ctl name="RX INT7 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL SPKRL LDAC Native" value="2" />
-> 	<ctl name="TX INT8 SPLINE VBATR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR SPKRR RDAC Native Switch" value="ON" />
-> 	<ctl name="TX INT8 SPLINE VBATR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR SPKRR RDAC Native" value="2" />
-> 	<ctl name="RX INT8 SPLINE VBATR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR SPKRR RDAC Native Switch" value="ON" />
-> 	<ctl name="RX INT8 SPLINE VBATR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR SPKRR RDAC Native" value="2" />
+> 	<ctl name="TX INT7 SPLINE VBATL NORML COMPL SPKRL LDAC Native Switch" value="ON" />
+> 	<ctl name="TX INT7 SPLINE VBATL NORML COMPL SPKRL LDAC Native" value="2" />
+> 	<ctl name="RX INT7 SPLINE VBATL NORML COMPL SPKRL LDAC Native Switch" value="ON" />
+> 	<ctl name="RX INT7 SPLINE VBATL NORML COMPL SPKRL LDAC Native" value="2" />
+> 	<ctl name="TX INT8 SPLINE VBATR NORMR COMPR SPKRR RDAC Native Switch" value="ON" />
+> 	<ctl name="TX INT8 SPLINE VBATR NORMR COMPR SPKRR RDAC Native" value="2" />
+> 	<ctl name="RX INT8 SPLINE VBATR NORMR COMPR SPKRR RDAC Native Switch" value="ON" />
+> 	<ctl name="RX INT8 SPLINE VBATR NORMR COMPR SPKRR RDAC Native" value="2" />
 > 	<ctl name="TX INI389 SPLINE VBATL LO385 Native Switch" value="ON" />
 > 	<ctl name="TX INI389 SPLINE VBATL LO385 Native" value="2" />
 > 	<ctl name="RX INI389 SPLINE VBATR LO385 Native Switch" value="ON" />
@@ -19766,14 +19728,14 @@
 > 	</path>
 > 	
 > 	<path name="true-native-mode-HPH-vbat-mono">
-> 	<ctl name="TX INT1 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL HPHL LDAC Native Switch" value="ON" />
-> 	<ctl name="TX INT1 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL HPHL LDAC Native" value="1" />
-> 	<ctl name="RX INT1 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL HPHL LDAC Native Switch" value="ON" />
-> 	<ctl name="RX INT1 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL HPHL LDAC Native" value="1" />
-> 	<ctl name="TX INT2 SPLINE VBATR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR HPHR RDAC Native Switch" value="OFF" />
-> 	<ctl name="TX INT2 SPLINE VBATR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR HPHR RDAC Native" value="0" />
-> 	<ctl name="RX INT2 SPLINE VBATR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR HPHR RDAC Native Switch" value="OFF" />
-> 	<ctl name="RX INT2 SPLINE VBATR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR HPHR RDAC Native" value="0" />
+> 	<ctl name="TX INT1 SPLINE VBATL NORML COMPL HPHL LDAC Native Switch" value="ON" />
+> 	<ctl name="TX INT1 SPLINE VBATL NORML COMPL HPHL LDAC Native" value="1" />
+> 	<ctl name="RX INT1 SPLINE VBATL NORML COMPL HPHL LDAC Native Switch" value="ON" />
+> 	<ctl name="RX INT1 SPLINE VBATL NORML COMPL HPHL LDAC Native" value="1" />
+> 	<ctl name="TX INT2 SPLINE VBATR NORMR COMPR HPHR RDAC Native Switch" value="OFF" />
+> 	<ctl name="TX INT2 SPLINE VBATR NORMR COMPR HPHR RDAC Native" value="0" />
+> 	<ctl name="RX INT2 SPLINE VBATR NORMR COMPR HPHR RDAC Native Switch" value="OFF" />
+> 	<ctl name="RX INT2 SPLINE VBATR NORMR COMPR HPHR RDAC Native" value="0" />
 > 	<ctl name="TX INI3 SPLINE VBATL LO1 Native Switch" value="ON" />
 > 	<ctl name="TX INI3 SPLINE VBATL LO1 Native" value="1" />
 > 	<ctl name="RX INI3 SPLINE VBATR LO1 Native Switch" value="ON" />
@@ -21313,14 +21275,14 @@
 > 	</path>
 > 	
 > 	<path name="true-native-mode-SPKR-vbat-mono">
-> 	<ctl name="TX INT7 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL SPKRL LDAC Native Switch" value="ON" />
-> 	<ctl name="TX INT7 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL SPKRL LDAC Native" value="1" />
-> 	<ctl name="RX INT7 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL SPKRL LDAC Native Switch" value="ON" />
-> 	<ctl name="RX INT7 SPLINE VBATL OFFSET1L OFFSET2L OFFSET3L STEREOL EXPANDL NORML LEVELL CENTERL ALIGNMENTL BOOSTL VISENSEL COMPL SPKRL LDAC Native" value="1" />
-> 	<ctl name="TX INT8 SPLINE VBATR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR SPKRR RDAC Native Switch" value="OFF" />
-> 	<ctl name="TX INT8 SPLINE VBATR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR SPKRR RDAC Native" value="0" />
-> 	<ctl name="RX INT8 SPLINE VBATR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR SPKRR RDAC Native Switch" value="OFF" />
-> 	<ctl name="RX INT8 SPLINE VBATR OFFSET1R OFFSET2R OFFSET3R STEREOR EXPANDR NORMR LEVELR CENTERR ALIGNMENTR BOOSTR VISENSER COMPR SPKRR RDAC Native" value="0" />
+> 	<ctl name="TX INT7 SPLINE VBATL NORML COMPL SPKRL LDAC Native Switch" value="ON" />
+> 	<ctl name="TX INT7 SPLINE VBATL NORML COMPL SPKRL LDAC Native" value="1" />
+> 	<ctl name="RX INT7 SPLINE VBATL NORML COMPL SPKRL LDAC Native Switch" value="ON" />
+> 	<ctl name="RX INT7 SPLINE VBATL NORML COMPL SPKRL LDAC Native" value="1" />
+> 	<ctl name="TX INT8 SPLINE VBATR NORMR COMPR SPKRR RDAC Native Switch" value="OFF" />
+> 	<ctl name="TX INT8 SPLINE VBATR NORMR COMPR SPKRR RDAC Native" value="0" />
+> 	<ctl name="RX INT8 SPLINE VBATR NORMR COMPR SPKRR RDAC Native Switch" value="OFF" />
+> 	<ctl name="RX INT8 SPLINE VBATR NORMR COMPR SPKRR RDAC Native" value="0" />
 > 	<ctl name="TX INI389 SPLINE VBATL LO385 Native Switch" value="ON" />
 > 	<ctl name="TX INI389 SPLINE VBATL LO385 Native" value="1" />
 > 	<ctl name="RX INI389 SPLINE VBATR LO385 Native Switch" value="ON" />
@@ -29742,12 +29704,9 @@
 > 	<path name="speaker-mono">
 > 	<path name="true-native-mode-SPKR-mono" />
 > 	<path name="true-native-mode-SPKR-vbat-mono" />
-> 	<ctl name="SPKR_PWR_MODE Switch" value="ON" />
-> 	<ctl name="TX_SPKR_PWR_MODE" value="NATIVE" />
-> 	<ctl name="RX_SPKR_PWR_MODE" value="NATIVE" />
-> 	<ctl name="SPKR Mode Switch" value="ON" />
-> 	<ctl name="TX SPKR Mode" value="NATIVE" />
-> 	<ctl name="RX SPKR Mode" value="NATIVE" />
+> 	<ctl name="SPKR PWR MODE Switch" value="ON" />
+> 	<ctl name="TX SPKR PWR MODE" value="NATIVE" />
+> 	<ctl name="RX SPKR PWR MODE" value="NATIVE" />
 > 	<ctl name="TX INT7_1 MIX1 INP0" value="RX0" />
 > 	<ctl name="RX INT7_1 MIX1 INP0" value="RX0" />
 > 	<ctl name="SLIM TX0 MUX" value="AIF_MIX1_PB" />
@@ -29758,24 +29717,8 @@
 > 	<ctl name="SpkrRight BOOST Switch" value="0" />
 > 	<ctl name="SpkrLeft VISENSE Switch" value="1" />
 > 	<ctl name="SpkrRight VISENSE Switch" value="0" />
-> 	<ctl name="SpkrLeft OFFSET1 Switch" value="1" />
-> 	<ctl name="SpkrRight OFFSET1 Switch" value="0" />
-> 	<ctl name="SpkrLeft OFFSET2 Switch" value="1" />
-> 	<ctl name="SpkrRight OFFSET2 Switch" value="0" />
-> 	<ctl name="SpkrLeft OFFSET3 Switch" value="1" />
-> 	<ctl name="SpkrRight OFFSET3 Switch" value="0" />
-> 	<ctl name="SpkrLeft STEREO Switch" value="1" />
-> 	<ctl name="SpkrRight STEREO Switch" value="0" />
-> 	<ctl name="SpkrLeft EXPAND Switch" value="1" />
-> 	<ctl name="SpkrRight EXPAND Switch" value="0" />
 > 	<ctl name="SpkrLeft NORM Switch" value="1" />
 > 	<ctl name="SpkrRight NORM Switch" value="0" />
-> 	<ctl name="SpkrLeft LEVEL Switch" value="1" />
-> 	<ctl name="SpkrRight LEVEL Switch" value="0" />
-> 	<ctl name="SpkrLeft CENTER Switch" value="1" />
-> 	<ctl name="SpkrRight CENTER Switch" value="0" />
-> 	<ctl name="SpkrLeft ALIGNMENT Switch" value="1" />
-> 	<ctl name="SpkrRight ALIGNMENT Switch" value="0" />
 > 	<ctl name="SpkrLeft LDAC Switch" value="1" />
 > 	<ctl name="SpkrRight RDAC Switch" value="0" />
 > 	<ctl name="SpkrLeft WSA PA Mute Switch" value="1" />
@@ -29792,36 +29735,17 @@
 > 	<path name="speaker">
 > 	<path name="true-native-mode-SPKR" />
 > 	<path name="true-native-mode-SPKR-vbat" />
-> 	<ctl name="SPKR_PWR_MODE Switch" value="ON" />
-> 	<ctl name="TX_SPKR_PWR_MODE" value="NATIVE" />
-> 	<ctl name="RX_SPKR_PWR_MODE" value="NATIVE" />
-> 	<ctl name="SPKR Mode Switch" value="ON" />
-> 	<ctl name="TX SPKR Mode" value="NATIVE" />
-> 	<ctl name="RX SPKR Mode" value="NATIVE" />
+> 	<ctl name="SPKR PWR MODE Switch" value="ON" />
+> 	<ctl name="TX SPKR PWR MODE" value="NATIVE" />
+> 	<ctl name="RX SPKR PWR MODE" value="NATIVE" />
 > 	<ctl name="SpkrLeft COMP Switch" value="2" />
 > 	<ctl name="SpkrRight COMP Switch" value="2" />
 > 	<ctl name="SpkrLeft BOOST Switch" value="0" />
 > 	<ctl name="SpkrRight BOOST Switch" value="0" />
 > 	<ctl name="SpkrLeft VISENSE Switch" value="0" />
 > 	<ctl name="SpkrRight VISENSE Switch" value="0" />
-> 	<ctl name="SpkrLeft OFFSET1 Switch" value="2" />
-> 	<ctl name="SpkrRight OFFSET1 Switch" value="2" />
-> 	<ctl name="SpkrLeft OFFSET2 Switch" value="2" />
-> 	<ctl name="SpkrRight OFFSET2 Switch" value="2" />
-> 	<ctl name="SpkrLeft OFFSET3 Switch" value="2" />
-> 	<ctl name="SpkrRight OFFSET3 Switch" value="2" />
-> 	<ctl name="SpkrLeft STEREO Switch" value="2" />
-> 	<ctl name="SpkrRight STEREO Switch" value="2" />
-> 	<ctl name="SpkrLeft EXPAND Switch" value="2" />
-> 	<ctl name="SpkrRight EXPAND Switch" value="2" />
 > 	<ctl name="SpkrLeft NORM Switch" value="2" />
 > 	<ctl name="SpkrRight NORM Switch" value="2" />
-> 	<ctl name="SpkrLeft LEVEL Switch" value="2" />
-> 	<ctl name="SpkrRight LEVEL Switch" value="2" />
-> 	<ctl name="SpkrLeft CENTER Switch" value="2" />
-> 	<ctl name="SpkrRight CENTER Switch" value="2" />
-> 	<ctl name="SpkrLeft ALIGNMENT Switch" value="2" />
-> 	<ctl name="SpkrRight ALIGNMENT Switch" value="2" />
 > 	<ctl name="SpkrLeft LDAC Switch" value="2" />
 > 	<ctl name="SpkrRight RDAC Switch" value="2" />
 > 	<ctl name="SpkrLeft WSA PA Mute Switch" value="0" />
@@ -30146,11 +30070,11 @@
 > 	<ctl name="SLIM_4_TX Format" value="PACKED_16B" />
 > 	<ctl name="SLIM_4_RX Format" value="PACKED_16B" />
 > 	<ctl name="7 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX7 Digital Volume" value="88" />
-> 	<ctl name="RX7 Digital Volume" value="88" />
+> 	<ctl name="TX7 Digital Volume" value="86" />
+> 	<ctl name="RX7 Digital Volume" value="86" />
 > 	<ctl name="7 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX7 Mix Digital Volume" value="88" />
-> 	<ctl name="RX7 Mix Digital Volume" value="88" />
+> 	<ctl name="TX7 Mix Digital Volume" value="86" />
+> 	<ctl name="RX7 Mix Digital Volume" value="86" />
 > 	<ctl name="8 Digital Volume Switch" value="OFF" />
 > 	<ctl name="TX8 Digital Volume" value="0" />
 > 	<ctl name="RX8 Digital Volume" value="0" />
@@ -30176,11 +30100,11 @@
 > 	<ctl name="SLIM_4_TX Format" value="PACKED_16B" />
 > 	<ctl name="SLIM_4_RX Format" value="PACKED_16B" />
 > 	<ctl name="7 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX7 Digital Volume" value="88" />
-> 	<ctl name="RX7 Digital Volume" value="88" />
+> 	<ctl name="TX7 Digital Volume" value="86" />
+> 	<ctl name="RX7 Digital Volume" value="86" />
 > 	<ctl name="7 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX7 Mix Digital Volume" value="88" />
-> 	<ctl name="RX7 Mix Digital Volume" value="88" />
+> 	<ctl name="TX7 Mix Digital Volume" value="86" />
+> 	<ctl name="RX7 Mix Digital Volume" value="86" />
 > 	<ctl name="8 Digital Volume Switch" value="OFF" />
 > 	<ctl name="TX8 Digital Volume" value="0" />
 > 	<ctl name="RX8 Digital Volume" value="0" />
@@ -30321,7 +30245,7 @@
 > 	<ctl name="ANC EAR Enable Switch" value="1" />
 > 	</path>
 > 	
-> 	<!-- Lemon Drop Hi-Res start of mods -->
+> 	<!-- Start of headphones control center -->
 > 	
 > 	<path name="headphones">
 > 	<ctl name="Es9218 Bypass" value="1" />
@@ -30329,13 +30253,9 @@
 > 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIM_6_TX Channels" value="Two" />
 > 	<ctl name="SLIM_6_RX Channels" value="Two" />
-> 	<ctl name="HPH_PWR_MODE Switch" value="ON" />
-> 	<ctl name="TX_HPH_PWR_MODE" value="NATIVE" />
-> 	<ctl name="RX_HPH_PWR_MODE" value="NATIVE" />
-> 	<ctl name="HPH Mode Switch" value="ON" />
-> 	<ctl name="TX HPH Mode" value="NATIVE" />
-> 	<ctl name="RX HPH Mode" value="NATIVE" />
-> 	<ctl name="RX HPH Mode" value="CLS_H_LP" />
+> 	<ctl name="HPH PWR MODE Switch" value="ON" />
+> 	<ctl name="TX HPH PWR MODE" value="NATIVE" />
+> 	<ctl name="RX HPH PWR MODE" value="NATIVE" />
 > 	<ctl name="SLIM TX2 MUX" value="AIF4_PB" />
 > 	<ctl name="SLIM RX2 MUX" value="AIF4_PB" />
 > 	<ctl name="SLIM TX3 MUX" value="AIF4_PB" />
@@ -30372,24 +30292,8 @@
 > 	<ctl name="HphRight BOOST Switch" value="0" />
 > 	<ctl name="HphLeft VISENSE Switch" value="0" />
 > 	<ctl name="HphRight VISENSE Switch" value="0" />
-> 	<ctl name="HphLeft OFFSET1 Switch" value="2" />
-> 	<ctl name="HphRight OFFSET1 Switch" value="2" />
-> 	<ctl name="HphLeft OFFSET2 Switch" value="2" />
-> 	<ctl name="HphRight OFFSET2 Switch" value="2" />
-> 	<ctl name="HphLeft OFFSET3 Switch" value="2" />
-> 	<ctl name="HphRight OFFSET3 Switch" value="2" />
-> 	<ctl name="HphLeft STEREO Switch" value="2" />
-> 	<ctl name="HphRight STEREO Switch" value="2" />
-> 	<ctl name="HphLeft EXPAND Switch" value="2" />
-> 	<ctl name="HphRight EXPAND Switch" value="2" />
 > 	<ctl name="HphLeft NORM Switch" value="2" />
 > 	<ctl name="HphRight NORM Switch" value="2" />
-> 	<ctl name="HphLeft LEVEL Switch" value="2" />
-> 	<ctl name="HphRight LEVEL Switch" value="2" />
-> 	<ctl name="HphLeft CENTER Switch" value="2" />
-> 	<ctl name="HphRight CENTER Switch" value="2" />
-> 	<ctl name="HphLeft ALIGNMENT Switch" value="2" />
-> 	<ctl name="HphRight ALIGNMENT Switch" value="2" />
 > 	<ctl name="HphLeft LDAC Switch" value="2" />
 > 	<ctl name="HphRight RDAC Switch" value="2" />
 > 	<ctl name="HphLeft WSA PA Mute Switch" value="0" />
@@ -30406,7 +30310,6 @@
 > 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIM_6_TX Channels" value="Two" />
 > 	<ctl name="SLIM_6_RX Channels" value="Two" />
-> 	<ctl name="RX HPH Mode" value="CLS_H_LP" />
 > 	<ctl name="SLIM TX2 MUX" value="AIF4_PB" />
 > 	<ctl name="SLIM RX2 MUX" value="AIF4_PB" />
 > 	<ctl name="SLIM TX3 MUX" value="AIF4_PB" />
@@ -30448,7 +30351,7 @@
 > 	<ctl name="RX HPHR Volume" value="0" />
 > 	</path>
 > 	
-> 	<!-- Lemon Drop Hi-Res end of mods -->
+> 	<!-- End of headphones control center -->
 > 	
 > 	<!-- Lemon Drop Hi-Res start of mods -->
 > 	
@@ -30572,7 +30475,7 @@
 > 	
 > 	<path name="voice-headphones">
 > 	<path name="headphones" />
-2371,2429c28260,28340
+2371,2429c28163,28243
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -30714,7 +30617,7 @@
 > 	</path>
 > 	
 > 	<path name="anc-headphones">
-2432,2464c28343,28385
+2432,2464c28246,28288
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -30792,7 +30695,7 @@
 > 	</path>
 > 	
 > 	<path name="voice-anc-headphones">
-2467,3898c28388,31140
+2467,3898c28291,31024
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="1" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -33069,50 +32972,50 @@
 > 	<ctl name="SEC_TDM_RX_0 SampleRate" value="KHZ_11P025" />
 > 	<ctl name="SEC_TDM_TX_0 Format" value="S6_LE" />
 > 	<ctl name="SEC_TDM_RX_0 Format" value="S6_LE" />
-> 	<ctl name="SEC_TDM_TX_0 Audio Mixer MultiMedia1" value="1" />
-> 	<ctl name="SEC_TDM_RX_0 Audio Mixer MultiMedia1" value="1" />
+> 	<ctl name="SEC_TDM_TX_0 Audio Mixer MultiMedia1" value="2" />
+> 	<ctl name="SEC_TDM_RX_0 Audio Mixer MultiMedia1" value="2" />
 > 	<ctl name="SEC_TDM_TX_1 Channels" value="Onehundredninetytwo" />
 > 	<ctl name="SEC_TDM_RX_1 Channels" value="Onehundredninetytwo" />
 > 	<ctl name="SEC_TDM_TX_1 SampleRate" value="KHZ_11P025" />
 > 	<ctl name="SEC_TDM_RX_1 SampleRate" value="KHZ_11P025" />
 > 	<ctl name="SEC_TDM_TX_1 Format" value="S6_LE" />
 > 	<ctl name="SEC_TDM_RX_1 Format" value="S6_LE" />
-> 	<ctl name="SEC_TDM_TX_1 Audio Mixer MultiMedia3" value="1" />
-> 	<ctl name="SEC_TDM_RX_1 Audio Mixer MultiMedia3" value="1" />
+> 	<ctl name="SEC_TDM_TX_1 Audio Mixer MultiMedia3" value="2" />
+> 	<ctl name="SEC_TDM_RX_1 Audio Mixer MultiMedia3" value="2" />
 > 	<ctl name="SEC_TDM_TX_2 Channels" value="Onehundredninetytwo" />
 > 	<ctl name="SEC_TDM_RX_2 Channels" value="Onehundredninetytwo" />
 > 	<ctl name="SEC_TDM_TX_2 SampleRate" value="KHZ_11P025" />
 > 	<ctl name="SEC_TDM_RX_2 SampleRate" value="KHZ_11P025" />
 > 	<ctl name="SEC_TDM_TX_2 Format" value="S6_LE" />
 > 	<ctl name="SEC_TDM_RX_2 Format" value="S6_LE" />
-> 	<ctl name="SEC_TDM_TX_2 Audio Mixer MultiMedia5" value="1" />
-> 	<ctl name="SEC_TDM_RX_2 Audio Mixer MultiMedia5" value="1" />
+> 	<ctl name="SEC_TDM_TX_2 Audio Mixer MultiMedia5" value="2" />
+> 	<ctl name="SEC_TDM_RX_2 Audio Mixer MultiMedia5" value="2" />
 > 	<ctl name="SEC_TDM_TX_3 Channels" value="Onehundredninetytwo" />
 > 	<ctl name="SEC_TDM_RX_3 Channels" value="Onehundredninetytwo" />
 > 	<ctl name="SEC_TDM_TX_3 SampleRate" value="KHZ_11P025" />
 > 	<ctl name="SEC_TDM_RX_3 SampleRate" value="KHZ_11P025" />
 > 	<ctl name="SEC_TDM_TX_3 Format" value="S6_LE" />
 > 	<ctl name="SEC_TDM_RX_3 Format" value="S6_LE" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia4" value="1" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia4" value="1" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia6" value="1" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia6" value="1" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia7" value="1" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia7" value="1" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia10" value="1" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia10" value="1" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia11" value="1" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia11" value="1" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia12" value="1" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia12" value="1" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia13" value="1" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia13" value="1" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia14" value="1" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia14" value="1" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia15" value="1" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia15" value="1" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia16" value="1" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia16" value="1" />
+> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia4" value="2" />
+> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia4" value="2" />
+> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia6" value="2" />
+> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia7" value="2" />
+> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia7" value="2" />
+> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia10" value="2" />
+> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia10" value="2" />
+> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia11" value="2" />
+> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia11" value="2" />
+> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia12" value="2" />
+> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia12" value="2" />
+> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia13" value="2" />
+> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia13" value="2" />
+> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia14" value="2" />
+> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia14" value="2" />
+> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia15" value="2" />
+> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia15" value="2" />
+> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia16" value="2" />
+> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia16" value="2" />
 > 	</path>
 > 	
 > 	<!-- Welcome to the QuadDAC direct output speaker-16bit -->
@@ -33581,36 +33484,17 @@
 > 	<path name="headphone">
 > 	<path name="true-native-mode-HPH" />
 > 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="HPH_PWR_MODE Switch" value="ON" />
-> 	<ctl name="TX_HPH_PWR_MODE" value="NATIVE" />
-> 	<ctl name="RX_HPH_PWR_MODE" value="NATIVE" />
-> 	<ctl name="HPH Mode Switch" value="ON" />
-> 	<ctl name="TX HPH Mode" value="NATIVE" />
-> 	<ctl name="RX HPH Mode" value="NATIVE" />
+> 	<ctl name="HPH PWR MODE Switch" value="ON" />
+> 	<ctl name="TX HPH PWR MODE" value="NATIVE" />
+> 	<ctl name="RX HPH PWR MODE" value="NATIVE" />
 > 	<ctl name="HphLeft COMP Switch" value="2" />
 > 	<ctl name="HphRight COMP Switch" value="2" />
 > 	<ctl name="HphLeft BOOST Switch" value="0" />
 > 	<ctl name="HphRight BOOST Switch" value="0" />
 > 	<ctl name="HphLeft VISENSE Switch" value="0" />
 > 	<ctl name="HphRight VISENSE Switch" value="0" />
-> 	<ctl name="HphLeft OFFSET1 Switch" value="2" />
-> 	<ctl name="HphRight OFFSET1 Switch" value="2" />
-> 	<ctl name="HphLeft OFFSET2 Switch" value="2" />
-> 	<ctl name="HphRight OFFSET2 Switch" value="2" />
-> 	<ctl name="HphLeft OFFSET3 Switch" value="2" />
-> 	<ctl name="HphRight OFFSET3 Switch" value="2" />
-> 	<ctl name="HphLeft STEREO Switch" value="2" />
-> 	<ctl name="HphRight STEREO Switch" value="2" />
-> 	<ctl name="HphLeft EXPAND Switch" value="2" />
-> 	<ctl name="HphRight EXPAND Switch" value="2" />
 > 	<ctl name="HphLeft NORM Switch" value="2" />
 > 	<ctl name="HphRight NORM Switch" value="2" />
-> 	<ctl name="HphLeft LEVEL Switch" value="2" />
-> 	<ctl name="HphRight LEVEL Switch" value="2" />
-> 	<ctl name="HphLeft CENTER Switch" value="2" />
-> 	<ctl name="HphRight CENTER Switch" value="2" />
-> 	<ctl name="HphLeft ALIGNMENT Switch" value="2" />
-> 	<ctl name="HphRight ALIGNMENT Switch" value="2" />
 > 	<ctl name="HphLeft LDAC Switch" value="2" />
 > 	<ctl name="HphRight RDAC Switch" value="2" />
 > 	<ctl name="HphLeft WSA PA Mute Switch" value="0" />
@@ -34344,11 +34228,11 @@
 > 	
 > 	<path name="loopback_earpiece">
 > 	<ctl name="7 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX7 Digital Volume" value="88" />
-> 	<ctl name="RX7 Digital Volume" value="88" />
+> 	<ctl name="TX7 Digital Volume" value="86" />
+> 	<ctl name="RX7 Digital Volume" value="86" />
 > 	<ctl name="7 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX7 Mix Digital Volume" value="88" />
-> 	<ctl name="RX7 Mix Digital Volume" value="88" />
+> 	<ctl name="TX7 Mix Digital Volume" value="86" />
+> 	<ctl name="RX7 Mix Digital Volume" value="86" />
 > 	<ctl name="8 Digital Volume Switch" value="OFF" />
 > 	<ctl name="TX8 Digital Volume" value="0" />
 > 	<ctl name="RX8 Digital Volume" value="0" />
@@ -34979,7 +34863,7 @@
 > 	<path name="speaker-protected" />
 > 	</path>
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
-3899a31142,31144
+3899a31026,31028
 > 	
 > 	
 > 	<!-- Bottom of page -->
