@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble 24bit v340.1 -->
+> 	<!-- Lemon Drop Hi-Res treble 24bit v341.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -137,7 +137,7 @@
 > 	
 > 	<!-- Start of True Native Mode code v15.5 & vbat initial mixer settings -->
 > 	
-28,2368c166,28335
+28,2368c166,28326
 <     <!-- These are the initial mixer settings -->
 <     <ctl name="Voice Rx Device Mute" id="0" value="0" />
 <     <ctl name="Voice Rx Device Mute" id="1" value="-1" />
@@ -23860,23 +23860,23 @@
 > 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
 > 	<ctl name="TX1 Mix Digital Volume" value="51" />
 > 	<ctl name="RX1 Mix Digital Volume" value="51" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="51" />
-> 	<ctl name="RX2 Digital Volume" value="51" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="51" />
-> 	<ctl name="RX2 Mix Digital Volume" value="51" />
+> 	<ctl name="2 Digital Volume Switch" value="OFF" />
+> 	<ctl name="TX2 Digital Volume" value="0" />
+> 	<ctl name="RX2 Digital Volume" value="0" />
+> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
+> 	<ctl name="TX2 Mix Digital Volume" value="0" />
+> 	<ctl name="RX2 Mix Digital Volume" value="0" />
 > 	<ctl name="HPHL Volume Switch" value="ON" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
+> 	<ctl name="HPHR Volume Switch" value="OFF" />
+> 	<ctl name="TX HPHR Volume" value="0" />
+> 	<ctl name="RX HPHR Volume" value="0" />
 > 	<path name="vbat_deep-buffer-playback vbat_speaker-mono" />
 > 	</path>
 > 	
 > 	<path name="vbat_deep-buffer-playback headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia1" value="2" />
 > 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia1" value="2" />
 > 	<ctl name="1 Digital Volume Switch" value="ON" />
@@ -24283,7 +24283,7 @@
 > 	</path>
 > 	
 > 	<path name="vbat_low-latency-playback headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia5" value="2" />
 > 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia5" value="2" />
 > 	<ctl name="1 Digital Volume Switch" value="ON" />
@@ -24690,7 +24690,7 @@
 > 	</path>
 > 	
 > 	<path name="vbat_audio-ull-playback headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia3" value="2" />
 > 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia3" value="2" />
 > 	<ctl name="1 Digital Volume Switch" value="ON" />
@@ -25093,7 +25093,7 @@
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia4" value="2" />
 > 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia4" value="2" />
 > 	<ctl name="1 Digital Volume Switch" value="ON" />
@@ -25447,7 +25447,7 @@
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback1 headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia6" value="2" />
 > 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia6" value="2" />
 > 	<ctl name="1 Digital Volume Switch" value="ON" />
@@ -25861,7 +25861,7 @@
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback2 headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia7" value="2" />
 > 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia7" value="2" />
 > 	<ctl name="1 Digital Volume Switch" value="ON" />
@@ -26271,7 +26271,7 @@
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback3 headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia10" value="2" />
 > 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia10" value="2" />
 > 	<ctl name="1 Digital Volume Switch" value="ON" />
@@ -26681,7 +26681,7 @@
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback4 headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia11" value="2" />
 > 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia11" value="2" />
 > 	<ctl name="1 Digital Volume Switch" value="ON" />
@@ -27091,7 +27091,7 @@
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback5 headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia12" value="2" />
 > 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia12" value="2" />
 > 	<ctl name="1 Digital Volume Switch" value="ON" />
@@ -27501,7 +27501,7 @@
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback6 headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia13" value="2" />
 > 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia13" value="2" />
 > 	<ctl name="1 Digital Volume Switch" value="ON" />
@@ -27911,7 +27911,7 @@
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback7 headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia14" value="2" />
 > 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia14" value="2" />
 > 	<ctl name="1 Digital Volume Switch" value="ON" />
@@ -28321,7 +28321,7 @@
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback8 headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia15" value="2" />
 > 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia15" value="2" />
 > 	<ctl name="1 Digital Volume Switch" value="ON" />
@@ -28731,7 +28731,7 @@
 > 	</path>
 > 	
 > 	<path name="vbat_compress-offload-playback9 headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
+> 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia16" value="2" />
 > 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia16" value="2" />
 > 	<ctl name="1 Digital Volume Switch" value="ON" />
@@ -30497,15 +30497,6 @@
 > 	<ctl name="RX INT1 DEM MUX" value="CLSH_DSM_OUT" />
 > 	<ctl name="TX INT2 DEM MUX" value="CLSH_DSM_OUT" />
 > 	<ctl name="RX INT2 DEM MUX" value="CLSH_DSM_OUT" />
-> 	<ctl name="True_Level Switch" value="2" />
-> 	<ctl name="TX_True_Level" value="AUTO" />
-> 	<ctl name="RX_True_Level" value="AUTO" />
-> 	<ctl name="True_Center Switch" value="2" />
-> 	<ctl name="TX_True_Center" value="AUTO" />
-> 	<ctl name="RX_True_Center" value="AUTO" />
-> 	<ctl name="True_Alignment Switch" value="2" />
-> 	<ctl name="TX_True_Alignment" value="AUTO" />
-> 	<ctl name="RX_True_Alignment" value="AUTO" />
 > 	<ctl name="1 Digital Volume Switch" value="ON" />
 > 	<ctl name="TX1 Digital Volume" value="0" />
 > 	<ctl name="RX1 Digital Volume" value="0" />
@@ -30650,7 +30641,7 @@
 > 	
 > 	<path name="voice-headphones">
 > 	<path name="headphones" />
-2371,2429c28338,28418
+2371,2429c28329,28409
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -30792,7 +30783,7 @@
 > 	</path>
 > 	
 > 	<path name="anc-headphones">
-2432,2464c28421,28463
+2432,2464c28412,28454
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -30870,7 +30861,7 @@
 > 	</path>
 > 	
 > 	<path name="voice-anc-headphones">
-2467,3898c28466,31229
+2467,3898c28457,31220
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="1" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -35068,7 +35059,7 @@
 > 	<path name="speaker-protected" />
 > 	</path>
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
-3899a31231,31233
+3899a31222,31224
 > 	
 > 	
 > 	<!-- Bottom of page -->
