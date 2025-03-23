@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble 24bit v341.1 -->
+	<!-- Lemon Drop Hi-Res treble 24bit v342.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -6342,91 +6342,6 @@
 	
 	<!-- End of True Native Mode code v15.5 & vbat initial mixer settings -->
 	
-	<!-- Start of Compander controls -->
-	
-	<ctl name="HPHL COMP1 Switch" value="ZERO" />
-	<ctl name="TX HPHL COMP1" value="0" />
-	<ctl name="RX HPHL COMP1" value="0" />
-	<ctl name="HPHR COMP2 Switch" value="ZERO" />
-	<ctl name="TX HPHR COMP2" value="0" />
-	<ctl name="RX HPHR COMP2" value="0" />
-	<ctl name="SPKRL COMP7 Switch" value="ZERO" />
-	<ctl name="TX SPKRL COMP7" value="0" />
-	<ctl name="RX SPKRL COMP7" value="0" />
-	<ctl name="SPKRR COMP8 Switch" value="ZERO" />
-	<ctl name="TX SPKRR COMP8" value="0" />
-	<ctl name="RX SPKRR COMP8" value="0" />
-	
-	<!-- End of Compander controls -->
-	
-	<!-- Start of BOOST controls -->
-	
-	<ctl name="HPHL BOOST1 Switch" value="ZERO" />
-	<ctl name="TX HPHL BOOST1" value="0" />
-	<ctl name="RX HPHL BOOST1" value="0" />
-	<ctl name="HPHR BOOST2 Switch" value="ZERO" />
-	<ctl name="TX HPHR BOOST2" value="0" />
-	<ctl name="RX HPHR BOOST2" value="0" />
-	<ctl name="SPKRL BOOST7 Switch" value="ZERO" />
-	<ctl name="TX SPKRL BOOST7" value="0" />
-	<ctl name="RX SPKRL BOOST7" value="0" />
-	<ctl name="SPKRR BOOST8 Switch" value="ZERO" />
-	<ctl name="TX SPKRR BOOST8" value="0" />
-	<ctl name="RX SPKRR BOOST8" value="0" />
-	
-	<!-- End of BOOST controls -->
-	
-	<!-- Start of VISENSE controls -->
-	
-	<ctl name="HPHL VISENSE1 Switch" value="ZERO" />
-	<ctl name="TX HPHL VISENSE1" value="0" />
-	<ctl name="RX HPHL VISENSE1" value="0" />
-	<ctl name="HPHR VISENSE2 Switch" value="ZERO" />
-	<ctl name="TX HPHR VISENSE2" value="0" />
-	<ctl name="RX HPHR VISENSE2" value="0" />
-	<ctl name="SPKRL VISENSE7 Switch" value="ZERO" />
-	<ctl name="TX SPKRL VISENSE7" value="0" />
-	<ctl name="RX SPKRL VISENSE7" value="0" />
-	<ctl name="SPKRR VISENSE8 Switch" value="ZERO" />
-	<ctl name="TX SPKRR VISENSE8" value="0" />
-	<ctl name="RX SPKRR VISENSE8" value="0" />
-	
-	<!-- End of VISENSE controls -->
-	
-	<!-- Start of NORM controls -->
-	
-	<ctl name="HPHL NORM1 Switch" value="ZERO" />
-	<ctl name="TX HPHL NORM1" value="0" />
-	<ctl name="RX HPHL NORM1" value="0" />
-	<ctl name="HPHR NORM2 Switch" value="ZERO" />
-	<ctl name="TX HPHR NORM2" value="0" />
-	<ctl name="RX HPHR NORM2" value="0" />
-	<ctl name="SPKRL NORM7 Switch" value="ZERO" />
-	<ctl name="TX SPKRL NORM7" value="0" />
-	<ctl name="RX SPKRL NORM7" value="0" />
-	<ctl name="SPKRR NORM8 Switch" value="ZERO" />
-	<ctl name="TX SPKRR NORM8" value="0" />
-	<ctl name="RX SPKRR NORM8" value="0" />
-	
-	<!-- End of NORM controls -->
-	
-	<!-- Start of DAC controls -->
-	
-	<ctl name="HPHL LDAC1 Switch" value="ZERO" />
-	<ctl name="TX HPHL LDAC1" value="0" />
-	<ctl name="RX HPHL LDAC1" value="0" />
-	<ctl name="HPHR RDAC2 Switch" value="ZERO" />
-	<ctl name="TX HPHR RDAC2" value="0" />
-	<ctl name="RX HPHR RDAC2" value="0" />
-	<ctl name="SPKRL LDAC7 Switch" value="ZERO" />
-	<ctl name="TX SPKRL LDAC7" value="0" />
-	<ctl name="RX SPKRL LDAC7" value="0" />
-	<ctl name="SPKRR RDAC8 Switch" value="ZERO" />
-	<ctl name="TX SPKRR RDAC8" value="0" />
-	<ctl name="RX SPKRR RDAC8" value="0" />
-	
-	<!-- End of DAC controls -->
-	
 	<!-- Start of SLIM settings -->
 	
 	<ctl name="SLIM_0_TX Channels" value="ZERO" />
@@ -8173,14 +8088,14 @@
 	
 	<!-- Start DAC initialization code -->
 	
-	<ctl name="SpkrLeft COMP Switch" value="0" />
-	<ctl name="SpkrRight COMP Switch" value="0" />
-	<ctl name="SpkrLeft BOOST Switch" value="0" />
-	<ctl name="SpkrRight BOOST Switch" value="0" />
-	<ctl name="SpkrLeft VISENSE Switch" value="0" />
-	<ctl name="SpkrRight VISENSE Switch" value="0" />
-	<ctl name="SpkrLeft NORM Switch" value="0" />
-	<ctl name="SpkrRight NORM Switch" value="0" />
+	<ctl name="SpkrLeft COMPL Switch" value="0" />
+	<ctl name="SpkrRight COMPR Switch" value="0" />
+	<ctl name="SpkrLeft BOOSTL Switch" value="0" />
+	<ctl name="SpkrRight BOOSTR Switch" value="0" />
+	<ctl name="SpkrLeft VISENSEL Switch" value="0" />
+	<ctl name="SpkrRight VISENSER Switch" value="0" />
+	<ctl name="SpkrLeft NORML Switch" value="0" />
+	<ctl name="SpkrRight NORMR Switch" value="0" />
 	<ctl name="SpkrLeft LDAC Switch" value="0" />
 	<ctl name="SpkrRight RDAC Switch" value="0" />
 	<ctl name="SpkrLeft WSA PA Mute Switch" value="0" />
@@ -8192,14 +8107,14 @@
 	
 	<!-- Start HPH initialization code -->
 	
-	<ctl name="HphLeft COMP Switch" value="0" />
-	<ctl name="HphRight COMP Switch" value="0" />
-	<ctl name="HphLeft BOOST Switch" value="0" />
-	<ctl name="HphRight BOOST Switch" value="0" />
-	<ctl name="HphLeft VISENSE Switch" value="0" />
-	<ctl name="HphRight VISENSE Switch" value="0" />
-	<ctl name="HphLeft NORM Switch" value="0" />
-	<ctl name="HphRight NORM Switch" value="0" />
+	<ctl name="HphLeft COMPL Switch" value="0" />
+	<ctl name="HphRight COMPR Switch" value="0" />
+	<ctl name="HphLeft BOOSTL Switch" value="0" />
+	<ctl name="HphRight BOOSTR Switch" value="0" />
+	<ctl name="HphLeft VISENSEL Switch" value="0" />
+	<ctl name="HphRight VISENSER Switch" value="0" />
+	<ctl name="HphLeft NORML Switch" value="0" />
+	<ctl name="HphRight NORMR Switch" value="0" />
 	<ctl name="HphLeft LDAC Switch" value="0" />
 	<ctl name="HphRight RDAC Switch" value="0" />
 	<ctl name="HphLeft WSA PA Mute Switch" value="0" />
@@ -27479,44 +27394,14 @@
 	<ctl name="RX INT7_1 MIX1 INP0" value="RX0" />
 	<ctl name="SLIM TX0 MUX" value="AIF_MIX1_PB" />
 	<ctl name="SLIM RX0 MUX" value="AIF_MIX1_PB" />
-	<ctl name="SPKRL COMP7 Switch" value="ON" />
-	<ctl name="TX SPKRL COMP7" value="1" />
-	<ctl name="RX SPKRL COMP7" value="1" />
-	<ctl name="SPKRR COMP8 Switch" value="OFF" />
-	<ctl name="TX SPKRR COMP8" value="0" />
-	<ctl name="RX SPKRR COMP8" value="0" />
-	<ctl name="SPKRL BOOST7 Switch" value="ON" />
-	<ctl name="TX SPKRL BOOST7" value="1" />
-	<ctl name="RX SPKRL BOOST7" value="1" />
-	<ctl name="SPKRR BOOST8 Switch" value="OFF" />
-	<ctl name="TX SPKRR BOOST8" value="0" />
-	<ctl name="RX SPKRR BOOST8" value="0" />
-	<ctl name="SPKRL VISENSE7 Switch" value="ON" />
-	<ctl name="TX SPKRL VISENSE7" value="1" />
-	<ctl name="RX SPKRL VISENSE7" value="1" />
-	<ctl name="SPKRR VISENSE8 Switch" value="OFF" />
-	<ctl name="TX SPKRR VISENSE8" value="0" />
-	<ctl name="RX SPKRR VISENSE8" value="0" />
-	<ctl name="SPKRL NORM7 Switch" value="ON" />
-	<ctl name="TX SPKRL NORM7" value="1" />
-	<ctl name="RX SPKRL NORM7" value="1" />
-	<ctl name="SPKRR NORM8 Switch" value="OFF" />
-	<ctl name="TX SPKRR NORM8" value="0" />
-	<ctl name="RX SPKRR NORM8" value="0" />
-	<ctl name="SPKRL LDAC7 Switch" value="ON" />
-	<ctl name="TX SPKRL LDAC7" value="1" />
-	<ctl name="RX SPKRL LDAC7" value="1" />
-	<ctl name="SPKRR RDAC8 Switch" value="OFF" />
-	<ctl name="TX SPKRR RDAC8" value="0" />
-	<ctl name="RX SPKRR RDAC8" value="0" />
-	<ctl name="SpkrLeft COMP Switch" value="1" />
-	<ctl name="SpkrRight COMP Switch" value="0" />
-	<ctl name="SpkrLeft BOOST Switch" value="1" />
-	<ctl name="SpkrRight BOOST Switch" value="0" />
-	<ctl name="SpkrLeft VISENSE Switch" value="1" />
-	<ctl name="SpkrRight VISENSE Switch" value="0" />
-	<ctl name="SpkrLeft NORM Switch" value="1" />
-	<ctl name="SpkrRight NORM Switch" value="0" />
+	<ctl name="SpkrLeft COMPL Switch" value="1" />
+	<ctl name="SpkrRight COMPR Switch" value="0" />
+	<ctl name="SpkrLeft BOOSTL Switch" value="1" />
+	<ctl name="SpkrRight BOOSTR Switch" value="0" />
+	<ctl name="SpkrLeft VISENSEL Switch" value="1" />
+	<ctl name="SpkrRight VISENSER Switch" value="0" />
+	<ctl name="SpkrLeft NORML Switch" value="1" />
+	<ctl name="SpkrRight NORMR Switch" value="0" />
 	<ctl name="SpkrLeft LDAC Switch" value="1" />
 	<ctl name="SpkrRight RDAC Switch" value="0" />
 	<ctl name="SpkrLeft WSA PA Mute Switch" value="1" />
@@ -27536,44 +27421,14 @@
 	<ctl name="SPKR PWR MODE Switch" value="ON" />
 	<ctl name="TX SPKR PWR MODE" value="NATIVE" />
 	<ctl name="RX SPKR PWR MODE" value="NATIVE" />
-	<ctl name="SPKRL COMP7 Switch" value="ON" />
-	<ctl name="TX SPKRL COMP7" value="2" />
-	<ctl name="RX SPKRL COMP7" value="2" />
-	<ctl name="SPKRR COMP8 Switch" value="ON" />
-	<ctl name="TX SPKRR COMP8" value="2" />
-	<ctl name="RX SPKRR COMP8" value="2" />
-	<ctl name="SPKRL BOOST7 Switch" value="ON" />
-	<ctl name="TX SPKRL BOOST7" value="2" />
-	<ctl name="RX SPKRL BOOST7" value="2" />
-	<ctl name="SPKRR BOOST8 Switch" value="ON" />
-	<ctl name="TX SPKRR BOOST8" value="2" />
-	<ctl name="RX SPKRR BOOST8" value="2" />
-	<ctl name="SPKRL VISENSE7 Switch" value="ON" />
-	<ctl name="TX SPKRL VISENSE7" value="2" />
-	<ctl name="RX SPKRL VISENSE7" value="2" />
-	<ctl name="SPKRR VISENSE8 Switch" value="ON" />
-	<ctl name="TX SPKRR VISENSE8" value="2" />
-	<ctl name="RX SPKRR VISENSE8" value="2" />
-	<ctl name="SPKRL NORM7 Switch" value="ON" />
-	<ctl name="TX SPKRL NORM7" value="2" />
-	<ctl name="RX SPKRL NORM7" value="2" />
-	<ctl name="SPKRR NORM8 Switch" value="ON" />
-	<ctl name="TX SPKRR NORM8" value="2" />
-	<ctl name="RX SPKRR NORM8" value="2" />
-	<ctl name="SPKRL LDAC7 Switch" value="ON" />
-	<ctl name="TX SPKRL LDAC7" value="2" />
-	<ctl name="RX SPKRL LDAC7" value="2" />
-	<ctl name="SPKRR RDAC8 Switch" value="ON" />
-	<ctl name="TX SPKRR RDAC8" value="2" />
-	<ctl name="RX SPKRR RDAC8" value="2" />
-	<ctl name="SpkrLeft COMP Switch" value="2" />
-	<ctl name="SpkrRight COMP Switch" value="2" />
-	<ctl name="SpkrLeft BOOST Switch" value="0" />
-	<ctl name="SpkrRight BOOST Switch" value="0" />
-	<ctl name="SpkrLeft VISENSE Switch" value="0" />
-	<ctl name="SpkrRight VISENSE Switch" value="0" />
-	<ctl name="SpkrLeft NORM Switch" value="2" />
-	<ctl name="SpkrRight NORM Switch" value="2" />
+	<ctl name="SpkrLeft COMPL Switch" value="2" />
+	<ctl name="SpkrRight COMPR Switch" value="2" />
+	<ctl name="SpkrLeft BOOSTL Switch" value="0" />
+	<ctl name="SpkrRight BOOSTR Switch" value="0" />
+	<ctl name="SpkrLeft VISENSEL Switch" value="0" />
+	<ctl name="SpkrRight VISENSER Switch" value="0" />
+	<ctl name="SpkrLeft NORML Switch" value="2" />
+	<ctl name="SpkrRight NORMR Switch" value="2" />
 	<ctl name="SpkrLeft LDAC Switch" value="2" />
 	<ctl name="SpkrRight RDAC Switch" value="2" />
 	<ctl name="SpkrLeft WSA PA Mute Switch" value="0" />
@@ -28096,36 +27951,6 @@
 	<ctl name="RX INT1 DEM MUX" value="CLSH_DSM_OUT" />
 	<ctl name="TX INT2 DEM MUX" value="CLSH_DSM_OUT" />
 	<ctl name="RX INT2 DEM MUX" value="CLSH_DSM_OUT" />
-	<ctl name="HPHL COMP1 Switch" value="ON" />
-	<ctl name="TX HPHL COMP1" value="2" />
-	<ctl name="RX HPHL COMP1" value="2" />
-	<ctl name="HPHR COMP2 Switch" value="ON" />
-	<ctl name="TX HPHR COMP2" value="2" />
-	<ctl name="RX HPHR COMP2" value="2" />
-	<ctl name="HPHL BOOST1 Switch" value="ON" />
-	<ctl name="TX HPHL BOOST1" value="2" />
-	<ctl name="RX HPHL BOOST1" value="2" />
-	<ctl name="HPHR BOOST2 Switch" value="ON" />
-	<ctl name="TX HPHR BOOST2" value="2" />
-	<ctl name="RX HPHR BOOST2" value="2" />
-	<ctl name="HPHL VISENSE1 Switch" value="ON" />
-	<ctl name="TX HPHL VISENSE1" value="2" />
-	<ctl name="RX HPHL VISENSE1" value="2" />
-	<ctl name="HPHR VISENSE2 Switch" value="ON" />
-	<ctl name="TX HPHR VISENSE2" value="2" />
-	<ctl name="RX HPHR VISENSE2" value="2" />
-	<ctl name="HPHL NORM1 Switch" value="ON" />
-	<ctl name="TX HPHL NORM1" value="2" />
-	<ctl name="RX HPHL NORM1" value="2" />
-	<ctl name="HPHR NORM2 Switch" value="ON" />
-	<ctl name="TX HPHR NORM2" value="2" />
-	<ctl name="RX HPHR NORM2" value="2" />
-	<ctl name="HPHL LDAC1 Switch" value="ON" />
-	<ctl name="TX HPHL LDAC1" value="2" />
-	<ctl name="RX HPHL LDAC1" value="2" />
-	<ctl name="HPHR RDAC2 Switch" value="ON" />
-	<ctl name="TX HPHR RDAC2" value="2" />
-	<ctl name="RX HPHR RDAC2" value="2" />
 	<ctl name="1 Digital Volume Switch" value="ON" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="84" />
@@ -28144,14 +27969,14 @@
 	<ctl name="HPHR Volume Switch" value="ON" />
 	<ctl name="TX HPHR Volume" value="16" />
 	<ctl name="RX HPHR Volume" value="16" />
-	<ctl name="HphLeft COMP Switch" value="2" />
-	<ctl name="HphRight COMP Switch" value="2" />
-	<ctl name="HphLeft BOOST Switch" value="0" />
-	<ctl name="HphRight BOOST Switch" value="0" />
-	<ctl name="HphLeft VISENSE Switch" value="0" />
-	<ctl name="HphRight VISENSE Switch" value="0" />
-	<ctl name="HphLeft NORM Switch" value="2" />
-	<ctl name="HphRight NORM Switch" value="2" />
+	<ctl name="HphLeft COMPL Switch" value="2" />
+	<ctl name="HphRight COMPR Switch" value="2" />
+	<ctl name="HphLeft BOOSTL Switch" value="0" />
+	<ctl name="HphRight BOOSTR Switch" value="0" />
+	<ctl name="HphLeft VISENSEL Switch" value="0" />
+	<ctl name="HphRight VISENSER Switch" value="0" />
+	<ctl name="HphLeft NORML Switch" value="2" />
+	<ctl name="HphRight NORMR Switch" value="2" />
 	<ctl name="HphLeft LDAC Switch" value="2" />
 	<ctl name="HphRight RDAC Switch" value="2" />
 	<ctl name="HphLeft WSA PA Mute Switch" value="0" />
@@ -29603,6 +29428,7 @@
 	<!-- Added -->
 	<path name="fake_speaker-mono">
 	<path name="true-native-mode-SPKR-mono" />
+	<path name="true-native-mode-SPKR-vbat-mono" />
 	<ctl name="7 Digital Volume Switch" value="ON" />
 	<ctl name="TX7 Digital Volume" value="0" />
 	<ctl name="RX7 Digital Volume" value="0" />
@@ -29627,6 +29453,7 @@
 	<!-- Added -->
 	<path name="fake_speaker">
 	<path name="true-native-mode-SPKR" />
+	<path name="true-native-mode-SPKR-vbat" />
 	<ctl name="7 Digital Volume Switch" value="ON" />
 	<ctl name="TX7 Digital Volume" value="0" />
 	<ctl name="RX7 Digital Volume" value="0" />
@@ -29812,44 +29639,14 @@
 	<ctl name="HPH PWR MODE Switch" value="ON" />
 	<ctl name="TX HPH PWR MODE" value="NATIVE" />
 	<ctl name="RX HPH PWR MODE" value="NATIVE" />
-	<ctl name="HPHL COMP1 Switch" value="ON" />
-	<ctl name="TX HPHL COMP1" value="2" />
-	<ctl name="RX HPHL COMP1" value="2" />
-	<ctl name="HPHR COMP2 Switch" value="ON" />
-	<ctl name="TX HPHR COMP2" value="2" />
-	<ctl name="RX HPHR COMP2" value="2" />
-	<ctl name="HPHL BOOST1 Switch" value="ON" />
-	<ctl name="TX HPHL BOOST1" value="2" />
-	<ctl name="RX HPHL BOOST1" value="2" />
-	<ctl name="HPHR BOOST2 Switch" value="ON" />
-	<ctl name="TX HPHR BOOST2" value="2" />
-	<ctl name="RX HPHR BOOST2" value="2" />
-	<ctl name="HPHL VISENSE1 Switch" value="ON" />
-	<ctl name="TX HPHL VISENSE1" value="2" />
-	<ctl name="RX HPHL VISENSE1" value="2" />
-	<ctl name="HPHR VISENSE2 Switch" value="ON" />
-	<ctl name="TX HPHR VISENSE2" value="2" />
-	<ctl name="RX HPHR VISENSE2" value="2" />
-	<ctl name="HPHL NORM1 Switch" value="ON" />
-	<ctl name="TX HPHL NORM1" value="2" />
-	<ctl name="RX HPHL NORM1" value="2" />
-	<ctl name="HPHR NORM2 Switch" value="ON" />
-	<ctl name="TX HPHR NORM2" value="2" />
-	<ctl name="RX HPHR NORM2" value="2" />
-	<ctl name="HPHL LDAC1 Switch" value="ON" />
-	<ctl name="TX HPHL LDAC1" value="2" />
-	<ctl name="RX HPHL LDAC1" value="2" />
-	<ctl name="HPHR RDAC2 Switch" value="ON" />
-	<ctl name="TX HPHR RDAC2" value="2" />
-	<ctl name="RX HPHR RDAC2" value="2" />
-	<ctl name="HphLeft COMP Switch" value="2" />
-	<ctl name="HphRight COMP Switch" value="2" />
-	<ctl name="HphLeft BOOST Switch" value="0" />
-	<ctl name="HphRight BOOST Switch" value="0" />
-	<ctl name="HphLeft VISENSE Switch" value="0" />
-	<ctl name="HphRight VISENSE Switch" value="0" />
-	<ctl name="HphLeft NORM Switch" value="2" />
-	<ctl name="HphRight NORM Switch" value="2" />
+	<ctl name="HphLeft COMPL Switch" value="2" />
+	<ctl name="HphRight COMPR Switch" value="2" />
+	<ctl name="HphLeft BOOSTL Switch" value="0" />
+	<ctl name="HphRight BOOSTR Switch" value="0" />
+	<ctl name="HphLeft VISENSEL Switch" value="0" />
+	<ctl name="HphRight VISENSER Switch" value="0" />
+	<ctl name="HphLeft NORML Switch" value="2" />
+	<ctl name="HphRight NORMR Switch" value="2" />
 	<ctl name="HphLeft LDAC Switch" value="2" />
 	<ctl name="HphRight RDAC Switch" value="2" />
 	<ctl name="HphLeft WSA PA Mute Switch" value="0" />
@@ -30401,6 +30198,7 @@
 	
 	<path name="fake_headphone">
 	<path name="true-native-mode-HPH" />
+	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="1 Digital Volume Switch" value="ON" />
 	<ctl name="TX1 Digital Volume" value="0" />
 	<ctl name="RX1 Digital Volume" value="0" />
