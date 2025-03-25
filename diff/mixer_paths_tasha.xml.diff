@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble 24bit v342.1 -->
+> 	<!-- Lemon Drop Hi-Res treble 24bit v344.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -16,11 +16,11 @@
 > 	<!-- I would imagine it should work as long as you have a QuadDAC in your phone -->
 > 	
 > 	<!-- First thing -->
-> 	<!-- Copy all lines of code line number 1 through 20596 paste in your mixer_paths file at very top -->
-> 	<!-- I added a note where to copy from at line 20596 -->
+> 	<!-- Copy all lines of code line number 1 through 20511 paste in your mixer_paths file at very top -->
+> 	<!-- I added a note where to copy from at line 20511 -->
 > 	
 > 	<!-- Second thing -->
-> 	<!-- Search for "Lemon Drop Hi-Res end of code programed by: darnrain" after line 20596 to start -->
+> 	<!-- Search for "Lemon Drop Hi-Res end of code programed by: darnrain" after line 20511 to start -->
 > 	
 > 	<!-- Third thing -->
 > 	<!-- Duplicate all code from "Lemon Drop Hi-Res start of mods" to "Lemon Drop Hi-Res end of mods" -->
@@ -137,7 +137,7 @@
 > 	
 > 	<!-- Start of True Native Mode code v15.5 & vbat initial mixer settings -->
 > 	
-28,2368c166,28151
+28,2368c166,28141
 <     <!-- These are the initial mixer settings -->
 <     <ctl name="Voice Rx Device Mute" id="0" value="0" />
 <     <ctl name="Voice Rx Device Mute" id="1" value="-1" />
@@ -10415,8 +10415,6 @@
 > 	<ctl name="SpkrRight NORMR Switch" value="0" />
 > 	<ctl name="SpkrLeft LDAC Switch" value="0" />
 > 	<ctl name="SpkrRight RDAC Switch" value="0" />
-> 	<ctl name="SpkrLeft WSA PA Mute Switch" value="0" />
-> 	<ctl name="SpkrRight WSA PA Mute Switch" value="0" />
 > 	<ctl name="SpkrLeft SWR DAC_Port Switch" value="0" />
 > 	<ctl name="SpkrRight SWR DAC_Port Switch" value="0" />
 > 	
@@ -10434,8 +10432,6 @@
 > 	<ctl name="HphRight NORMR Switch" value="0" />
 > 	<ctl name="HphLeft LDAC Switch" value="0" />
 > 	<ctl name="HphRight RDAC Switch" value="0" />
-> 	<ctl name="HphLeft WSA PA Mute Switch" value="0" />
-> 	<ctl name="HphRight WSA PA Mute Switch" value="0" />
 > 	<ctl name="HphLeft SWR DAC_Port Switch" value="0" />
 > 	<ctl name="HphRight SWR DAC_Port Switch" value="0" />
 > 	
@@ -29721,8 +29717,6 @@
 > 	<ctl name="SpkrRight NORMR Switch" value="0" />
 > 	<ctl name="SpkrLeft LDAC Switch" value="1" />
 > 	<ctl name="SpkrRight RDAC Switch" value="0" />
-> 	<ctl name="SpkrLeft WSA PA Mute Switch" value="1" />
-> 	<ctl name="SpkrRight WSA PA Mute Switch" value="0" />
 > 	<ctl name="SpkrLeft SWR DAC_Port Switch" value="1" />
 > 	<ctl name="SpkrRight SWR DAC_Port Switch" value="0" />
 > 	<ctl name="SPKR Idle Detect Switch" value="ON" />
@@ -29748,8 +29742,6 @@
 > 	<ctl name="SpkrRight NORMR Switch" value="2" />
 > 	<ctl name="SpkrLeft LDAC Switch" value="2" />
 > 	<ctl name="SpkrRight RDAC Switch" value="2" />
-> 	<ctl name="SpkrLeft WSA PA Mute Switch" value="0" />
-> 	<ctl name="SpkrRight WSA PA Mute Switch" value="0" />
 > 	<ctl name="SpkrLeft SWR DAC_Port Switch" value="2" />
 > 	<ctl name="SpkrRight SWR DAC_Port Switch" value="2" />
 > 	<ctl name="SPKR Idle Detect Switch" value="ON" />
@@ -30296,8 +30288,6 @@
 > 	<ctl name="HphRight NORMR Switch" value="2" />
 > 	<ctl name="HphLeft LDAC Switch" value="2" />
 > 	<ctl name="HphRight RDAC Switch" value="2" />
-> 	<ctl name="HphLeft WSA PA Mute Switch" value="0" />
-> 	<ctl name="HphRight WSA PA Mute Switch" value="0" />
 > 	<ctl name="HphLeft SWR DAC_Port Switch" value="2" />
 > 	<ctl name="HphRight SWR DAC_Port Switch" value="2" />
 > 	<ctl name="HPH Idle Detect Switch" value="ON" />
@@ -30466,7 +30456,7 @@
 > 	
 > 	<path name="voice-headphones">
 > 	<path name="headphones" />
-2371,2429c28154,28234
+2371,2429c28144,28224
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -30608,7 +30598,7 @@
 > 	</path>
 > 	
 > 	<path name="anc-headphones">
-2432,2464c28237,28279
+2432,2464c28227,28269
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -30686,7 +30676,7 @@
 > 	</path>
 > 	
 > 	<path name="voice-anc-headphones">
-2467,3898c28282,31018
+2467,3898c28272,31006
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="1" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -33490,8 +33480,6 @@
 > 	<ctl name="HphRight NORMR Switch" value="2" />
 > 	<ctl name="HphLeft LDAC Switch" value="2" />
 > 	<ctl name="HphRight RDAC Switch" value="2" />
-> 	<ctl name="HphLeft WSA PA Mute Switch" value="0" />
-> 	<ctl name="HphRight WSA PA Mute Switch" value="0" />
 > 	<ctl name="HphLeft SWR DAC_Port Switch" value="2" />
 > 	<ctl name="HphRight SWR DAC_Port Switch" value="2" />
 > 	<ctl name="HPH Idle Detect Switch" value="ON" />
@@ -34857,7 +34845,7 @@
 > 	<path name="speaker-protected" />
 > 	</path>
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
-3899a31020,31022
+3899a31008,31010
 > 	
 > 	
 > 	<!-- Bottom of page -->
