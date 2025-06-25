@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble 24bit v347.1 -->
+> 	<!-- Lemon Drop Hi-Res treble 24bit v348.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -33436,7 +33436,7 @@
 > 	<!-- </path> -->
 > 	
 > 	<!-- Deleted -->
-> 	<!-- <path name="headphone_24bit-advanced"> -->
+> 	<!-- <path name="headphone_24bit_advanced"> -->
 > 	<!--    <path name="headphone_24bit" /> -->
 > 	<!--    <ctl name="RX1 Mix Digital Volume" value="79" /> -->
 > 	<!--    <ctl name="RX2 Mix Digital Volume" value="79" /> -->
@@ -33445,7 +33445,7 @@
 > 	<!-- </path> -->
 > 	
 > 	<!-- Deleted -->
-> 	<!-- <path name="headphone_24bit-aux"> -->
+> 	<!-- <path name="headphone_24bit_aux"> -->
 > 	<!--    <path name="headphone_24bit" /> -->
 > 	<!--    <ctl name="RX1 Mix Digital Volume" value="82" /> -->
 > 	<!--    <ctl name="RX2 Mix Digital Volume" value="82" /> -->
@@ -33633,7 +33633,7 @@
 > 	<path name="headphone" />
 > 	</path>
 > 	
-> 	<path name="headphone_16bit-advanced">
+> 	<path name="headphone_16bit_advanced">
 > 	<path name="true-native-mode-HPH" />
 > 	<ctl name="1 Digital Volume Switch" value="ON" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
@@ -33656,7 +33656,7 @@
 > 	<path name="headphone_16bit" />
 > 	</path>
 > 	
-> 	<path name="headphone_16bit-aux">
+> 	<path name="headphone_16bit_aux">
 > 	<path name="true-native-mode-HPH" />
 > 	<ctl name="1 Digital Volume Switch" value="ON" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
@@ -33708,7 +33708,7 @@
 > 	<path name="headphone" />
 > 	</path>
 > 	
-> 	<path name="headphone_24bit-advanced">
+> 	<path name="headphone_24bit_advanced">
 > 	<path name="true-native-mode-HPH" />
 > 	<ctl name="1 Digital Volume Switch" value="ON" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
@@ -33731,7 +33731,7 @@
 > 	<path name="headphone_24bit" />
 > 	</path>
 > 	
-> 	<path name="headphone_24bit-aux">
+> 	<path name="headphone_24bit_aux">
 > 	<path name="true-native-mode-HPH" />
 > 	<ctl name="1 Digital Volume Switch" value="ON" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
@@ -33905,7 +33905,7 @@
 > 	<path name="vbat_headphone" />
 > 	</path>
 > 	
-> 	<path name="vbat_headphone_16bit-advanced">
+> 	<path name="vbat_headphone_16bit_advanced">
 > 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="1 Digital Volume Switch" value="ON" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
@@ -33928,7 +33928,7 @@
 > 	<path name="vbat_headphone_16bit" />
 > 	</path>
 > 	
-> 	<path name="vbat_headphone_16bit-aux">
+> 	<path name="vbat_headphone_16bit_aux">
 > 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="1 Digital Volume Switch" value="ON" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
@@ -33980,7 +33980,7 @@
 > 	<path name="vbat_headphone" />
 > 	</path>
 > 	
-> 	<path name="vbat_headphone_24bit-advanced">
+> 	<path name="vbat_headphone_24bit_advanced">
 > 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="1 Digital Volume Switch" value="ON" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
@@ -34003,7 +34003,7 @@
 > 	<path name="vbat_headphone_24bit" />
 > 	</path>
 > 	
-> 	<path name="vbat_headphone_24bit-aux">
+> 	<path name="vbat_headphone_24bit_aux">
 > 	<path name="true-native-mode-HPH-vbat" />
 > 	<ctl name="1 Digital Volume Switch" value="ON" />
 > 	<ctl name="TX1 Digital Volume" value="84" />
@@ -34109,13 +34109,13 @@
 > 	<ctl name="Es9018 HEADSET TYPE" value="2" />
 > 	</path>
 > 	
-> 	<path name="headphones-hifi-headphone_16bit-ADVANCED">
+> 	<path name="headphones-hifi-headphone_16bit_advanced">
 > 	<ctl name="Es9018 Master Volume" value="0" />
 > 	<ctl name="Es9018 AVC Volume" value="4" />
 > 	<ctl name="Es9018 HEADSET TYPE" value="2" />
 > 	</path>
 > 	
-> 	<path name="headphones-hifi-headphone_16bit-AUX">
+> 	<path name="headphones-hifi-headphone_16bit_aux">
 > 	<ctl name="Es9018 Master Volume" value="0" />
 > 	<ctl name="Es9018 AVC Volume" value="4" />
 > 	<ctl name="Es9018 HEADSET TYPE" value="2" />
@@ -34127,13 +34127,13 @@
 > 	<ctl name="Es9018 HEADSET TYPE" value="2" />
 > 	</path>
 > 	
-> 	<path name="headphones-hifi-headphone_24bit-ADVANCED">
+> 	<path name="headphones-hifi-headphone_24bit_advanced">
 > 	<ctl name="Es9018 Master Volume" value="0" />
 > 	<ctl name="Es9018 AVC Volume" value="4" />
 > 	<ctl name="Es9018 HEADSET TYPE" value="2" />
 > 	</path>
 > 	
-> 	<path name="headphones-hifi-headphone_24bit-AUX">
+> 	<path name="headphones-hifi-headphone_24bit_aux">
 > 	<ctl name="Es9018 Master Volume" value="0" />
 > 	<ctl name="Es9018 AVC Volume" value="4" />
 > 	<ctl name="Es9018 HEADSET TYPE" value="2" />
