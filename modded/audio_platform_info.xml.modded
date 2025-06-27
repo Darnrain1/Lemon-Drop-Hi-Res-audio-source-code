@@ -137,22 +137,22 @@
         <!-- <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_AUX" backend="headphones" interface="SLIMBUS_6_RX" /> -->
 
 	<!-- added -->
-        <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_BLUETOOTH_16bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_TX" />
-        <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_BLUETOOTH_16bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_RX" />
-        <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_BLUETOOTH_24bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_TX" />
-        <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_BLUETOOTH_24bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_RX" />
-        <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_HEADPHONE_16bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_TX" />
-        <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_HEADPHONE_16bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_RX" />
-        <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_HEADPHONE_16bit_ADVANCED" backend="headphone_16bit tert-mi2s-headphones" interface="SEC_MI2S_TX" />
-        <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_HEADPHONE_16bit_ADVANCED" backend="headphone_16bit tert-mi2s-headphones" interface="SEC_MI2S_RX" />
-        <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_HEADPHONE_16bit_AUX" backend="headphone_16bit tert-mi2s-headphones" interface="SEC_MI2S_TX" />
-        <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_HEADPHONE_16bit_AUX" backend="headphone_16bit tert-mi2s-headphones" interface="SEC_MI2S_RX" />
-		<device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_HEADPHONE_24bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_TX" />
-        <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_HEADPHONE_24bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_RX" />
-		<device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_HEADPHONE_24bit_ADVANCED" backend="headphone_24bit tert-mi2s-headphones" interface="SEC_MI2S_TX" />
-        <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_HEADPHONE_24bit_ADVANCED" backend="headphone_24bit tert-mi2s-headphones" interface="SEC_MI2S_RX" />
-		<device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_HEADPHONE_24bit_AUX" backend="headphone_24bit tert-mi2s-headphones" interface="SEC_MI2S_TX" />
-        <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_HEADPHONE_24bit_AUX" backend="headphone_24bit tert-mi2s-headphones" interface="SEC_MI2S_RX" />
+        <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_BLUETOOTH_16bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_TX" />
+        <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_BLUETOOTH_16bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_RX" />
+        <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_BLUETOOTH_24bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_TX" />
+        <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_BLUETOOTH_24bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_RX" />
+        <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_HEADPHONE_16bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_TX" />
+        <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_HEADPHONE_16bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_RX" />
+        <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_HEADPHONE_16bit_ADVANCED" backend="headphone_16bit tert-mi2s-headphones" interface="SEC_MI2S_TX" />
+        <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_HEADPHONE_16bit_ADVANCED" backend="headphone_16bit tert-mi2s-headphones" interface="SEC_MI2S_RX" />
+        <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_HEADPHONE_16bit_AUX" backend="headphone_16bit tert-mi2s-headphones" interface="SEC_MI2S_TX" />
+        <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_HEADPHONE_16bit_AUX" backend="headphone_16bit tert-mi2s-headphones" interface="SEC_MI2S_RX" />
+		<device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_HEADPHONE_24bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_TX" />
+        <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_HEADPHONE_24bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_RX" />
+		<device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_HEADPHONE_24bit_ADVANCED" backend="headphone_24bit tert-mi2s-headphones" interface="SEC_MI2S_TX" />
+        <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_HEADPHONE_24bit_ADVANCED" backend="headphone_24bit tert-mi2s-headphones" interface="SEC_MI2S_RX" />
+		<device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_HEADPHONE_24bit_AUX" backend="headphone_24bit tert-mi2s-headphones" interface="SEC_MI2S_TX" />
+        <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_HEADPHONE_24bit_AUX" backend="headphone_24bit tert-mi2s-headphones" interface="SEC_MI2S_RX" />
 
         <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_DAC" backend="headphones tert-mi2s-headphones" interface="SEC_MI2S_TX" />
         <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_DAC" backend="headphones tert-mi2s-headphones" interface="SEC_MI2S_RX" />
