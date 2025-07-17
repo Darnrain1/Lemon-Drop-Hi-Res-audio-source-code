@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble 24bit v350.1 -->
+> 	<!-- Lemon Drop Hi-Res treble 24bit v352.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -136,7 +136,7 @@
 > 	
 > 	<!-- Start of True Native Mode code v18.0 & vbat initial mixer settings -->
 > 	
-28,2368c165,28076
+28,2368c165,28206
 <     <!-- These are the initial mixer settings -->
 <     <ctl name="Voice Rx Device Mute" id="0" value="0" />
 <     <ctl name="Voice Rx Device Mute" id="1" value="-1" />
@@ -10401,6 +10401,76 @@
 > 	<ctl name="RX SPKR Idle Detect" value="0" />
 > 	
 > 	<!-- End of Power mode -->
+> 
+> 	<!-- Start HPH audio mods code -->
+> 
+> 	<ctl name="COMP1 Switch" value="ZERO" />
+> 	<ctl name="TX COMP1" value="0" />
+> 	<ctl name="RX COMP1" value="0" />
+> 	<ctl name="COMP2 Switch" value="ZERO" />
+> 	<ctl name="TX COMP2" value="0" />
+> 	<ctl name="RX COMP2" value="0" />
+> 	<ctl name="BOOST1 Switch" value="ZERO" />
+> 	<ctl name="TX BOOST1" value="0" />
+> 	<ctl name="RX BOOST1" value="0" />
+> 	<ctl name="BOOST2 Switch" value="ZERO" />
+> 	<ctl name="TX BOOST2" value="0" />
+> 	<ctl name="RX BOOST2" value="0" />
+> 	<ctl name="VISENSE1 Switch" value="ZERO" />
+> 	<ctl name="TX VISENSE1" value="0" />
+> 	<ctl name="RX VISENSE1" value="0" />
+> 	<ctl name="VISENSE2 Switch" value="ZERO" />
+> 	<ctl name="TX VISENSE2" value="0" />
+> 	<ctl name="RX VISENSE2" value="0" />
+> 	<ctl name="NORM1 Switch" value="ZERO" />
+> 	<ctl name="TX NORM1" value="0" />
+> 	<ctl name="RX NORM1" value="0" />
+> 	<ctl name="NORM2 Switch" value="ZERO" />
+> 	<ctl name="TX NORM2" value="0" />
+> 	<ctl name="RX NORM2" value="0" />
+> 	<ctl name="LDAC Switch" value="ZERO" />
+> 	<ctl name="TX LDAC" value="0" />
+> 	<ctl name="RX LDAC" value="0" />
+> 	<ctl name="RDAC Switch" value="ZERO" />
+> 	<ctl name="TX RDAC" value="0" />
+> 	<ctl name="RX RDAC" value="0" />
+> 
+> 	<!-- End HPH audio mods code -->
+> 
+> 	<!-- Start SPKR audio mods code -->
+> 
+> 	<ctl name="COMP7 Switch" value="ZERO" />
+> 	<ctl name="TX COMP7" value="0" />
+> 	<ctl name="RX COMP7" value="0" />
+> 	<ctl name="COMP8 Switch" value="ZERO" />
+> 	<ctl name="TX COMP8" value="0" />
+> 	<ctl name="RX COMP8" value="0" />
+> 	<ctl name="BOOST7 Switch" value="ZERO" />
+> 	<ctl name="TX BOOST7" value="0" />
+> 	<ctl name="RX BOOST7" value="0" />
+> 	<ctl name="BOOST8 Switch" value="ZERO" />
+> 	<ctl name="TX BOOST8" value="0" />
+> 	<ctl name="RX BOOST8" value="0" />
+> 	<ctl name="VISENSE7 Switch" value="ZERO" />
+> 	<ctl name="TX VISENSE7" value="0" />
+> 	<ctl name="RX VISENSE7" value="0" />
+> 	<ctl name="VISENSE8 Switch" value="ZERO" />
+> 	<ctl name="TX VISENSE8" value="0" />
+> 	<ctl name="RX VISENSE8" value="0" />
+> 	<ctl name="NORM7 Switch" value="ZERO" />
+> 	<ctl name="TX NORM7" value="0" />
+> 	<ctl name="RX NORM7" value="0" />
+> 	<ctl name="NORM8 Switch" value="ZERO" />
+> 	<ctl name="TX NORM8" value="0" />
+> 	<ctl name="RX NORM8" value="0" />
+> 	<ctl name="LDAC Switch" value="ZERO" />
+> 	<ctl name="TX LDAC" value="0" />
+> 	<ctl name="RX LDAC" value="0" />
+> 	<ctl name="RDAC Switch" value="ZERO" />
+> 	<ctl name="TX RDAC" value="0" />
+> 	<ctl name="RX RDAC" value="0" />
+> 
+> 	<!-- End SPKR audio mods code -->
 > 	
 > 	<!-- Start DAC initialization code -->
 > 	
@@ -29699,6 +29769,36 @@
 > 	<path name="speaker-mono">
 > 	<path name="true-native-mode-SPKR-mono" />
 > 	<path name="true-native-mode-SPKR-vbat-mono" />
+> 	<ctl name="COMP7 Switch" value="ON" />
+> 	<ctl name="TX COMP7" value="1" />
+> 	<ctl name="RX COMP7" value="1" />
+> 	<ctl name="COMP8 Switch" value="OFF" />
+> 	<ctl name="TX COMP8" value="0" />
+> 	<ctl name="RX COMP8" value="0" />
+> 	<ctl name="BOOST7 Switch" value="ON" />
+> 	<ctl name="TX BOOST7" value="1" />
+> 	<ctl name="RX BOOST7" value="1" />
+> 	<ctl name="BOOST8 Switch" value="OFF" />
+> 	<ctl name="TX BOOST8" value="0" />
+> 	<ctl name="RX BOOST8" value="0" />
+> 	<ctl name="VISENSE7 Switch" value="ON" />
+> 	<ctl name="TX VISENSE7" value="1" />
+> 	<ctl name="RX VISENSE7" value="1" />
+> 	<ctl name="VISENSE8 Switch" value="OFF" />
+> 	<ctl name="TX VISENSE8" value="1" />
+> 	<ctl name="RX VISENSE8" value="1" />
+> 	<ctl name="NORM7 Switch" value="ON" />
+> 	<ctl name="TX NORM7" value="1" />
+> 	<ctl name="RX NORM7" value="1" />
+> 	<ctl name="NORM8 Switch" value="OFF" />
+> 	<ctl name="TX NORM8" value="0" />
+> 	<ctl name="RX NORM8" value="0" />
+> 	<ctl name="LDAC Switch" value="ON" />
+> 	<ctl name="TX LDAC" value="1" />
+> 	<ctl name="RX LDAC" value="1" />
+> 	<ctl name="RDAC Switch" value="OFF" />
+> 	<ctl name="TX RDAC" value="0" />
+> 	<ctl name="RX RDAC" value="0" />
 > 	<ctl name="SPKR PWR MODE Switch" value="ON" />
 > 	<ctl name="TX SPKR PWR MODE" value="NATIVE" />
 > 	<ctl name="RX SPKR PWR MODE" value="NATIVE" />
@@ -29728,6 +29828,36 @@
 > 	<path name="speaker">
 > 	<path name="true-native-mode-SPKR" />
 > 	<path name="true-native-mode-SPKR-vbat" />
+> 	<ctl name="COMP7 Switch" value="ON" />
+> 	<ctl name="TX COMP7" value="2" />
+> 	<ctl name="RX COMP7" value="2" />
+> 	<ctl name="COMP8 Switch" value="ON" />
+> 	<ctl name="TX COMP8" value="2" />
+> 	<ctl name="RX COMP8" value="2" />
+> 	<ctl name="BOOST7 Switch" value="OFF" />
+> 	<ctl name="TX BOOST7" value="0" />
+> 	<ctl name="RX BOOST7" value="0" />
+> 	<ctl name="BOOST8 Switch" value="OFF" />
+> 	<ctl name="TX BOOST8" value="0" />
+> 	<ctl name="RX BOOST8" value="0" />
+> 	<ctl name="VISENSE7 Switch" value="OFF" />
+> 	<ctl name="TX VISENSE7" value="0" />
+> 	<ctl name="RX VISENSE7" value="0" />
+> 	<ctl name="VISENSE8 Switch" value="OFF" />
+> 	<ctl name="TX VISENSE8" value="0" />
+> 	<ctl name="RX VISENSE8" value="0" />
+> 	<ctl name="NORM7 Switch" value="ON" />
+> 	<ctl name="TX NORM7" value="2" />
+> 	<ctl name="RX NORM7" value="2" />
+> 	<ctl name="NORM8 Switch" value="ON" />
+> 	<ctl name="TX NORM8" value="2" />
+> 	<ctl name="RX NORM8" value="2" />
+> 	<ctl name="LDAC Switch" value="ON" />
+> 	<ctl name="TX LDAC" value="2" />
+> 	<ctl name="RX LDAC" value="2" />
+> 	<ctl name="RDAC Switch" value="ON" />
+> 	<ctl name="TX RDAC" value="2" />
+> 	<ctl name="RX RDAC" value="2" />
 > 	<ctl name="SPKR PWR MODE Switch" value="ON" />
 > 	<ctl name="TX SPKR PWR MODE" value="NATIVE" />
 > 	<ctl name="RX SPKR PWR MODE" value="NATIVE" />
@@ -30391,7 +30521,7 @@
 > 	
 > 	<path name="voice-headphones">
 > 	<path name="headphones" />
-2371,2429c28079,28159
+2371,2429c28209,28289
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -30533,7 +30663,7 @@
 > 	</path>
 > 	
 > 	<path name="anc-headphones">
-2432,2464c28162,28204
+2432,2464c28292,28334
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -30611,7 +30741,7 @@
 > 	</path>
 > 	
 > 	<path name="voice-anc-headphones">
-2467,3898c28207,30941
+2467,3898c28337,31101
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="1" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -33402,6 +33532,36 @@
 > 	<path name="headphone">
 > 	<path name="true-native-mode-HPH" />
 > 	<path name="true-native-mode-HPH-vbat" />
+> 	<ctl name="COMP1 Switch" value="ON" />
+> 	<ctl name="TX COMP1" value="2" />
+> 	<ctl name="RX COMP1" value="2" />
+> 	<ctl name="COMP2 Switch" value="ON" />
+> 	<ctl name="TX COMP2" value="2" />
+> 	<ctl name="RX COMP2" value="2" />
+> 	<ctl name="BOOST1 Switch" value="OFF" />
+> 	<ctl name="TX BOOST1" value="0" />
+> 	<ctl name="RX BOOST1" value="0" />
+> 	<ctl name="BOOST2 Switch" value="OFF" />
+> 	<ctl name="TX BOOST2" value="0" />
+> 	<ctl name="RX BOOST2" value="0" />
+> 	<ctl name="VISENSE1 Switch" value="OFF" />
+> 	<ctl name="TX VISENSE1" value="0" />
+> 	<ctl name="RX VISENSE1" value="0" />
+> 	<ctl name="VISENSE2 Switch" value="OFF" />
+> 	<ctl name="TX VISENSE2" value="0" />
+> 	<ctl name="RX VISENSE2" value="0" />
+> 	<ctl name="NORM1 Switch" value="ON" />
+> 	<ctl name="TX NORM1" value="2" />
+> 	<ctl name="RX NORM1" value="2" />
+> 	<ctl name="NORM2 Switch" value="ON" />
+> 	<ctl name="TX NORM2" value="2" />
+> 	<ctl name="RX NORM2" value="2" />
+> 	<ctl name="LDAC Switch" value="ON" />
+> 	<ctl name="TX LDAC" value="2" />
+> 	<ctl name="RX LDAC" value="2" />
+> 	<ctl name="RDAC Switch" value="ON" />
+> 	<ctl name="TX RDAC" value="2" />
+> 	<ctl name="RX RDAC" value="2" />
 > 	<ctl name="HPH PWR MODE Switch" value="ON" />
 > 	<ctl name="TX HPH PWR MODE" value="NATIVE" />
 > 	<ctl name="RX HPH PWR MODE" value="NATIVE" />
@@ -34780,7 +34940,7 @@
 > 	<path name="speaker-protected" />
 > 	</path>
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
-3899a30943,30945
+3899a31103,31105
 > 	
 > 	
 > 	<!-- Bottom of page -->
