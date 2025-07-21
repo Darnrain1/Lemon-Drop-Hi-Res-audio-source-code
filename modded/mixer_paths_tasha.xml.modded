@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble 24bit v353.1 -->
+	<!-- Lemon Drop Hi-Res treble 24bit v354.1 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -29559,10 +29559,6 @@
 	<ctl name="SPKR Idle Detect Switch" value="ON" />
 	<ctl name="TX SPKR Idle Detect" value="1" />
 	<ctl name="RX SPKR Idle Detect" value="1" />
-	<ctl name="TX INT7_1 MIX1 INP0" value="RX0" />
-	<ctl name="RX INT7_1 MIX1 INP0" value="RX0" />
-	<ctl name="SLIM TX0 MUX" value="AIF_MIX1_PB" />
-	<ctl name="SLIM RX0 MUX" value="AIF_MIX1_PB" />
 	<ctl name="SpkrLeft COMPL Switch" value="1" />
 	<ctl name="SpkrRight COMPR Switch" value="0" />
 	<ctl name="SpkrLeft BOOSTL Switch" value="1" />
