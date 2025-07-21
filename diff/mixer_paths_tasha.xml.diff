@@ -1,9 +1,9 @@
-26a27,163
+26a27,166
 > 	
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble 24bit v352.1 -->
+> 	<!-- Lemon Drop Hi-Res treble 24bit v353.1 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -64,9 +64,12 @@
 > 	<!-- The DAC initialization code must only be under -->
 > 	<!-- <path name="speaker-mono"> -->
 > 	<!-- <path name="speaker"> -->
+> 	<!-- <path name="fake_speaker-mono"> -->
+> 	<!-- <path name="fake_speaker"> -->
 > 	
 > 	<!-- The HPH initialization code must only be under -->
 > 	<!-- <path name="headphone"> -->
+> 	<!-- <path name="fake_headphone"> -->
 > 	
 > 	<!-- Do a search for "<ctl name="SpkrLeft" -->
 > 	<!-- I did not document the locations I deleted that code from -->
@@ -136,7 +139,7 @@
 > 	
 > 	<!-- Start of True Native Mode code v18.0 & vbat initial mixer settings -->
 > 	
-28,2368c165,28206
+28,2368c168,28227
 <     <!-- These are the initial mixer settings -->
 <     <ctl name="Voice Rx Device Mute" id="0" value="0" />
 <     <ctl name="Voice Rx Device Mute" id="1" value="-1" />
@@ -29802,6 +29805,9 @@
 > 	<ctl name="SPKR PWR MODE Switch" value="ON" />
 > 	<ctl name="TX SPKR PWR MODE" value="NATIVE" />
 > 	<ctl name="RX SPKR PWR MODE" value="NATIVE" />
+> 	<ctl name="SPKR Idle Detect Switch" value="ON" />
+> 	<ctl name="TX SPKR Idle Detect" value="1" />
+> 	<ctl name="RX SPKR Idle Detect" value="1" />
 > 	<ctl name="TX INT7_1 MIX1 INP0" value="RX0" />
 > 	<ctl name="RX INT7_1 MIX1 INP0" value="RX0" />
 > 	<ctl name="SLIM TX0 MUX" value="AIF_MIX1_PB" />
@@ -29818,9 +29824,6 @@
 > 	<ctl name="SpkrRight RDAC Switch" value="0" />
 > 	<ctl name="SpkrLeft SWR DAC_Port Switch" value="1" />
 > 	<ctl name="SpkrRight SWR DAC_Port Switch" value="0" />
-> 	<ctl name="SPKR Idle Detect Switch" value="ON" />
-> 	<ctl name="TX SPKR Idle Detect" value="1" />
-> 	<ctl name="RX SPKR Idle Detect" value="1" />
 > 	</path>
 > 	
 > 	<!-- Saber ESS DAC stereo side -->
@@ -29861,6 +29864,27 @@
 > 	<ctl name="SPKR PWR MODE Switch" value="ON" />
 > 	<ctl name="TX SPKR PWR MODE" value="NATIVE" />
 > 	<ctl name="RX SPKR PWR MODE" value="NATIVE" />
+> 	<ctl name="7 Digital Volume Switch" value="ON" />
+> 	<ctl name="TX7 Digital Volume" value="84" />
+> 	<ctl name="RX7 Digital Volume" value="84" />
+> 	<ctl name="7 Mix Digital Volume Switch" value="ON" />
+> 	<ctl name="TX7 Mix Digital Volume" value="84" />
+> 	<ctl name="RX7 Mix Digital Volume" value="84" />
+> 	<ctl name="8 Digital Volume Switch" value="ON" />
+> 	<ctl name="TX8 Digital Volume" value="84" />
+> 	<ctl name="RX8 Digital Volume" value="84" />
+> 	<ctl name="8 Mix Digital Volume Switch" value="ON" />
+> 	<ctl name="TX8 Mix Digital Volume" value="84" />
+> 	<ctl name="RX8 Mix Digital Volume" value="84" />
+> 	<ctl name="SPKRL Volume Switch" value="ON" />
+> 	<ctl name="TX SPKRL Volume" value="16" />
+> 	<ctl name="RX SPKRL Volume" value="16" />
+> 	<ctl name="SPKRR Volume Switch" value="ON" />
+> 	<ctl name="TX SPKRR Volume" value="16" />
+> 	<ctl name="RX SPKRR Volume" value="16" />
+> 	<ctl name="SPKR Idle Detect Switch" value="ON" />
+> 	<ctl name="TX SPKR Idle Detect" value="2" />
+> 	<ctl name="RX SPKR Idle Detect" value="2" />
 > 	<ctl name="SpkrLeft COMPL Switch" value="2" />
 > 	<ctl name="SpkrRight COMPR Switch" value="2" />
 > 	<ctl name="SpkrLeft BOOSTL Switch" value="0" />
@@ -29873,9 +29897,6 @@
 > 	<ctl name="SpkrRight RDAC Switch" value="2" />
 > 	<ctl name="SpkrLeft SWR DAC_Port Switch" value="2" />
 > 	<ctl name="SpkrRight SWR DAC_Port Switch" value="2" />
-> 	<ctl name="SPKR Idle Detect Switch" value="ON" />
-> 	<ctl name="TX SPKR Idle Detect" value="2" />
-> 	<ctl name="RX SPKR Idle Detect" value="2" />
 > 	</path>
 > 	
 > 	<!-- 16bit internal speaker -->
@@ -30521,7 +30542,7 @@
 > 	
 > 	<path name="voice-headphones">
 > 	<path name="headphones" />
-2371,2429c28209,28289
+2371,2429c28230,28310
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -30663,7 +30684,7 @@
 > 	</path>
 > 	
 > 	<path name="anc-headphones">
-2432,2464c28292,28334
+2432,2464c28313,28355
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -30741,7 +30762,7 @@
 > 	</path>
 > 	
 > 	<path name="voice-anc-headphones">
-2467,3898c28337,31101
+2467,3898c28358,31285
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="1" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -33325,6 +33346,36 @@
 > 	<path name="fake_speaker-mono">
 > 	<path name="true-native-mode-SPKR-mono" />
 > 	<path name="true-native-mode-SPKR-vbat-mono" />
+> 	<ctl name="COMP7 Switch" value="ON" />
+> 	<ctl name="TX COMP7" value="1" />
+> 	<ctl name="RX COMP7" value="1" />
+> 	<ctl name="COMP8 Switch" value="OFF" />
+> 	<ctl name="TX COMP8" value="0" />
+> 	<ctl name="RX COMP8" value="0" />
+> 	<ctl name="BOOST7 Switch" value="ON" />
+> 	<ctl name="TX BOOST7" value="1" />
+> 	<ctl name="RX BOOST7" value="1" />
+> 	<ctl name="BOOST8 Switch" value="OFF" />
+> 	<ctl name="TX BOOST8" value="0" />
+> 	<ctl name="RX BOOST8" value="0" />
+> 	<ctl name="VISENSE7 Switch" value="ON" />
+> 	<ctl name="TX VISENSE7" value="1" />
+> 	<ctl name="RX VISENSE7" value="1" />
+> 	<ctl name="VISENSE8 Switch" value="OFF" />
+> 	<ctl name="TX VISENSE8" value="1" />
+> 	<ctl name="RX VISENSE8" value="1" />
+> 	<ctl name="NORM7 Switch" value="ON" />
+> 	<ctl name="TX NORM7" value="1" />
+> 	<ctl name="RX NORM7" value="1" />
+> 	<ctl name="NORM8 Switch" value="OFF" />
+> 	<ctl name="TX NORM8" value="0" />
+> 	<ctl name="RX NORM8" value="0" />
+> 	<ctl name="LDAC Switch" value="ON" />
+> 	<ctl name="TX LDAC" value="1" />
+> 	<ctl name="RX LDAC" value="1" />
+> 	<ctl name="RDAC Switch" value="OFF" />
+> 	<ctl name="TX RDAC" value="0" />
+> 	<ctl name="RX RDAC" value="0" />
 > 	<ctl name="7 Digital Volume Switch" value="ON" />
 > 	<ctl name="TX7 Digital Volume" value="0" />
 > 	<ctl name="RX7 Digital Volume" value="0" />
@@ -33343,13 +33394,67 @@
 > 	<ctl name="SPKRR Volume Switch" value="OFF" />
 > 	<ctl name="TX SPKRR Volume" value="0" />
 > 	<ctl name="RX SPKRR Volume" value="0" />
-> 	<path name="speaker-mono" />
+> 	<ctl name="SPKR PWR MODE Switch" value="ON" />
+> 	<ctl name="TX SPKR PWR MODE" value="NATIVE" />
+> 	<ctl name="RX SPKR PWR MODE" value="NATIVE" />
+> 	<ctl name="SPKR Idle Detect Switch" value="ON" />
+> 	<ctl name="TX SPKR Idle Detect" value="1" />
+> 	<ctl name="RX SPKR Idle Detect" value="1" />
+> 	<ctl name="TX INT7_1 MIX1 INP0" value="RX0" />
+> 	<ctl name="RX INT7_1 MIX1 INP0" value="RX0" />
+> 	<ctl name="SLIM TX0 MUX" value="AIF_MIX1_PB" />
+> 	<ctl name="SLIM RX0 MUX" value="AIF_MIX1_PB" />
+> 	<ctl name="SpkrLeft COMPL Switch" value="1" />
+> 	<ctl name="SpkrRight COMPR Switch" value="0" />
+> 	<ctl name="SpkrLeft BOOSTL Switch" value="1" />
+> 	<ctl name="SpkrRight BOOSTR Switch" value="0" />
+> 	<ctl name="SpkrLeft VISENSEL Switch" value="1" />
+> 	<ctl name="SpkrRight VISENSER Switch" value="0" />
+> 	<ctl name="SpkrLeft NORML Switch" value="1" />
+> 	<ctl name="SpkrRight NORMR Switch" value="0" />
+> 	<ctl name="SpkrLeft LDAC Switch" value="1" />
+> 	<ctl name="SpkrRight RDAC Switch" value="0" />
+> 	<ctl name="SpkrLeft SWR DAC_Port Switch" value="1" />
+> 	<ctl name="SpkrRight SWR DAC_Port Switch" value="0" />
 > 	</path>
 > 	
 > 	<!-- Added -->
 > 	<path name="fake_speaker">
 > 	<path name="true-native-mode-SPKR" />
 > 	<path name="true-native-mode-SPKR-vbat" />
+> 	<ctl name="COMP7 Switch" value="ON" />
+> 	<ctl name="TX COMP7" value="2" />
+> 	<ctl name="RX COMP7" value="2" />
+> 	<ctl name="COMP8 Switch" value="ON" />
+> 	<ctl name="TX COMP8" value="2" />
+> 	<ctl name="RX COMP8" value="2" />
+> 	<ctl name="BOOST7 Switch" value="OFF" />
+> 	<ctl name="TX BOOST7" value="0" />
+> 	<ctl name="RX BOOST7" value="0" />
+> 	<ctl name="BOOST8 Switch" value="OFF" />
+> 	<ctl name="TX BOOST8" value="0" />
+> 	<ctl name="RX BOOST8" value="0" />
+> 	<ctl name="VISENSE7 Switch" value="OFF" />
+> 	<ctl name="TX VISENSE7" value="0" />
+> 	<ctl name="RX VISENSE7" value="0" />
+> 	<ctl name="VISENSE8 Switch" value="OFF" />
+> 	<ctl name="TX VISENSE8" value="0" />
+> 	<ctl name="RX VISENSE8" value="0" />
+> 	<ctl name="NORM7 Switch" value="ON" />
+> 	<ctl name="TX NORM7" value="2" />
+> 	<ctl name="RX NORM7" value="2" />
+> 	<ctl name="NORM8 Switch" value="ON" />
+> 	<ctl name="TX NORM8" value="2" />
+> 	<ctl name="RX NORM8" value="2" />
+> 	<ctl name="LDAC Switch" value="ON" />
+> 	<ctl name="TX LDAC" value="2" />
+> 	<ctl name="RX LDAC" value="2" />
+> 	<ctl name="RDAC Switch" value="ON" />
+> 	<ctl name="TX RDAC" value="2" />
+> 	<ctl name="RX RDAC" value="2" />
+> 	<ctl name="SPKR PWR MODE Switch" value="ON" />
+> 	<ctl name="TX SPKR PWR MODE" value="NATIVE" />
+> 	<ctl name="RX SPKR PWR MODE" value="NATIVE" />
 > 	<ctl name="7 Digital Volume Switch" value="ON" />
 > 	<ctl name="TX7 Digital Volume" value="0" />
 > 	<ctl name="RX7 Digital Volume" value="0" />
@@ -33368,7 +33473,21 @@
 > 	<ctl name="SPKRR Volume Switch" value="ON" />
 > 	<ctl name="TX SPKRR Volume" value="0" />
 > 	<ctl name="RX SPKRR Volume" value="0" />
-> 	<path name="speaker" />
+> 	<ctl name="SPKR Idle Detect Switch" value="ON" />
+> 	<ctl name="TX SPKR Idle Detect" value="2" />
+> 	<ctl name="RX SPKR Idle Detect" value="2" />
+> 	<ctl name="SpkrLeft COMPL Switch" value="2" />
+> 	<ctl name="SpkrRight COMPR Switch" value="2" />
+> 	<ctl name="SpkrLeft BOOSTL Switch" value="0" />
+> 	<ctl name="SpkrRight BOOSTR Switch" value="0" />
+> 	<ctl name="SpkrLeft VISENSEL Switch" value="0" />
+> 	<ctl name="SpkrRight VISENSER Switch" value="0" />
+> 	<ctl name="SpkrLeft NORML Switch" value="2" />
+> 	<ctl name="SpkrRight NORMR Switch" value="2" />
+> 	<ctl name="SpkrLeft LDAC Switch" value="2" />
+> 	<ctl name="SpkrRight RDAC Switch" value="2" />
+> 	<ctl name="SpkrLeft SWR DAC_Port Switch" value="2" />
+> 	<ctl name="SpkrRight SWR DAC_Port Switch" value="2" />
 > 	</path>
 > 	
 > 	<path name="vbat_fake_speaker-mono">
@@ -33562,9 +33681,30 @@
 > 	<ctl name="RDAC Switch" value="ON" />
 > 	<ctl name="TX RDAC" value="2" />
 > 	<ctl name="RX RDAC" value="2" />
+> 	<ctl name="1 Digital Volume Switch" value="ON" />
+> 	<ctl name="TX1 Digital Volume" value="84" />
+> 	<ctl name="RX1 Digital Volume" value="84" />
+> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
+> 	<ctl name="TX1 Mix Digital Volume" value="84" />
+> 	<ctl name="RX1 Mix Digital Volume" value="84" />
+> 	<ctl name="2 Digital Volume Switch" value="ON" />
+> 	<ctl name="TX2 Digital Volume" value="84" />
+> 	<ctl name="RX2 Digital Volume" value="84" />
+> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
+> 	<ctl name="TX2 Mix Digital Volume" value="84" />
+> 	<ctl name="RX2 Mix Digital Volume" value="84" />
+> 	<ctl name="HPHL Volume Switch" value="ON" />
+> 	<ctl name="TX HPHL Volume" value="16" />
+> 	<ctl name="RX HPHL Volume" value="16" />
+> 	<ctl name="HPHR Volume Switch" value="ON" />
+> 	<ctl name="TX HPHR Volume" value="16" />
+> 	<ctl name="RX HPHR Volume" value="16" />
 > 	<ctl name="HPH PWR MODE Switch" value="ON" />
 > 	<ctl name="TX HPH PWR MODE" value="NATIVE" />
 > 	<ctl name="RX HPH PWR MODE" value="NATIVE" />
+> 	<ctl name="HPH Idle Detect Switch" value="ON" />
+> 	<ctl name="TX HPH Idle Detect" value="2" />
+> 	<ctl name="RX HPH Idle Detect" value="2" />
 > 	<ctl name="HphLeft COMPL Switch" value="2" />
 > 	<ctl name="HphRight COMPR Switch" value="2" />
 > 	<ctl name="HphLeft BOOSTL Switch" value="0" />
@@ -33577,9 +33717,6 @@
 > 	<ctl name="HphRight RDAC Switch" value="2" />
 > 	<ctl name="HphLeft SWR DAC_Port Switch" value="2" />
 > 	<ctl name="HphRight SWR DAC_Port Switch" value="2" />
-> 	<ctl name="HPH Idle Detect Switch" value="ON" />
-> 	<ctl name="TX HPH Idle Detect" value="2" />
-> 	<ctl name="RX HPH Idle Detect" value="2" />
 > 	</path>
 > 	
 > 	<path name="headphone_fluid">
@@ -34123,6 +34260,36 @@
 > 	<path name="fake_headphone">
 > 	<path name="true-native-mode-HPH" />
 > 	<path name="true-native-mode-HPH-vbat" />
+> 	<ctl name="COMP1 Switch" value="ON" />
+> 	<ctl name="TX COMP1" value="2" />
+> 	<ctl name="RX COMP1" value="2" />
+> 	<ctl name="COMP2 Switch" value="ON" />
+> 	<ctl name="TX COMP2" value="2" />
+> 	<ctl name="RX COMP2" value="2" />
+> 	<ctl name="BOOST1 Switch" value="OFF" />
+> 	<ctl name="TX BOOST1" value="0" />
+> 	<ctl name="RX BOOST1" value="0" />
+> 	<ctl name="BOOST2 Switch" value="OFF" />
+> 	<ctl name="TX BOOST2" value="0" />
+> 	<ctl name="RX BOOST2" value="0" />
+> 	<ctl name="VISENSE1 Switch" value="OFF" />
+> 	<ctl name="TX VISENSE1" value="0" />
+> 	<ctl name="RX VISENSE1" value="0" />
+> 	<ctl name="VISENSE2 Switch" value="OFF" />
+> 	<ctl name="TX VISENSE2" value="0" />
+> 	<ctl name="RX VISENSE2" value="0" />
+> 	<ctl name="NORM1 Switch" value="ON" />
+> 	<ctl name="TX NORM1" value="2" />
+> 	<ctl name="RX NORM1" value="2" />
+> 	<ctl name="NORM2 Switch" value="ON" />
+> 	<ctl name="TX NORM2" value="2" />
+> 	<ctl name="RX NORM2" value="2" />
+> 	<ctl name="LDAC Switch" value="ON" />
+> 	<ctl name="TX LDAC" value="2" />
+> 	<ctl name="RX LDAC" value="2" />
+> 	<ctl name="RDAC Switch" value="ON" />
+> 	<ctl name="TX RDAC" value="2" />
+> 	<ctl name="RX RDAC" value="2" />
 > 	<ctl name="1 Digital Volume Switch" value="ON" />
 > 	<ctl name="TX1 Digital Volume" value="0" />
 > 	<ctl name="RX1 Digital Volume" value="0" />
@@ -34141,7 +34308,24 @@
 > 	<ctl name="HPHR Volume Switch" value="ON" />
 > 	<ctl name="TX HPHR Volume" value="0" />
 > 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="headphone" />
+> 	<ctl name="HPH PWR MODE Switch" value="ON" />
+> 	<ctl name="TX HPH PWR MODE" value="NATIVE" />
+> 	<ctl name="RX HPH PWR MODE" value="NATIVE" />
+> 	<ctl name="HPH Idle Detect Switch" value="ON" />
+> 	<ctl name="TX HPH Idle Detect" value="2" />
+> 	<ctl name="RX HPH Idle Detect" value="2" />
+> 	<ctl name="HphLeft COMPL Switch" value="2" />
+> 	<ctl name="HphRight COMPR Switch" value="2" />
+> 	<ctl name="HphLeft BOOSTL Switch" value="0" />
+> 	<ctl name="HphRight BOOSTR Switch" value="0" />
+> 	<ctl name="HphLeft VISENSEL Switch" value="0" />
+> 	<ctl name="HphRight VISENSER Switch" value="0" />
+> 	<ctl name="HphLeft NORML Switch" value="2" />
+> 	<ctl name="HphRight NORMR Switch" value="2" />
+> 	<ctl name="HphLeft LDAC Switch" value="2" />
+> 	<ctl name="HphRight RDAC Switch" value="2" />
+> 	<ctl name="HphLeft SWR DAC_Port Switch" value="2" />
+> 	<ctl name="HphRight SWR DAC_Port Switch" value="2" />
 > 	</path>
 > 	
 > 	<path name="vbat_fake_headphone">
@@ -34940,7 +35124,7 @@
 > 	<path name="speaker-protected" />
 > 	</path>
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
-3899a31103,31105
+3899a31287,31289
 > 	
 > 	
 > 	<!-- Bottom of page -->
