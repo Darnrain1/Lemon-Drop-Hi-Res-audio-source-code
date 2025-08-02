@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble 24bit v355.1 -->
+	<!-- Lemon Drop Hi-Res treble 24bit v356.2 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 	<!-- Designed and created by darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -8193,6 +8193,27 @@
 	<!-- End HPH initialization code -->
 	
 	<!-- End of initial mixer settings -->
+
+	<!-- Start of Power Mode Functions -->
+
+    <path name="hph-highquality-mode">
+    </path>
+
+    <path name="hph-lowpower-mode">
+    </path>
+
+    <path name="true-native-mode">
+	<path name="true-native-mode-HPH" />
+	<path name="true-native-mode-SPKR" />
+	<path name="true-native-mode-HPH-mono" />
+	<path name="true-native-mode-SPKR-mono" />
+	<path name="true-native-mode-HPH-vbat" />
+	<path name="true-native-mode-SPKR-vbat" />
+	<path name="true-native-mode-HPH-vbat-mono" />
+	<path name="true-native-mode-SPKR-vbat-mono" />
+    </path>
+
+	<!-- End of Power Mode Functions -->
 	
 	<!-- Start of True Native Mode function -->
 	
@@ -27486,8 +27507,8 @@
 	<ctl name="TX RDAC" value="0" />
 	<ctl name="RX RDAC" value="0" />
 	<ctl name="SPKR PWR MODE Switch" value="ON" />
-	<ctl name="TX SPKR PWR MODE" value="NATIVE" />
-	<ctl name="RX SPKR PWR MODE" value="NATIVE" />
+	<ctl name="TX SPKR PWR MODE" value="SD3" />
+	<ctl name="RX SPKR PWR MODE" value="SD3" />
 	<ctl name="SPKR Idle Detect Switch" value="ON" />
 	<ctl name="TX SPKR Idle Detect" value="1" />
 	<ctl name="RX SPKR Idle Detect" value="1" />
@@ -27545,8 +27566,8 @@
 	<ctl name="TX RDAC" value="2" />
 	<ctl name="RX RDAC" value="2" />
 	<ctl name="SPKR PWR MODE Switch" value="ON" />
-	<ctl name="TX SPKR PWR MODE" value="NATIVE" />
-	<ctl name="RX SPKR PWR MODE" value="NATIVE" />
+	<ctl name="TX SPKR PWR MODE" value="SD3" />
+	<ctl name="RX SPKR PWR MODE" value="SD3" />
 	<ctl name="7 Digital Volume Switch" value="ON" />
 	<ctl name="TX7 Digital Volume" value="84" />
 	<ctl name="RX7 Digital Volume" value="84" />
@@ -27722,10 +27743,6 @@
 	<!-- Added -->
 	<path name="vbat_speaker-mono">
 	<path name="true-native-mode-SPKR-vbat-mono" />
-	<ctl name="TX INT7_1 MIX1 INP0" value="RX0" />
-	<ctl name="RX INT7_1 MIX1 INP0" value="RX0" />
-	<ctl name="SLIM TX0 MUX" value="AIF_MIX1_PB" />
-	<ctl name="SLIM RX0 MUX" value="AIF_MIX1_PB" />
 	<path name="speaker-mono" />
 	</path>
 	
@@ -29554,8 +29571,8 @@
 	<ctl name="TX SPKRR Volume" value="0" />
 	<ctl name="RX SPKRR Volume" value="0" />
 	<ctl name="SPKR PWR MODE Switch" value="ON" />
-	<ctl name="TX SPKR PWR MODE" value="NATIVE" />
-	<ctl name="RX SPKR PWR MODE" value="NATIVE" />
+	<ctl name="TX SPKR PWR MODE" value="SD3" />
+	<ctl name="RX SPKR PWR MODE" value="SD3" />
 	<ctl name="SPKR Idle Detect Switch" value="ON" />
 	<ctl name="TX SPKR Idle Detect" value="1" />
 	<ctl name="RX SPKR Idle Detect" value="1" />
@@ -29608,8 +29625,8 @@
 	<ctl name="TX RDAC" value="2" />
 	<ctl name="RX RDAC" value="2" />
 	<ctl name="SPKR PWR MODE Switch" value="ON" />
-	<ctl name="TX SPKR PWR MODE" value="NATIVE" />
-	<ctl name="RX SPKR PWR MODE" value="NATIVE" />
+	<ctl name="TX SPKR PWR MODE" value="SD3" />
+	<ctl name="RX SPKR PWR MODE" value="SD3" />
 	<ctl name="7 Digital Volume Switch" value="ON" />
 	<ctl name="TX7 Digital Volume" value="0" />
 	<ctl name="RX7 Digital Volume" value="0" />
@@ -29855,8 +29872,8 @@
 	<ctl name="TX HPHR Volume" value="16" />
 	<ctl name="RX HPHR Volume" value="16" />
 	<ctl name="HPH PWR MODE Switch" value="ON" />
-	<ctl name="TX HPH PWR MODE" value="NATIVE" />
-	<ctl name="RX HPH PWR MODE" value="NATIVE" />
+	<ctl name="TX HPH PWR MODE" value="HD3" />
+	<ctl name="RX HPH PWR MODE" value="HD3" />
 	<ctl name="HPH Idle Detect Switch" value="ON" />
 	<ctl name="TX HPH Idle Detect" value="2" />
 	<ctl name="RX HPH Idle Detect" value="2" />
@@ -30464,8 +30481,8 @@
 	<ctl name="TX HPHR Volume" value="0" />
 	<ctl name="RX HPHR Volume" value="0" />
 	<ctl name="HPH PWR MODE Switch" value="ON" />
-	<ctl name="TX HPH PWR MODE" value="NATIVE" />
-	<ctl name="RX HPH PWR MODE" value="NATIVE" />
+	<ctl name="TX HPH PWR MODE" value="HD3" />
+	<ctl name="RX HPH PWR MODE" value="HD3" />
 	<ctl name="HPH Idle Detect Switch" value="ON" />
 	<ctl name="TX HPH Idle Detect" value="2" />
 	<ctl name="RX HPH Idle Detect" value="2" />
