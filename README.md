@@ -38,19 +38,19 @@ KHZ = 44.1<br>
 BIT = 24<br>
 True Native Mode? Yes.<br>
 
-16bit Internal Speaker<br>
-Channels = 384<br>
+16bit Internal Speaker Mono<br>
+Channels = 192<br>
 KHZ = 44.1<br>
 BIT = 16<br>
 True Native Mode? Yes.<br>
 
-24bit Internal Speaker<br>
+24bit Internal Speaker Stereo<br>
 Channels = 3,072<br>
 KHZ = 44.1<br>
 BIT = 24<br>
 True Native Mode? Yes.<br>
 
-latest release: v358.2<br>
+latest release: v359.1<br>
 
 Lemon Drop Hi-Res Addons<br>
 https://mega.nz/folder/Ru9UlbJS#4DuzyC38K3cN9OpjJL2x7Q<br>
