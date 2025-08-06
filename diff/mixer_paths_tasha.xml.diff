@@ -3,7 +3,7 @@
 > 	
 > 	<!-- Top of page -->
 > 	
-> 	<!-- Lemon Drop Hi-Res treble 24bit v359.1 -->
+> 	<!-- Lemon Drop Hi-Res treble 24bit v360.3 -->
 > 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 > 	<!-- Designed and created by darnrain1 @GitHub -->
 > 	<!-- Proudly Made In America -->
@@ -139,7 +139,7 @@
 > 	
 > 	<!-- Start of True Native Mode code v19.0 & vbat initial mixer settings -->
 > 	
-28,2368c168,28250
+28,2368c168,26950
 <     <!-- These are the initial mixer settings -->
 <     <ctl name="Voice Rx Device Mute" id="0" value="0" />
 <     <ctl name="Voice Rx Device Mute" id="1" value="-1" />
@@ -23685,56 +23685,6 @@
 > 	<path name="deep-buffer-playback speaker" />
 > 	</path>
 > 	
-> 	<path name="deep-buffer-playback headphone_fluid">
-> 	<path name="true-native-mode-HPH-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia1" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia1" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="51" />
-> 	<ctl name="RX1 Digital Volume" value="51" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="51" />
-> 	<ctl name="RX1 Mix Digital Volume" value="51" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="deep-buffer-playback speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="deep-buffer-playback headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia1" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia1" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="51" />
-> 	<ctl name="RX1 Digital Volume" value="51" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="51" />
-> 	<ctl name="RX1 Mix Digital Volume" value="51" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="51" />
-> 	<ctl name="RX2 Digital Volume" value="51" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="51" />
-> 	<ctl name="RX2 Mix Digital Volume" value="51" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="deep-buffer-playback speaker" />
-> 	</path>
-> 	
 > 	<path name="deep-buffer-playback bluetooth_16bit">
 > 	<path name="true-native-mode-HPH" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia1" value="2" />
@@ -23851,56 +23801,6 @@
 > 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
 > 	<ctl name="TX2 Mix Digital Volume" value="63" />
 > 	<ctl name="RX2 Mix Digital Volume" value="63" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_deep-buffer-playback vbat_speaker" />
-> 	</path>
-> 	
-> 	<path name="vbat_deep-buffer-playback headphone_fluid">
-> 	<path name="true-native-mode-HPH-vbat-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia1" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia1" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="51" />
-> 	<ctl name="RX1 Digital Volume" value="51" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="51" />
-> 	<ctl name="RX1 Mix Digital Volume" value="51" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_deep-buffer-playback vbat_speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="vbat_deep-buffer-playback headphone_liquid">
-> 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia1" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia1" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="51" />
-> 	<ctl name="RX1 Digital Volume" value="51" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="51" />
-> 	<ctl name="RX1 Mix Digital Volume" value="51" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="51" />
-> 	<ctl name="RX2 Digital Volume" value="51" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="51" />
-> 	<ctl name="RX2 Mix Digital Volume" value="51" />
 > 	<ctl name="HPHL Volume Switch" value="ON" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -24092,56 +23992,6 @@
 > 	<path name="low-latency-playback speaker" />
 > 	</path>
 > 	
-> 	<path name="low-latency-playback headphone_fluid">
-> 	<path name="true-native-mode-HPH-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia5" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia5" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="55" />
-> 	<ctl name="RX1 Digital Volume" value="55" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="55" />
-> 	<ctl name="RX1 Mix Digital Volume" value="55" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="low-latency-playback speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="low-latency-playback headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia5" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia5" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="55" />
-> 	<ctl name="RX1 Digital Volume" value="55" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="55" />
-> 	<ctl name="RX1 Mix Digital Volume" value="55" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="55" />
-> 	<ctl name="RX2 Digital Volume" value="55" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="55" />
-> 	<ctl name="RX2 Mix Digital Volume" value="55" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="low-latency-playback speaker" />
-> 	</path>
-> 	
 > 	<path name="low-latency-playback bluetooth_16bit">
 > 	<path name="true-native-mode-HPH" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia5" value="2" />
@@ -24258,56 +24108,6 @@
 > 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
 > 	<ctl name="TX2 Mix Digital Volume" value="67" />
 > 	<ctl name="RX2 Mix Digital Volume" value="67" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_low-latency-playback vbat_speaker" />
-> 	</path>
-> 	
-> 	<path name="vbat_low-latency-playback headphone_fluid">
-> 	<path name="true-native-mode-HPH-vbat-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia5" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia5" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="55" />
-> 	<ctl name="RX1 Digital Volume" value="55" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="55" />
-> 	<ctl name="RX1 Mix Digital Volume" value="55" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_low-latency-playback vbat_speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="vbat_low-latency-playback headphone_liquid">
-> 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia5" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia5" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="55" />
-> 	<ctl name="RX1 Digital Volume" value="55" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="55" />
-> 	<ctl name="RX1 Mix Digital Volume" value="55" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="55" />
-> 	<ctl name="RX2 Digital Volume" value="55" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="55" />
-> 	<ctl name="RX2 Mix Digital Volume" value="55" />
 > 	<ctl name="HPHL Volume Switch" value="ON" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -24499,56 +24299,6 @@
 > 	<path name="audio-ull-playback speaker" />
 > 	</path>
 > 	
-> 	<path name="audio-ull-playback headphone_fluid">
-> 	<path name="true-native-mode-HPH-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia3" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia3" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="53" />
-> 	<ctl name="RX1 Digital Volume" value="53" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="53" />
-> 	<ctl name="RX1 Mix Digital Volume" value="53" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="audio-ull-playback speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="audio-ull-playback headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia3" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia3" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="53" />
-> 	<ctl name="RX1 Digital Volume" value="53" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="53" />
-> 	<ctl name="RX1 Mix Digital Volume" value="53" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="53" />
-> 	<ctl name="RX2 Digital Volume" value="53" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="53" />
-> 	<ctl name="RX2 Mix Digital Volume" value="53" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="audio-ull-playback speaker" />
-> 	</path>
-> 	
 > 	<path name="audio-ull-playback bluetooth_16bit">
 > 	<path name="true-native-mode-HPH" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia3" value="2" />
@@ -24665,56 +24415,6 @@
 > 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
 > 	<ctl name="TX2 Mix Digital Volume" value="65" />
 > 	<ctl name="RX2 Mix Digital Volume" value="65" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_audio-ull-playback vbat_speaker" />
-> 	</path>
-> 	
-> 	<path name="vbat_audio-ull-playback headphone_fluid">
-> 	<path name="true-native-mode-HPH-vbat-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia3" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia3" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="53" />
-> 	<ctl name="RX1 Digital Volume" value="53" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="53" />
-> 	<ctl name="RX1 Mix Digital Volume" value="53" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_audio-ull-playback vbat_speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="vbat_audio-ull-playback headphone_liquid">
-> 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia3" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia3" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="53" />
-> 	<ctl name="RX1 Digital Volume" value="53" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="53" />
-> 	<ctl name="RX1 Mix Digital Volume" value="53" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="53" />
-> 	<ctl name="RX2 Digital Volume" value="53" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="53" />
-> 	<ctl name="RX2 Mix Digital Volume" value="53" />
 > 	<ctl name="HPHL Volume Switch" value="ON" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -24902,56 +24602,6 @@
 > 	<path name="compress-offload-playback speaker" />
 > 	</path>
 > 	
-> 	<path name="compress-offload-playback headphone_fluid">
-> 	<path name="true-native-mode-HPH-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia4" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia4" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="compress-offload-playback speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="compress-offload-playback headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia4" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia4" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="57" />
-> 	<ctl name="RX2 Digital Volume" value="57" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="57" />
-> 	<ctl name="RX2 Mix Digital Volume" value="57" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="compress-offload-playback speaker" />
-> 	</path>
-> 	
 > 	<path name="compress-offload-playback bluetooth_16bit">
 > 	<path name="true-native-mode-HPH" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia4" value="2" />
@@ -25068,56 +24718,6 @@
 > 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
 > 	<ctl name="TX2 Mix Digital Volume" value="69" />
 > 	<ctl name="RX2 Mix Digital Volume" value="69" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_compress-offload-playback vbat_speaker" />
-> 	</path>
-> 	
-> 	<path name="vbat_compress-offload-playback headphone_fluid">
-> 	<path name="true-native-mode-HPH-vbat-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia4" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia4" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_compress-offload-playback vbat_speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="vbat_compress-offload-playback headphone_liquid">
-> 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia4" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia4" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="57" />
-> 	<ctl name="RX2 Digital Volume" value="57" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="57" />
-> 	<ctl name="RX2 Mix Digital Volume" value="57" />
 > 	<ctl name="HPHL Volume Switch" value="ON" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -25256,56 +24856,6 @@
 > 	<path name="compress-offload-playback1 speaker" />
 > 	</path>
 > 	
-> 	<path name="compress-offload-playback1 headphone_fluid">
-> 	<path name="true-native-mode-HPH-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia6" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia6" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="compress-offload-playback1 speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="compress-offload-playback1 headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia6" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia6" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="57" />
-> 	<ctl name="RX2 Digital Volume" value="57" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="57" />
-> 	<ctl name="RX2 Mix Digital Volume" value="57" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="compress-offload-playback1 speaker" />
-> 	</path>
-> 	
 > 	<path name="compress-offload-playback1 bluetooth_16bit">
 > 	<path name="true-native-mode-HPH" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia6" value="2" />
@@ -25422,56 +24972,6 @@
 > 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
 > 	<ctl name="TX2 Mix Digital Volume" value="69" />
 > 	<ctl name="RX2 Mix Digital Volume" value="69" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_compress-offload-playback1 vbat_speaker" />
-> 	</path>
-> 	
-> 	<path name="vbat_compress-offload-playback1 headphone_fluid">
-> 	<path name="true-native-mode-HPH-vbat-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia6" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia6" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_compress-offload-playback1 vbat_speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="vbat_compress-offload-playback1 headphone_liquid">
-> 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia6" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia6" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="57" />
-> 	<ctl name="RX2 Digital Volume" value="57" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="57" />
-> 	<ctl name="RX2 Mix Digital Volume" value="57" />
 > 	<ctl name="HPHL Volume Switch" value="ON" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -25670,56 +25170,6 @@
 > 	<path name="compress-offload-playback2 speaker" />
 > 	</path>
 > 	
-> 	<path name="compress-offload-playback2 headphone_fluid">
-> 	<path name="true-native-mode-HPH-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia7" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia7" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="compress-offload-playback2 speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="compress-offload-playback2 headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia7" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia7" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="57" />
-> 	<ctl name="RX2 Digital Volume" value="57" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="57" />
-> 	<ctl name="RX2 Mix Digital Volume" value="57" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="compress-offload-playback2 speaker" />
-> 	</path>
-> 	
 > 	<path name="compress-offload-playback2 bluetooth_16bit">
 > 	<path name="true-native-mode-HPH" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia7" value="2" />
@@ -25836,56 +25286,6 @@
 > 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
 > 	<ctl name="TX2 Mix Digital Volume" value="69" />
 > 	<ctl name="RX2 Mix Digital Volume" value="69" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_compress-offload-playback2 vbat_speaker" />
-> 	</path>
-> 	
-> 	<path name="vbat_compress-offload-playback2 headphone_fluid">
-> 	<path name="true-native-mode-HPH-vbat-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia7" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia7" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_compress-offload-playback2 vbat_speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="vbat_compress-offload-playback2 headphone_liquid">
-> 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia7" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia7" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="57" />
-> 	<ctl name="RX2 Digital Volume" value="57" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="57" />
-> 	<ctl name="RX2 Mix Digital Volume" value="57" />
 > 	<ctl name="HPHL Volume Switch" value="ON" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -26080,56 +25480,6 @@
 > 	<path name="compress-offload-playback3 speaker" />
 > 	</path>
 > 	
-> 	<path name="compress-offload-playback3 headphone_fluid">
-> 	<path name="true-native-mode-HPH-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia10" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia10" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="compress-offload-playback3 speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="compress-offload-playback3 headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia10" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia10" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="57" />
-> 	<ctl name="RX2 Digital Volume" value="57" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="57" />
-> 	<ctl name="RX2 Mix Digital Volume" value="57" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="compress-offload-playback3 speaker" />
-> 	</path>
-> 	
 > 	<path name="compress-offload-playback3 bluetooth_16bit">
 > 	<path name="true-native-mode-HPH" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia10" value="2" />
@@ -26246,56 +25596,6 @@
 > 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
 > 	<ctl name="TX2 Mix Digital Volume" value="69" />
 > 	<ctl name="RX2 Mix Digital Volume" value="69" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_compress-offload-playback3 vbat_speaker" />
-> 	</path>
-> 	
-> 	<path name="vbat_compress-offload-playback3 headphone_fluid">
-> 	<path name="true-native-mode-HPH-vbat-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia10" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia10" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_compress-offload-playback3 vbat_speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="vbat_compress-offload-playback3 headphone_liquid">
-> 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia10" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia10" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="57" />
-> 	<ctl name="RX2 Digital Volume" value="57" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="57" />
-> 	<ctl name="RX2 Mix Digital Volume" value="57" />
 > 	<ctl name="HPHL Volume Switch" value="ON" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -26490,56 +25790,6 @@
 > 	<path name="compress-offload-playback4 speaker" />
 > 	</path>
 > 	
-> 	<path name="compress-offload-playback4 headphone_fluid">
-> 	<path name="true-native-mode-HPH-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia11" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia11" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="compress-offload-playback4 speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="compress-offload-playback4 headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia11" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia11" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="57" />
-> 	<ctl name="RX2 Digital Volume" value="57" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="57" />
-> 	<ctl name="RX2 Mix Digital Volume" value="57" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="compress-offload-playback4 speaker" />
-> 	</path>
-> 	
 > 	<path name="compress-offload-playback4 bluetooth_16bit">
 > 	<path name="true-native-mode-HPH" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia11" value="2" />
@@ -26656,56 +25906,6 @@
 > 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
 > 	<ctl name="TX2 Mix Digital Volume" value="69" />
 > 	<ctl name="RX2 Mix Digital Volume" value="69" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_compress-offload-playback4 vbat_speaker" />
-> 	</path>
-> 	
-> 	<path name="vbat_compress-offload-playback4 headphone_fluid">
-> 	<path name="true-native-mode-HPH-vbat-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia11" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia11" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_compress-offload-playback4 vbat_speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="vbat_compress-offload-playback4 headphone_liquid">
-> 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia11" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia11" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="57" />
-> 	<ctl name="RX2 Digital Volume" value="57" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="57" />
-> 	<ctl name="RX2 Mix Digital Volume" value="57" />
 > 	<ctl name="HPHL Volume Switch" value="ON" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -26900,56 +26100,6 @@
 > 	<path name="compress-offload-playback5 speaker" />
 > 	</path>
 > 	
-> 	<path name="compress-offload-playback5 headphone_fluid">
-> 	<path name="true-native-mode-HPH-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia12" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia12" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="compress-offload-playback5 speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="compress-offload-playback5 headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia12" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia12" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="57" />
-> 	<ctl name="RX2 Digital Volume" value="57" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="57" />
-> 	<ctl name="RX2 Mix Digital Volume" value="57" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="compress-offload-playback5 speaker" />
-> 	</path>
-> 	
 > 	<path name="compress-offload-playback5 bluetooth_16bit">
 > 	<path name="true-native-mode-HPH" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia12" value="2" />
@@ -27066,56 +26216,6 @@
 > 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
 > 	<ctl name="TX2 Mix Digital Volume" value="69" />
 > 	<ctl name="RX2 Mix Digital Volume" value="69" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_compress-offload-playback5 vbat_speaker" />
-> 	</path>
-> 	
-> 	<path name="vbat_compress-offload-playback5 headphone_fluid">
-> 	<path name="true-native-mode-HPH-vbat-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia12" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia12" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_compress-offload-playback5 vbat_speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="vbat_compress-offload-playback5 headphone_liquid">
-> 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia12" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia12" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="57" />
-> 	<ctl name="RX2 Digital Volume" value="57" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="57" />
-> 	<ctl name="RX2 Mix Digital Volume" value="57" />
 > 	<ctl name="HPHL Volume Switch" value="ON" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -27310,56 +26410,6 @@
 > 	<path name="compress-offload-playback6 speaker" />
 > 	</path>
 > 	
-> 	<path name="compress-offload-playback6 headphone_fluid">
-> 	<path name="true-native-mode-HPH-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia13" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia13" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="compress-offload-playback6 speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="compress-offload-playback6 headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia13" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia13" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="57" />
-> 	<ctl name="RX2 Digital Volume" value="57" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="57" />
-> 	<ctl name="RX2 Mix Digital Volume" value="57" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="compress-offload-playback6 speaker" />
-> 	</path>
-> 	
 > 	<path name="compress-offload-playback6 bluetooth_16bit">
 > 	<path name="true-native-mode-HPH" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia13" value="2" />
@@ -27476,56 +26526,6 @@
 > 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
 > 	<ctl name="TX2 Mix Digital Volume" value="69" />
 > 	<ctl name="RX2 Mix Digital Volume" value="69" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_compress-offload-playback6 vbat_speaker" />
-> 	</path>
-> 	
-> 	<path name="vbat_compress-offload-playback6 headphone_fluid">
-> 	<path name="true-native-mode-HPH-vbat-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia13" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia13" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_compress-offload-playback6 vbat_speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="vbat_compress-offload-playback6 headphone_liquid">
-> 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia13" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia13" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="57" />
-> 	<ctl name="RX2 Digital Volume" value="57" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="57" />
-> 	<ctl name="RX2 Mix Digital Volume" value="57" />
 > 	<ctl name="HPHL Volume Switch" value="ON" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -27720,56 +26720,6 @@
 > 	<path name="compress-offload-playback7 speaker" />
 > 	</path>
 > 	
-> 	<path name="compress-offload-playback7 headphone_fluid">
-> 	<path name="true-native-mode-HPH-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia14" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia14" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="compress-offload-playback7 speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="compress-offload-playback7 headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia14" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia14" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="57" />
-> 	<ctl name="RX2 Digital Volume" value="57" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="57" />
-> 	<ctl name="RX2 Mix Digital Volume" value="57" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="compress-offload-playback7 speaker" />
-> 	</path>
-> 	
 > 	<path name="compress-offload-playback7 bluetooth_16bit">
 > 	<path name="true-native-mode-HPH" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia14" value="2" />
@@ -27886,56 +26836,6 @@
 > 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
 > 	<ctl name="TX2 Mix Digital Volume" value="69" />
 > 	<ctl name="RX2 Mix Digital Volume" value="69" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_compress-offload-playback7 vbat_speaker" />
-> 	</path>
-> 	
-> 	<path name="vbat_compress-offload-playback7 headphone_fluid">
-> 	<path name="true-native-mode-HPH-vbat-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia14" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia14" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_compress-offload-playback7 vbat_speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="vbat_compress-offload-playback7 headphone_liquid">
-> 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia14" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia14" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="57" />
-> 	<ctl name="RX2 Digital Volume" value="57" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="57" />
-> 	<ctl name="RX2 Mix Digital Volume" value="57" />
 > 	<ctl name="HPHL Volume Switch" value="ON" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -28130,56 +27030,6 @@
 > 	<path name="compress-offload-playback8 speaker" />
 > 	</path>
 > 	
-> 	<path name="compress-offload-playback8 headphone_fluid">
-> 	<path name="true-native-mode-HPH-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia15" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia15" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="compress-offload-playback8 speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="compress-offload-playback8 headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia15" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia15" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="57" />
-> 	<ctl name="RX2 Digital Volume" value="57" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="57" />
-> 	<ctl name="RX2 Mix Digital Volume" value="57" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="compress-offload-playback8 speaker" />
-> 	</path>
-> 	
 > 	<path name="compress-offload-playback8 bluetooth_16bit">
 > 	<path name="true-native-mode-HPH" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia15" value="2" />
@@ -28296,56 +27146,6 @@
 > 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
 > 	<ctl name="TX2 Mix Digital Volume" value="69" />
 > 	<ctl name="RX2 Mix Digital Volume" value="69" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_compress-offload-playback8 vbat_speaker" />
-> 	</path>
-> 	
-> 	<path name="vbat_compress-offload-playback8 headphone_fluid">
-> 	<path name="true-native-mode-HPH-vbat-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia15" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia15" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_compress-offload-playback8 vbat_speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="vbat_compress-offload-playback8 headphone_liquid">
-> 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia15" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia15" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="57" />
-> 	<ctl name="RX2 Digital Volume" value="57" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="57" />
-> 	<ctl name="RX2 Mix Digital Volume" value="57" />
 > 	<ctl name="HPHL Volume Switch" value="ON" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -28540,56 +27340,6 @@
 > 	<path name="compress-offload-playback9 speaker" />
 > 	</path>
 > 	
-> 	<path name="compress-offload-playback9 headphone_fluid">
-> 	<path name="true-native-mode-HPH-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia16" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia16" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="compress-offload-playback9 speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="compress-offload-playback9 headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia16" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia16" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="57" />
-> 	<ctl name="RX2 Digital Volume" value="57" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="57" />
-> 	<ctl name="RX2 Mix Digital Volume" value="57" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="compress-offload-playback9 speaker" />
-> 	</path>
-> 	
 > 	<path name="compress-offload-playback9 bluetooth_16bit">
 > 	<path name="true-native-mode-HPH" />
 > 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia16" value="2" />
@@ -28706,56 +27456,6 @@
 > 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
 > 	<ctl name="TX2 Mix Digital Volume" value="69" />
 > 	<ctl name="RX2 Mix Digital Volume" value="69" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_compress-offload-playback9 vbat_speaker" />
-> 	</path>
-> 	
-> 	<path name="vbat_compress-offload-playback9 headphone_fluid">
-> 	<path name="true-native-mode-HPH-vbat-mono" />
-> 	<ctl name="SLIMBUS_11_TX Audio Mixer MultiMedia16" value="1" />
-> 	<ctl name="SLIMBUS_11_RX Audio Mixer MultiMedia16" value="1" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_compress-offload-playback9 vbat_speaker-mono" />
-> 	</path>
-> 	
-> 	<path name="vbat_compress-offload-playback9 headphone_liquid">
-> 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIMBUS_12_TX Audio Mixer MultiMedia16" value="2" />
-> 	<ctl name="SLIMBUS_12_RX Audio Mixer MultiMedia16" value="2" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="57" />
-> 	<ctl name="RX1 Digital Volume" value="57" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="57" />
-> 	<ctl name="RX1 Mix Digital Volume" value="57" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="57" />
-> 	<ctl name="RX2 Digital Volume" value="57" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="57" />
-> 	<ctl name="RX2 Mix Digital Volume" value="57" />
 > 	<ctl name="HPHL Volume Switch" value="ON" />
 > 	<ctl name="TX HPHL Volume" value="16" />
 > 	<ctl name="RX HPHL Volume" value="16" />
@@ -29777,7 +28477,7 @@
 > 	<!-- speaker_16bit & speaker_24bit are the QuadDAC 16bit & 24bit side -->
 > 	
 > 	<!-- This is how I calculated the amount of channels for speaker_16bit -->
-> 	<!-- 3072 X 8 = 24576 -->
+> 	<!-- 1536 X 4 = 6144 -->
 > 	
 > 	<!-- This is how I calculated the kilohertz for speaker_16bit -->
 > 	<!-- 44.1 X 16 = 705.6 -->
@@ -29786,7 +28486,7 @@
 > 	<!-- 16 X 16 = 256 -->
 > 	
 > 	<!-- This is how I calculated the amount of channels for speaker_24bit -->
-> 	<!-- 3072 X 8 = 24576 -->
+> 	<!-- 1536 X 4 = 6144 -->
 > 	
 > 	<!-- This is how I calculated the kilohertz for speaker_24bit -->
 > 	<!-- 44.1 X 16 = 705.6 -->
@@ -29835,7 +28535,7 @@
 > 	<ctl name="SPKR Idle Detect Switch" value="ON" />
 > 	<ctl name="TX SPKR Idle Detect" value="1" />
 > 	<ctl name="RX SPKR Idle Detect" value="1" />
-> 	<ctl name="TX INT7_1 MIX1 INP0" value="RX0" />
+> 	<ctl name="TX INT7_1 MIX1 INP0" value="TX0" />
 > 	<ctl name="RX INT7_1 MIX1 INP0" value="RX0" />
 > 	<ctl name="SLIM TX0 MUX" value="AIF_MIX1_PB" />
 > 	<ctl name="SLIM RX0 MUX" value="AIF_MIX1_PB" />
@@ -29961,8 +28661,8 @@
 > 	
 > 	<path name="speaker_liquid">
 > 	<path name="true-native-mode-SPKR" />
-> 	<ctl name="SLIM_0_TX Channels" value="ThreeThousandSeventyTwo" />
-> 	<ctl name="SLIM_0_RX Channels" value="ThreeThousandSeventyTwo" />
+> 	<ctl name="SLIM_0_TX Channels" value="OneThousandFiveHundredThirtySix" />
+> 	<ctl name="SLIM_0_RX Channels" value="OneThousandFiveHundredThirtySix" />
 > 	<ctl name="SLIM_0_TX SampleRate" value="KHZ_44P1" />
 > 	<ctl name="SLIM_0_RX SampleRate" value="KHZ_44P1" />
 > 	<ctl name="SLIM_0_TX Format" value="PACKED_24B" />
@@ -29992,8 +28692,8 @@
 > 	
 > 	<path name="speaker_16bit">
 > 	<path name="true-native-mode-SPKR" />
-> 	<ctl name="SLIM_0_TX Channels" value="TwentyFourThousandFiveHundredSeventySix" />
-> 	<ctl name="SLIM_0_RX Channels" value="TwentyFourThousandFiveHundredSeventySix" />
+> 	<ctl name="SLIM_0_TX Channels" value="SixThousandOneHundredFortyFour" />
+> 	<ctl name="SLIM_0_RX Channels" value="SixThousandOneHundredFortyFour" />
 > 	<ctl name="SLIM_0_TX SampleRate" value="KHZ_705P6" />
 > 	<ctl name="SLIM_0_RX SampleRate" value="KHZ_705P6" />
 > 	<ctl name="SLIM_0_TX Format" value="PACKED_256B" />
@@ -30023,8 +28723,8 @@
 > 	
 > 	<path name="speaker_24bit">
 > 	<path name="true-native-mode-SPKR" />
-> 	<ctl name="SLIM_0_TX Channels" value="TwentyFourThousandFiveHundredSeventySix" />
-> 	<ctl name="SLIM_0_RX Channels" value="TwentyFourThousandFiveHundredSeventySix" />
+> 	<ctl name="SLIM_0_TX Channels" value="SixThousandOneHundredFortyFour" />
+> 	<ctl name="SLIM_0_RX Channels" value="SixThousandOneHundredFortyFour" />
 > 	<ctl name="SLIM_0_TX SampleRate" value="KHZ_705P6" />
 > 	<ctl name="SLIM_0_RX SampleRate" value="KHZ_705P6" />
 > 	<ctl name="SLIM_0_TX Format" value="PACKED_384B" />
@@ -30108,8 +28808,8 @@
 > 	<!-- Added -->
 > 	<path name="vbat_speaker_liquid">
 > 	<path name="true-native-mode-SPKR-vbat" />
-> 	<ctl name="SLIM_0_TX Channels" value="ThreeThousandSeventyTwo" />
-> 	<ctl name="SLIM_0_RX Channels" value="ThreeThousandSeventyTwo" />
+> 	<ctl name="SLIM_0_TX Channels" value="OneThousandFiveHundredThirtySix" />
+> 	<ctl name="SLIM_0_RX Channels" value="OneThousandFiveHundredThirtySix" />
 > 	<ctl name="SLIM_0_TX SampleRate" value="KHZ_44P1" />
 > 	<ctl name="SLIM_0_RX SampleRate" value="KHZ_44P1" />
 > 	<ctl name="SLIM_0_TX Format" value="PACKED_24B" />
@@ -30138,8 +28838,8 @@
 > 	<!-- Added -->
 > 	<path name="vbat_speaker_16bit">
 > 	<path name="true-native-mode-SPKR-vbat" />
-> 	<ctl name="SLIM_0_TX Channels" value="TwentyFourThousandFiveHundredSeventySix" />
-> 	<ctl name="SLIM_0_RX Channels" value="TwentyFourThousandFiveHundredSeventySix" />
+> 	<ctl name="SLIM_0_TX Channels" value="SixThousandOneHundredFortyFour" />
+> 	<ctl name="SLIM_0_RX Channels" value="SixThousandOneHundredFortyFour" />
 > 	<ctl name="SLIM_0_TX SampleRate" value="KHZ_705P6" />
 > 	<ctl name="SLIM_0_RX SampleRate" value="KHZ_705P6" />
 > 	<ctl name="SLIM_0_TX Format" value="PACKED_256B" />
@@ -30168,8 +28868,8 @@
 > 	<!-- Added -->
 > 	<path name="vbat_speaker_24bit">
 > 	<path name="true-native-mode-SPKR-vbat" />
-> 	<ctl name="SLIM_0_TX Channels" value="TwentyFourThousandFiveHundredSeventySix" />
-> 	<ctl name="SLIM_0_RX Channels" value="TwentyFourThousandFiveHundredSeventySix" />
+> 	<ctl name="SLIM_0_TX Channels" value="SixThousandOneHundredFortyFour" />
+> 	<ctl name="SLIM_0_RX Channels" value="SixThousandOneHundredFortyFour" />
 > 	<ctl name="SLIM_0_TX SampleRate" value="KHZ_705P6" />
 > 	<ctl name="SLIM_0_RX SampleRate" value="KHZ_705P6" />
 > 	<ctl name="SLIM_0_TX Format" value="PACKED_384B" />
@@ -30565,7 +29265,7 @@
 > 	
 > 	<path name="voice-headphones">
 > 	<path name="headphones" />
-2371,2429c28253,28333
+2371,2429c26953,27033
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -30707,7 +29407,7 @@
 > 	</path>
 > 	
 > 	<path name="anc-headphones">
-2432,2464c28336,28378
+2432,2464c27036,27078
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="0" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -30785,7 +29485,7 @@
 > 	</path>
 > 	
 > 	<path name="voice-anc-headphones">
-2467,3898c28381,31307
+2467,3898c27081,29697
 <         <ctl name="ANC Function" value="ON" />
 <         <ctl name="ANC Slot" value="1" />
 <         <ctl name="ADC MUX10" value="AMIC" />
@@ -32966,149 +31666,6 @@
 > 	<ctl name="SEC_MI2S_RX Audio Mixer MultiMedia16" value="2" />
 > 	</path>
 > 	
-> 	<!-- Welcome to the QuadDAC direct output speaker_fluid -->
-> 	
-> 	<!-- DAC 0 = low-range -->
-> 	<!-- DAC 1 = mid-range -->
-> 	<!-- DAC 2 = high-range -->
-> 	<!-- DAC 3 = offload -->
-> 	
-> 	<!-- You must divide everything by 4 from speaker_fluid -->
-> 	
-> 	<!-- speaker_fluid is set to channels: 192 -->
-> 	<!-- 192 divided by 4 = 48 -->
-> 	
-> 	<!-- speaker_fluid is set to kilohertz: 44.1 -->
-> 	<!-- 44.1 divided by 4 = 11.025 -->
-> 	
-> 	<!-- speaker_fluid is set to bit rate: 16 -->
-> 	<!-- 16 divided by 4 = 4 -->
-> 	
-> 	<path name="dop-playback_speaker_fluid tert-mi2s-headphones">
-> 	<ctl name="SEC_TDM_TX_0 Channels" value="FortyEight" />
-> 	<ctl name="SEC_TDM_RX_0 Channels" value="FortyEight" />
-> 	<ctl name="SEC_TDM_TX_0 SampleRate" value="KHZ_11P025" />
-> 	<ctl name="SEC_TDM_RX_0 SampleRate" value="KHZ_11P025" />
-> 	<ctl name="SEC_TDM_TX_0 Format" value="S4_LE" />
-> 	<ctl name="SEC_TDM_RX_0 Format" value="S4_LE" />
-> 	<ctl name="SEC_TDM_TX_0 Audio Mixer MultiMedia1" value="1" />
-> 	<ctl name="SEC_TDM_RX_0 Audio Mixer MultiMedia1" value="1" />
-> 	<ctl name="SEC_TDM_TX_1 Channels" value="FortyEight" />
-> 	<ctl name="SEC_TDM_RX_1 Channels" value="FortyEight" />
-> 	<ctl name="SEC_TDM_TX_1 SampleRate" value="KHZ_11P025" />
-> 	<ctl name="SEC_TDM_RX_1 SampleRate" value="KHZ_11P025" />
-> 	<ctl name="SEC_TDM_TX_1 Format" value="S4_LE" />
-> 	<ctl name="SEC_TDM_RX_1 Format" value="S4_LE" />
-> 	<ctl name="SEC_TDM_TX_1 Audio Mixer MultiMedia3" value="1" />
-> 	<ctl name="SEC_TDM_RX_1 Audio Mixer MultiMedia3" value="1" />
-> 	<ctl name="SEC_TDM_TX_2 Channels" value="FortyEight" />
-> 	<ctl name="SEC_TDM_RX_2 Channels" value="FortyEight" />
-> 	<ctl name="SEC_TDM_TX_2 SampleRate" value="KHZ_11P025" />
-> 	<ctl name="SEC_TDM_RX_2 SampleRate" value="KHZ_11P025" />
-> 	<ctl name="SEC_TDM_TX_2 Format" value="S4_LE" />
-> 	<ctl name="SEC_TDM_RX_2 Format" value="S4_LE" />
-> 	<ctl name="SEC_TDM_TX_2 Audio Mixer MultiMedia5" value="1" />
-> 	<ctl name="SEC_TDM_RX_2 Audio Mixer MultiMedia5" value="1" />
-> 	<ctl name="SEC_TDM_TX_3 Channels" value="FortyEight" />
-> 	<ctl name="SEC_TDM_RX_3 Channels" value="FortyEight" />
-> 	<ctl name="SEC_TDM_TX_3 SampleRate" value="KHZ_11P025" />
-> 	<ctl name="SEC_TDM_RX_3 SampleRate" value="KHZ_11P025" />
-> 	<ctl name="SEC_TDM_TX_3 Format" value="S4_LE" />
-> 	<ctl name="SEC_TDM_RX_3 Format" value="S4_LE" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia4" value="1" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia4" value="1" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia6" value="1" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia6" value="1" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia7" value="1" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia7" value="1" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia10" value="1" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia10" value="1" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia11" value="1" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia11" value="1" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia12" value="1" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia12" value="1" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia13" value="1" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia13" value="1" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia14" value="1" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia14" value="1" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia15" value="1" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia15" value="1" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia16" value="1" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia16" value="1" />
-> 	</path>
-> 	
-> 	<!-- Welcome to the QuadDAC direct output speaker_liquid -->
-> 	
-> 	<!-- DAC 0 = low-range -->
-> 	<!-- DAC 1 = mid-range -->
-> 	<!-- DAC 2 = high-range -->
-> 	<!-- DAC 3 = offload -->
-> 	
-> 	<!-- You must divide everything by 4 from speaker_liquid -->
-> 	<!-- Except the channels, they need to be divided by 8 because of Stereo -->
-> 	
-> 	<!-- speaker_liquid is set to channels: 3072 -->
-> 	<!-- 3072 divided by 8 = 384 -->
-> 	
-> 	<!-- speaker_liquid is set to kilohertz: 44.1 -->
-> 	<!-- 44.1 divided by 4 = 11.025 -->
-> 	
-> 	<!-- speaker_liquid is set to bit rate: 24 -->
-> 	<!-- 24 divided by 4 = 6 -->
-> 	
-> 	<path name="dop-playback_speaker_liquid tert-mi2s-headphones">
-> 	<ctl name="SEC_TDM_TX_0 Channels" value="ThreeHundredEightyFour" />
-> 	<ctl name="SEC_TDM_RX_0 Channels" value="ThreeHundredEightyFour" />
-> 	<ctl name="SEC_TDM_TX_0 SampleRate" value="KHZ_11P025" />
-> 	<ctl name="SEC_TDM_RX_0 SampleRate" value="KHZ_11P025" />
-> 	<ctl name="SEC_TDM_TX_0 Format" value="S6_LE" />
-> 	<ctl name="SEC_TDM_RX_0 Format" value="S6_LE" />
-> 	<ctl name="SEC_TDM_TX_0 Audio Mixer MultiMedia1" value="2" />
-> 	<ctl name="SEC_TDM_RX_0 Audio Mixer MultiMedia1" value="2" />
-> 	<ctl name="SEC_TDM_TX_1 Channels" value="ThreeHundredEightyFour" />
-> 	<ctl name="SEC_TDM_RX_1 Channels" value="ThreeHundredEightyFour" />
-> 	<ctl name="SEC_TDM_TX_1 SampleRate" value="KHZ_11P025" />
-> 	<ctl name="SEC_TDM_RX_1 SampleRate" value="KHZ_11P025" />
-> 	<ctl name="SEC_TDM_TX_1 Format" value="S6_LE" />
-> 	<ctl name="SEC_TDM_RX_1 Format" value="S6_LE" />
-> 	<ctl name="SEC_TDM_TX_1 Audio Mixer MultiMedia3" value="2" />
-> 	<ctl name="SEC_TDM_RX_1 Audio Mixer MultiMedia3" value="2" />
-> 	<ctl name="SEC_TDM_TX_2 Channels" value="ThreeHundredEightyFour" />
-> 	<ctl name="SEC_TDM_RX_2 Channels" value="ThreeHundredEightyFour" />
-> 	<ctl name="SEC_TDM_TX_2 SampleRate" value="KHZ_11P025" />
-> 	<ctl name="SEC_TDM_RX_2 SampleRate" value="KHZ_11P025" />
-> 	<ctl name="SEC_TDM_TX_2 Format" value="S6_LE" />
-> 	<ctl name="SEC_TDM_RX_2 Format" value="S6_LE" />
-> 	<ctl name="SEC_TDM_TX_2 Audio Mixer MultiMedia5" value="2" />
-> 	<ctl name="SEC_TDM_RX_2 Audio Mixer MultiMedia5" value="2" />
-> 	<ctl name="SEC_TDM_TX_3 Channels" value="ThreeHundredEightyFour" />
-> 	<ctl name="SEC_TDM_RX_3 Channels" value="ThreeHundredEightyFour" />
-> 	<ctl name="SEC_TDM_TX_3 SampleRate" value="KHZ_11P025" />
-> 	<ctl name="SEC_TDM_RX_3 SampleRate" value="KHZ_11P025" />
-> 	<ctl name="SEC_TDM_TX_3 Format" value="S6_LE" />
-> 	<ctl name="SEC_TDM_RX_3 Format" value="S6_LE" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia4" value="2" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia4" value="2" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia6" value="2" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia6" value="2" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia7" value="2" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia7" value="2" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia10" value="2" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia10" value="2" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia11" value="2" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia11" value="2" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia12" value="2" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia12" value="2" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia13" value="2" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia13" value="2" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia14" value="2" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia14" value="2" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia15" value="2" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia15" value="2" />
-> 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia16" value="2" />
-> 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia16" value="2" />
-> 	</path>
-> 	
 > 	<!-- Welcome to the QuadDAC direct output speaker_16bit -->
 > 	
 > 	<!-- DAC 0 = low-range -->
@@ -33117,10 +31674,9 @@
 > 	<!-- DAC 3 = offload -->
 > 	
 > 	<!-- You must divide everything by 4 from speaker_16bit -->
-> 	<!-- Except the channels, they need to be divided by 8 because of Stereo -->
 > 	
-> 	<!-- speaker_16bit is set to channels: 24576 -->
-> 	<!-- 24576 divided by 8 = 3072 -->
+> 	<!-- speaker_16bit is set to channels: 6144 -->
+> 	<!-- 6144 divided by 4 = 1536 -->
 > 	
 > 	<!-- speaker_16bit is set to kilohertz: 705.6 -->
 > 	<!-- 705.6 divided by 4 = 176.4 -->
@@ -33129,32 +31685,32 @@
 > 	<!-- 256 divided by 4 = 64 -->
 > 	
 > 	<path name="dop-playback_speaker_16bit tert-mi2s-headphones">
-> 	<ctl name="SEC_TDM_TX_0 Channels" value="ThreeThousandSeventyTwo" />
-> 	<ctl name="SEC_TDM_RX_0 Channels" value="ThreeThousandSeventyTwo" />
+> 	<ctl name="SEC_TDM_TX_0 Channels" value="OneThousandFiveHundredThirtySix" />
+> 	<ctl name="SEC_TDM_RX_0 Channels" value="OneThousandFiveHundredThirtySix" />
 > 	<ctl name="SEC_TDM_TX_0 SampleRate" value="KHZ_176P4" />
 > 	<ctl name="SEC_TDM_RX_0 SampleRate" value="KHZ_176P4" />
 > 	<ctl name="SEC_TDM_TX_0 Format" value="S64_LE" />
 > 	<ctl name="SEC_TDM_RX_0 Format" value="S64_LE" />
 > 	<ctl name="SEC_TDM_TX_0 Audio Mixer MultiMedia1" value="2" />
 > 	<ctl name="SEC_TDM_RX_0 Audio Mixer MultiMedia1" value="2" />
-> 	<ctl name="SEC_TDM_TX_1 Channels" value="ThreeThousandSeventyTwo" />
-> 	<ctl name="SEC_TDM_RX_1 Channels" value="ThreeThousandSeventyTwo" />
+> 	<ctl name="SEC_TDM_TX_1 Channels" value="OneThousandFiveHundredThirtySix" />
+> 	<ctl name="SEC_TDM_RX_1 Channels" value="OneThousandFiveHundredThirtySix" />
 > 	<ctl name="SEC_TDM_TX_1 SampleRate" value="KHZ_176P4" />
 > 	<ctl name="SEC_TDM_RX_1 SampleRate" value="KHZ_176P4" />
 > 	<ctl name="SEC_TDM_TX_1 Format" value="S64_LE" />
 > 	<ctl name="SEC_TDM_RX_1 Format" value="S64_LE" />
 > 	<ctl name="SEC_TDM_TX_1 Audio Mixer MultiMedia3" value="2" />
 > 	<ctl name="SEC_TDM_RX_1 Audio Mixer MultiMedia3" value="2" />
-> 	<ctl name="SEC_TDM_TX_2 Channels" value="ThreeThousandSeventyTwo" />
-> 	<ctl name="SEC_TDM_RX_2 Channels" value="ThreeThousandSeventyTwo" />
+> 	<ctl name="SEC_TDM_TX_2 Channels" value="OneThousandFiveHundredThirtySix" />
+> 	<ctl name="SEC_TDM_RX_2 Channels" value="OneThousandFiveHundredThirtySix" />
 > 	<ctl name="SEC_TDM_TX_2 SampleRate" value="KHZ_176P4" />
 > 	<ctl name="SEC_TDM_RX_2 SampleRate" value="KHZ_176P4" />
 > 	<ctl name="SEC_TDM_TX_2 Format" value="S64_LE" />
 > 	<ctl name="SEC_TDM_RX_2 Format" value="S64_LE" />
 > 	<ctl name="SEC_TDM_TX_2 Audio Mixer MultiMedia5" value="2" />
 > 	<ctl name="SEC_TDM_RX_2 Audio Mixer MultiMedia5" value="2" />
-> 	<ctl name="SEC_TDM_TX_3 Channels" value="ThreeThousandSeventyTwo" />
-> 	<ctl name="SEC_TDM_RX_3 Channels" value="ThreeThousandSeventyTwo" />
+> 	<ctl name="SEC_TDM_TX_3 Channels" value="OneThousandFiveHundredThirtySix" />
+> 	<ctl name="SEC_TDM_RX_3 Channels" value="OneThousandFiveHundredThirtySix" />
 > 	<ctl name="SEC_TDM_TX_3 SampleRate" value="KHZ_176P4" />
 > 	<ctl name="SEC_TDM_RX_3 SampleRate" value="KHZ_176P4" />
 > 	<ctl name="SEC_TDM_TX_3 Format" value="S64_LE" />
@@ -33189,10 +31745,9 @@
 > 	<!-- DAC 3 = offload -->
 > 	
 > 	<!-- You must divide everything by 4 from speaker_24bit -->
-> 	<!-- Except the channels, they need to be divided by 8 because of Stereo -->
 > 	
-> 	<!-- speaker_24bit is set to channels: 24576 -->
-> 	<!-- 24576 divided by 8 = 3072 -->
+> 	<!-- speaker_24bit is set to channels: 6144 -->
+> 	<!-- 6144 divided by 4 = 1536 -->
 > 	
 > 	<!-- speaker_24bit is set to kilohertz: 705.6 -->
 > 	<!-- 705.6 divided by 4 = 176.4 -->
@@ -33201,32 +31756,32 @@
 > 	<!-- 384 divided by 4 = 96 -->
 > 	
 > 	<path name="dop-playback_speaker_24bit tert-mi2s-headphones">
-> 	<ctl name="SEC_TDM_TX_0 Channels" value="ThreeThousandSeventyTwo" />
-> 	<ctl name="SEC_TDM_RX_0 Channels" value="ThreeThousandSeventyTwo" />
+> 	<ctl name="SEC_TDM_TX_0 Channels" value="OneThousandFiveHundredThirtySix" />
+> 	<ctl name="SEC_TDM_RX_0 Channels" value="OneThousandFiveHundredThirtySix" />
 > 	<ctl name="SEC_TDM_TX_0 SampleRate" value="KHZ_176P4" />
 > 	<ctl name="SEC_TDM_RX_0 SampleRate" value="KHZ_176P4" />
 > 	<ctl name="SEC_TDM_TX_0 Format" value="S96_LE" />
 > 	<ctl name="SEC_TDM_RX_0 Format" value="S96_LE" />
 > 	<ctl name="SEC_TDM_TX_0 Audio Mixer MultiMedia1" value="2" />
 > 	<ctl name="SEC_TDM_RX_0 Audio Mixer MultiMedia1" value="2" />
-> 	<ctl name="SEC_TDM_TX_1 Channels" value="ThreeThousandSeventyTwo" />
-> 	<ctl name="SEC_TDM_RX_1 Channels" value="ThreeThousandSeventyTwo" />
+> 	<ctl name="SEC_TDM_TX_1 Channels" value="OneThousandFiveHundredThirtySix" />
+> 	<ctl name="SEC_TDM_RX_1 Channels" value="OneThousandFiveHundredThirtySix" />
 > 	<ctl name="SEC_TDM_TX_1 SampleRate" value="KHZ_176P4" />
 > 	<ctl name="SEC_TDM_RX_1 SampleRate" value="KHZ_176P4" />
 > 	<ctl name="SEC_TDM_TX_1 Format" value="S96_LE" />
 > 	<ctl name="SEC_TDM_RX_1 Format" value="S96_LE" />
 > 	<ctl name="SEC_TDM_TX_1 Audio Mixer MultiMedia3" value="2" />
 > 	<ctl name="SEC_TDM_RX_1 Audio Mixer MultiMedia3" value="2" />
-> 	<ctl name="SEC_TDM_TX_2 Channels" value="ThreeThousandSeventyTwo" />
-> 	<ctl name="SEC_TDM_RX_2 Channels" value="ThreeThousandSeventyTwo" />
+> 	<ctl name="SEC_TDM_TX_2 Channels" value="OneThousandFiveHundredThirtySix" />
+> 	<ctl name="SEC_TDM_RX_2 Channels" value="OneThousandFiveHundredThirtySix" />
 > 	<ctl name="SEC_TDM_TX_2 SampleRate" value="KHZ_176P4" />
 > 	<ctl name="SEC_TDM_RX_2 SampleRate" value="KHZ_176P4" />
 > 	<ctl name="SEC_TDM_TX_2 Format" value="S96_LE" />
 > 	<ctl name="SEC_TDM_RX_2 Format" value="S96_LE" />
 > 	<ctl name="SEC_TDM_TX_2 Audio Mixer MultiMedia5" value="2" />
 > 	<ctl name="SEC_TDM_RX_2 Audio Mixer MultiMedia5" value="2" />
-> 	<ctl name="SEC_TDM_TX_3 Channels" value="ThreeThousandSeventyTwo" />
-> 	<ctl name="SEC_TDM_RX_3 Channels" value="ThreeThousandSeventyTwo" />
+> 	<ctl name="SEC_TDM_TX_3 Channels" value="OneThousandFiveHundredThirtySix" />
+> 	<ctl name="SEC_TDM_RX_3 Channels" value="OneThousandFiveHundredThirtySix" />
 > 	<ctl name="SEC_TDM_TX_3 SampleRate" value="KHZ_176P4" />
 > 	<ctl name="SEC_TDM_RX_3 SampleRate" value="KHZ_176P4" />
 > 	<ctl name="SEC_TDM_TX_3 Format" value="S96_LE" />
@@ -33741,68 +32296,10 @@
 > 	<ctl name="HphRight SWR DAC_Port Switch" value="2" />
 > 	</path>
 > 	
-> 	<path name="headphone_fluid">
-> 	<path name="true-native-mode-HPH-mono" />
-> 	<ctl name="SLIM_11_TX Channels" value="OneHundredNinetyTwo" />
-> 	<ctl name="SLIM_11_RX Channels" value="OneHundredNinetyTwo" />
-> 	<ctl name="SLIM_11_TX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_11_RX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_11_TX Format" value="S16_LE" />
-> 	<ctl name="SLIM_11_RX Format" value="S16_LE" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="84" />
-> 	<ctl name="RX1 Digital Volume" value="84" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="84" />
-> 	<ctl name="RX1 Mix Digital Volume" value="84" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="headphone" />
-> 	</path>
-> 	
-> 	<path name="headphone_liquid">
-> 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIM_12_TX Channels" value="ThreeThousandSeventyTwo" />
-> 	<ctl name="SLIM_12_RX Channels" value="ThreeThousandSeventyTwo" />
-> 	<ctl name="SLIM_12_TX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_12_RX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_12_TX Format" value="S24_LE" />
-> 	<ctl name="SLIM_12_RX Format" value="S24_LE" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="84" />
-> 	<ctl name="RX1 Digital Volume" value="84" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="84" />
-> 	<ctl name="RX1 Mix Digital Volume" value="84" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="84" />
-> 	<ctl name="RX2 Digital Volume" value="84" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="84" />
-> 	<ctl name="RX2 Mix Digital Volume" value="84" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="headphone" />
-> 	</path>
-> 	
 > 	<path name="bluetooth_16bit">
 > 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIM_7_TX Channels" value="ThreeThousandSeventyTwo" />
-> 	<ctl name="SLIM_7_RX Channels" value="ThreeThousandSeventyTwo" />
+> 	<ctl name="SLIM_7_TX Channels" value="OneThousandFiveHundredThirtySix" />
+> 	<ctl name="SLIM_7_RX Channels" value="OneThousandFiveHundredThirtySix" />
 > 	<ctl name="SLIM_7_TX SampleRate" value="KHZ_44P1" />
 > 	<ctl name="SLIM_7_RX SampleRate" value="KHZ_44P1" />
 > 	<ctl name="SLIM_7_TX Format" value="S16_LE" />
@@ -33830,8 +32327,8 @@
 > 	
 > 	<path name="bluetooth_24bit">
 > 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIM_8_TX Channels" value="ThreeThousandSeventyTwo" />
-> 	<ctl name="SLIM_8_RX Channels" value="ThreeThousandSeventyTwo" />
+> 	<ctl name="SLIM_8_TX Channels" value="OneThousandFiveHundredThirtySix" />
+> 	<ctl name="SLIM_8_RX Channels" value="OneThousandFiveHundredThirtySix" />
 > 	<ctl name="SLIM_8_TX SampleRate" value="KHZ_44P1" />
 > 	<ctl name="SLIM_8_RX SampleRate" value="KHZ_44P1" />
 > 	<ctl name="SLIM_8_TX Format" value="S24_LE" />
@@ -33859,8 +32356,8 @@
 > 	
 > 	<path name="headphone_16bit">
 > 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIM_9_TX Channels" value="ThreeThousandSeventyTwo" />
-> 	<ctl name="SLIM_9_RX Channels" value="ThreeThousandSeventyTwo" />
+> 	<ctl name="SLIM_9_TX Channels" value="OneThousandFiveHundredThirtySix" />
+> 	<ctl name="SLIM_9_RX Channels" value="OneThousandFiveHundredThirtySix" />
 > 	<ctl name="SLIM_9_TX SampleRate" value="KHZ_44P1" />
 > 	<ctl name="SLIM_9_RX SampleRate" value="KHZ_44P1" />
 > 	<ctl name="SLIM_9_TX Format" value="S16_LE" />
@@ -33934,8 +32431,8 @@
 > 	
 > 	<path name="headphone_24bit">
 > 	<path name="true-native-mode-HPH" />
-> 	<ctl name="SLIM_10_TX Channels" value="ThreeThousandSeventyTwo" />
-> 	<ctl name="SLIM_10_RX Channels" value="ThreeThousandSeventyTwo" />
+> 	<ctl name="SLIM_10_TX Channels" value="OneThousandFiveHundredThirtySix" />
+> 	<ctl name="SLIM_10_RX Channels" value="OneThousandFiveHundredThirtySix" />
 > 	<ctl name="SLIM_10_TX SampleRate" value="KHZ_44P1" />
 > 	<ctl name="SLIM_10_RX SampleRate" value="KHZ_44P1" />
 > 	<ctl name="SLIM_10_TX Format" value="S24_LE" />
@@ -34012,69 +32509,10 @@
 > 	<path name="headphone" />
 > 	</path>
 > 	
-> 	<path name="vbat_headphone_fluid">
-> 	<path name="true-native-mode-HPH-vbat-mono" />
-> 	<ctl name="SLIM_11_TX Channels" value="OneHundredNinetyTwo" />
-> 	<ctl name="SLIM_11_RX Channels" value="OneHundredNinetyTwo" />
-> 	<ctl name="SLIM_11_TX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_11_RX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_11_TX Format" value="S16_LE" />
-> 	<ctl name="SLIM_11_RX Format" value="S16_LE" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="84" />
-> 	<ctl name="RX1 Digital Volume" value="84" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="84" />
-> 	<ctl name="RX1 Mix Digital Volume" value="84" />
-> 	<ctl name="2 Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Digital Volume" value="0" />
-> 	<ctl name="RX2 Digital Volume" value="0" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="OFF" />
-> 	<ctl name="TX2 Mix Digital Volume" value="0" />
-> 	<ctl name="RX2 Mix Digital Volume" value="0" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="OFF" />
-> 	<ctl name="TX HPHR Volume" value="0" />
-> 	<ctl name="RX HPHR Volume" value="0" />
-> 	<path name="vbat_headphone" />
-> 	</path>
-> 	
-> 	<path name="vbat_headphone_liquid">
-> 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIM_12_TX Channels" value="ThreeThousandSeventyTwo" />
-> 	<ctl name="SLIM_12_RX Channels" value="ThreeThousandSeventyTwo" />
-> 	<ctl name="SLIM_12_TX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_12_RX SampleRate" value="KHZ_44P1" />
-> 	<ctl name="SLIM_12_TX Format" value="S24_LE" />
-> 	<ctl name="SLIM_12_RX Format" value="S24_LE" />
-> 	<ctl name="1 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Digital Volume" value="84" />
-> 	<ctl name="RX1 Digital Volume" value="84" />
-> 	<ctl name="1 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX1 Mix Digital Volume" value="84" />
-> 	<ctl name="RX1 Mix Digital Volume" value="84" />
-> 	<ctl name="2 Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Digital Volume" value="84" />
-> 	<ctl name="RX2 Digital Volume" value="84" />
-> 	<ctl name="2 Mix Digital Volume Switch" value="ON" />
-> 	<ctl name="TX2 Mix Digital Volume" value="84" />
-> 	<ctl name="RX2 Mix Digital Volume" value="84" />
-> 	<ctl name="HPHL Volume Switch" value="ON" />
-> 	<ctl name="TX HPHL Volume" value="16" />
-> 	<ctl name="RX HPHL Volume" value="16" />
-> 	<ctl name="HPHR Volume Switch" value="ON" />
-> 	<ctl name="TX HPHR Volume" value="16" />
-> 	<ctl name="RX HPHR Volume" value="16" />
-> 	<path name="vbat_headphone" />
-> 	</path>
-> 	
-> 	
 > 	<path name="vbat_bluetooth_16bit">
 > 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIM_7_TX Channels" value="ThreeThousandSeventyTwo" />
-> 	<ctl name="SLIM_7_RX Channels" value="ThreeThousandSeventyTwo" />
+> 	<ctl name="SLIM_7_TX Channels" value="OneThousandFiveHundredThirtySix" />
+> 	<ctl name="SLIM_7_RX Channels" value="OneThousandFiveHundredThirtySix" />
 > 	<ctl name="SLIM_7_TX SampleRate" value="KHZ_44P1" />
 > 	<ctl name="SLIM_7_RX SampleRate" value="KHZ_44P1" />
 > 	<ctl name="SLIM_7_TX Format" value="S16_LE" />
@@ -34102,8 +32540,8 @@
 > 	
 > 	<path name="vbat_bluetooth_24bit">
 > 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIM_8_TX Channels" value="ThreeThousandSeventyTwo" />
-> 	<ctl name="SLIM_8_RX Channels" value="ThreeThousandSeventyTwo" />
+> 	<ctl name="SLIM_8_TX Channels" value="OneThousandFiveHundredThirtySix" />
+> 	<ctl name="SLIM_8_RX Channels" value="OneThousandFiveHundredThirtySix" />
 > 	<ctl name="SLIM_8_TX SampleRate" value="KHZ_44P1" />
 > 	<ctl name="SLIM_8_RX SampleRate" value="KHZ_44P1" />
 > 	<ctl name="SLIM_8_TX Format" value="S24_LE" />
@@ -34131,8 +32569,8 @@
 > 	
 > 	<path name="vbat_headphone_16bit">
 > 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIM_9_TX Channels" value="ThreeThousandSeventyTwo" />
-> 	<ctl name="SLIM_9_RX Channels" value="ThreeThousandSeventyTwo" />
+> 	<ctl name="SLIM_9_TX Channels" value="OneThousandFiveHundredThirtySix" />
+> 	<ctl name="SLIM_9_RX Channels" value="OneThousandFiveHundredThirtySix" />
 > 	<ctl name="SLIM_9_TX SampleRate" value="KHZ_44P1" />
 > 	<ctl name="SLIM_9_RX SampleRate" value="KHZ_44P1" />
 > 	<ctl name="SLIM_9_TX Format" value="S16_LE" />
@@ -34206,8 +32644,8 @@
 > 	
 > 	<path name="vbat_headphone_24bit">
 > 	<path name="true-native-mode-HPH-vbat" />
-> 	<ctl name="SLIM_10_TX Channels" value="ThreeThousandSeventyTwo" />
-> 	<ctl name="SLIM_10_RX Channels" value="ThreeThousandSeventyTwo" />
+> 	<ctl name="SLIM_10_TX Channels" value="OneThousandFiveHundredThirtySix" />
+> 	<ctl name="SLIM_10_RX Channels" value="OneThousandFiveHundredThirtySix" />
 > 	<ctl name="SLIM_10_TX SampleRate" value="KHZ_44P1" />
 > 	<ctl name="SLIM_10_RX SampleRate" value="KHZ_44P1" />
 > 	<ctl name="SLIM_10_TX Format" value="S24_LE" />
@@ -34386,54 +32824,6 @@
 > 	<!-- headset type 2 = high impedance mode -->
 > 	
 > 	<path name="headphones-hifi-dac">
-> 	<ctl name="Es9018 Master Volume" value="0" />
-> 	<ctl name="Es9018 AVC Volume" value="4" />
-> 	<ctl name="Es9018 HEADSET TYPE" value="2" />
-> 	</path>
-> 	
-> 	<path name="headphone-hifi-bluetooth_16bit">
-> 	<ctl name="Es9018 Master Volume" value="0" />
-> 	<ctl name="Es9018 AVC Volume" value="4" />
-> 	<ctl name="Es9018 HEADSET TYPE" value="2" />
-> 	</path>
-> 	
-> 	<path name="headphone-hifi-bluetooth_24bit">
-> 	<ctl name="Es9018 Master Volume" value="0" />
-> 	<ctl name="Es9018 AVC Volume" value="4" />
-> 	<ctl name="Es9018 HEADSET TYPE" value="2" />
-> 	</path>
-> 	
-> 	<path name="headphone-hifi-headphone_16bit">
-> 	<ctl name="Es9018 Master Volume" value="0" />
-> 	<ctl name="Es9018 AVC Volume" value="4" />
-> 	<ctl name="Es9018 HEADSET TYPE" value="2" />
-> 	</path>
-> 	
-> 	<path name="headphone-hifi-headphone_16bit_advanced">
-> 	<ctl name="Es9018 Master Volume" value="0" />
-> 	<ctl name="Es9018 AVC Volume" value="4" />
-> 	<ctl name="Es9018 HEADSET TYPE" value="2" />
-> 	</path>
-> 	
-> 	<path name="headphone-hifi-headphone_16bit_aux">
-> 	<ctl name="Es9018 Master Volume" value="0" />
-> 	<ctl name="Es9018 AVC Volume" value="4" />
-> 	<ctl name="Es9018 HEADSET TYPE" value="2" />
-> 	</path>
-> 	
-> 	<path name="headphone-hifi-headphone_24bit">
-> 	<ctl name="Es9018 Master Volume" value="0" />
-> 	<ctl name="Es9018 AVC Volume" value="4" />
-> 	<ctl name="Es9018 HEADSET TYPE" value="2" />
-> 	</path>
-> 	
-> 	<path name="headphone-hifi-headphone_24bit_advanced">
-> 	<ctl name="Es9018 Master Volume" value="0" />
-> 	<ctl name="Es9018 AVC Volume" value="4" />
-> 	<ctl name="Es9018 HEADSET TYPE" value="2" />
-> 	</path>
-> 	
-> 	<path name="headphone-hifi-headphone_24bit_aux">
 > 	<ctl name="Es9018 Master Volume" value="0" />
 > 	<ctl name="Es9018 AVC Volume" value="4" />
 > 	<ctl name="Es9018 HEADSET TYPE" value="2" />
@@ -35146,7 +33536,7 @@
 > 	<path name="speaker-protected" />
 > 	</path>
 > 	<!-- TERT MI2S A2DP OFFLOAD end -->
-3899a31309,31311
+3899a29699,29701
 > 	
 > 	
 > 	<!-- Bottom of page -->

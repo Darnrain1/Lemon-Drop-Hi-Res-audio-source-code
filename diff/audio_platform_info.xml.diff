@@ -113,7 +113,7 @@
 >         <device name="SND_DEVICE_LGE_OUT_VOICE_HEADPHONES_ADVANCED" backend="headphones" interface="SLIMBUS_6_TX" />
 67a131
 >         <device name="SND_DEVICE_LGE_OUT_VOICE_HEADPHONES_AUX" backend="headphones" interface="SLIMBUS_6_TX" />
-69,71c133,159
+69,71c133,141
 <         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT" backend="headphones" interface="SLIMBUS_6_RX" />
 <         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_ADVANCED" backend="headphones" interface="SLIMBUS_6_RX" />
 <         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_AUX" backend="headphones" interface="SLIMBUS_6_RX" />
@@ -124,35 +124,17 @@
 >         <!-- <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_ADVANCED" backend="headphones" interface="SLIMBUS_6_RX" /> -->
 >         <!-- <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_AUX" backend="headphones" interface="SLIMBUS_6_RX" /> -->
 > 
-> 	<!-- added -->
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_BLUETOOTH_16bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_TX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_BLUETOOTH_16bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_RX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_BLUETOOTH_24bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_TX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_BLUETOOTH_24bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_RX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_HEADPHONE_16bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_TX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_HEADPHONE_16bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_RX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_HEADPHONE_16bit_ADVANCED" backend="headphone_16bit tert-mi2s-headphones" interface="SEC_MI2S_TX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_HEADPHONE_16bit_ADVANCED" backend="headphone_16bit tert-mi2s-headphones" interface="SEC_MI2S_RX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_HEADPHONE_16bit_AUX" backend="headphone_16bit tert-mi2s-headphones" interface="SEC_MI2S_TX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_HEADPHONE_16bit_AUX" backend="headphone_16bit tert-mi2s-headphones" interface="SEC_MI2S_RX" />
-> 		<device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_HEADPHONE_24bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_TX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_HEADPHONE_24bit" backend="headphone tert-mi2s-headphones" interface="SEC_MI2S_RX" />
-> 		<device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_HEADPHONE_24bit_ADVANCED" backend="headphone_24bit tert-mi2s-headphones" interface="SEC_MI2S_TX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_HEADPHONE_24bit_ADVANCED" backend="headphone_24bit tert-mi2s-headphones" interface="SEC_MI2S_RX" />
-> 		<device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_HEADPHONE_24bit_AUX" backend="headphone_24bit tert-mi2s-headphones" interface="SEC_MI2S_TX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_HIFI_HEADPHONE_24bit_AUX" backend="headphone_24bit tert-mi2s-headphones" interface="SEC_MI2S_RX" />
-> 
 >         <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_DAC" backend="headphones tert-mi2s-headphones" interface="SEC_MI2S_TX" />
 >         <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_DAC" backend="headphones tert-mi2s-headphones" interface="SEC_MI2S_RX" />
 >         <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_DAC" backend="headphones tert-mi2s-headphones" interface="SEC_MI2S_TX" />
-72a161
+72a143
 >         <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_DAC_ADVANCED" backend="headphones tert-mi2s-headphones" interface="SEC_MI2S_TX" />
-73a163
+73a145
 >         <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_DAC_AUX" backend="headphones tert-mi2s-headphones" interface="SEC_MI2S_TX" />
-74a165
+74a147
 >         <device name="SND_DEVICE_LGE_OUT_SPEAKER_AND_HEADPHONES_ADVANCED" backend="speaker-and-headphones" interface="SLIMBUS_0_RX-and-SLIMBUS_6_TX"/>
-75a167
+75a149
 >         <device name="SND_DEVICE_LGE_OUT_SPEAKER_AND_HEADPHONES_AUX" backend="speaker-and-headphones" interface="SLIMBUS_0_RX-and-SLIMBUS_6_TX"/>
-78a171,172
+78a153,154
 > 
 > 	<!-- Lemon Drop Hi-Res start of mods -->

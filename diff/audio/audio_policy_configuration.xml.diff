@@ -10,3 +10,7 @@
 ---
 >                     <profile name="" format="AUDIO_FORMAT_PCM_24_BIT_PACKED"
 >                              samplingRates="44100" channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
+74c74
+<                     <profile name="" format="AUDIO_FORMAT_PCM_16_BIT"
+---
+>                     <profile name="" format="AUDIO_FORMAT_PCM_24_BIT_PACKED"
