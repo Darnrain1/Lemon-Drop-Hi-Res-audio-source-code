@@ -25,7 +25,7 @@ If your curious on how I found the True Native Mode code, I will show you. Someo
 ### What is True Native Mode on a computer?
 "(1) The normal running mode of a computer, executing programs from its built-in instruction set. Contrast with emulation mode. See native language. (2) The highest performance state of a computer."<br>
 
-### What is True Native Mode?
+### What is True Native Mode on the Saber ESS 9218 QuadDAC?
 * **True Stereo Processing:** It corrects a fundamental flaw in how most smartphones handle audio. Instead of a "mono-stereo" mode that splits a single data stream into two channels, the mod sets a specific control to value="2". This forces the audio DSP to handle the left and right channels as two completely separate and independent data streams from start to finish, restoring a wide and accurate soundstage.<br>
 * **Multiband Digital Filtering:** This is the heart of the mod's sophistication. The audio signal is not treated as a single stream. Instead, it is intelligently divided into separate frequency bands (lows, mids, and highs). This allows for targeted and precise processing of each part of the audio spectrum.<br>
 * **Multibit Parallel Processing:** The "6144 virtual channels" are the mechanism for this. After the multiband filter separates the signal, the Quad DAC's four converters work in parallel on these thousands of tiny bits of audio data. This massive parallelization and flawless timing virtually eliminate common audio issues like jitter and distortion, resulting in a sound that is exceptionally clean and clear.<br>
