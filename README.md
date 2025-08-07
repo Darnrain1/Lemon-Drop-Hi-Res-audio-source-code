@@ -25,8 +25,8 @@ If your curious on how I found the True Native Mode code, I will show you. Someo
 ### What is True Native Mode on a computer?
 "(1) The normal running mode of a computer, executing programs from its built-in instruction set. Contrast with emulation mode. See native language. (2) The highest performance state of a computer."<br>
 
-### What is True Native Mode on the Saber ESS 9218 DAC?<br>
-The highest performance state of a of the QuadDAC, or the best audio the QuadDAC can produce.<br>
+### What is True Native Mode on the Saber ESS 9218 QuadDAC?<br>
+True Native Mode Short Answer - it fixes a common flaw in smartphone audio. While most phones operate in a "mono-stereo" mode that splits a single audio signal, this mod forces the phone to process audio as true stereo.<br>
 
 ### What do I need to set my 24bit Hi-Res music player at?
 You need to choose 24bit Hi-Res at 44.1kHz as the source, that's how I programed the DAC, it takes a 44.1kHz audio and up-samplese the audio.<br>
