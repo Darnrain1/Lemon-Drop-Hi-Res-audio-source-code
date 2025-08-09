@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble 24bit v362.1 -->
+	<!-- Lemon Drop Hi-Res treble 24bit v363.3 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 	<!-- Designed and created by Darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -147,10 +147,10 @@
 	<!-- SLIM_4_RX SLIM_4_TX = speaker-protected speaker-protected-voice -->
 	<!-- SLIM_5_RX SLIM_5_TX = not in use -->
 	<!-- SLIM_6_RX SLIM_6_TX = headphones aka wired headphones 16bit FM Radio & headphones-phone -->
-	<!-- SLIM_7_RX SLIM_7_TX = bluetooth_16bit -->
-	<!-- SLIM_8_RX SLIM_8_TX = bluetooth_24bit -->
-	<!-- SLIM_9_RX SLIM_9_TX = headphone_16bit -->
-	<!-- SLIM_10_RX SLIM_10_TX = headphone_24bit -->
+	<!-- SLIM_7_RX SLIM_7_TX = bluetooth_16bit_44.1 -->
+	<!-- SLIM_8_RX SLIM_8_TX = bluetooth_24bit_44.1 -->
+	<!-- SLIM_9_RX SLIM_9_TX = headphone_16bit_44.1 -->
+	<!-- SLIM_10_RX SLIM_10_TX = headphone_24bit_44.1 -->
 	<!-- SLIM_11_RX SLIM_11_TX = headphone_fluid -->
 	<!-- SLIM_12_RX SLIM_12_TX = headphone_liquid -->
 	
@@ -15137,7 +15137,7 @@
 	<!-- Lemon Drop Hi-Res start of mods -->
 	
 	<!-- Deleted -->
-	<!-- <path name="echo-reference headphones-44.1"> -->
+	<!-- <path name="echo-reference headphones_44.1"> -->
 	<!--     <ctl name="AUDIO_REF_EC_UL1 MUX" value="SLIM_1_TX" /> -->
 	<!-- </path> -->
 	
@@ -15176,7 +15176,7 @@
 	<path name="deep-buffer-playback speaker" />
 	</path>
 	
-	<path name="deep-buffer-playback bluetooth_16bit">
+	<path name="deep-buffer-playback bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia1" value="2" />
@@ -15201,7 +15201,7 @@
 	<path name="deep-buffer-playback speaker" />
 	</path>
 	
-	<path name="deep-buffer-playback bluetooth_24bit">
+	<path name="deep-buffer-playback bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia1" value="2" />
@@ -15226,7 +15226,7 @@
 	<path name="deep-buffer-playback speaker" />
 	</path>
 	
-	<path name="deep-buffer-playback headphone_16bit">
+	<path name="deep-buffer-playback headphone_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia1" value="2" />
@@ -15251,7 +15251,7 @@
 	<path name="deep-buffer-playback speaker" />
 	</path>
 	
-	<path name="deep-buffer-playback headphone_24bit">
+	<path name="deep-buffer-playback headphone_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia1" value="2" />
@@ -15301,7 +15301,7 @@
 	<path name="vbat_deep-buffer-playback vbat_speaker" />
 	</path>
 	
-	<path name="vbat_deep-buffer-playback bluetooth_16bit">
+	<path name="vbat_deep-buffer-playback bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia1" value="2" />
@@ -15326,7 +15326,7 @@
 	<path name="vbat_deep-buffer-playback vbat_speaker" />
 	</path>
 	
-	<path name="vbat_deep-buffer-playback bluetooth_24bit">
+	<path name="vbat_deep-buffer-playback bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia1" value="2" />
@@ -15351,7 +15351,7 @@
 	<path name="vbat_deep-buffer-playback vbat_speaker" />
 	</path>
 	
-	<path name="vbat_deep-buffer-playback headphone_16bit">
+	<path name="vbat_deep-buffer-playback headphone_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia1" value="2" />
@@ -15376,7 +15376,7 @@
 	<path name="vbat_deep-buffer-playback vbat_speaker" />
 	</path>
 	
-	<path name="vbat_deep-buffer-playback headphone_24bit">
+	<path name="vbat_deep-buffer-playback headphone_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia1" value="2" />
@@ -15483,7 +15483,7 @@
 	<path name="low-latency-playback speaker" />
 	</path>
 	
-	<path name="low-latency-playback bluetooth_16bit">
+	<path name="low-latency-playback bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia5" value="2" />
@@ -15508,7 +15508,7 @@
 	<path name="low-latency-playback speaker" />
 	</path>
 	
-	<path name="low-latency-playback bluetooth_24bit">
+	<path name="low-latency-playback bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia5" value="2" />
@@ -15533,7 +15533,7 @@
 	<path name="low-latency-playback speaker" />
 	</path>
 	
-	<path name="low-latency-playback headphone_16bit">
+	<path name="low-latency-playback headphone_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia5" value="2" />
@@ -15558,7 +15558,7 @@
 	<path name="low-latency-playback speaker" />
 	</path>
 	
-	<path name="low-latency-playback headphone_24bit">
+	<path name="low-latency-playback headphone_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia5" value="2" />
@@ -15608,7 +15608,7 @@
 	<path name="vbat_low-latency-playback vbat_speaker" />
 	</path>
 	
-	<path name="vbat_low-latency-playback bluetooth_16bit">
+	<path name="vbat_low-latency-playback bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia5" value="2" />
@@ -15633,7 +15633,7 @@
 	<path name="vbat_low-latency-playback vbat_speaker" />
 	</path>
 	
-	<path name="vbat_low-latency-playback bluetooth_24bit">
+	<path name="vbat_low-latency-playback bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia5" value="2" />
@@ -15658,7 +15658,7 @@
 	<path name="vbat_low-latency-playback vbat_speaker" />
 	</path>
 	
-	<path name="vbat_low-latency-playback headphone_16bit">
+	<path name="vbat_low-latency-playback headphone_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia5" value="2" />
@@ -15683,7 +15683,7 @@
 	<path name="vbat_low-latency-playback vbat_speaker" />
 	</path>
 	
-	<path name="vbat_low-latency-playback headphone_24bit">
+	<path name="vbat_low-latency-playback headphone_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia5" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia5" value="2" />
@@ -15790,7 +15790,7 @@
 	<path name="audio-ull-playback speaker" />
 	</path>
 	
-	<path name="audio-ull-playback bluetooth_16bit">
+	<path name="audio-ull-playback bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia3" value="2" />
@@ -15815,7 +15815,7 @@
 	<path name="audio-ull-playback speaker" />
 	</path>
 	
-	<path name="audio-ull-playback bluetooth_24bit">
+	<path name="audio-ull-playback bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia3" value="2" />
@@ -15840,7 +15840,7 @@
 	<path name="audio-ull-playback speaker" />
 	</path>
 	
-	<path name="audio-ull-playback headphone_16bit">
+	<path name="audio-ull-playback headphone_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia3" value="2" />
@@ -15865,7 +15865,7 @@
 	<path name="audio-ull-playback speaker" />
 	</path>
 	
-	<path name="audio-ull-playback headphone_24bit">
+	<path name="audio-ull-playback headphone_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia3" value="2" />
@@ -15915,7 +15915,7 @@
 	<path name="vbat_audio-ull-playback vbat_speaker" />
 	</path>
 	
-	<path name="vbat_audio-ull-playback bluetooth_16bit">
+	<path name="vbat_audio-ull-playback bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia3" value="2" />
@@ -15940,7 +15940,7 @@
 	<path name="vbat_audio-ull-playback vbat_speaker" />
 	</path>
 	
-	<path name="vbat_audio-ull-playback bluetooth_24bit">
+	<path name="vbat_audio-ull-playback bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia3" value="2" />
@@ -15965,7 +15965,7 @@
 	<path name="vbat_audio-ull-playback vbat_speaker" />
 	</path>
 	
-	<path name="vbat_audio-ull-playback headphone_16bit">
+	<path name="vbat_audio-ull-playback headphone_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia3" value="2" />
@@ -15990,7 +15990,7 @@
 	<path name="vbat_audio-ull-playback vbat_speaker" />
 	</path>
 	
-	<path name="vbat_audio-ull-playback headphone_24bit">
+	<path name="vbat_audio-ull-playback headphone_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia3" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia3" value="2" />
@@ -16093,7 +16093,7 @@
 	<path name="compress-offload-playback speaker" />
 	</path>
 	
-	<path name="compress-offload-playback bluetooth_16bit">
+	<path name="compress-offload-playback bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia4" value="2" />
@@ -16118,7 +16118,7 @@
 	<path name="compress-offload-playback speaker" />
 	</path>
 	
-	<path name="compress-offload-playback bluetooth_24bit">
+	<path name="compress-offload-playback bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia4" value="2" />
@@ -16143,7 +16143,7 @@
 	<path name="compress-offload-playback speaker" />
 	</path>
 	
-	<path name="compress-offload-playback headphone_16bit">
+	<path name="compress-offload-playback headphone_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia4" value="2" />
@@ -16168,7 +16168,7 @@
 	<path name="compress-offload-playback speaker" />
 	</path>
 	
-	<path name="compress-offload-playback headphone_24bit">
+	<path name="compress-offload-playback headphone_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia4" value="2" />
@@ -16218,7 +16218,7 @@
 	<path name="vbat_compress-offload-playback vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback bluetooth_16bit">
+	<path name="vbat_compress-offload-playback bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia4" value="2" />
@@ -16243,7 +16243,7 @@
 	<path name="vbat_compress-offload-playback vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback bluetooth_24bit">
+	<path name="vbat_compress-offload-playback bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia4" value="2" />
@@ -16268,7 +16268,7 @@
 	<path name="vbat_compress-offload-playback vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback headphone_16bit">
+	<path name="vbat_compress-offload-playback headphone_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia4" value="2" />
@@ -16293,7 +16293,7 @@
 	<path name="vbat_compress-offload-playback vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback headphone_24bit">
+	<path name="vbat_compress-offload-playback headphone_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia4" value="2" />
@@ -16347,7 +16347,7 @@
 	<path name="compress-offload-playback1 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback1 bluetooth_16bit">
+	<path name="compress-offload-playback1 bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia6" value="2" />
@@ -16372,7 +16372,7 @@
 	<path name="compress-offload-playback1 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback1 bluetooth_24bit">
+	<path name="compress-offload-playback1 bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia6" value="2" />
@@ -16397,7 +16397,7 @@
 	<path name="compress-offload-playback1 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback1 headphone_16bit">
+	<path name="compress-offload-playback1 headphone_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia6" value="2" />
@@ -16422,7 +16422,7 @@
 	<path name="compress-offload-playback1 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback1 headphone_24bit">
+	<path name="compress-offload-playback1 headphone_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia6" value="2" />
@@ -16472,7 +16472,7 @@
 	<path name="vbat_compress-offload-playback1 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback1 bluetooth_16bit">
+	<path name="vbat_compress-offload-playback1 bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia6" value="2" />
@@ -16497,7 +16497,7 @@
 	<path name="vbat_compress-offload-playback1 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback1 bluetooth_24bit">
+	<path name="vbat_compress-offload-playback1 bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia6" value="2" />
@@ -16522,7 +16522,7 @@
 	<path name="vbat_compress-offload-playback1 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback1 headphone_16bit">
+	<path name="vbat_compress-offload-playback1 headphone_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia6" value="2" />
@@ -16547,7 +16547,7 @@
 	<path name="vbat_compress-offload-playback1 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback1 headphone_24bit">
+	<path name="vbat_compress-offload-playback1 headphone_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia6" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia6" value="2" />
@@ -16623,7 +16623,7 @@
 	<!-- Lemon Drop Hi-Res start of mods -->
 	
 	<!-- Deleted -->
-	<!-- <path name="compress-offload-playback headphones-44.1"> -->
+	<!-- <path name="compress-offload-playback headphones_44.1"> -->
 	<!--    <ctl name="SLIMBUS_5_RX Audio Mixer MultiMedia4" value="1" /> -->
 	<!-- </path> -->
 	
@@ -16661,7 +16661,7 @@
 	<path name="compress-offload-playback2 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback2 bluetooth_16bit">
+	<path name="compress-offload-playback2 bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia7" value="2" />
@@ -16686,7 +16686,7 @@
 	<path name="compress-offload-playback2 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback2 bluetooth_24bit">
+	<path name="compress-offload-playback2 bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia7" value="2" />
@@ -16711,7 +16711,7 @@
 	<path name="compress-offload-playback2 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback2 headphone_16bit">
+	<path name="compress-offload-playback2 headphone_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia7" value="2" />
@@ -16736,7 +16736,7 @@
 	<path name="compress-offload-playback2 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback2 headphone_24bit">
+	<path name="compress-offload-playback2 headphone_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia7" value="2" />
@@ -16786,7 +16786,7 @@
 	<path name="vbat_compress-offload-playback2 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback2 bluetooth_16bit">
+	<path name="vbat_compress-offload-playback2 bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia7" value="2" />
@@ -16811,7 +16811,7 @@
 	<path name="vbat_compress-offload-playback2 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback2 bluetooth_24bit">
+	<path name="vbat_compress-offload-playback2 bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia7" value="2" />
@@ -16836,7 +16836,7 @@
 	<path name="vbat_compress-offload-playback2 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback2 headphone_16bit">
+	<path name="vbat_compress-offload-playback2 headphone_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia7" value="2" />
@@ -16861,7 +16861,7 @@
 	<path name="vbat_compress-offload-playback2 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback2 headphone_24bit">
+	<path name="vbat_compress-offload-playback2 headphone_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia7" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia7" value="2" />
@@ -16933,7 +16933,7 @@
 	<!-- Lemon Drop Hi-Res start of mods -->
 	
 	<!-- Deleted -->
-	<!-- <path name="compress-offload-playback2 headphones-44.1"> -->
+	<!-- <path name="compress-offload-playback2 headphones_44.1"> -->
 	<!--    <ctl name="SLIMBUS_5_RX Audio Mixer MultiMedia7" value="1" /> -->
 	<!-- </path> -->
 	
@@ -16971,7 +16971,7 @@
 	<path name="compress-offload-playback3 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback3 bluetooth_16bit">
+	<path name="compress-offload-playback3 bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia10" value="2" />
@@ -16996,7 +16996,7 @@
 	<path name="compress-offload-playback3 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback3 bluetooth_24bit">
+	<path name="compress-offload-playback3 bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia10" value="2" />
@@ -17021,7 +17021,7 @@
 	<path name="compress-offload-playback3 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback3 headphone_16bit">
+	<path name="compress-offload-playback3 headphone_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia10" value="2" />
@@ -17046,7 +17046,7 @@
 	<path name="compress-offload-playback3 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback3 headphone_24bit">
+	<path name="compress-offload-playback3 headphone_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia10" value="2" />
@@ -17096,7 +17096,7 @@
 	<path name="vbat_compress-offload-playback3 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback3 bluetooth_16bit">
+	<path name="vbat_compress-offload-playback3 bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia10" value="2" />
@@ -17121,7 +17121,7 @@
 	<path name="vbat_compress-offload-playback3 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback3 bluetooth_24bit">
+	<path name="vbat_compress-offload-playback3 bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia10" value="2" />
@@ -17146,7 +17146,7 @@
 	<path name="vbat_compress-offload-playback3 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback3 headphone_16bit">
+	<path name="vbat_compress-offload-playback3 headphone_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia10" value="2" />
@@ -17171,7 +17171,7 @@
 	<path name="vbat_compress-offload-playback3 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback3 headphone_24bit">
+	<path name="vbat_compress-offload-playback3 headphone_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia10" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia10" value="2" />
@@ -17243,7 +17243,7 @@
 	<!-- Lemon Drop Hi-Res start of mods -->
 	
 	<!-- Deleted -->
-	<!-- <path name="compress-offload-playback3 headphones-44.1"> -->
+	<!-- <path name="compress-offload-playback3 headphones_44.1"> -->
 	<!--    <ctl name="SLIMBUS_5_RX Audio Mixer MultiMedia10" value="1" /> -->
 	<!-- </path> -->
 	
@@ -17281,7 +17281,7 @@
 	<path name="compress-offload-playback4 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback4 bluetooth_16bit">
+	<path name="compress-offload-playback4 bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia11" value="2" />
@@ -17306,7 +17306,7 @@
 	<path name="compress-offload-playback4 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback4 bluetooth_24bit">
+	<path name="compress-offload-playback4 bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia11" value="2" />
@@ -17331,7 +17331,7 @@
 	<path name="compress-offload-playback4 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback4 headphone_16bit">
+	<path name="compress-offload-playback4 headphone_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia11" value="2" />
@@ -17356,7 +17356,7 @@
 	<path name="compress-offload-playback4 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback4 headphone_24bit">
+	<path name="compress-offload-playback4 headphone_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia11" value="2" />
@@ -17406,7 +17406,7 @@
 	<path name="vbat_compress-offload-playback4 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback4 bluetooth_16bit">
+	<path name="vbat_compress-offload-playback4 bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia11" value="2" />
@@ -17431,7 +17431,7 @@
 	<path name="vbat_compress-offload-playback4 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback4 bluetooth_24bit">
+	<path name="vbat_compress-offload-playback4 bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia11" value="2" />
@@ -17456,7 +17456,7 @@
 	<path name="vbat_compress-offload-playback4 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback4 headphone_16bit">
+	<path name="vbat_compress-offload-playback4 headphone_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia11" value="2" />
@@ -17481,7 +17481,7 @@
 	<path name="vbat_compress-offload-playback4 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback4 headphone_24bit">
+	<path name="vbat_compress-offload-playback4 headphone_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia11" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia11" value="2" />
@@ -17553,7 +17553,7 @@
 	<!-- Lemon Drop Hi-Res start of mods -->
 	
 	<!-- Deleted -->
-	<!-- <path name="compress-offload-playback4 headphones-44.1"> -->
+	<!-- <path name="compress-offload-playback4 headphones_44.1"> -->
 	<!--    <ctl name="SLIMBUS_5_RX Audio Mixer MultiMedia11" value="1" /> -->
 	<!-- </path> -->
 	
@@ -17591,7 +17591,7 @@
 	<path name="compress-offload-playback5 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback5 bluetooth_16bit">
+	<path name="compress-offload-playback5 bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia12" value="2" />
@@ -17616,7 +17616,7 @@
 	<path name="compress-offload-playback5 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback5 bluetooth_24bit">
+	<path name="compress-offload-playback5 bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia12" value="2" />
@@ -17641,7 +17641,7 @@
 	<path name="compress-offload-playback5 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback5 headphone_16bit">
+	<path name="compress-offload-playback5 headphone_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia12" value="2" />
@@ -17666,7 +17666,7 @@
 	<path name="compress-offload-playback5 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback5 headphone_24bit">
+	<path name="compress-offload-playback5 headphone_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia12" value="2" />
@@ -17716,7 +17716,7 @@
 	<path name="vbat_compress-offload-playback5 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback5 bluetooth_16bit">
+	<path name="vbat_compress-offload-playback5 bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia12" value="2" />
@@ -17741,7 +17741,7 @@
 	<path name="vbat_compress-offload-playback5 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback5 bluetooth_24bit">
+	<path name="vbat_compress-offload-playback5 bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia12" value="2" />
@@ -17766,7 +17766,7 @@
 	<path name="vbat_compress-offload-playback5 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback5 headphone_16bit">
+	<path name="vbat_compress-offload-playback5 headphone_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia12" value="2" />
@@ -17791,7 +17791,7 @@
 	<path name="vbat_compress-offload-playback5 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback5 headphone_24bit">
+	<path name="vbat_compress-offload-playback5 headphone_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia12" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia12" value="2" />
@@ -17863,7 +17863,7 @@
 	<!-- Lemon Drop Hi-Res start of mods -->
 	
 	<!-- Deleted -->
-	<!-- <path name="compress-offload-playback5 headphones-44.1"> -->
+	<!-- <path name="compress-offload-playback5 headphones_44.1"> -->
 	<!--    <ctl name="SLIMBUS_5_RX Audio Mixer MultiMedia12" value="1" /> -->
 	<!-- </path> -->
 	
@@ -17901,7 +17901,7 @@
 	<path name="compress-offload-playback6 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback6 bluetooth_16bit">
+	<path name="compress-offload-playback6 bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia13" value="2" />
@@ -17926,7 +17926,7 @@
 	<path name="compress-offload-playback6 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback6 bluetooth_24bit">
+	<path name="compress-offload-playback6 bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia13" value="2" />
@@ -17951,7 +17951,7 @@
 	<path name="compress-offload-playback6 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback6 headphone_16bit">
+	<path name="compress-offload-playback6 headphone_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia13" value="2" />
@@ -17976,7 +17976,7 @@
 	<path name="compress-offload-playback6 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback6 headphone_24bit">
+	<path name="compress-offload-playback6 headphone_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia13" value="2" />
@@ -18026,7 +18026,7 @@
 	<path name="vbat_compress-offload-playback6 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback6 bluetooth_16bit">
+	<path name="vbat_compress-offload-playback6 bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia13" value="2" />
@@ -18051,7 +18051,7 @@
 	<path name="vbat_compress-offload-playback6 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback6 bluetooth_24bit">
+	<path name="vbat_compress-offload-playback6 bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia13" value="2" />
@@ -18076,7 +18076,7 @@
 	<path name="vbat_compress-offload-playback6 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback6 headphone_16bit">
+	<path name="vbat_compress-offload-playback6 headphone_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia13" value="2" />
@@ -18101,7 +18101,7 @@
 	<path name="vbat_compress-offload-playback6 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback6 headphone_24bit">
+	<path name="vbat_compress-offload-playback6 headphone_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia13" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia13" value="2" />
@@ -18173,7 +18173,7 @@
 	<!-- Lemon Drop Hi-Res start of mods -->
 	
 	<!-- Deleted -->
-	<!-- <path name="compress-offload-playback6 headphones-44.1"> -->
+	<!-- <path name="compress-offload-playback6 headphones_44.1"> -->
 	<!--    <ctl name="SLIMBUS_5_RX Audio Mixer MultiMedia13" value="1" /> -->
 	<!-- </path> -->
 	
@@ -18211,7 +18211,7 @@
 	<path name="compress-offload-playback7 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback7 bluetooth_16bit">
+	<path name="compress-offload-playback7 bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia14" value="2" />
@@ -18236,7 +18236,7 @@
 	<path name="compress-offload-playback7 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback7 bluetooth_24bit">
+	<path name="compress-offload-playback7 bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia14" value="2" />
@@ -18261,7 +18261,7 @@
 	<path name="compress-offload-playback7 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback7 headphone_16bit">
+	<path name="compress-offload-playback7 headphone_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia14" value="2" />
@@ -18286,7 +18286,7 @@
 	<path name="compress-offload-playback7 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback7 headphone_24bit">
+	<path name="compress-offload-playback7 headphone_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia14" value="2" />
@@ -18336,7 +18336,7 @@
 	<path name="vbat_compress-offload-playback7 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback7 bluetooth_16bit">
+	<path name="vbat_compress-offload-playback7 bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia14" value="2" />
@@ -18361,7 +18361,7 @@
 	<path name="vbat_compress-offload-playback7 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback7 bluetooth_24bit">
+	<path name="vbat_compress-offload-playback7 bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia14" value="2" />
@@ -18386,7 +18386,7 @@
 	<path name="vbat_compress-offload-playback7 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback7 headphone_16bit">
+	<path name="vbat_compress-offload-playback7 headphone_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia14" value="2" />
@@ -18411,7 +18411,7 @@
 	<path name="vbat_compress-offload-playback7 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback7 headphone_24bit">
+	<path name="vbat_compress-offload-playback7 headphone_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia14" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia14" value="2" />
@@ -18483,7 +18483,7 @@
 	<!-- Lemon Drop Hi-Res start of mods -->
 	
 	<!-- Deleted -->
-	<!-- <path name="compress-offload-playback7 headphones-44.1"> -->
+	<!-- <path name="compress-offload-playback7 headphones_44.1"> -->
 	<!--    <ctl name="SLIMBUS_5_RX Audio Mixer MultiMedia14" value="1" /> -->
 	<!-- </path> -->
 	
@@ -18521,7 +18521,7 @@
 	<path name="compress-offload-playback8 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback8 bluetooth_16bit">
+	<path name="compress-offload-playback8 bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia15" value="2" />
@@ -18546,7 +18546,7 @@
 	<path name="compress-offload-playback8 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback8 bluetooth_24bit">
+	<path name="compress-offload-playback8 bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia15" value="2" />
@@ -18571,7 +18571,7 @@
 	<path name="compress-offload-playback8 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback8 headphone_16bit">
+	<path name="compress-offload-playback8 headphone_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia15" value="2" />
@@ -18596,7 +18596,7 @@
 	<path name="compress-offload-playback8 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback8 headphone_24bit">
+	<path name="compress-offload-playback8 headphone_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia15" value="2" />
@@ -18646,7 +18646,7 @@
 	<path name="vbat_compress-offload-playback8 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback8 bluetooth_16bit">
+	<path name="vbat_compress-offload-playback8 bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia15" value="2" />
@@ -18671,7 +18671,7 @@
 	<path name="vbat_compress-offload-playback8 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback8 bluetooth_24bit">
+	<path name="vbat_compress-offload-playback8 bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia15" value="2" />
@@ -18696,7 +18696,7 @@
 	<path name="vbat_compress-offload-playback8 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback8 headphone_16bit">
+	<path name="vbat_compress-offload-playback8 headphone_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia15" value="2" />
@@ -18721,7 +18721,7 @@
 	<path name="vbat_compress-offload-playback8 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback8 headphone_24bit">
+	<path name="vbat_compress-offload-playback8 headphone_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia15" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia15" value="2" />
@@ -18793,7 +18793,7 @@
 	<!-- Lemon Drop Hi-Res start of mods -->
 	
 	<!-- Deleted -->
-	<!-- <path name="compress-offload-playback8 headphones-44.1"> -->
+	<!-- <path name="compress-offload-playback8 headphones_44.1"> -->
 	<!--    <ctl name="SLIMBUS_5_RX Audio Mixer MultiMedia15" value="1" /> -->
 	<!-- </path> -->
 	
@@ -18831,7 +18831,7 @@
 	<path name="compress-offload-playback9 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback9 bluetooth_16bit">
+	<path name="compress-offload-playback9 bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia16" value="2" />
@@ -18856,7 +18856,7 @@
 	<path name="compress-offload-playback9 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback9 bluetooth_24bit">
+	<path name="compress-offload-playback9 bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia16" value="2" />
@@ -18881,7 +18881,7 @@
 	<path name="compress-offload-playback9 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback9 headphone_16bit">
+	<path name="compress-offload-playback9 headphone_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia16" value="2" />
@@ -18906,7 +18906,7 @@
 	<path name="compress-offload-playback9 speaker" />
 	</path>
 	
-	<path name="compress-offload-playback9 headphone_24bit">
+	<path name="compress-offload-playback9 headphone_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia16" value="2" />
@@ -18956,7 +18956,7 @@
 	<path name="vbat_compress-offload-playback9 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback9 bluetooth_16bit">
+	<path name="vbat_compress-offload-playback9 bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_7_TX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia16" value="2" />
@@ -18981,7 +18981,7 @@
 	<path name="vbat_compress-offload-playback9 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback9 bluetooth_24bit">
+	<path name="vbat_compress-offload-playback9 bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_8_TX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="SLIMBUS_8_RX Audio Mixer MultiMedia16" value="2" />
@@ -19006,7 +19006,7 @@
 	<path name="vbat_compress-offload-playback9 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback9 headphone_16bit">
+	<path name="vbat_compress-offload-playback9 headphone_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_9_TX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="SLIMBUS_9_RX Audio Mixer MultiMedia16" value="2" />
@@ -19031,7 +19031,7 @@
 	<path name="vbat_compress-offload-playback9 vbat_speaker" />
 	</path>
 	
-	<path name="vbat_compress-offload-playback9 headphone_24bit">
+	<path name="vbat_compress-offload-playback9 headphone_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIMBUS_10_TX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="SLIMBUS_10_RX Audio Mixer MultiMedia16" value="2" />
@@ -19103,7 +19103,7 @@
 	<!-- Lemon Drop Hi-Res start of mods -->
 	
 	<!-- Deleted -->
-	<!-- <path name="compress-offload-playback9 headphones-44.1"> -->
+	<!-- <path name="compress-offload-playback9 headphones_44.1"> -->
 	<!--    <ctl name="SLIMBUS_5_RX Audio Mixer MultiMedia16" value="1" /> -->
 	<!-- </path> -->
 	
@@ -20124,8 +20124,8 @@
 	<ctl name="SLIM_0_RX Channels" value="One" />
 	<ctl name="SLIM_0_TX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_0_RX SampleRate" value="KHZ_44P1" />
-	<ctl name="SLIM_0_TX Format" value="PACKED_16B" />
-	<ctl name="SLIM_0_RX Format" value="PACKED_16B" />
+	<ctl name="SLIM_0_TX Format" value="S16_LE" />
+	<ctl name="SLIM_0_RX Format" value="S16_LE" />
 	<ctl name="7 Half DB Switch" value="ON" />
 	<ctl name="TX7 Half DB" value="1" />
 	<ctl name="RX7 Half DB" value="1" />
@@ -20156,12 +20156,13 @@
 	<!-- 24bit internal speaker -->
 	
 	<path name="speaker_liquid">
-	<ctl name="SLIM_0_TX Channels" value="Two" />
-	<ctl name="SLIM_0_RX Channels" value="Two" />
-	<ctl name="SLIM_0_TX SampleRate" value="KHZ_44P1" />
-	<ctl name="SLIM_0_RX SampleRate" value="KHZ_44P1" />
-	<ctl name="SLIM_0_TX Format" value="PACKED_24B" />
-	<ctl name="SLIM_0_RX Format" value="PACKED_24B" />
+	<path name="true-native-mode-SPKR" />
+	<ctl name="SLIM_0_TX Channels" value="OneThousandFiveHundredThirtySix" />
+	<ctl name="SLIM_0_RX Channels" value="OneThousandFiveHundredThirtySix" />
+	<ctl name="SLIM_0_TX SampleRate" value="KHZ_176P4" />
+	<ctl name="SLIM_0_RX SampleRate" value="KHZ_176P4" />
+	<ctl name="SLIM_0_TX Format" value="S96_LE_PACKED" />
+	<ctl name="SLIM_0_RX Format" value="S96_LE_PACKED" />
 	<ctl name="7 Half DB Switch" value="ON" />
 	<ctl name="TX7 Half DB" value="2" />
 	<ctl name="RX7 Half DB" value="2" />
@@ -20197,8 +20198,8 @@
 	<ctl name="SLIM_0_RX Channels" value="SixThousandOneHundredFortyFour" />
 	<ctl name="SLIM_0_TX SampleRate" value="KHZ_705P6" />
 	<ctl name="SLIM_0_RX SampleRate" value="KHZ_705P6" />
-	<ctl name="SLIM_0_TX Format" value="PACKED_256B" />
-	<ctl name="SLIM_0_RX Format" value="PACKED_256B" />
+	<ctl name="SLIM_0_TX Format" value="S256_LE" />
+	<ctl name="SLIM_0_RX Format" value="S256_LE" />
 	<ctl name="7 Digital Volume Switch" value="ON" />
 	<ctl name="TX7 Digital Volume" value="84" />
 	<ctl name="RX7 Digital Volume" value="84" />
@@ -20228,8 +20229,8 @@
 	<ctl name="SLIM_0_RX Channels" value="SixThousandOneHundredFortyFour" />
 	<ctl name="SLIM_0_TX SampleRate" value="KHZ_705P6" />
 	<ctl name="SLIM_0_RX SampleRate" value="KHZ_705P6" />
-	<ctl name="SLIM_0_TX Format" value="PACKED_384B" />
-	<ctl name="SLIM_0_RX Format" value="PACKED_384B" />
+	<ctl name="SLIM_0_TX Format" value="S384_LE_PACKED" />
+	<ctl name="SLIM_0_RX Format" value="S384_LE_PACKED" />
 	<ctl name="7 Digital Volume Switch" value="ON" />
 	<ctl name="TX7 Digital Volume" value="84" />
 	<ctl name="RX7 Digital Volume" value="84" />
@@ -20271,14 +20272,49 @@
 	</path>
 	
 	<!-- Added -->
+	<path name="vbat_speaker_liquid">
+	<path name="true-native-mode-SPKR-vbat" />
+	<ctl name="SLIM_0_TX Channels" value="OneThousandFiveHundredThirtySix" />
+	<ctl name="SLIM_0_RX Channels" value="OneThousandFiveHundredThirtySix" />
+	<ctl name="SLIM_0_TX SampleRate" value="KHZ_176P4" />
+	<ctl name="SLIM_0_RX SampleRate" value="KHZ_176P4" />
+	<ctl name="SLIM_0_TX Format" value="S96_LE_PACKED" />
+	<ctl name="SLIM_0_RX Format" value="S96_LE_PACKED" />
+	<ctl name="7 Half DB Switch" value="ON" />
+	<ctl name="TX7 Half DB" value="2" />
+	<ctl name="RX7 Half DB" value="2" />
+	<ctl name="8 Half DB Switch" value="ON" />
+	<ctl name="TX8 Half DB" value="2" />
+	<ctl name="RX8 Half DB" value="2" />
+	<ctl name="7 Digital Volume Switch" value="ON" />
+	<ctl name="TX7 Digital Volume" value="84" />
+	<ctl name="RX7 Digital Volume" value="84" />
+	<ctl name="7 Mix Digital Volume Switch" value="ON" />
+	<ctl name="TX7 Mix Digital Volume" value="84" />
+	<ctl name="RX7 Mix Digital Volume" value="84" />
+	<ctl name="8 Digital Volume Switch" value="ON" />
+	<ctl name="TX8 Digital Volume" value="84" />
+	<ctl name="RX8 Digital Volume" value="84" />
+	<ctl name="8 Mix Digital Volume Switch" value="ON" />
+	<ctl name="TX8 Mix Digital Volume" value="84" />
+	<ctl name="RX8 Mix Digital Volume" value="84" />
+	<ctl name="SPKRL Volume Switch" value="ON" />
+	<ctl name="TX SPKRL Volume" value="16" />
+	<ctl name="RX SPKRL Volume" value="16" />
+	<ctl name="SPKRR Volume Switch" value="ON" />
+	<ctl name="TX SPKRR Volume" value="16" />
+	<ctl name="RX SPKRR Volume" value="16" />
+	<path name="vbat_speaker" />
+	</path>
+
 	<path name="vbat_speaker_16bit">
 	<path name="true-native-mode-SPKR-vbat" />
 	<ctl name="SLIM_0_TX Channels" value="SixThousandOneHundredFortyFour" />
 	<ctl name="SLIM_0_RX Channels" value="SixThousandOneHundredFortyFour" />
 	<ctl name="SLIM_0_TX SampleRate" value="KHZ_705P6" />
 	<ctl name="SLIM_0_RX SampleRate" value="KHZ_705P6" />
-	<ctl name="SLIM_0_TX Format" value="PACKED_256B" />
-	<ctl name="SLIM_0_RX Format" value="PACKED_256B" />
+	<ctl name="SLIM_0_TX Format" value="S256_LE" />
+	<ctl name="SLIM_0_RX Format" value="S256_LE" />
 	<ctl name="7 Digital Volume Switch" value="ON" />
 	<ctl name="TX7 Digital Volume" value="84" />
 	<ctl name="RX7 Digital Volume" value="84" />
@@ -20307,8 +20343,8 @@
 	<ctl name="SLIM_0_RX Channels" value="SixThousandOneHundredFortyFour" />
 	<ctl name="SLIM_0_TX SampleRate" value="KHZ_705P6" />
 	<ctl name="SLIM_0_RX SampleRate" value="KHZ_705P6" />
-	<ctl name="SLIM_0_TX Format" value="PACKED_384B" />
-	<ctl name="SLIM_0_RX Format" value="PACKED_384B" />
+	<ctl name="SLIM_0_TX Format" value="S384_LE_PACKED" />
+	<ctl name="SLIM_0_RX Format" value="S384_LE_PACKED" />
 	<ctl name="7 Digital Volume Switch" value="ON" />
 	<ctl name="TX7 Digital Volume" value="84" />
 	<ctl name="RX7 Digital Volume" value="84" />
@@ -20581,7 +20617,7 @@
 	</path>
 	
 	<!-- Deleted -->
-	<!-- <path name="headphones-44.1"> -->
+	<!-- <path name="headphones_44.1"> -->
 	<!--    <ctl name="Es9218 Bypass" value="1" /> -->
 	<!--    <ctl name="RX HPH Mode" value="CLS_H_LP" /> -->
 	<!--    <ctl name="SLIM RX4 MUX" value="AIF3_PB" /> -->
@@ -21576,6 +21612,77 @@
 	<ctl name="SEC_MI2S_TX Audio Mixer MultiMedia16" value="2" />
 	<ctl name="SEC_MI2S_RX Audio Mixer MultiMedia16" value="2" />
 	</path>
+
+	<!-- Welcome to the QuadDAC direct output speaker_liquid -->
+	
+	<!-- DAC 0 = low-range -->
+	<!-- DAC 1 = mid-range -->
+	<!-- DAC 2 = high-range -->
+	<!-- DAC 3 = offload -->
+	
+	<!-- You must divide everything by 4 from speaker_liquid -->
+	
+	<!-- speaker_liquid is set to channels: 1536 -->
+	<!-- 1536 divided by 4 = 384 -->
+	
+	<!-- speaker_liquid is set to kilohertz: 176.4 -->
+	<!-- 176.4 divided by 4 = 44.1 -->
+	
+	<!-- speaker_liquid is set to bit rate: 96 -->
+	<!-- 96 divided by 4 = 24 -->
+	
+	<path name="dop-playback_speaker_liquid tert-mi2s-headphones">
+	<ctl name="SEC_TDM_TX_0 Channels" value="ThreeHundredEightyFour" />
+	<ctl name="SEC_TDM_RX_0 Channels" value="ThreeHundredEightyFour" />
+	<ctl name="SEC_TDM_TX_0 SampleRate" value="KHZ_44P1" />
+	<ctl name="SEC_TDM_RX_0 SampleRate" value="KHZ_44P1" />
+	<ctl name="SEC_TDM_TX_0 Format" value="S24_LE_PACKED" />
+	<ctl name="SEC_TDM_RX_0 Format" value="S24_LE_PACKED" />
+	<ctl name="SEC_TDM_TX_0 Audio Mixer MultiMedia1" value="2" />
+	<ctl name="SEC_TDM_RX_0 Audio Mixer MultiMedia1" value="2" />
+	<ctl name="SEC_TDM_TX_1 Channels" value="ThreeHundredEightyFour" />
+	<ctl name="SEC_TDM_RX_1 Channels" value="ThreeHundredEightyFour" />
+	<ctl name="SEC_TDM_TX_1 SampleRate" value="KHZ_44P1" />
+	<ctl name="SEC_TDM_RX_1 SampleRate" value="KHZ_44P1" />
+	<ctl name="SEC_TDM_TX_1 Format" value="S24_LE_PACKED" />
+	<ctl name="SEC_TDM_RX_1 Format" value="S24_LE_PACKED" />
+	<ctl name="SEC_TDM_TX_1 Audio Mixer MultiMedia3" value="2" />
+	<ctl name="SEC_TDM_RX_1 Audio Mixer MultiMedia3" value="2" />
+	<ctl name="SEC_TDM_TX_2 Channels" value="ThreeHundredEightyFour" />
+	<ctl name="SEC_TDM_RX_2 Channels" value="ThreeHundredEightyFour" />
+	<ctl name="SEC_TDM_TX_2 SampleRate" value="KHZ_44P1" />
+	<ctl name="SEC_TDM_RX_2 SampleRate" value="KHZ_44P1" />
+	<ctl name="SEC_TDM_TX_2 Format" value="S24_LE_PACKED" />
+	<ctl name="SEC_TDM_RX_2 Format" value="S24_LE_PACKED" />
+	<ctl name="SEC_TDM_TX_2 Audio Mixer MultiMedia5" value="2" />
+	<ctl name="SEC_TDM_RX_2 Audio Mixer MultiMedia5" value="2" />
+	<ctl name="SEC_TDM_TX_3 Channels" value="ThreeHundredEightyFour" />
+	<ctl name="SEC_TDM_RX_3 Channels" value="ThreeHundredEightyFour" />
+	<ctl name="SEC_TDM_TX_3 SampleRate" value="KHZ_44P1" />
+	<ctl name="SEC_TDM_RX_3 SampleRate" value="KHZ_44P1" />
+	<ctl name="SEC_TDM_TX_3 Format" value="S24_LE_PACKED" />
+	<ctl name="SEC_TDM_RX_3 Format" value="S24_LE_PACKED" />
+	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia4" value="2" />
+	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia4" value="2" />
+	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia6" value="2" />
+	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia6" value="2" />
+	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia7" value="2" />
+	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia7" value="2" />
+	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia10" value="2" />
+	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia10" value="2" />
+	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia11" value="2" />
+	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia11" value="2" />
+	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia12" value="2" />
+	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia12" value="2" />
+	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia13" value="2" />
+	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia13" value="2" />
+	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia14" value="2" />
+	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia14" value="2" />
+	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia15" value="2" />
+	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia15" value="2" />
+	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia16" value="2" />
+	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia16" value="2" />
+	</path>
 	
 	<!-- Welcome to the QuadDAC direct output speaker_16bit -->
 	
@@ -21671,32 +21778,32 @@
 	<ctl name="SEC_TDM_RX_0 Channels" value="OneThousandFiveHundredThirtySix" />
 	<ctl name="SEC_TDM_TX_0 SampleRate" value="KHZ_176P4" />
 	<ctl name="SEC_TDM_RX_0 SampleRate" value="KHZ_176P4" />
-	<ctl name="SEC_TDM_TX_0 Format" value="S96_LE" />
-	<ctl name="SEC_TDM_RX_0 Format" value="S96_LE" />
+	<ctl name="SEC_TDM_TX_0 Format" value="S96_LE_PACKED" />
+	<ctl name="SEC_TDM_RX_0 Format" value="S96_LE_PACKED" />
 	<ctl name="SEC_TDM_TX_0 Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SEC_TDM_RX_0 Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SEC_TDM_TX_1 Channels" value="OneThousandFiveHundredThirtySix" />
 	<ctl name="SEC_TDM_RX_1 Channels" value="OneThousandFiveHundredThirtySix" />
 	<ctl name="SEC_TDM_TX_1 SampleRate" value="KHZ_176P4" />
 	<ctl name="SEC_TDM_RX_1 SampleRate" value="KHZ_176P4" />
-	<ctl name="SEC_TDM_TX_1 Format" value="S96_LE" />
-	<ctl name="SEC_TDM_RX_1 Format" value="S96_LE" />
+	<ctl name="SEC_TDM_TX_1 Format" value="S96_LE_PACKED" />
+	<ctl name="SEC_TDM_RX_1 Format" value="S96_LE_PACKED" />
 	<ctl name="SEC_TDM_TX_1 Audio Mixer MultiMedia3" value="2" />
 	<ctl name="SEC_TDM_RX_1 Audio Mixer MultiMedia3" value="2" />
 	<ctl name="SEC_TDM_TX_2 Channels" value="OneThousandFiveHundredThirtySix" />
 	<ctl name="SEC_TDM_RX_2 Channels" value="OneThousandFiveHundredThirtySix" />
 	<ctl name="SEC_TDM_TX_2 SampleRate" value="KHZ_176P4" />
 	<ctl name="SEC_TDM_RX_2 SampleRate" value="KHZ_176P4" />
-	<ctl name="SEC_TDM_TX_2 Format" value="S96_LE" />
-	<ctl name="SEC_TDM_RX_2 Format" value="S96_LE" />
+	<ctl name="SEC_TDM_TX_2 Format" value="S96_LE_PACKED" />
+	<ctl name="SEC_TDM_RX_2 Format" value="S96_LE_PACKED" />
 	<ctl name="SEC_TDM_TX_2 Audio Mixer MultiMedia5" value="2" />
 	<ctl name="SEC_TDM_RX_2 Audio Mixer MultiMedia5" value="2" />
 	<ctl name="SEC_TDM_TX_3 Channels" value="OneThousandFiveHundredThirtySix" />
 	<ctl name="SEC_TDM_RX_3 Channels" value="OneThousandFiveHundredThirtySix" />
 	<ctl name="SEC_TDM_TX_3 SampleRate" value="KHZ_176P4" />
 	<ctl name="SEC_TDM_RX_3 SampleRate" value="KHZ_176P4" />
-	<ctl name="SEC_TDM_TX_3 Format" value="S96_LE" />
-	<ctl name="SEC_TDM_RX_3 Format" value="S96_LE" />
+	<ctl name="SEC_TDM_TX_3 Format" value="S96_LE_PACKED" />
+	<ctl name="SEC_TDM_RX_3 Format" value="S96_LE_PACKED" />
 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia6" value="2" />
@@ -22088,7 +22195,7 @@
 	<!-- </path> -->
 	
 	<!-- Deleted -->
-	<!-- <path name="headphone_24bit"> -->
+	<!-- <path name="headphone_24bit-44.1"> -->
 	<!--    <ctl name="Es9218 Bypass" value="1" /> -->
 	<!--    <ctl name="RX HPH Mode" value="CLS_H_HIFI" /> -->
 	<!--    <ctl name="SLIM RX2 MUX" value="AIF4_PB" /> -->
@@ -22105,8 +22212,8 @@
 	<!-- </path> -->
 	
 	<!-- Deleted -->
-	<!-- <path name="headphone_24bit_advanced"> -->
-	<!--    <path name="headphone_24bit" /> -->
+	<!-- <path name="headphone_24bit-44.1_advanced"> -->
+	<!--    <path name="headphone_24bit-44.1" /> -->
 	<!--    <ctl name="RX1 Mix Digital Volume" value="79" /> -->
 	<!--    <ctl name="RX2 Mix Digital Volume" value="79" /> -->
 	<!--    <ctl name="HPHL Volume" value="20" /> -->
@@ -22114,8 +22221,8 @@
 	<!-- </path> -->
 	
 	<!-- Deleted -->
-	<!-- <path name="headphone_24bit_aux"> -->
-	<!--    <path name="headphone_24bit" /> -->
+	<!-- <path name="headphone_24bit-44.1_aux"> -->
+	<!--    <path name="headphone_24bit-44.1" /> -->
 	<!--    <ctl name="RX1 Mix Digital Volume" value="82" /> -->
 	<!--    <ctl name="RX2 Mix Digital Volume" value="82" /> -->
 	<!--    <ctl name="HPHL Volume" value="20" /> -->
@@ -22205,7 +22312,7 @@
 	<ctl name="HphRight SWR DAC_Port Switch" value="2" />
 	</path>
 	
-	<path name="bluetooth_16bit">
+	<path name="bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIM_7_TX Channels" value="OneThousandFiveHundredThirtySix" />
 	<ctl name="SLIM_7_RX Channels" value="OneThousandFiveHundredThirtySix" />
@@ -22234,14 +22341,14 @@
 	<path name="headphone" />
 	</path>
 	
-	<path name="bluetooth_24bit">
+	<path name="bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIM_8_TX Channels" value="OneThousandFiveHundredThirtySix" />
 	<ctl name="SLIM_8_RX Channels" value="OneThousandFiveHundredThirtySix" />
 	<ctl name="SLIM_8_TX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_8_RX SampleRate" value="KHZ_44P1" />
-	<ctl name="SLIM_8_TX Format" value="S24_LE" />
-	<ctl name="SLIM_8_RX Format" value="S24_LE" />
+	<ctl name="SLIM_8_TX Format" value="S24_LE_PACKED" />
+	<ctl name="SLIM_8_RX Format" value="S24_LE_PACKED" />
 	<ctl name="1 Digital Volume Switch" value="ON" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="84" />
@@ -22263,7 +22370,7 @@
 	<path name="headphone" />
 	</path>
 	
-	<path name="headphone_16bit">
+	<path name="headphone_16bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIM_9_TX Channels" value="OneThousandFiveHundredThirtySix" />
 	<ctl name="SLIM_9_RX Channels" value="OneThousandFiveHundredThirtySix" />
@@ -22292,7 +22399,7 @@
 	<path name="headphone" />
 	</path>
 	
-	<path name="headphone_16bit_advanced">
+	<path name="headphone_16bit_advanced_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="1 Digital Volume Switch" value="ON" />
 	<ctl name="TX1 Digital Volume" value="84" />
@@ -22312,10 +22419,10 @@
 	<ctl name="HPHR Volume Switch" value="ON" />
 	<ctl name="TX HPHR Volume" value="16" />
 	<ctl name="RX HPHR Volume" value="16" />
-	<path name="headphone_16bit" />
+	<path name="headphone_16bit_44.1" />
 	</path>
 	
-	<path name="headphone_16bit_aux">
+	<path name="headphone_16bit_aux_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="1 Digital Volume Switch" value="ON" />
 	<ctl name="TX1 Digital Volume" value="84" />
@@ -22335,17 +22442,17 @@
 	<ctl name="HPHR Volume Switch" value="ON" />
 	<ctl name="TX HPHR Volume" value="16" />
 	<ctl name="RX HPHR Volume" value="16" />
-	<path name="headphone_16bit" />
+	<path name="headphone_16bit_44.1" />
 	</path>
 	
-	<path name="headphone_24bit">
+	<path name="headphone_24bit_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="SLIM_10_TX Channels" value="OneThousandFiveHundredThirtySix" />
 	<ctl name="SLIM_10_RX Channels" value="OneThousandFiveHundredThirtySix" />
 	<ctl name="SLIM_10_TX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_10_RX SampleRate" value="KHZ_44P1" />
-	<ctl name="SLIM_10_TX Format" value="S24_LE" />
-	<ctl name="SLIM_10_RX Format" value="S24_LE" />
+	<ctl name="SLIM_10_TX Format" value="S24_LE_PACKED" />
+	<ctl name="SLIM_10_RX Format" value="S24_LE_PACKED" />
 	<ctl name="1 Digital Volume Switch" value="ON" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="84" />
@@ -22367,7 +22474,7 @@
 	<path name="headphone" />
 	</path>
 	
-	<path name="headphone_24bit_advanced">
+	<path name="headphone_24bit_advanced_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="1 Digital Volume Switch" value="ON" />
 	<ctl name="TX1 Digital Volume" value="84" />
@@ -22387,10 +22494,10 @@
 	<ctl name="HPHR Volume Switch" value="ON" />
 	<ctl name="TX HPHR Volume" value="16" />
 	<ctl name="RX HPHR Volume" value="16" />
-	<path name="headphone_24bit" />
+	<path name="headphone_24bit_44.1" />
 	</path>
 	
-	<path name="headphone_24bit_aux">
+	<path name="headphone_24bit_aux_44.1">
 	<path name="true-native-mode-HPH" />
 	<ctl name="1 Digital Volume Switch" value="ON" />
 	<ctl name="TX1 Digital Volume" value="84" />
@@ -22410,7 +22517,7 @@
 	<ctl name="HPHR Volume Switch" value="ON" />
 	<ctl name="TX HPHR Volume" value="16" />
 	<ctl name="RX HPHR Volume" value="16" />
-	<path name="headphone_24bit" />
+	<path name="headphone_24bit_44.1" />
 	</path>
 	
 	<path name="vbat_headphone">
@@ -22418,7 +22525,7 @@
 	<path name="headphone" />
 	</path>
 	
-	<path name="vbat_bluetooth_16bit">
+	<path name="vbat_bluetooth_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIM_7_TX Channels" value="OneThousandFiveHundredThirtySix" />
 	<ctl name="SLIM_7_RX Channels" value="OneThousandFiveHundredThirtySix" />
@@ -22447,14 +22554,14 @@
 	<path name="vbat_headphone" />
 	</path>
 	
-	<path name="vbat_bluetooth_24bit">
+	<path name="vbat_bluetooth_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIM_8_TX Channels" value="OneThousandFiveHundredThirtySix" />
 	<ctl name="SLIM_8_RX Channels" value="OneThousandFiveHundredThirtySix" />
 	<ctl name="SLIM_8_TX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_8_RX SampleRate" value="KHZ_44P1" />
-	<ctl name="SLIM_8_TX Format" value="S24_LE" />
-	<ctl name="SLIM_8_RX Format" value="S24_LE" />
+	<ctl name="SLIM_8_TX Format" value="S24_LE_PACKED" />
+	<ctl name="SLIM_8_RX Format" value="S24_LE_PACKED" />
 	<ctl name="1 Digital Volume Switch" value="ON" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="84" />
@@ -22476,7 +22583,7 @@
 	<path name="vbat_headphone" />
 	</path>
 	
-	<path name="vbat_headphone_16bit">
+	<path name="vbat_headphone_16bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIM_9_TX Channels" value="OneThousandFiveHundredThirtySix" />
 	<ctl name="SLIM_9_RX Channels" value="OneThousandFiveHundredThirtySix" />
@@ -22505,7 +22612,7 @@
 	<path name="vbat_headphone" />
 	</path>
 	
-	<path name="vbat_headphone_16bit_advanced">
+	<path name="vbat_headphone_16bit_advanced_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="1 Digital Volume Switch" value="ON" />
 	<ctl name="TX1 Digital Volume" value="84" />
@@ -22525,10 +22632,10 @@
 	<ctl name="HPHR Volume Switch" value="ON" />
 	<ctl name="TX HPHR Volume" value="16" />
 	<ctl name="RX HPHR Volume" value="16" />
-	<path name="vbat_headphone_16bit" />
+	<path name="vbat_headphone_16bit_44.1" />
 	</path>
 	
-	<path name="vbat_headphone_16bit_aux">
+	<path name="vbat_headphone_16bit_aux_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="1 Digital Volume Switch" value="ON" />
 	<ctl name="TX1 Digital Volume" value="84" />
@@ -22548,17 +22655,17 @@
 	<ctl name="HPHR Volume Switch" value="ON" />
 	<ctl name="TX HPHR Volume" value="16" />
 	<ctl name="RX HPHR Volume" value="16" />
-	<path name="vbat_headphone_16bit" />
+	<path name="vbat_headphone_16bit_44.1" />
 	</path>
 	
-	<path name="vbat_headphone_24bit">
+	<path name="vbat_headphone_24bit_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="SLIM_10_TX Channels" value="OneThousandFiveHundredThirtySix" />
 	<ctl name="SLIM_10_RX Channels" value="OneThousandFiveHundredThirtySix" />
 	<ctl name="SLIM_10_TX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_10_RX SampleRate" value="KHZ_44P1" />
-	<ctl name="SLIM_10_TX Format" value="S24_LE" />
-	<ctl name="SLIM_10_RX Format" value="S24_LE" />
+	<ctl name="SLIM_10_TX Format" value="S24_LE_PACKED" />
+	<ctl name="SLIM_10_RX Format" value="S24_LE_PACKED" />
 	<ctl name="1 Digital Volume Switch" value="ON" />
 	<ctl name="TX1 Digital Volume" value="84" />
 	<ctl name="RX1 Digital Volume" value="84" />
@@ -22580,7 +22687,7 @@
 	<path name="vbat_headphone" />
 	</path>
 	
-	<path name="vbat_headphone_24bit_advanced">
+	<path name="vbat_headphone_24bit_advanced_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="1 Digital Volume Switch" value="ON" />
 	<ctl name="TX1 Digital Volume" value="84" />
@@ -22600,10 +22707,10 @@
 	<ctl name="HPHR Volume Switch" value="ON" />
 	<ctl name="TX HPHR Volume" value="16" />
 	<ctl name="RX HPHR Volume" value="16" />
-	<path name="vbat_headphone_24bit" />
+	<path name="vbat_headphone_24bit_44.1" />
 	</path>
 	
-	<path name="vbat_headphone_24bit_aux">
+	<path name="vbat_headphone_24bit_aux_44.1">
 	<path name="true-native-mode-HPH-vbat" />
 	<ctl name="1 Digital Volume Switch" value="ON" />
 	<ctl name="TX1 Digital Volume" value="84" />
@@ -22623,7 +22730,7 @@
 	<ctl name="HPHR Volume Switch" value="ON" />
 	<ctl name="TX HPHR Volume" value="16" />
 	<ctl name="RX HPHR Volume" value="16" />
-	<path name="vbat_headphone_24bit" />
+	<path name="vbat_headphone_24bit_44.1" />
 	</path>
 	
 	<path name="fake_headphone">
@@ -22867,10 +22974,10 @@
 	<ctl name="HPHR Volume Switch" value="ON" />
 	<ctl name="TX HPHR Volume" value="16" />
 	<ctl name="RX HPHR Volume" value="16" />
-	<path name="bluetooth_16bit" />
-	<path name="bluetooth_24bit" />
-	<path name="headphone_16bit" />
-	<path name="headphone_24bit" />
+	<path name="bluetooth_16bit_44.1" />
+	<path name="bluetooth_24bit_44.1" />
+	<path name="headphone_16bit_44.1" />
+	<path name="headphone_24bit_44.1" />
 	</path>
 	
 	<!-- Added -->

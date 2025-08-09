@@ -56,48 +56,51 @@
 > 	<!-- Lemon Drop Hi-Res start of mods -->
 > 
 >         <device name="SND_DEVICE_OUT_HEADPHONES" backend="headphones" interface="SLIMBUS_6_TX" />
-51a79,98
+51a79,101
 > 
 > 	<!-- added -->
->         <device name="SND_DEVICE_LGE_OUT_BLUETOOTH_16BIT" backend="headphone" interface="SLIMBUS_7_TX" />
->         <device name="SND_DEVICE_LGE_OUT_BLUETOOTH_16BIT" backend="headphone" interface="SLIMBUS_7_RX" />
->         <device name="SND_DEVICE_LGE_OUT_BLUETOOTH_24BIT" backend="headphone" interface="SLIMBUS_8_TX" />
->         <device name="SND_DEVICE_LGE_OUT_BLUETOOTH_24BIT" backend="headphone" interface="SLIMBUS_8_RX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_16BIT" backend="headphone" interface="SLIMBUS_9_TX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_16BIT" backend="headphone" interface="SLIMBUS_9_RX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_16BIT_ADVANCED" backend="headphone_16bit" interface="SLIMBUS_9_TX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_16BIT_ADVANCED" backend="headphone_16bit" interface="SLIMBUS_9_RX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_16BIT_AUX" backend="headphone_16bit" interface="SLIMBUS_9_TX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_16BIT_AUX" backend="headphone_16bit" interface="SLIMBUS_9_RX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT" backend="headphone" interface="SLIMBUS_10_TX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT" backend="headphone" interface="SLIMBUS_10_RX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_ADVANCED" backend="headphone_24bit" interface="SLIMBUS_10_TX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_ADVANCED" backend="headphone_24bit" interface="SLIMBUS_10_RX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_AUX" backend="headphone_24bit" interface="SLIMBUS_10_TX" />
->         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_AUX" backend="headphone_24bit" interface="SLIMBUS_10_RX" />
+> 
+>         <device name="SND_DEVICE_LGE_OUT_SPEAKER_LIQUID" backend="speaker" interface="SLIMBUS_0_TX" />
+>         <device name="SND_DEVICE_LGE_OUT_SPEAKER_LIQUID" backend="speaker" interface="SLIMBUS_0_RX" />
+>         <device name="SND_DEVICE_LGE_OUT_BLUETOOTH_16BIT_44.1" backend="headphone" interface="SLIMBUS_7_TX" />
+>         <device name="SND_DEVICE_LGE_OUT_BLUETOOTH_16BIT_44.1" backend="headphone" interface="SLIMBUS_7_RX" />
+>         <device name="SND_DEVICE_LGE_OUT_BLUETOOTH_24BIT_44.1" backend="headphone" interface="SLIMBUS_8_TX" />
+>         <device name="SND_DEVICE_LGE_OUT_BLUETOOTH_24BIT_44.1" backend="headphone" interface="SLIMBUS_8_RX" />
+>         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_16BIT_44.1" backend="headphone" interface="SLIMBUS_9_TX" />
+>         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_16BIT_44.1" backend="headphone" interface="SLIMBUS_9_RX" />
+>         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_16BIT_ADVANCED_44.1" backend="headphone_16bit_44.1" interface="SLIMBUS_9_TX" />
+>         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_16BIT_ADVANCED_44.1" backend="headphone_16bit_44.1" interface="SLIMBUS_9_RX" />
+>         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_16BIT_AUX_44.1" backend="headphone_16bit_44.1" interface="SLIMBUS_9_TX" />
+>         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_16BIT_AUX_44.1" backend="headphone_16bit_44.1" interface="SLIMBUS_9_RX" />
+>         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_44.1" backend="headphone" interface="SLIMBUS_10_TX" />
+>         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_44.1" backend="headphone" interface="SLIMBUS_10_RX" />
+>         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_ADVANCED_44.1" backend="headphone_24bit_44.1" interface="SLIMBUS_10_TX" />
+>         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_ADVANCED_44.1" backend="headphone_24bit_44.1" interface="SLIMBUS_10_RX" />
+>         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_AUX_44.1" backend="headphone_24bit_44.1" interface="SLIMBUS_10_TX" />
+>         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_AUX_44.1" backend="headphone_24bit_44.1" interface="SLIMBUS_10_RX" />
 > 
 >         <device name="SND_DEVICE_OUT_LINE" backend="headphones" interface="SLIMBUS_6_TX" />
-52a100
+52a103
 >         <device name="SND_DEVICE_OUT_SPEAKER_AND_HEADPHONES" backend="speaker-and-headphones" interface="SLIMBUS_0_RX-and-SLIMBUS_6_TX" />
-53a102
+53a105
 >         <device name="SND_DEVICE_OUT_SPEAKER_AND_LINE" backend="speaker-and-headphones" interface="SLIMBUS_0_RX-and-SLIMBUS_6_TX" />
-54a104
+54a107
 >         <device name="SND_DEVICE_OUT_VOICE_HEADPHONES" backend="headphones" interface="SLIMBUS_6_TX" />
-55a106
+55a109
 >         <device name="SND_DEVICE_LGE_OUT_VOIP_HEADPHONES" backend="headphones" interface="SLIMBUS_6_TX" />
-56a108
+56a111
 >         <device name="SND_DEVICE_LGE_OUT_VOIP_HEADPHONES_ADVANCED" backend="headphones" interface="SLIMBUS_6_TX" />
-57a110
+57a113
 >         <device name="SND_DEVICE_LGE_OUT_VOIP_HEADPHONES_AUX" backend="headphones" interface="SLIMBUS_6_TX" />
-58a112
+58a115
 >         <device name="SND_DEVICE_LGE_OUT_LOOPBACK_HEADPHONES" backend="headphones" interface="SLIMBUS_6_TX" />
-59a114
+59a117
 >         <device name="SND_DEVICE_OUT_VOICE_LINE" backend="headphones" interface="SLIMBUS_6_TX" />
-60a116
+60a119
 >         <device name="SND_DEVICE_OUT_VOICE_TTY_FULL_HEADPHONES" backend="headphones" interface="SLIMBUS_6_TX" />
-61a118
+61a121
 >         <device name="SND_DEVICE_OUT_VOICE_TTY_VCO_HEADPHONES" backend="headphones" interface="SLIMBUS_6_TX" />
-63,64c120,125
+63,64c123,128
 <         <device name="SND_DEVICE_LGE_OUT_HEADPHONES_ADVANCED_44_1" backend="headphones-44.1" interface="SLIMBUS_6_RX" />
 <         <device name="SND_DEVICE_LGE_OUT_HEADPHONES_AUX_44_1" backend="headphones-44.1" interface="SLIMBUS_6_RX" />
 ---
@@ -107,13 +110,13 @@
 >         <!-- <device name="SND_DEVICE_LGE_OUT_HEADPHONES_AUX_44_1" backend="headphones-44.1" interface="SLIMBUS_6_RX" /> -->
 > 
 >         <device name="SND_DEVICE_LGE_OUT_HEADPHONES_ADVANCED" backend="headphones" interface="SLIMBUS_6_TX" />
-65a127
+65a130
 >         <device name="SND_DEVICE_LGE_OUT_HEADPHONES_AUX" backend="headphones" interface="SLIMBUS_6_TX" />
-66a129
+66a132
 >         <device name="SND_DEVICE_LGE_OUT_VOICE_HEADPHONES_ADVANCED" backend="headphones" interface="SLIMBUS_6_TX" />
-67a131
+67a134
 >         <device name="SND_DEVICE_LGE_OUT_VOICE_HEADPHONES_AUX" backend="headphones" interface="SLIMBUS_6_TX" />
-69,71c133,141
+69,71c136,144
 <         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT" backend="headphones" interface="SLIMBUS_6_RX" />
 <         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_ADVANCED" backend="headphones" interface="SLIMBUS_6_RX" />
 <         <device name="SND_DEVICE_LGE_OUT_HEADPHONE_24BIT_AUX" backend="headphones" interface="SLIMBUS_6_RX" />
@@ -127,14 +130,14 @@
 >         <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_DAC" backend="headphones tert-mi2s-headphones" interface="SEC_MI2S_TX" />
 >         <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_DAC" backend="headphones tert-mi2s-headphones" interface="SEC_MI2S_RX" />
 >         <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_DAC" backend="headphones tert-mi2s-headphones" interface="SEC_MI2S_TX" />
-72a143
+72a146
 >         <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_DAC_ADVANCED" backend="headphones tert-mi2s-headphones" interface="SEC_MI2S_TX" />
-73a145
+73a148
 >         <device name="SND_DEVICE_LGE_OUT_HEADPHONES_HIFI_DAC_AUX" backend="headphones tert-mi2s-headphones" interface="SEC_MI2S_TX" />
-74a147
+74a150
 >         <device name="SND_DEVICE_LGE_OUT_SPEAKER_AND_HEADPHONES_ADVANCED" backend="speaker-and-headphones" interface="SLIMBUS_0_RX-and-SLIMBUS_6_TX"/>
-75a149
+75a152
 >         <device name="SND_DEVICE_LGE_OUT_SPEAKER_AND_HEADPHONES_AUX" backend="speaker-and-headphones" interface="SLIMBUS_0_RX-and-SLIMBUS_6_TX"/>
-78a153,154
+78a156,157
 > 
 > 	<!-- Lemon Drop Hi-Res start of mods -->
