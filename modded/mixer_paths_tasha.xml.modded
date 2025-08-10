@@ -28,7 +28,7 @@
 	
 	<!-- Top of page -->
 	
-	<!-- Lemon Drop Hi-Res treble 16bit v364.1 -->
+	<!-- Lemon Drop Hi-Res Project Crossover treble v365.2 -->
 	<!-- The worlds best & first 24/32bit QuadDAC in True Stereo! -->
 	<!-- Designed and created by Darnrain1 @GitHub -->
 	<!-- Proudly Made In America -->
@@ -19965,26 +19965,6 @@
 	
 	<!-- Welcome to the QuadDAC control center -->
 	
-	<!-- speaker_16bit & speaker_24bit are the QuadDAC 16bit & 24bit side -->
-	
-	<!-- This is how I calculated the amount of channels for speaker_16bit -->
-	<!-- 1536 X 4 = 6144 -->
-	
-	<!-- This is how I calculated the kilohertz for speaker_16bit -->
-	<!-- 44.1 X 16 = 705.6 -->
-	
-	<!-- This is how I calculated the bit rate for speaker_16bit -->
-	<!-- 16 X 16 = 256 -->
-	
-	<!-- This is how I calculated the amount of channels for speaker_24bit -->
-	<!-- 1536 X 4 = 6144 -->
-	
-	<!-- This is how I calculated the kilohertz for speaker_24bit -->
-	<!-- 44.1 X 16 = 705.6 -->
-	
-	<!-- This is how I calculated the bit rate for speaker_24bit -->
-	<!-- 24 X 16 = 384 -->
-	
 	<!-- Saber ESS DAC mono side -->
 	
 	<path name="speaker-mono">
@@ -20157,8 +20137,8 @@
 	
 	<path name="speaker_liquid">
 	<path name="true-native-mode-SPKR" />
-	<ctl name="SLIM_0_TX Channels" value="Two" />
-	<ctl name="SLIM_0_RX Channels" value="Two" />
+	<ctl name="SLIM_0_TX Channels" value="OneThousandFiveHundredThirtySix" />
+	<ctl name="SLIM_0_RX Channels" value="OneThousandFiveHundredThirtySix" />
 	<ctl name="SLIM_0_TX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_0_RX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_0_TX Format" value="S24_LE_PACKED" />
@@ -20194,12 +20174,12 @@
 	
 	<path name="speaker_16bit">
 	<path name="true-native-mode-SPKR" />
-	<ctl name="SLIM_0_TX Channels" value="SixThousandOneHundredFortyFour" />
-	<ctl name="SLIM_0_RX Channels" value="SixThousandOneHundredFortyFour" />
-	<ctl name="SLIM_0_TX SampleRate" value="KHZ_705P6" />
-	<ctl name="SLIM_0_RX SampleRate" value="KHZ_705P6" />
-	<ctl name="SLIM_0_TX Format" value="S256_LE" />
-	<ctl name="SLIM_0_RX Format" value="S256_LE" />
+	<ctl name="SLIM_0_TX Channels" value="OneThousandFiveHundredThirtySix" />
+	<ctl name="SLIM_0_RX Channels" value="OneThousandFiveHundredThirtySix" />
+	<ctl name="SLIM_0_TX SampleRate" value="KHZ_176P4" />
+	<ctl name="SLIM_0_RX SampleRate" value="KHZ_176P4" />
+	<ctl name="SLIM_0_TX Format" value="S64_LE" />
+	<ctl name="SLIM_0_RX Format" value="S64_LE" />
 	<ctl name="7 Digital Volume Switch" value="ON" />
 	<ctl name="TX7 Digital Volume" value="84" />
 	<ctl name="RX7 Digital Volume" value="84" />
@@ -20225,12 +20205,12 @@
 	
 	<path name="speaker_24bit">
 	<path name="true-native-mode-SPKR" />
-	<ctl name="SLIM_0_TX Channels" value="SixThousandOneHundredFortyFour" />
-	<ctl name="SLIM_0_RX Channels" value="SixThousandOneHundredFortyFour" />
-	<ctl name="SLIM_0_TX SampleRate" value="KHZ_705P6" />
-	<ctl name="SLIM_0_RX SampleRate" value="KHZ_705P6" />
-	<ctl name="SLIM_0_TX Format" value="S384_LE_PACKED" />
-	<ctl name="SLIM_0_RX Format" value="S384_LE_PACKED" />
+	<ctl name="SLIM_0_TX Channels" value="OneThousandFiveHundredThirtySix" />
+	<ctl name="SLIM_0_RX Channels" value="OneThousandFiveHundredThirtySix" />
+	<ctl name="SLIM_0_TX SampleRate" value="KHZ_176P4" />
+	<ctl name="SLIM_0_RX SampleRate" value="KHZ_176P4" />
+	<ctl name="SLIM_0_TX Format" value="S96_LE_PACKED" />
+	<ctl name="SLIM_0_RX Format" value="S96_LE_PACKED" />
 	<ctl name="7 Digital Volume Switch" value="ON" />
 	<ctl name="TX7 Digital Volume" value="84" />
 	<ctl name="RX7 Digital Volume" value="84" />
@@ -20274,8 +20254,8 @@
 	<!-- Added -->
 	<path name="vbat_speaker_liquid">
 	<path name="true-native-mode-SPKR-vbat" />
-	<ctl name="SLIM_0_TX Channels" value="Two" />
-	<ctl name="SLIM_0_RX Channels" value="Two" />
+	<ctl name="SLIM_0_TX Channels" value="OneThousandFiveHundredThirtySix" />
+	<ctl name="SLIM_0_RX Channels" value="OneThousandFiveHundredThirtySix" />
 	<ctl name="SLIM_0_TX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_0_RX SampleRate" value="KHZ_44P1" />
 	<ctl name="SLIM_0_TX Format" value="S24_LE_PACKED" />
@@ -20303,12 +20283,12 @@
 
 	<path name="vbat_speaker_16bit">
 	<path name="true-native-mode-SPKR-vbat" />
-	<ctl name="SLIM_0_TX Channels" value="SixThousandOneHundredFortyFour" />
-	<ctl name="SLIM_0_RX Channels" value="SixThousandOneHundredFortyFour" />
-	<ctl name="SLIM_0_TX SampleRate" value="KHZ_705P6" />
-	<ctl name="SLIM_0_RX SampleRate" value="KHZ_705P6" />
-	<ctl name="SLIM_0_TX Format" value="S256_LE" />
-	<ctl name="SLIM_0_RX Format" value="S256_LE" />
+	<ctl name="SLIM_0_TX Channels" value="OneThousandFiveHundredThirtySix" />
+	<ctl name="SLIM_0_RX Channels" value="OneThousandFiveHundredThirtySix" />
+	<ctl name="SLIM_0_TX SampleRate" value="KHZ_176P4" />
+	<ctl name="SLIM_0_RX SampleRate" value="KHZ_176P4" />
+	<ctl name="SLIM_0_TX Format" value="S64_LE" />
+	<ctl name="SLIM_0_RX Format" value="S64_LE" />
 	<ctl name="7 Digital Volume Switch" value="ON" />
 	<ctl name="TX7 Digital Volume" value="84" />
 	<ctl name="RX7 Digital Volume" value="84" />
@@ -20333,12 +20313,12 @@
 	<!-- Added -->
 	<path name="vbat_speaker_24bit">
 	<path name="true-native-mode-SPKR-vbat" />
-	<ctl name="SLIM_0_TX Channels" value="SixThousandOneHundredFortyFour" />
-	<ctl name="SLIM_0_RX Channels" value="SixThousandOneHundredFortyFour" />
-	<ctl name="SLIM_0_TX SampleRate" value="KHZ_705P6" />
-	<ctl name="SLIM_0_RX SampleRate" value="KHZ_705P6" />
-	<ctl name="SLIM_0_TX Format" value="S384_LE_PACKED" />
-	<ctl name="SLIM_0_RX Format" value="S384_LE_PACKED" />
+	<ctl name="SLIM_0_TX Channels" value="OneThousandFiveHundredThirtySix" />
+	<ctl name="SLIM_0_RX Channels" value="OneThousandFiveHundredThirtySix" />
+	<ctl name="SLIM_0_TX SampleRate" value="KHZ_176P4" />
+	<ctl name="SLIM_0_RX SampleRate" value="KHZ_176P4" />
+	<ctl name="SLIM_0_TX Format" value="S96_LE_PACKED" />
+	<ctl name="SLIM_0_RX Format" value="S96_LE_PACKED" />
 	<ctl name="7 Digital Volume Switch" value="ON" />
 	<ctl name="TX7 Digital Volume" value="84" />
 	<ctl name="RX7 Digital Volume" value="84" />
@@ -21616,46 +21596,46 @@
 	
 	<!-- You must divide everything by 4 from speaker_16bit -->
 	
-	<!-- speaker_16bit is set to channels: 6144 -->
-	<!-- 6144 divided by 4 = 1536 -->
+	<!-- speaker_16bit is set to channels: 1536 -->
+	<!-- 1536 divided by 4 = 384 -->
 	
-	<!-- speaker_16bit is set to kilohertz: 705.6 -->
-	<!-- 705.6 divided by 4 = 176.4 -->
+	<!-- speaker_16bit is set to kilohertz: 175.4 -->
+	<!-- 176.4 divided by 4 = 44.1 -->
 	
-	<!-- speaker_16bit is set to bit rate: 256 -->
-	<!-- 256 divided by 4 = 64 -->
+	<!-- speaker_16bit is set to bit rate: 64 -->
+	<!-- 64 divided by 4 = 16 -->
 	
 	<path name="dop-playback_speaker_16bit tert-mi2s-headphones">
-	<ctl name="SEC_TDM_TX_0 Channels" value="OneThousandFiveHundredThirtySix" />
-	<ctl name="SEC_TDM_RX_0 Channels" value="OneThousandFiveHundredThirtySix" />
-	<ctl name="SEC_TDM_TX_0 SampleRate" value="KHZ_176P4" />
-	<ctl name="SEC_TDM_RX_0 SampleRate" value="KHZ_176P4" />
-	<ctl name="SEC_TDM_TX_0 Format" value="S64_LE" />
-	<ctl name="SEC_TDM_RX_0 Format" value="S64_LE" />
+	<ctl name="SEC_TDM_TX_0 Channels" value="ThreeHundredEightyFour" />
+	<ctl name="SEC_TDM_RX_0 Channels" value="ThreeHundredEightyFour" />
+	<ctl name="SEC_TDM_TX_0 SampleRate" value="KHZ_44P1" />
+	<ctl name="SEC_TDM_RX_0 SampleRate" value="KHZ_44P1" />
+	<ctl name="SEC_TDM_TX_0 Format" value="S16_LE" />
+	<ctl name="SEC_TDM_RX_0 Format" value="S16_LE" />
 	<ctl name="SEC_TDM_TX_0 Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SEC_TDM_RX_0 Audio Mixer MultiMedia1" value="2" />
-	<ctl name="SEC_TDM_TX_1 Channels" value="OneThousandFiveHundredThirtySix" />
-	<ctl name="SEC_TDM_RX_1 Channels" value="OneThousandFiveHundredThirtySix" />
-	<ctl name="SEC_TDM_TX_1 SampleRate" value="KHZ_176P4" />
-	<ctl name="SEC_TDM_RX_1 SampleRate" value="KHZ_176P4" />
-	<ctl name="SEC_TDM_TX_1 Format" value="S64_LE" />
-	<ctl name="SEC_TDM_RX_1 Format" value="S64_LE" />
+	<ctl name="SEC_TDM_TX_1 Channels" value="ThreeHundredEightyFour" />
+	<ctl name="SEC_TDM_RX_1 Channels" value="ThreeHundredEightyFour" />
+	<ctl name="SEC_TDM_TX_1 SampleRate" value="KHZ_44P1" />
+	<ctl name="SEC_TDM_RX_1 SampleRate" value="KHZ_44P1" />
+	<ctl name="SEC_TDM_TX_1 Format" value="S16_LE" />
+	<ctl name="SEC_TDM_RX_1 Format" value="S16_LE" />
 	<ctl name="SEC_TDM_TX_1 Audio Mixer MultiMedia3" value="2" />
 	<ctl name="SEC_TDM_RX_1 Audio Mixer MultiMedia3" value="2" />
-	<ctl name="SEC_TDM_TX_2 Channels" value="OneThousandFiveHundredThirtySix" />
-	<ctl name="SEC_TDM_RX_2 Channels" value="OneThousandFiveHundredThirtySix" />
-	<ctl name="SEC_TDM_TX_2 SampleRate" value="KHZ_176P4" />
-	<ctl name="SEC_TDM_RX_2 SampleRate" value="KHZ_176P4" />
-	<ctl name="SEC_TDM_TX_2 Format" value="S64_LE" />
-	<ctl name="SEC_TDM_RX_2 Format" value="S64_LE" />
+	<ctl name="SEC_TDM_TX_2 Channels" value="ThreeHundredEightyFour" />
+	<ctl name="SEC_TDM_RX_2 Channels" value="ThreeHundredEightyFour" />
+	<ctl name="SEC_TDM_TX_2 SampleRate" value="KHZ_44P1" />
+	<ctl name="SEC_TDM_RX_2 SampleRate" value="KHZ_44P1" />
+	<ctl name="SEC_TDM_TX_2 Format" value="S16_LE" />
+	<ctl name="SEC_TDM_RX_2 Format" value="S16_LE" />
 	<ctl name="SEC_TDM_TX_2 Audio Mixer MultiMedia5" value="2" />
 	<ctl name="SEC_TDM_RX_2 Audio Mixer MultiMedia5" value="2" />
-	<ctl name="SEC_TDM_TX_3 Channels" value="OneThousandFiveHundredThirtySix" />
-	<ctl name="SEC_TDM_RX_3 Channels" value="OneThousandFiveHundredThirtySix" />
-	<ctl name="SEC_TDM_TX_3 SampleRate" value="KHZ_176P4" />
-	<ctl name="SEC_TDM_RX_3 SampleRate" value="KHZ_176P4" />
-	<ctl name="SEC_TDM_TX_3 Format" value="S64_LE" />
-	<ctl name="SEC_TDM_RX_3 Format" value="S64_LE" />
+	<ctl name="SEC_TDM_TX_3 Channels" value="ThreeHundredEightyFour" />
+	<ctl name="SEC_TDM_RX_3 Channels" value="ThreeHundredEightyFour" />
+	<ctl name="SEC_TDM_TX_3 SampleRate" value="KHZ_44P1" />
+	<ctl name="SEC_TDM_RX_3 SampleRate" value="KHZ_44P1" />
+	<ctl name="SEC_TDM_TX_3 Format" value="S16_LE" />
+	<ctl name="SEC_TDM_RX_3 Format" value="S16_LE" />
 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia6" value="2" />
@@ -21687,46 +21667,46 @@
 	
 	<!-- You must divide everything by 4 from speaker_24bit -->
 	
-	<!-- speaker_24bit is set to channels: 6144 -->
-	<!-- 6144 divided by 4 = 1536 -->
+	<!-- speaker_24bit is set to channels: 1536 -->
+	<!-- 1536 divided by 4 = 384 -->
 	
-	<!-- speaker_24bit is set to kilohertz: 705.6 -->
-	<!-- 705.6 divided by 4 = 176.4 -->
+	<!-- speaker_24bit is set to kilohertz: 175.4 -->
+	<!-- 176.4 divided by 4 = 44.1 -->
 	
-	<!-- speaker_24bit is set to bit rate: 384 -->
-	<!-- 384 divided by 4 = 96 -->
+	<!-- speaker_24bit is set to bit rate: 96 -->
+	<!-- 96 divided by 4 = 24 -->
 	
 	<path name="dop-playback_speaker_24bit tert-mi2s-headphones">
-	<ctl name="SEC_TDM_TX_0 Channels" value="OneThousandFiveHundredThirtySix" />
-	<ctl name="SEC_TDM_RX_0 Channels" value="OneThousandFiveHundredThirtySix" />
-	<ctl name="SEC_TDM_TX_0 SampleRate" value="KHZ_176P4" />
-	<ctl name="SEC_TDM_RX_0 SampleRate" value="KHZ_176P4" />
-	<ctl name="SEC_TDM_TX_0 Format" value="S96_LE_PACKED" />
-	<ctl name="SEC_TDM_RX_0 Format" value="S96_LE_PACKED" />
+	<ctl name="SEC_TDM_TX_0 Channels" value="ThreeHundredEightyFour" />
+	<ctl name="SEC_TDM_RX_0 Channels" value="ThreeHundredEightyFour" />
+	<ctl name="SEC_TDM_TX_0 SampleRate" value="KHZ_44P1" />
+	<ctl name="SEC_TDM_RX_0 SampleRate" value="KHZ_44P1" />
+	<ctl name="SEC_TDM_TX_0 Format" value="S24_LE_PACKED" />
+	<ctl name="SEC_TDM_RX_0 Format" value="S24_LE_PACKED" />
 	<ctl name="SEC_TDM_TX_0 Audio Mixer MultiMedia1" value="2" />
 	<ctl name="SEC_TDM_RX_0 Audio Mixer MultiMedia1" value="2" />
-	<ctl name="SEC_TDM_TX_1 Channels" value="OneThousandFiveHundredThirtySix" />
-	<ctl name="SEC_TDM_RX_1 Channels" value="OneThousandFiveHundredThirtySix" />
-	<ctl name="SEC_TDM_TX_1 SampleRate" value="KHZ_176P4" />
-	<ctl name="SEC_TDM_RX_1 SampleRate" value="KHZ_176P4" />
-	<ctl name="SEC_TDM_TX_1 Format" value="S96_LE_PACKED" />
-	<ctl name="SEC_TDM_RX_1 Format" value="S96_LE_PACKED" />
+	<ctl name="SEC_TDM_TX_1 Channels" value="ThreeHundredEightyFour" />
+	<ctl name="SEC_TDM_RX_1 Channels" value="ThreeHundredEightyFour" />
+	<ctl name="SEC_TDM_TX_1 SampleRate" value="KHZ_44P1" />
+	<ctl name="SEC_TDM_RX_1 SampleRate" value="KHZ_44P1" />
+	<ctl name="SEC_TDM_TX_1 Format" value="S24_LE_PACKED" />
+	<ctl name="SEC_TDM_RX_1 Format" value="S24_LE_PACKED" />
 	<ctl name="SEC_TDM_TX_1 Audio Mixer MultiMedia3" value="2" />
 	<ctl name="SEC_TDM_RX_1 Audio Mixer MultiMedia3" value="2" />
-	<ctl name="SEC_TDM_TX_2 Channels" value="OneThousandFiveHundredThirtySix" />
-	<ctl name="SEC_TDM_RX_2 Channels" value="OneThousandFiveHundredThirtySix" />
-	<ctl name="SEC_TDM_TX_2 SampleRate" value="KHZ_176P4" />
-	<ctl name="SEC_TDM_RX_2 SampleRate" value="KHZ_176P4" />
-	<ctl name="SEC_TDM_TX_2 Format" value="S96_LE_PACKED" />
-	<ctl name="SEC_TDM_RX_2 Format" value="S96_LE_PACKED" />
+	<ctl name="SEC_TDM_TX_2 Channels" value="ThreeHundredEightyFour" />
+	<ctl name="SEC_TDM_RX_2 Channels" value="ThreeHundredEightyFour" />
+	<ctl name="SEC_TDM_TX_2 SampleRate" value="KHZ_44P1" />
+	<ctl name="SEC_TDM_RX_2 SampleRate" value="KHZ_44P1" />
+	<ctl name="SEC_TDM_TX_2 Format" value="S24_LE_PACKED" />
+	<ctl name="SEC_TDM_RX_2 Format" value="S24_LE_PACKED" />
 	<ctl name="SEC_TDM_TX_2 Audio Mixer MultiMedia5" value="2" />
 	<ctl name="SEC_TDM_RX_2 Audio Mixer MultiMedia5" value="2" />
-	<ctl name="SEC_TDM_TX_3 Channels" value="OneThousandFiveHundredThirtySix" />
-	<ctl name="SEC_TDM_RX_3 Channels" value="OneThousandFiveHundredThirtySix" />
-	<ctl name="SEC_TDM_TX_3 SampleRate" value="KHZ_176P4" />
-	<ctl name="SEC_TDM_RX_3 SampleRate" value="KHZ_176P4" />
-	<ctl name="SEC_TDM_TX_3 Format" value="S96_LE_PACKED" />
-	<ctl name="SEC_TDM_RX_3 Format" value="S96_LE_PACKED" />
+	<ctl name="SEC_TDM_TX_3 Channels" value="ThreeHundredEightyFour" />
+	<ctl name="SEC_TDM_RX_3 Channels" value="ThreeHundredEightyFour" />
+	<ctl name="SEC_TDM_TX_3 SampleRate" value="KHZ_44P1" />
+	<ctl name="SEC_TDM_RX_3 SampleRate" value="KHZ_44P1" />
+	<ctl name="SEC_TDM_TX_3 Format" value="S24_LE_PACKED" />
+	<ctl name="SEC_TDM_RX_3 Format" value="S24_LE_PACKED" />
 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SEC_TDM_RX_3 Audio Mixer MultiMedia4" value="2" />
 	<ctl name="SEC_TDM_TX_3 Audio Mixer MultiMedia6" value="2" />
