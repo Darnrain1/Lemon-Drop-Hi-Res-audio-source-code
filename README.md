@@ -1,4 +1,5 @@
-![Untitled](https://github.com/Darnrain1/Lemon-Drop-Hi-Res-audio-source-code/assets/170971862/270e5b01-fdbb-455f-84a4-b0ff12d4be0d)
+<img width="900" height="300" alt="335902740-11de88ef-8b6f-4e7a-9f73-8042b20b4f7c" src="https://github.com/user-attachments/assets/71b2e036-ec42-4383-a893-cd8995d4694a" />
+
 ## Lemon Drop Hi-Res audio source code
 
 ## Welcome to the future of music...<br>
