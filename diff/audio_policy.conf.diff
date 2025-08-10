@@ -1,0 +1,20 @@
+26c26
+<         sampling_rates 44100|48000
+---
+>         sampling_rates 44100
+33c33
+<         sampling_rates 48000
+---
+>         sampling_rates 44100
+40c40
+<          sampling_rates 44100|48000
+---
+>          sampling_rates 44100
+160c160
+<         sampling_rates 48000
+---
+>         sampling_rates 44100
+168c168
+<         sampling_rates 48000
+---
+>         sampling_rates 44100

@@ -1,0 +1,8 @@
+8c8
+<                      samplingRates="44100,48000"
+---
+>                      samplingRates="44100"
+30c30
+<                      samplingRates="44100,48000"
+---
+>                      samplingRates="44100"

@@ -1,28 +1,28 @@
-64c64
+61c61
 <                              samplingRates="48000" channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
 ---
 >                              samplingRates="44100" channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
-70c70
+66c66
 <                              samplingRates="48000" channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
 ---
 >                              samplingRates="44100" channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
-199c199
-<                             samplingRates="48000" channelMasks="AUDIO_CHANNEL_OUT_MONO"/>
+110c110
+<                             samplingRates="48000" channelMasks="AUDIO_CHANNEL_IN_MONO"/>
 ---
->                             samplingRates="44100" channelMasks="AUDIO_CHANNEL_OUT_MONO"/>
-203c203
+>                             samplingRates="44100" channelMasks="AUDIO_CHANNEL_IN_MONO"/>
+114c114
 <                              samplingRates="48000" channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
 ---
 >                              samplingRates="44100" channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
-207c207
+118c118
 <                              samplingRates="48000" channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
 ---
 >                              samplingRates="44100" channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
-211c211
+122c122,126
 <                              samplingRates="48000" channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
 ---
 >                              samplingRates="44100" channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
-215c215
-<                              samplingRates="48000" channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
----
+>                 </devicePort>
+>                 <devicePort tagName="Wired Headphone" type="AUDIO_DEVICE_OUT_WIRED_HEADPHONE" role="sink">
+>                     <profile name="" format="AUDIO_FORMAT_PCM_16_BIT"
 >                              samplingRates="44100" channelMasks="AUDIO_CHANNEL_OUT_STEREO"/>
