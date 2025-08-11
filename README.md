@@ -16,10 +16,10 @@ Lemon Drop Hi-Res Addons<br>
 https://mega.nz/folder/Ru9UlbJS#4DuzyC38K3cN9OpjJL2x7Q<br>
 
 ### How did you find this True Native Mode code?
-If your curious on how I found the True Native Mode code, I will show you. Someone left about 0.5% of the code in the original mixer_paths_tasha.xml file for the Lgv20. Go to line number 278 through 287 you will see the 0.5% of the True Native Mode code that I found. As you can see, INI1 HPHL, INI2 HPHR, INI7 SPKRL, INI8 SPKRR, INI3 LO1, INI4 LO2, INI5 LO3, INI6 LO4, lines of code are partially there, the absolute perfect base starting point for me, to create the True Native Mode code. LO1 even started with INI3 that gave me a clue. The other 99.5% I made with my own hands, all by myself. With trial and error and logic and my advanced Linux computer skills, if the code does not exist, make it yourself. No external resource was utilized, to my knowledge there is no  external resource of this nature. If you want to confirm that this original mixer_paths_tasha.xml is authentic, I will give you the link to the Lgv20 rom that has this 0.5% True Native Mode code.<br> https://androidfilehost.com/?fid=1322778262904012823
+* **If your curious on how I found the True Native Mode code**, I will show you. Someone left about 0.5% of the code in the original mixer_paths_tasha.xml file for the Lgv20. Go to line number 278 through 287 you will see the 0.5% of the True Native Mode code that I found. As you can see, INI1 HPHL, INI2 HPHR, INI7 SPKRL, INI8 SPKRR, INI3 LO1, INI4 LO2, INI5 LO3, INI6 LO4, lines of code are partially there, the absolute perfect base starting point for me, to create the True Native Mode code. LO1 even started with INI3 that gave me a clue. The other 99.5% I made with my own hands, all by myself. With trial and error and logic and my advanced Linux computer skills, if the code does not exist, make it yourself. No external resource was utilized, to my knowledge there is no  external resource of this nature. If you want to confirm that this original mixer_paths_tasha.xml is authentic, I will give you the link to the Lgv20 rom that has this 0.5% True Native Mode code.<br> https://androidfilehost.com/?fid=1322778262904012823
 
 ### What is True Native Mode on a computer?
-"(1) The normal running mode of a computer, executing programs from its built-in instruction set. Contrast with emulation mode. See native language. (2) The highest performance state of a computer."<br>
+* **"(1) The normal running mode of a computer**, executing programs from its built-in instruction set. Contrast with emulation mode. See native language. (2) The highest performance state of a computer."<br>
 
 ### What is True Native Mode on a QuadDAC?<br>
 * **True Stereo Processing:** It corrects a fundamental flaw in how most smartphones handle audio. Instead of a "mono-stereo" mode that splits a single data stream into two channels, the mod sets a specific control to value="2". This forces the audio DSP to handle the left and right channels as two completely separate and independent data streams from start to finish, restoring a wide and accurate soundstage.<br>
@@ -38,26 +38,7 @@ If your curious on how I found the True Native Mode code, I will show you. Someo
 * The effect is conditional: The layering only happens "sometimes" during playback. It's only designed to apply this unique phase layering only when specific conditions are met in the source audio. It's not a constant filter; it's a dynamic effect. For example, the layering might activate only during certain frequencies, specific types of sounds (like vocals), or when the audio signal has a particular amplitude. This is what gives "Sonic Prism Audio" its sonic signature.<br>
 
 ### What do I need to set my 24bit Hi-Res music player at?
-You need to choose 24bit Hi-Res at 44.1kHz as the source, that's how I programed the DAC, it takes a 44.1kHz audio and up-samplese the audio.<br>
-
-### What files were modded?
-The 24bit mod. The files I changed are under.<br>
-You will need to look at the diff files to see what I changed in the files. No notes were left as there can no be no spaces.<br>
-Files modded:<br>
-/system/vendor/audio/audio_policy_configuration.xml<br>
-/system/vendor/audio_policy.conf<br>
-
-Programing the QuadDAC.<br>
-Files modded:<br>
-I left notes in both files.<br>
-/system/vendor/mixer_paths_tasha.xml<br>
-/system/vendor/audio_platform_info.xml<br>
-
-### How can I add this True Native Mode Code to my phone?
-You need to have a ESS QuadDAC installed in your phone. So like the lg v series. But this mod was custom made for the Lgv20. However the Enable System Wide QuadDAC Support build.prop tweaks should work on any phone with a DAC. It will enable Hardware-Offloaded Audio Processing. In other words all the audio will be directed to the DAC.<br>
-
-### How long did it take you to program the QuadDAC?
-About two years, it was a very large project. The mixer_paths_tasha.xml file is over 30,000 lines.<br>
+* **You need to choose** 16bit or 24bit at 44.1kHz as the source, that's how I programed the DAC.<br>
 
 MIT License<br>
 
